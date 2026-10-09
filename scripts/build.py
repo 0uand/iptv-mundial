@@ -6,7 +6,7 @@ import re, os, csv, glob, io, urllib.request, zipfile, tempfile, sys, datetime
 from collections import defaultdict, Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OWNER_REPO = os.environ.get("GITHUB_REPOSITORY", "apenaskalil/iptv-mundial")
+OWNER_REPO = os.environ.get("GITHUB_REPOSITORY", "0uand/iptv-mundial")
 RAW = f"https://raw.githubusercontent.com/{OWNER_REPO}/main"
 
 def fetch(url):

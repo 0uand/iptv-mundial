@@ -1,6 +1,6 @@
 # 📺 IPTV Mundial
 
-**16.052 canais de TV** de **176 países** + **13 lives do YouTube** + **3.099 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
+**16.052 canais de TV** de **176 países** + **19 lives do YouTube** + **3.099 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
 
 _Última atualização: 09/10/2026_
 
@@ -36,7 +36,7 @@ Canais que transmitem ao vivo no YouTube (Dia TV, CazéTV, GE TV, CNN Brasil, Jo
 https://raw.githubusercontent.com/0uand/iptv-mundial/main/youtube.m3u
 ```
 
-No ar na última verificação (2026-10-09 19:09 UTC): **13** de 46 canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.
+No ar na última verificação (2026-10-09 19:42 UTC): **19** de 46 canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.
 
 ## 🎬 Filmes, séries e desenhos (VOD)
 
@@ -56,7 +56,7 @@ Guia gerado diariamente neste repositório com o [iptv-org/epg](https://github.c
 https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz
 ```
 
-Última geração: — — 0 canais com programação, 0 programas.
+Última geração: 2026-10-09 19:39 UTC — 259 canais com programação, 19.806 programas.
 
 ## ⏪ Replay (catchup)
 

@@ -9,21 +9,28 @@ CHUNK="${EPG_CHUNK:-500}"
 DAYS="${EPG_DAYS:-3}"
 WORK="$EPG_DIR/chunks"; rm -rf "$WORK"; mkdir -p "$WORK"
 
-python3 - "$ROOT/epg/channels.xml" "$WORK" "$CHUNK" <<'EOF'
+python3 - "$ROOT/epg/channels.xml" "$WORK" "$CHUNK" <<'EOF2'
 import sys, re
+from collections import defaultdict
 src, work, chunk = sys.argv[1], sys.argv[2], int(sys.argv[3])
-lines = [l for l in open(src, encoding="utf-8").read().splitlines() if l.strip().startswith("<channel ")]
-for i in range(0, len(lines), chunk):
-    with open(f"{work}/c{i//chunk:03d}.channels.xml", "w", encoding="utf-8") as f:
-        f.write('<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n' + "\n".join(lines[i:i+chunk]) + "\n</channels>\n")
-print(f"{(len(lines)+chunk-1)//chunk} blocos de até {chunk} canais")
-EOF
+by_site = defaultdict(list)
+for l in open(src, encoding="utf-8").read().splitlines():
+    m = re.search(r'site="([^"]+)"', l)
+    if l.strip().startswith("<channel ") and m: by_site[m.group(1)].append(l)
+n = 0
+for site, lines in sorted(by_site.items(), key=lambda kv: -len(kv[1])):
+    for i in range(0, len(lines), chunk):
+        with open(f"{work}/{site}_{i//chunk:02d}.channels.xml", "w", encoding="utf-8") as f:
+            f.write('<?xml version="1.0" encoding="UTF-8"?>\n<channels>\n' + "\n".join(lines[i:i+chunk]) + "\n</channels>\n")
+        n += 1
+print(f"{n} blocos (um por site, até {chunk} canais cada)")
+EOF2
 
 cd "$EPG_DIR"
-for f in "$WORK"/c*.channels.xml; do
+for f in "$WORK"/*.channels.xml; do
   n=$(basename "$f" .channels.xml)
   echo "== bloco $n"
-  timeout 40m npm run grab --- --channels="$f" --days="$DAYS" --maxConnections=40 --timeout=15000 --output="$WORK/$n.xml" >"$WORK/$n.log" 2>&1 || echo "   (bloco $n incompleto)"
+  timeout 25m npm run grab --- --channels="$f" --days="$DAYS" --maxConnections="${EPG_CONN:-10}" --timeout=15000 --output="$WORK/$n.xml" >"$WORK/$n.log" 2>&1 || echo "   (bloco $n incompleto)"
   tail -1 "$WORK/$n.log"
 done
 
@@ -31,7 +38,8 @@ python3 - "$WORK" "$ROOT/epg" <<'EOF'
 import sys, glob, re, gzip, json, datetime
 work, out = sys.argv[1], sys.argv[2]
 chans, progs, seen = [], [], set()
-for f in sorted(glob.glob(f"{work}/c*.xml")):
+for f in sorted(glob.glob(f"{work}/*.xml")):
+    if f.endswith(".channels.xml"): continue
     x = open(f, encoding="utf-8").read()
     for m in re.finditer(r"<channel id=\"([^\"]+)\">.*?</channel>", x, re.S):
         if m.group(1) not in seen:

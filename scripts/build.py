@@ -81,6 +81,10 @@ for p in sorted(glob.glob(f"{streams_dir}/*.m3u")):
 PRI = {"br":0,"pt":1,"us":2,"uk":3,"es":4,"ar":5,"int":6}
 def ckey(code): return (PRI.get(code, 10), countries.get(code, (code.upper(),))[0])
 CAT_PRI = {"music": 0, "entertainment": 1}
+PINNED = [  # (grupo, regex de nome, países permitidos)
+    ("⭐ TV Aberta Brasil", r"^(Rede Globo|TV Globo Sao Paulo|GloboNews|SBT Nacional|SBT News|Record|RecordTV|Record News|Band|BandNews|Band Sports|Rede TV!|Rede TV! SP|TV Cultura|TV Brasil|TV Gazeta|Arte 1|Canal Rural|Jovem Pan News|CNN Brasil|TVE RS|Cultura Fast)$", {"br"}),
+    ("🏄 Surf & Ação", r"^(Surf Cinema|SURFER TV|Fuel TV|FUEL TV|Red Bull TV|Red Bull TV BR|Inside Outside|Extreme Sports Channel|Nautical Channel|Outside TV|Outside TV\+|Waves|Adventure Sports Network)$", None),
+]
 def catkey(cat): return (CAT_PRI.get(cat, 5), CATPT.get(cat, "Geral"))
 rows.sort(key=lambda r: (ckey(r["code"]), catkey(r["cat"]), r["name"].lower()))
 
@@ -89,32 +93,52 @@ _cp = f"{ROOT}/data/catchup.json"
 if os.path.exists(_cp):
     CATCHUP = json.load(open(_cp, encoding="utf-8"))
 
-def write(path, items):
+def write(path, items, group=None, mode="w"):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(f'#EXTM3U x-tvg-url="{RAW}/epg/guide.xml.gz"\n')
+    with open(path, mode, encoding="utf-8") as f:
+        if mode == "w": f.write(f'#EXTM3U x-tvg-url="{RAW}/epg/guide.xml.gz"\n')
         for r in items:
             cn, fl = countries.get(r["code"], (r["code"].upper(), ""))
-            grp = f'{fl} {cn} | {CATPT.get(r["cat"], "Geral")}'.strip()
+            grp = group or f'{fl} {cn} | {CATPT.get(r["cat"], "Geral")}'.strip()
             cu = CATCHUP.get(r["url"])
             extra = ""
             if cu and cu.get("type") == "flussonic":
                 extra = f' catchup="flussonic" catchup-days="{cu["days"]}"'
             elif cu:
                 extra = f' catchup="default" catchup-source="{cu["source"]}" catchup-days="{cu["days"]}"'
-            f.write(f'#EXTINF:-1 tvg-id="{r["tid"]}" tvg-logo="{r["logo"]}" group-title="{grp}"{extra},{r["name"]}\n')
+            f.write(f'#EXTINF:-1 tvg-id="{r["tid"]}" tvg-logo="{r["logo"]}" tvg-type="live" group-title="{grp}"{extra},{r["name"]}\n')
             for h in r["hdrs"]: f.write(h + "\n")
             f.write(r["url"] + "\n")
 
 def tail_of(path):
-    """linhas de outra playlist (sem o cabeçalho), para anexar ao index"""
+    """linhas de outra playlist (sem o cabeçalho), para anexar"""
     if not os.path.exists(path): return []
     return [ln for ln in open(path, encoding="utf-8").read().splitlines()[1:] if ln and not ln.startswith("# ")]
+def append_lines(path, lines):
+    with open(path, "a", encoding="utf-8") as f:
+        for ln in lines: f.write(ln + "\n")
 
-write(f"{ROOT}/index.m3u", rows)
-with open(f"{ROOT}/index.m3u", "a", encoding="utf-8") as f:
-    for extra in ("youtube.m3u", "vod/filmes.m3u", "vod/series.m3u", "vod/desenhos.m3u"):
-        for ln in tail_of(f"{ROOT}/{extra}"): f.write(ln + "\n")
+pinned_sets = []
+for grp, rx, codes in PINNED:
+    sel, names = [], set()
+    for r in sorted(rows, key=lambda r: (r["name"].lower(), 0 if r["code"] == "br" else 1)):
+        if re.match(rx, r["name"]) and (codes is None or r["code"] in codes) and r["name"].lower() not in names:
+            sel.append(r); names.add(r["name"].lower())
+    pinned_sets.append((grp, sel))
+
+# 📡 TV (ao vivo): grupos fixos + YouTube TV + todos os países
+write(f"{ROOT}/tv.m3u", [])
+for grp, sel in pinned_sets: write(f"{ROOT}/tv.m3u", sel, group=grp, mode="a")
+append_lines(f"{ROOT}/tv.m3u", tail_of(f"{ROOT}/youtube.m3u"))
+write(f"{ROOT}/tv.m3u", rows, mode="a")
+# 🎬 Filmes e 📺 Séries (VOD)
+write(f"{ROOT}/filmes.m3u", []); append_lines(f"{ROOT}/filmes.m3u", tail_of(f"{ROOT}/vod/filmes.m3u") + tail_of(f"{ROOT}/vod/shows.m3u"))
+write(f"{ROOT}/series.m3u", []); append_lines(f"{ROOT}/series.m3u", tail_of(f"{ROOT}/vod/series.m3u") + tail_of(f"{ROOT}/vod/desenhos.m3u"))
+# index = tudo
+write(f"{ROOT}/index.m3u", []); append_lines(f"{ROOT}/index.m3u", tail_of(f"{ROOT}/tv.m3u") + tail_of(f"{ROOT}/filmes.m3u") + tail_of(f"{ROOT}/series.m3u"))
+for grp, sel in pinned_sets:
+    slug = {"⭐ TV Aberta Brasil": "tv-aberta-brasil", "🏄 Surf & Ação": "surf"}[grp]
+    write(f"{ROOT}/hubs/{slug}.m3u", sel, group=grp)
 # hubs mundiais de Música e Entretenimento (todos os países)
 write(f"{ROOT}/hubs/musica-mundial.m3u", [r for r in rows if r["cat"] == "music"])
 write(f"{ROOT}/hubs/entretenimento-mundial.m3u", [r for r in rows if r["cat"] == "entertainment"])
@@ -140,10 +164,17 @@ md = [f"# 📺 IPTV Mundial\n",
       f"_Última atualização: {today}_\n",
       "> ### ✅ Isto não é pirataria",
       "> Todos os canais desta lista são **transmissões públicas e gratuitas disponibilizadas pelas próprias emissoras** na internet (sinal aberto, canais FAST como Pluto TV / Samsung TV Plus / Roku, lives oficiais no YouTube e acervos de domínio público do Internet Archive). Nenhum stream é hospedado ou retransmitido aqui: o repositório apenas organiza links que já são de acesso público, a partir da base aberta do projeto [iptv-org](https://github.com/iptv-org/iptv). Não há canais pagos, nem conteúdo de assinatura (Netflix, Globoplay, HBO etc.). Se você é titular de um canal e quer removê-lo, abra uma *issue*.\n",
-      "## 🚀 Como usar\n",
-      "Cole a URL abaixo no seu app de IPTV (IPTV Smarters, TiviMate, GSE Smart IPTV, iPlayTV, Flex IPTV, VLC, Kodi…). O EPG já vem configurado dentro da lista.\n",
-      f"```\n{RAW}/index.m3u\n```\n",
-      "A lista completa é grande (~15 MB). Em Apple TV ou apps mais lentos, prefira uma das listas menores abaixo.\n",
+      "## 🚀 Como usar — 3 listas\n",
+      "Adicione as três como playlists separadas no seu app (IPTV Smarters, TiviMate, GSE, iPlayTV, Flex IPTV, VLC, Kodi…) — assim TV, Filmes e Séries ficam em abas separadas. O EPG já vem configurado dentro das listas.\n",
+      "| Divisão | Conteúdo | URL |", "|---|---|---|",
+      f"| 📡 **TV ao vivo** | {n(cnt(f'{ROOT}/tv.m3u'))} canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `{RAW}/tv.m3u` |",
+      f"| 🎬 **Filmes** | {n(cnt(f'{ROOT}/filmes.m3u'))} títulos — clássicos em domínio público + shows e festivais | `{RAW}/filmes.m3u` |",
+      f"| 📺 **Séries** | {n(cnt(f'{ROOT}/series.m3u'))} episódios — séries de TV clássicas e desenhos | `{RAW}/series.m3u` |",
+      f"\nOu tudo numa lista só (grande, ~15 MB): `{RAW}/index.m3u`\n",
+      "## ⭐ TV Aberta Brasil e 🏄 Surf\n", "| Lista | Canais | Playlist |", "|---|---:|---|",
+      f"| ⭐ TV Aberta Brasil (Globo, SBT, Record, Band, RedeTV!, Cultura, TV Brasil, Gazeta, GloboNews, BandNews, Record News, SBT News, CNN Brasil, Jovem Pan…) | {cnt(f'{ROOT}/hubs/tv-aberta-brasil.m3u')} | `{RAW}/hubs/tv-aberta-brasil.m3u` |",
+      f"| 🏄 Surf & Ação (Surf Cinema, SURFER TV, Fuel TV, Red Bull TV, Inside Outside, Outside TV, Nautical Channel, Extreme Sports) | {cnt(f'{ROOT}/hubs/surf.m3u')} | `{RAW}/hubs/surf.m3u` |",
+      "\nNo YouTube TV também entram World Surf League e Red Bull quando estão ao vivo; em Filmes há a seção 🏄 Surf com replays e highlights da WSL e do Red Bull Surf.\n",
       "## 🎵 Música e Entretenimento (destaque)\n", "| Lista | Canais | Playlist |", "|---|---:|---|",
       f"| 🎵 Música — todos os países | {n_music} | `{RAW}/hubs/musica-mundial.m3u` |",
       f"| 🎭 Entretenimento — todos os países | {n_ent} | `{RAW}/hubs/entretenimento-mundial.m3u` |",
@@ -154,12 +185,15 @@ md = [f"# 📺 IPTV Mundial\n",
       f"Canais que transmitem ao vivo no YouTube (Dia TV, CazéTV, GE TV, CNN Brasil, Jovem Pan News, Lofi Girl, NASA, Sky News…). As URLs do YouTube expiram em ~6 h, por isso esta lista é **renovada automaticamente a cada 4 horas**; só entram canais que estejam ao vivo naquele momento (CazéTV e GE TV, por exemplo, só ficam ao vivo em jogos e eventos).\n",
       f"```\n{RAW}/youtube.m3u\n```\n",
       f"No ar na última verificação ({yt_state.get('updated', '—')}): **{n_yt}** de {len(yt_state.get('live', [])) + len(yt_state.get('offline', []))} canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.\n",
-      "## 🎬 Filmes, séries e desenhos (VOD)\n",
-      "Acervo de **domínio público** do [Internet Archive](https://archive.org): clássicos do cinema, ficção/terror, cinema mudo, séries de TV clássicas e animações antigas. Os arquivos ficam hospedados no próprio Archive.\n",
+      "## 🎬 Filmes, séries, desenhos, shows e festivais (VOD)\n",
+      "Filmes e séries: acervo de **domínio público** do [Internet Archive](https://archive.org) (títulos até 1963 ou com licença livre declarada): clássicos do cinema, ficção/terror, cinema mudo, séries de TV clássicas e animações antigas. Os arquivos ficam hospedados no próprio Archive.\n",
+      "Shows e festivais: vídeos **públicos dos canais oficiais** no YouTube — Coachella, BBC Radio 1 (Live Lounge, Big Weekend), BBC Music (Glastonbury, Proms), Capital FM (Summertime Ball, Jingle Bell Ball), Boiler Room, Cercle, Tiny Desk, KEXP — e surf (WSL, Red Bull). Como as URLs do YouTube expiram, esta seção é renovada periodicamente.\n",
       "| Catálogo | Títulos | Playlist |", "|---|---:|---|",
-      f"| 🎬 Filmes | {n(n_f)} | `{RAW}/vod/filmes.m3u` |",
+      f"| 🎬 Filmes clássicos | {n(n_f)} | `{RAW}/vod/filmes.m3u` |",
+      f"| 🎤 Shows, festivais e surf | {n(cnt(f'{ROOT}/vod/shows.m3u'))} | `{RAW}/vod/shows.m3u` |",
       f"| 📺 Séries (episódios) | {n(n_s)} | `{RAW}/vod/series.m3u` |",
-      f"| 🧸 Desenhos | {n(n_d)} | `{RAW}/vod/desenhos.m3u` |",
+      f"| 📺 Desenhos | {n(n_d)} | `{RAW}/vod/desenhos.m3u` |",
+      "\n> **Por que não tem Tela Brasil, +SBT, Globoplay, Band Play, PlayPlus?** Essas plataformas são gratuitas, mas exigem login (gov.br, conta da emissora) e entregam o vídeo com URL assinada por usuário. Não existe link público para colocar numa lista — e incluir seria burlar o acesso delas. Use os apps oficiais; aqui ficam só os sinais abertos e os canais FAST que as próprias emissoras publicam.\n",
       "\n## 📅 EPG (guia de programação)\n",
       f"Guia gerado diariamente neste repositório com o [iptv-org/epg](https://github.com/iptv-org/epg), com 3 dias de programação, sinopses e imagens. Os IDs batem com os `tvg-id` das playlists, então basta usar a lista que o guia carrega sozinho. Se o seu app pedir a URL do EPG separadamente:\n",
       f"```\n{RAW}/epg/guide.xml.gz\n```\n",
@@ -180,7 +214,7 @@ md += ["\n## ⚠️ Avisos\n",
        "## 🔧 Como funciona\n",
        "| Workflow | Frequência | O que faz |", "|---|---|---|",
        "| `update.yml` | semanal (seg) | regenera canais, VOD e sonda replay |",
-       "| `youtube.yml` | a cada 4 h | renova as lives do YouTube |",
+       "| `youtube.yml` | a cada 4 h | renova as lives do YouTube (o YouTube costuma bloquear os IPs do GitHub; quando isso acontece a lista anterior é mantida) |",
        "| `epg.yml` | diário | gera o guia de programação |",
        "\n## 📄 Licença\n", "Dados derivados dos projetos [iptv-org/iptv](https://github.com/iptv-org/iptv) e [iptv-org/epg](https://github.com/iptv-org/epg) (Unlicense). Conteúdo VOD: domínio público via Internet Archive."]
 open(f"{ROOT}/README.md", "w", encoding="utf-8").write("\n".join(md) + "\n")

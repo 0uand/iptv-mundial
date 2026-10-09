@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="NevisTelevision.kn@SD" tvg-logo="https://i.imgur.com/u76GqAi.png" group-title="🇰🇳 Saint Kitts and Nevis | Geral",Nevis Television
+#EXTINF:-1 tvg-id="NevisTelevision.kn@SD" tvg-logo="https://i.imgur.com/u76GqAi.png" tvg-type="live" group-title="🇰🇳 Saint Kitts and Nevis | Geral",Nevis Television
 https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisionCaribbean.kn@SD" tvg-logo="https://i.imgur.com/Ogw0COv.png" group-title="🇰🇳 Saint Kitts and Nevis | Geral",Television Caribbean
+#EXTINF:-1 tvg-id="TelevisionCaribbean.kn@SD" tvg-logo="https://i.imgur.com/Ogw0COv.png" tvg-type="live" group-title="🇰🇳 Saint Kitts and Nevis | Geral",Television Caribbean
 https://live.kingdom-tv.com:3545/stream/play.m3u8
-#EXTINF:-1 tvg-id="ZIZTV.kn@SD" tvg-logo="https://i.imgur.com/fB09i6X.png" group-title="🇰🇳 Saint Kitts and Nevis | Geral",ZIZ TV
+#EXTINF:-1 tvg-id="ZIZTV.kn@SD" tvg-logo="https://i.imgur.com/fB09i6X.png" tvg-type="live" group-title="🇰🇳 Saint Kitts and Nevis | Geral",ZIZ TV
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8

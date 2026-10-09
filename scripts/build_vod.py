@@ -14,11 +14,11 @@ os.makedirs(OUT, exist_ok=True)
 
 # coleção -> (arquivo de saída, grupo, quantidade)
 COLLECTIONS = [
-    ("feature_films",        "filmes",   "🎬 Filmes | Clássicos",          1500),
+    ("feature_films",        "filmes",   "🎬 Filmes | Clássicos",          3000),
     ("SciFi_Horror",         "filmes",   "🎬 Filmes | Ficção e Terror",     400),
     ("silent_films",         "filmes",   "🎬 Filmes | Cinema Mudo",         300),
-    ("classic_tv",           "series",   "📺 Séries | TV Clássica",         800),
-    ("animationandcartoons", "desenhos", "🧸 Desenhos | Animação Clássica", 500),
+    ("classic_tv",           "series",   "📺 Séries | TV Clássica",        1500),
+    ("animationandcartoons", "desenhos", "📺 Séries | Desenhos Clássicos",  500),
 ]
 BLOCK = re.compile(r"\b(xxx|porn|adult|erotic|nudist|nudie|stag film)\b", re.I)
 UA = {"User-Agent": "iptv-mundial/1.0 (+https://github.com/0uand/iptv-mundial)"}
@@ -33,9 +33,10 @@ def get(url, retries=3):
             time.sleep(2 * (i + 1))
 
 def search(collection, rows):
-    q = urllib.parse.quote(f"collection:{collection} AND mediatype:movies")
+    coll = collection if " " not in collection else f"({collection.split(' AND ',1)[0]}) AND {collection.split(' AND ',1)[1]}"
+    q = urllib.parse.quote(f"collection:{coll} AND mediatype:movies")
     url = (f"https://archive.org/advancedsearch.php?q={q}&fl[]=identifier&fl[]=title&fl[]=year"
-           f"&fl[]=description&fl[]=subject&fl[]=language&fl[]=downloads&fl[]=runtime"
+           f"&fl[]=description&fl[]=subject&fl[]=language&fl[]=downloads&fl[]=runtime&fl[]=licenseurl"
            f"&sort[]=downloads+desc&rows={rows}&output=json")
     return get(url)["response"]["docs"]
 
@@ -54,6 +55,11 @@ def best_file(identifier):
     f = max(cands, key=score)
     return f"https://archive.org/download/{identifier}/{urllib.parse.quote(f['name'])}", int(f.get("size", 0) or 0)
 
+def year(d):
+    y = d.get("year") or d.get("date") or ""
+    if isinstance(y, list): y = y[0] if y else ""
+    m = re.search(r"\d{4}", str(y)); return m.group(0) if m else ""
+
 cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
 items = []  # (coleção, saída, grupo, doc)
 seen = set()
@@ -63,6 +69,10 @@ for coll, out, group, rows in COLLECTIONS:
         if ident in seen: continue
         text = " ".join(str(d.get(k, "")) for k in ("title", "description", "subject"))
         if BLOCK.search(text): continue
+        # só domínio público: até 1963 (sem renovação de copyright) ou licença livre declarada
+        y = year(d); lic = str(d.get("licenseurl", "") or "")
+        free_lic = ("creativecommons" in lic) or ("publicdomain" in lic)
+        if not free_lic and (not y or int(y) > 1963): continue
         seen.add(ident)
         items.append((coll, out, group, d))
 
@@ -80,6 +90,8 @@ with ThreadPoolExecutor(max_workers=16) as ex:
         if n % 200 == 0: print(f"  {n}/{len(todo)}", flush=True)
 json.dump(cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 
+def _unused():
+    pass
 def esc(s):
     if isinstance(s, list): s = s[0] if s else ""
     return re.sub(r"[\r\n,]+", " ", str(s)).strip()
@@ -102,7 +114,11 @@ for out, rows in by_out.items():
         for group, d, c in rows:
             ident = d["identifier"]; y = year(d)
             title = esc(d.get("title") or ident) + (f" ({y})" if y else "")
-            f.write(f'#EXTINF:-1 tvg-id="ia.{ident}" tvg-logo="https://archive.org/services/img/{ident}" group-title="{group}",{title}\n')
+            ttype = "series" if out in ("series", "desenhos") else "movie"
+            if ttype == "series":
+                m = re.search(r"\b[Ss](\d{1,2})\s*[Ee](\d{1,3})\b", title) or re.search(r"\b(?:Season|Temporada)\s*(\d+).*?\b(?:Episode|Ep\.?|Epis[oó]dio)\s*(\d+)", title, re.I)
+                if m: title = f"{title} S{int(m.group(1)):02d}E{int(m.group(2)):02d}"
+            f.write(f'#EXTINF:-1 tvg-id="ia.{ident}" tvg-logo="https://archive.org/services/img/{ident}" tvg-type="{ttype}" group-title="{group}",{title}\n')
             f.write(c["url"] + "\n")
     counts[out] = len(rows)
 print("OK:", counts)

@@ -1,163 +1,163 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="🇻🇪 Venezuela | Música",BTA TV
+#EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" tvg-type="live" group-title="🇻🇪 Venezuela | Música",BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="Italianissimo.ve@SD" tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="🇻🇪 Venezuela | Música",Italianissimo
+#EXTINF:-1 tvg-id="Italianissimo.ve@SD" tvg-logo="https://i.imgur.com/JCpbUZB.png" tvg-type="live" group-title="🇻🇪 Venezuela | Música",Italianissimo
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-#EXTINF:-1 tvg-id="KandelaTV.ve@SD" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="🇻🇪 Venezuela | Música",KandelaTV
+#EXTINF:-1 tvg-id="KandelaTV.ve@SD" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Música",KandelaTV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 tvg-id="LaPuraCremaTelevision.ve@SD" tvg-logo="https://i.imgur.com/EJf1eRt.png" group-title="🇻🇪 Venezuela | Música",LaPuraCrema Television
+#EXTINF:-1 tvg-id="LaPuraCremaTelevision.ve@SD" tvg-logo="https://i.imgur.com/EJf1eRt.png" tvg-type="live" group-title="🇻🇪 Venezuela | Música",LaPuraCrema Television
 https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OxigenoTV.ve@SD" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="🇻🇪 Venezuela | Música",Oxigeno TV
+#EXTINF:-1 tvg-id="OxigenoTV.ve@SD" tvg-logo="https://i.imgur.com/n3PweBQ.png" tvg-type="live" group-title="🇻🇪 Venezuela | Música",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 tvg-id="TNORadio.ve@SD" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" group-title="🇻🇪 Venezuela | Música",TNO Radio
+#EXTINF:-1 tvg-id="TNORadio.ve@SD" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" tvg-type="live" group-title="🇻🇪 Venezuela | Música",TNO Radio
 https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
-#EXTINF:-1 tvg-id="AbejalesTV.ve@HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800" group-title="🇻🇪 Venezuela | Entretenimento",AbejalesTV
+#EXTINF:-1 tvg-id="AbejalesTV.ve@HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",AbejalesTV
 https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
-#EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="🇻🇪 Venezuela | Entretenimento",Aguacate TV
+#EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="GuaroTV.ve@SD" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" group-title="🇻🇪 Venezuela | Entretenimento",Guaro TV
+#EXTINF:-1 tvg-id="GuaroTV.ve@SD" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",Guaro TV
 https://stream.guarotv.net:3592/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="InterTV.ve@SD" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" group-title="🇻🇪 Venezuela | Entretenimento",interTV
+#EXTINF:-1 tvg-id="InterTV.ve@SD" tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",interTV
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="LaTeleTuya.ve@SD" tvg-logo="https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png" group-title="🇻🇪 Venezuela | Entretenimento",La Tele Tuya
+#EXTINF:-1 tvg-id="LaTeleTuya.ve@SD" tvg-logo="https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",La Tele Tuya
 http://181.78.8.199:8000/play/a0fs/index.m3u8
-#EXTINF:-1 tvg-id="LaraenRedes.ve@SD" tvg-logo="https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg" group-title="🇻🇪 Venezuela | Entretenimento",Lara en Redes
+#EXTINF:-1 tvg-id="LaraenRedes.ve@SD" tvg-logo="https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",Lara en Redes
 https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="MaximaTV.ve@SD" tvg-logo="https://i.imgur.com/HMZRVL5.jpeg" group-title="🇻🇪 Venezuela | Entretenimento",Maxima TV
+#EXTINF:-1 tvg-id="MaximaTV.ve@SD" tvg-logo="https://i.imgur.com/HMZRVL5.jpeg" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",Maxima TV
 https://maximatv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MasTalk.ve@SD" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="🇻🇪 Venezuela | Entretenimento",Más Talk
+#EXTINF:-1 tvg-id="MasTalk.ve@SD" tvg-logo="https://i.imgur.com/unE2LGz.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",Más Talk
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-#EXTINF:-1 tvg-id="NortenaTv.ve@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" group-title="🇻🇪 Venezuela | Entretenimento",Norteña TV
+#EXTINF:-1 tvg-id="NortenaTv.ve@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",Norteña TV
 https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
-#EXTINF:-1 tvg-id="VePlus.ve@Venezuela" tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="🇻🇪 Venezuela | Entretenimento",Ve Plus
+#EXTINF:-1 tvg-id="VePlus.ve@Venezuela" tvg-logo="https://i.imgur.com/uc3zqcP.png" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",Ve Plus
 http://186.148.196.100:8000/play/a01d
-#EXTINF:-1 tvg-id="VePlus.ve@Panregional" tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="🇻🇪 Venezuela | Entretenimento",Ve Plus Panregional
+#EXTINF:-1 tvg-id="VePlus.ve@Panregional" tvg-logo="https://i.imgur.com/uc3zqcP.png" tvg-type="live" group-title="🇻🇪 Venezuela | Entretenimento",Ve Plus Panregional
 http://190.61.114.186:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="🇻🇪 Venezuela | Animação",eSports Max TV
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-logo="https://i.imgur.com/OprRgQN.png" tvg-type="live" group-title="🇻🇪 Venezuela | Animação",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="🇻🇪 Venezuela | Animação",MAX Anime
+#EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Animação",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EXCTV.ve@SD" tvg-logo="https://i.imgur.com/Znd1Ml9.png" group-title="🇻🇪 Venezuela | Ciência",Explosión Creativa
+#EXTINF:-1 tvg-id="EXCTV.ve@SD" tvg-logo="https://i.imgur.com/Znd1Ml9.png" tvg-type="live" group-title="🇻🇪 Venezuela | Ciência",Explosión Creativa
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalDiplomatico.ve@SD" tvg-logo="https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png" group-title="🇻🇪 Venezuela | Cultura",Canal Diplomatico
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve@SD" tvg-logo="https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png" tvg-type="live" group-title="🇻🇪 Venezuela | Cultura",Canal Diplomatico
 https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
-#EXTINF:-1 tvg-id="ShowVenTV.ve@SD" tvg-logo="https://i.imgur.com/AJIN8Dc.png" group-title="🇻🇪 Venezuela | Cultura",ShowVen TV
+#EXTINF:-1 tvg-id="ShowVenTV.ve@SD" tvg-logo="https://i.imgur.com/AJIN8Dc.png" tvg-type="live" group-title="🇻🇪 Venezuela | Cultura",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
-#EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="🇻🇪 Venezuela | Esportes",AS3 Sport TV
+#EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Esportes",AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="🇻🇪 Venezuela | Esportes",Meridiano TV
+#EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-logo="https://i.imgur.com/I6gsUqD.png" tvg-type="live" group-title="🇻🇪 Venezuela | Esportes",Meridiano TV
 http://181.78.8.199:8000/play/a0fr/index.m3u8
-#EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="🇻🇪 Venezuela | Estilo de vida",Plous TV
+#EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-logo="https://i.imgur.com/OSet4en.png" tvg-type="live" group-title="🇻🇪 Venezuela | Estilo de vida",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-logo="https://i.imgur.com/A3bU5e7.png" group-title="🇻🇪 Venezuela | Família",TV Familia
+#EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-logo="https://i.imgur.com/A3bU5e7.png" tvg-type="live" group-title="🇻🇪 Venezuela | Família",TV Familia
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
-#EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-logo="https://i.imgur.com/A3bU5e7.png" group-title="🇻🇪 Venezuela | Família",TV Familia
+#EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-logo="https://i.imgur.com/A3bU5e7.png" tvg-type="live" group-title="🇻🇪 Venezuela | Família",TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
-#EXTINF:-1 tvg-id="AnzoateguiTV.ve@SD" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="🇻🇪 Venezuela | Geral",Anzoátegui TV
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve@SD" tvg-logo="https://i.imgur.com/SLqrEOz.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Anzoátegui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-#EXTINF:-1 tvg-id="BarinasTV.ve@SD" tvg-logo="https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png" group-title="🇻🇪 Venezuela | Geral",Barinas TV
+#EXTINF:-1 tvg-id="BarinasTV.ve@SD" tvg-logo="https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Barinas TV
 https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal21Tachira.ve@SD" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="🇻🇪 Venezuela | Geral",Canal 21 Táchira
+#EXTINF:-1 tvg-id="Canal21Tachira.ve@SD" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Canal 21 Táchira
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-logo="https://i.imgur.com/ew44KOZ.png" group-title="🇻🇪 Venezuela | Geral",Canal C del Zulia
+#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-logo="https://i.imgur.com/ew44KOZ.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Canal C del Zulia
 #EXTVLCOPT:http-referrer=https://canalc.vercel.app
 https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
-#EXTINF:-1 tvg-id="CatatumboTV.ve@SD" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="🇻🇪 Venezuela | Geral",Catatumbo TV
+#EXTINF:-1 tvg-id="CatatumboTV.ve@SD" tvg-logo="https://i.imgur.com/LBI2la0.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Catatumbo TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.ve@SD" tvg-logo="https://imgur.com/hzM9D9L.jpg" group-title="🇻🇪 Venezuela | Geral",GlobalTV
+#EXTINF:-1 tvg-id="GlobalTV.ve@SD" tvg-logo="https://imgur.com/hzM9D9L.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",GlobalTV
 https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
-#EXTINF:-1 tvg-id="Globovision.ve@SD" tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="🇻🇪 Venezuela | Geral",Globovision
+#EXTINF:-1 tvg-id="Globovision.ve@SD" tvg-logo="https://i.imgur.com/v6nRdxQ.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Globovision
 http://181.78.8.199:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-id="GrandeTV.ve@SD" tvg-logo="https://i.imgur.com/jxCirrP.png" group-title="🇻🇪 Venezuela | Geral",Grande TV
+#EXTINF:-1 tvg-id="GrandeTV.ve@SD" tvg-logo="https://i.imgur.com/jxCirrP.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Grande TV
 https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
-#EXTINF:-1 tvg-id="GrandeTV.ve@SD" tvg-logo="https://i.imgur.com/jxCirrP.png" group-title="🇻🇪 Venezuela | Geral",Grande TV
+#EXTINF:-1 tvg-id="GrandeTV.ve@SD" tvg-logo="https://i.imgur.com/jxCirrP.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Grande TV
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
-#EXTINF:-1 tvg-id="IslaTV.ve@SD" tvg-logo="https://i.imgur.com/l11Ixhi.jpeg" group-title="🇻🇪 Venezuela | Geral",Isla TV
+#EXTINF:-1 tvg-id="IslaTV.ve@SD" tvg-logo="https://i.imgur.com/l11Ixhi.jpeg" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Isla TV
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinaTV.ve@SD" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1" group-title="🇻🇪 Venezuela | Geral",Latina TV
+#EXTINF:-1 tvg-id="LatinaTV.ve@SD" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
-#EXTINF:-1 tvg-id="MonagasVision.ve@SD" tvg-logo="https://i.imgur.com/yfgTa2d.png" group-title="🇻🇪 Venezuela | Geral",Monagas Visión
+#EXTINF:-1 tvg-id="MonagasVision.ve@SD" tvg-logo="https://i.imgur.com/yfgTa2d.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Monagas Visión
 https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
-#EXTINF:-1 tvg-id="OasisTelevision.ve@SD" tvg-logo="https://i.imgur.com/TEr1U90.png" group-title="🇻🇪 Venezuela | Geral",Oasis Televisión
+#EXTINF:-1 tvg-id="OasisTelevision.ve@SD" tvg-logo="https://i.imgur.com/TEr1U90.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Oasis Televisión
 http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
-#EXTINF:-1 tvg-id="OnzaTV.ve@SD" tvg-logo="https://i.imgur.com/usrP6T2.png" group-title="🇻🇪 Venezuela | Geral",Onza TV
+#EXTINF:-1 tvg-id="OnzaTV.ve@SD" tvg-logo="https://i.imgur.com/usrP6T2.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Onza TV
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
-#EXTINF:-1 tvg-id="OnzaTV.ve@SD" tvg-logo="https://i.imgur.com/usrP6T2.png" group-title="🇻🇪 Venezuela | Geral",Onza TV
+#EXTINF:-1 tvg-id="OnzaTV.ve@SD" tvg-logo="https://i.imgur.com/usrP6T2.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Onza TV
 https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
-#EXTINF:-1 tvg-id="PortuguesaTelevision.ve@SD" tvg-logo="https://i.imgur.com/jHUSfGz.png" group-title="🇻🇪 Venezuela | Geral",PortuTV
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve@SD" tvg-logo="https://i.imgur.com/jHUSfGz.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",PortuTV
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-#EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="🇻🇪 Venezuela | Geral",PromarTV
+#EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",PromarTV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="🇻🇪 Venezuela | Geral",PromarTV
+#EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",PromarTV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="SiembraTV.ve@SD" tvg-logo="https://i.imgur.com/zRX91Xr.png" group-title="🇻🇪 Venezuela | Geral",Siembra TV
+#EXTINF:-1 tvg-id="SiembraTV.ve@SD" tvg-logo="https://i.imgur.com/zRX91Xr.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Siembra TV
 https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
-#EXTINF:-1 tvg-id="SomosTV.ve@SD" tvg-logo="https://i.imgur.com/jOroeJZ.png" group-title="🇻🇪 Venezuela | Geral",Somos TV
+#EXTINF:-1 tvg-id="SomosTV.ve@SD" tvg-logo="https://i.imgur.com/jOroeJZ.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Somos TV
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
-#EXTINF:-1 tvg-id="TAMTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="🇻🇪 Venezuela | Geral",TAM TV
+#EXTINF:-1 tvg-id="TAMTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",TAM TV
 https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="🇻🇪 Venezuela | Geral",TeleAragua
+#EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-logo="https://i.imgur.com/jPzcb2S.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",TeleAragua
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
-#EXTINF:-1 tvg-id="Telebocono.ve@SD" tvg-logo="https://i.imgur.com/YDE4Jsi.jpg" group-title="🇻🇪 Venezuela | Geral",Teleboconó
+#EXTINF:-1 tvg-id="Telebocono.ve@SD" tvg-logo="https://i.imgur.com/YDE4Jsi.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Teleboconó
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecentro.ve@SD" tvg-logo="https://i.imgur.com/QtRNfaj.png" group-title="🇻🇪 Venezuela | Geral",Telecentro
+#EXTINF:-1 tvg-id="Telecentro.ve@SD" tvg-logo="https://i.imgur.com/QtRNfaj.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Telecentro
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
-#EXTINF:-1 tvg-id="Televen.ve@SD" tvg-logo="https://i.imgur.com/cxvkUvK.png" group-title="🇻🇪 Venezuela | Geral",Televen
+#EXTINF:-1 tvg-id="Televen.ve@SD" tvg-logo="https://i.imgur.com/cxvkUvK.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
-#EXTINF:-1 tvg-id="Televen.ve@SD" tvg-logo="https://i.imgur.com/cxvkUvK.png" group-title="🇻🇪 Venezuela | Geral",Televen
+#EXTINF:-1 tvg-id="Televen.ve@SD" tvg-logo="https://i.imgur.com/cxvkUvK.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Televen
 http://38.134.250.110:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="🇻🇪 Venezuela | Geral",Televisora de Oriente
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" tvg-logo="https://i.imgur.com/wFC6Xxq.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Televisora de Oriente
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-#EXTINF:-1 tvg-id="TorococoTV.ve@SD" tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="🇻🇪 Venezuela | Geral",Torococo TV
+#EXTINF:-1 tvg-id="TorococoTV.ve@SD" tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Torococo TV
 https://us.streaminghd.cl/torococotelevision/video.m3u8
-#EXTINF:-1 tvg-id="TRT.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="🇻🇪 Venezuela | Geral",TRT
+#EXTINF:-1 tvg-id="TRT.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",TRT
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
-#EXTINF:-1 tvg-id="TuTV.ve@SD" tvg-logo="https://i.imgur.com/OBEmXQF.png" group-title="🇻🇪 Venezuela | Geral",Tu TV
+#EXTINF:-1 tvg-id="TuTV.ve@SD" tvg-logo="https://i.imgur.com/OBEmXQF.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Tu TV
 https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
-#EXTINF:-1 tvg-id="TVAndes.ve@SD" tvg-logo="https://i.ibb.co/c1YHQ8K/tvandes.png" group-title="🇻🇪 Venezuela | Geral",TV Andes
+#EXTINF:-1 tvg-id="TVAndes.ve@SD" tvg-logo="https://i.ibb.co/c1YHQ8K/tvandes.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",TV Andes
 https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
-#EXTINF:-1 tvg-id="TVOasisMonay.ve@SD" tvg-logo="https://i.imgur.com/hwd7osJ.jpeg" group-title="🇻🇪 Venezuela | Geral",TV Oasis Monay
+#EXTINF:-1 tvg-id="TVOasisMonay.ve@SD" tvg-logo="https://i.imgur.com/hwd7osJ.jpeg" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",TV Oasis Monay
 https://servilive.com:3562/live/vav4c8z38live.m3u8
-#EXTINF:-1 tvg-id="TVes.ve@SD" tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="🇻🇪 Venezuela | Geral",TVes
+#EXTINF:-1 tvg-id="TVes.ve@SD" tvg-logo="https://i.imgur.com/QX5DVUB.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",TVes
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-#EXTINF:-1 tvg-id="TVMparati.ve@SD" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" group-title="🇻🇪 Venezuela | Geral",TVM para ti
+#EXTINF:-1 tvg-id="TVMparati.ve@SD" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",TVM para ti
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-#EXTINF:-1 tvg-id="TVS.ve@SD" tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="🇻🇪 Venezuela | Geral",TVS
+#EXTINF:-1 tvg-id="TVS.ve@SD" tvg-logo="https://i.imgur.com/J8ztiAN.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
-#EXTINF:-1 tvg-id="UniTV.ve@SD" tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="🇻🇪 Venezuela | Geral",UniTV
+#EXTINF:-1 tvg-id="UniTV.ve@SD" tvg-logo="https://i.imgur.com/KLGeznX.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",UniTV
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="🇻🇪 Venezuela | Geral",Vale TV
+#EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-logo="https://i.imgur.com/NMI2Wed.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Vale TV
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
-#EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="🇻🇪 Venezuela | Geral",Vale TV
+#EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-logo="https://i.imgur.com/NMI2Wed.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Vale TV
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Venevision.ve@SD" tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="🇻🇪 Venezuela | Geral",Venevision
+#EXTINF:-1 tvg-id="Venevision.ve@SD" tvg-logo="https://i.imgur.com/gm1m8hW.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Venevision
 http://181.78.8.199:8000/play/a0if/index.m3u8
-#EXTINF:-1 tvg-id="Venevision.ve@SD" tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="🇻🇪 Venezuela | Geral",Venevision
+#EXTINF:-1 tvg-id="Venevision.ve@SD" tvg-logo="https://i.imgur.com/gm1m8hW.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Venevision
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="🇻🇪 Venezuela | Geral",Venevisión Internacional
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-logo="https://i.imgur.com/vtGED07.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Venevisión Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 tvg-id="VepacoTV.ve@SD" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="🇻🇪 Venezuela | Geral",Vepaco TV
+#EXTINF:-1 tvg-id="VepacoTV.ve@SD" tvg-logo="https://i.imgur.com/0bqJksL.png" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Vepaco TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-#EXTINF:-1 tvg-id="WataVision.ve@SD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg" group-title="🇻🇪 Venezuela | Geral",Wata Vision
+#EXTINF:-1 tvg-id="WataVision.ve@SD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg" tvg-type="live" group-title="🇻🇪 Venezuela | Geral",Wata Vision
 https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
-#EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-logo="https://i.imgur.com/Qm88HT0.png" group-title="🇻🇪 Venezuela | Legislativo",ANTV
+#EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-logo="https://i.imgur.com/Qm88HT0.png" tvg-type="live" group-title="🇻🇪 Venezuela | Legislativo",ANTV
 http://181.78.8.199:8000/play/a0fo/index.m3u8
-#EXTINF:-1 tvg-id="CanalI.ve@SD" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="🇻🇪 Venezuela | Notícias",Canal I
+#EXTINF:-1 tvg-id="CanalI.ve@SD" tvg-logo="https://i.imgur.com/vKfOavW.png" tvg-type="live" group-title="🇻🇪 Venezuela | Notícias",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪 Venezuela | Notícias",Telesur
+#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-type="live" group-title="🇻🇪 Venezuela | Notícias",Telesur
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪 Venezuela | Notícias",Telesur
+#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-type="live" group-title="🇻🇪 Venezuela | Notícias",Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪 Venezuela | Notícias",Telesur
+#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-type="live" group-title="🇻🇪 Venezuela | Notícias",Telesur
 http://181.78.211.244:8005/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve@English" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪 Venezuela | Notícias",Telesur English
+#EXTINF:-1 tvg-id="Telesur.ve@English" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-type="live" group-title="🇻🇪 Venezuela | Notícias",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve@EnglishHD" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪 Venezuela | Notícias",Telesur English HD
+#EXTINF:-1 tvg-id="Telesur.ve@EnglishHD" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-type="live" group-title="🇻🇪 Venezuela | Notícias",Telesur English HD
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve@HD" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪 Venezuela | Notícias",Telesur HD
+#EXTINF:-1 tvg-id="Telesur.ve@HD" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-type="live" group-title="🇻🇪 Venezuela | Notícias",Telesur HD
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="UN24.ve@untv720" tvg-logo="https://i.imgur.com/nGJlulj.png" group-title="🇻🇪 Venezuela | Notícias",UN24
+#EXTINF:-1 tvg-id="UN24.ve@untv720" tvg-logo="https://i.imgur.com/nGJlulj.png" tvg-type="live" group-title="🇻🇪 Venezuela | Notícias",UN24
 #EXTVLCOPT:http-referrer=https://un24.tv/
 https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
-#EXTINF:-1 tvg-id="SunChannel.ve@SD" tvg-logo="https://i.imgur.com/B26qL3e.png" group-title="🇻🇪 Venezuela | Viagem",Sun Channel
+#EXTINF:-1 tvg-id="SunChannel.ve@SD" tvg-logo="https://i.imgur.com/B26qL3e.png" tvg-type="live" group-title="🇻🇪 Venezuela | Viagem",Sun Channel
 http://168.196.127.137:6001/play/a06p/index.m3u8

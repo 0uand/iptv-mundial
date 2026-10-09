@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="AsianDrama.hk@SD" tvg-logo="https://i.imgur.com/wqtN7mH.png" group-title="🇭🇰 Hong Kong | Entretenimento",Asian Drama
+#EXTINF:-1 tvg-id="AsianDrama.hk@SD" tvg-logo="https://i.imgur.com/wqtN7mH.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Entretenimento",Asian Drama
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
-#EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="🇭🇰 Hong Kong | Entretenimento",Jade
+#EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Entretenimento",Jade
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="🇭🇰 Hong Kong | Entretenimento",KIX
+#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Entretenimento",KIX
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
-#EXTINF:-1 tvg-id="tvNAsia.hk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="🇭🇰 Hong Kong | Entretenimento",tvN Asia HD
+#EXTINF:-1 tvg-id="tvNAsia.hk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Entretenimento",tvN Asia HD
 http://58.8.186.128:10005/bysid/2518
-#EXTINF:-1 tvg-id="BSTV.hk@SD" tvg-logo="https://i.imgur.com/GVYSSgm.png" group-title="🇭🇰 Hong Kong | Compras",耀才財經台
+#EXTINF:-1 tvg-id="BSTV.hk@SD" tvg-logo="https://i.imgur.com/GVYSSgm.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Compras",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="CelestialMovies.hk@SD" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🇭🇰 Hong Kong | Filmes",Celestial Movies (576i)
+#EXTINF:-1 tvg-id="CelestialMovies.hk@SD" tvg-logo="https://i.imgur.com/Mb5ssnu.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Filmes",Celestial Movies (576i)
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
-#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="🇭🇰 Hong Kong | Filmes",Mei Ah Movie Channel
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Filmes",Mei Ah Movie Channel
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="🇭🇰 Hong Kong | Filmes",Mei Ah Movie Channel
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Filmes",Mei Ah Movie Channel
 http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
-#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="🇭🇰 Hong Kong | Filmes",Mei Ah Movie Channel
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Filmes",Mei Ah Movie Channel
 http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="🇭🇰 Hong Kong | Filmes",Thrill
+#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-logo="https://i.imgur.com/Y282owj.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Filmes",Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
-#EXTINF:-1 tvg-id="GoldenJade.hk@SD" tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="🇭🇰 Hong Kong | Geral",Golden Jade
+#EXTINF:-1 tvg-id="GoldenJade.hk@SD" tvg-logo="https://i.imgur.com/lPYxsUr.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Geral",Golden Jade
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇭🇰 Hong Kong | Negócios",Bloomberg TV Asia
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Negócios",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇭🇰 Hong Kong | Negócios",Bloomberg TV Asia Live Event
+#EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Negócios",Bloomberg TV Asia Live Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="🇭🇰 Hong Kong | Notícias",凤凰资讯
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD" tvg-logo="https://i.imgur.com/mt4h3VO.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Notícias",凤凰资讯
 http://php.17186.eu.org/phtv/fhzx.m3u8

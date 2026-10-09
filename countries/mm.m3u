@@ -1,37 +1,37 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="5Plus.mm@SD" tvg-logo="https://i.imgur.com/4EHL2mH.png" group-title="🇲🇲 Myanmar | Entretenimento",5 Plus
+#EXTINF:-1 tvg-id="5Plus.mm@SD" tvg-logo="https://i.imgur.com/4EHL2mH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",5 Plus
 https://mmtvs.exliatycl.online/5plus/stream.m3u8
-#EXTINF:-1 tvg-id="ChannelK.mm@SD" tvg-logo="https://i.imgur.com/6PqxuhF.png" group-title="🇲🇲 Myanmar | Entretenimento",Channel K
+#EXTINF:-1 tvg-id="ChannelK.mm@SD" tvg-logo="https://i.imgur.com/6PqxuhF.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",Channel K
 https://mmtvs.exliatycl.online/channelk/stream.m3u8
-#EXTINF:-1 tvg-id="FortuneTV.mm@SD" tvg-logo="https://i.imgur.com/MM5evnD.png" group-title="🇲🇲 Myanmar | Entretenimento",FORTUNE TV
+#EXTINF:-1 tvg-id="FortuneTV.mm@SD" tvg-logo="https://i.imgur.com/MM5evnD.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",FORTUNE TV
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
-#EXTINF:-1 tvg-id="MEntertainmentChannel.mm@SD" tvg-logo="https://i.imgur.com/6PcdTZ2.png" group-title="🇲🇲 Myanmar | Entretenimento",M Entertainment Channel
+#EXTINF:-1 tvg-id="MEntertainmentChannel.mm@SD" tvg-logo="https://i.imgur.com/6PcdTZ2.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",M Entertainment Channel
 https://mmtvs.exliatycl.online/mchannel/stream.m3u8
-#EXTINF:-1 tvg-id="MRTVEntertainment.mm@SD" tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="🇲🇲 Myanmar | Entretenimento",MRTV Entertainment
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm@SD" tvg-logo="https://i.imgur.com/c9q6oT0.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",MRTV Entertainment
 https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
-#EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" group-title="🇲🇲 Myanmar | Entretenimento",MWD Variety
+#EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="🇲🇲 Myanmar | Cultura",MRTV NRC
+#EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Cultura",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
-#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="🇲🇲 Myanmar | Documentários",MRTV Farmer
+#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Documentários",MRTV Farmer
 https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
-#EXTINF:-1 tvg-id="MRTVSports.mm@SD" tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="🇲🇲 Myanmar | Esportes",MRTV Sports
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" tvg-logo="https://i.imgur.com/cFTR4kC.png" tvg-type="live" group-title="🇲🇲 Myanmar | Esportes",MRTV Sports
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
-#EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-logo="https://i.imgur.com/5KRsqeF.png" group-title="🇲🇲 Myanmar | Filmes",MWD Movies
+#EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-logo="https://i.imgur.com/5KRsqeF.png" tvg-type="live" group-title="🇲🇲 Myanmar | Filmes",MWD Movies
 http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.mm@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg" group-title="🇲🇲 Myanmar | Geral",Channel 9
+#EXTINF:-1 tvg-id="Channel9.mm@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",Channel 9
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇲 Myanmar | Geral",MCS
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MCS
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="MRTV.mm@HD" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="🇲🇲 Myanmar | Geral",MRTV
+#EXTINF:-1 tvg-id="MRTV.mm@HD" tvg-logo="https://i.imgur.com/uyv7oJH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MRTV
 https://asia.sipradius.net/cache/SEAGames4/master.m3u8
-#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="🇲🇲 Myanmar | Geral",MRTV
+#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
-#EXTINF:-1 tvg-id="MWD.mm@SD" tvg-logo="https://i.imgur.com/zyTQG9F.png" group-title="🇲🇲 Myanmar | Geral",MWD
+#EXTINF:-1 tvg-id="MWD.mm@SD" tvg-logo="https://i.imgur.com/zyTQG9F.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm@SD" tvg-logo="https://i.imgur.com/ClmWqE5.png" group-title="🇲🇲 Myanmar | Geral",Myanmar International TV
+#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm@SD" tvg-logo="https://i.imgur.com/ClmWqE5.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",Myanmar International TV
 https://mrtvott.com/cache/MITV/master.m3u8
-#EXTINF:-1 tvg-id="HluttawSD.mm@SD" tvg-logo="https://i.imgur.com/Gffq8ks.png" group-title="🇲🇲 Myanmar | Legislativo",Hluttaw S & D
+#EXTINF:-1 tvg-id="HluttawSD.mm@SD" tvg-logo="https://i.imgur.com/Gffq8ks.png" tvg-type="live" group-title="🇲🇲 Myanmar | Legislativo",Hluttaw S & D
 https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
-#EXTINF:-1 tvg-id="MRTVNews.mm@SD" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="🇲🇲 Myanmar | Notícias",MRTV News
+#EXTINF:-1 tvg-id="MRTVNews.mm@SD" tvg-logo="https://i.imgur.com/5eK8Bc4.png" tvg-type="live" group-title="🇲🇲 Myanmar | Notícias",MRTV News
 https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8

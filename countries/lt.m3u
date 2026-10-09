@@ -1,38 +1,38 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="LRTKlasika.lt@SD" tvg-logo="https://i.imgur.com/Fa8Vhu0.png" group-title="🇱🇹 Lituânia | Música" catchup="default" catchup-source="https://stream-live.lrt.lt/klasika/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Klasika
+#EXTINF:-1 tvg-id="LRTKlasika.lt@SD" tvg-logo="https://i.imgur.com/Fa8Vhu0.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música" catchup="default" catchup-source="https://stream-live.lrt.lt/klasika/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Klasika
 https://stream-live.lrt.lt/klasika/master.m3u8
-#EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-logo="https://i.imgur.com/oLuZTMH.png" group-title="🇱🇹 Lituânia | Música" catchup="default" catchup-source="https://stream-live.lrt.lt/opus/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Opus
+#EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-logo="https://i.imgur.com/oLuZTMH.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música" catchup="default" catchup-source="https://stream-live.lrt.lt/opus/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Opus
 https://stream-live.lrt.lt/opus/master.m3u8
-#EXTINF:-1 tvg-id="M1.lt@SD" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" group-title="🇱🇹 Lituânia | Música",M-1
+#EXTINF:-1 tvg-id="M1.lt@SD" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música",M-1
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerHitRadio.lt@SD" tvg-logo="https://i.imgur.com/GOlQbfC.png" group-title="🇱🇹 Lituânia | Música",Power Hit Radio
+#EXTINF:-1 tvg-id="PowerHitRadio.lt@SD" tvg-logo="https://i.imgur.com/GOlQbfC.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música",Power Hit Radio
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
-#EXTINF:-1 tvg-id="LietuvosRytasTV.lt@SD" tvg-logo="https://i.imgur.com/5wpxVI0.png" group-title="🇱🇹 Lituânia | Entretenimento",Lietuvos Rytas TV
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt@SD" tvg-logo="https://i.imgur.com/5wpxVI0.png" tvg-type="live" group-title="🇱🇹 Lituânia | Entretenimento",Lietuvos Rytas TV
 https://live.lietuvosryto.tv/live/hls/eteris.m3u8
-#EXTINF:-1 tvg-id="LRTPlius.lt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" group-title="🇱🇹 Lituânia | Cultura",LRT Plius
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" tvg-type="live" group-title="🇱🇹 Lituânia | Cultura",LRT Plius
 http://stream.mcquack.net/353/index.m3u8
-#EXTINF:-1 tvg-id="BalticumTV.lt@SD" tvg-logo="https://i.imgur.com/35tm57M.png" group-title="🇱🇹 Lituânia | Geral",Balticum TV
+#EXTINF:-1 tvg-id="BalticumTV.lt@SD" tvg-logo="https://i.imgur.com/35tm57M.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",Balticum TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/376/index.m3u8
-#EXTINF:-1 tvg-id="BTV.lt@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/BTV_HD_%28Lithuania%29_%282019%29.svg" group-title="🇱🇹 Lituânia | Geral",BTV
+#EXTINF:-1 tvg-id="BTV.lt@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/BTV_HD_%28Lithuania%29_%282019%29.svg" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/35/index.m3u8
-#EXTINF:-1 tvg-id="DelfiTV.lt@SD" tvg-logo="https://i.imgur.com/IFoHP5M.png" group-title="🇱🇹 Lituânia | Geral",Delfi TV
+#EXTINF:-1 tvg-id="DelfiTV.lt@SD" tvg-logo="https://i.imgur.com/IFoHP5M.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
-#EXTINF:-1 tvg-id="LNK.lt@SD" tvg-logo="https://i.imgur.com/arCZ56g.png" group-title="🇱🇹 Lituânia | Geral",LNK
+#EXTINF:-1 tvg-id="LNK.lt@SD" tvg-logo="https://i.imgur.com/arCZ56g.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",LNK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/30/index.m3u8
-#EXTINF:-1 tvg-id="LRTTV.lt@SD" tvg-logo="https://i.imgur.com/FL2ZuGC.png" group-title="🇱🇹 Lituânia | Geral",LRT TV
+#EXTINF:-1 tvg-id="LRTTV.lt@SD" tvg-logo="https://i.imgur.com/FL2ZuGC.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",LRT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/31/index.m3u8
-#EXTINF:-1 tvg-id="TV3.lt@SD" tvg-logo="https://i.imgur.com/7nipq0y.png" group-title="🇱🇹 Lituânia | Geral",TV3
+#EXTINF:-1 tvg-id="TV3.lt@SD" tvg-logo="https://i.imgur.com/7nipq0y.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/29/index.m3u8
-#EXTINF:-1 tvg-id="TV6.lt@SD" tvg-logo="https://i.imgur.com/oC0jiFW.png" group-title="🇱🇹 Lituânia | Geral",TV6
+#EXTINF:-1 tvg-id="TV6.lt@SD" tvg-logo="https://i.imgur.com/oC0jiFW.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",TV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/375/index.m3u8
-#EXTINF:-1 tvg-id="TV8.lt@SD" tvg-logo="https://i.imgur.com/9g3wknl.png" group-title="🇱🇹 Lituânia | Geral",TV8
+#EXTINF:-1 tvg-id="TV8.lt@SD" tvg-logo="https://i.imgur.com/9g3wknl.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/374/index.m3u8
-#EXTINF:-1 tvg-id="LRTRadijas.lt@SD" tvg-logo="https://i.imgur.com/gYoaqju.png" group-title="🇱🇹 Lituânia | Notícias" catchup="default" catchup-source="https://stream-live.lrt.lt/radijas/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Radijas
+#EXTINF:-1 tvg-id="LRTRadijas.lt@SD" tvg-logo="https://i.imgur.com/gYoaqju.png" tvg-type="live" group-title="🇱🇹 Lituânia | Notícias" catchup="default" catchup-source="https://stream-live.lrt.lt/radijas/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Radijas
 https://stream-live.lrt.lt/radijas/master.m3u8

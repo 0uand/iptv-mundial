@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="Evtele.cg@SD" tvg-logo="https://i.imgur.com/iBlXl2T.png" group-title="🇨🇬 Republic of the Congo | Cultura",Ev-tele
+#EXTINF:-1 tvg-id="Evtele.cg@SD" tvg-logo="https://i.imgur.com/iBlXl2T.png" tvg-type="live" group-title="🇨🇬 Republic of the Congo | Cultura",Ev-tele
 https://playtv4k.live/live/EVTELE/index.m3u8
-#EXTINF:-1 tvg-id="BebTV.cg@SD" tvg-logo="https://i.imgur.com/3XOk1lP.jpeg" group-title="🇨🇬 Republic of the Congo | Geral",Beb TV
+#EXTINF:-1 tvg-id="BebTV.cg@SD" tvg-logo="https://i.imgur.com/3XOk1lP.jpeg" tvg-type="live" group-title="🇨🇬 Republic of the Congo | Geral",Beb TV
 https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
-#EXTINF:-1 tvg-id="DRTVInternational.cg@SD" tvg-logo="https://i.imgur.com/rGbTvtZ.png" group-title="🇨🇬 Republic of the Congo | Geral",DRTV International
+#EXTINF:-1 tvg-id="DRTVInternational.cg@SD" tvg-logo="https://i.imgur.com/rGbTvtZ.png" tvg-type="live" group-title="🇨🇬 Republic of the Congo | Geral",DRTV International
 https://vps122407.serveur-vps.net/hls/drtv.m3u8
-#EXTINF:-1 tvg-id="TeleCongo.cg@SD" tvg-logo="https://i.imgur.com/gbFtP14.png" group-title="🇨🇬 Republic of the Congo | Geral",Tele Congo
+#EXTINF:-1 tvg-id="TeleCongo.cg@SD" tvg-logo="https://i.imgur.com/gbFtP14.png" tvg-type="live" group-title="🇨🇬 Republic of the Congo | Geral",Tele Congo
 http://trn03.bozztv.com/gin-telecongo/index.m3u8
-#EXTINF:-1 tvg-id="TeleCongo.cg@SD" tvg-logo="https://i.imgur.com/gbFtP14.png" group-title="🇨🇬 Republic of the Congo | Geral",Télé Congo
+#EXTINF:-1 tvg-id="TeleCongo.cg@SD" tvg-logo="https://i.imgur.com/gbFtP14.png" tvg-type="live" group-title="🇨🇬 Republic of the Congo | Geral",Télé Congo
 http://51.254.199.122:8080/telecongo/index.m3u8

@@ -1,39 +1,39 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="🇳🇵 Nepal | Música",Capital TV
+#EXTINF:-1 tvg-id="CapitalTVHD.np@SD" tvg-logo="https://i.imgur.com/EICHpGd.png" tvg-type="live" group-title="🇳🇵 Nepal | Música",Capital TV
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1 tvg-id="CapitalTVHD.np@HD" tvg-logo="https://i.imgur.com/EICHpGd.png" group-title="🇳🇵 Nepal | Música",Capital TV HD HD
+#EXTINF:-1 tvg-id="CapitalTVHD.np@HD" tvg-logo="https://i.imgur.com/EICHpGd.png" tvg-type="live" group-title="🇳🇵 Nepal | Música",Capital TV HD HD
 https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇵 Nepal | Entretenimento",Eros Universe Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇵 Nepal | Entretenimento",Eros Universe Entertainment
 https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
-#EXTINF:-1 tvg-id="Public4KTV.np@HD" tvg-logo="https://i.imgur.com/JxEzgDP.png" group-title="🇳🇵 Nepal | Entretenimento",Public 4K TV
+#EXTINF:-1 tvg-id="Public4KTV.np@HD" tvg-logo="https://i.imgur.com/JxEzgDP.png" tvg-type="live" group-title="🇳🇵 Nepal | Entretenimento",Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
-#EXTINF:-1 tvg-id="RayTVHD.np@SD" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="🇳🇵 Nepal | Entretenimento",Ray TV HD
+#EXTINF:-1 tvg-id="RayTVHD.np@SD" tvg-logo="https://i.imgur.com/QIkgiEn.png" tvg-type="live" group-title="🇳🇵 Nepal | Entretenimento",Ray TV HD
 https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
-#EXTINF:-1 tvg-id="RayTVHD.np@HD" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="🇳🇵 Nepal | Entretenimento",Ray TV HD
+#EXTINF:-1 tvg-id="RayTVHD.np@HD" tvg-logo="https://i.imgur.com/QIkgiEn.png" tvg-type="live" group-title="🇳🇵 Nepal | Entretenimento",Ray TV HD
 https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
-#EXTINF:-1 tvg-id="TVTodayJanakpur.np@SD" tvg-logo="https://i.imgur.com/5fZF69m.png" group-title="🇳🇵 Nepal | Entretenimento",TV Today Janakpur
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np@SD" tvg-logo="https://i.imgur.com/5fZF69m.png" tvg-type="live" group-title="🇳🇵 Nepal | Entretenimento",TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇵 Nepal | Geral",Eros Universe Bollywood Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Eros Universe Bollywood Cinema
 https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇵 Nepal | Geral",Green Gold TV
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Green Gold TV
 https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇵 Nepal | Geral",Green Gold TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Green Gold TV HD
 https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8
-#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" group-title="🇳🇵 Nepal | Geral",Indigenous Television
+#EXTINF:-1 tvg-id="IndigenousTelevision.np@SD" tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Indigenous Television
 https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="🇳🇵 Nepal | Geral",Kantipur TV
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="🇳🇵 Nepal | Geral",Kantipur TV
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Kantipur TV
 http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@HD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="🇳🇵 Nepal | Geral",Kantipur TV
+#EXTINF:-1 tvg-id="KantipurTV.np@HD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
-#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="🇳🇵 Nepal | Geral",Kantipur TV SD
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Kantipur TV SD
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇵 Nepal | Geral",Lionsgate Play
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Lionsgate Play
 http://103.159.180.34:5001/live/2327.m3u8
-#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="🇳🇵 Nepal | Geral",Mithila Nepal TV
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" tvg-type="live" group-title="🇳🇵 Nepal | Geral",Mithila Nepal TV
 http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇵 Nepal | Geral",NH BollyFlix
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇵 Nepal | Geral",NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇳🇵 Nepal | Geral",NH BollyRaga
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇵 Nepal | Geral",NH BollyRaga
 https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8

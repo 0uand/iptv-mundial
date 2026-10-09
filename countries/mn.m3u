@@ -1,292 +1,292 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-logo="https://i.imgur.com/WAYZSgx.png" group-title="🇲🇳 Mongólia | Entretenimento",AsianBox
+#EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-logo="https://i.imgur.com/WAYZSgx.png" tvg-type="live" group-title="🇲🇳 Mongólia | Entretenimento",AsianBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
-#EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-logo="https://i.imgur.com/WAYZSgx.png" group-title="🇲🇳 Mongólia | Entretenimento",AsianBox
+#EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-logo="https://i.imgur.com/WAYZSgx.png" tvg-type="live" group-title="🇲🇳 Mongólia | Entretenimento",AsianBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
-#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://i.imgur.com/YPbvzgV.png" group-title="🇲🇳 Mongólia | Entretenimento",Dream TV
+#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://i.imgur.com/YPbvzgV.png" tvg-type="live" group-title="🇲🇳 Mongólia | Entretenimento",Dream TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
-#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://i.imgur.com/YPbvzgV.png" group-title="🇲🇳 Mongólia | Entretenimento",Dream TV
+#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://i.imgur.com/YPbvzgV.png" tvg-type="live" group-title="🇲🇳 Mongólia | Entretenimento",Dream TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
-#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://i.imgur.com/YPbvzgV.png" group-title="🇲🇳 Mongólia | Entretenimento",DreamTV
+#EXTINF:-1 tvg-id="DreamTV.mn@SD" tvg-logo="https://i.imgur.com/YPbvzgV.png" tvg-type="live" group-title="🇲🇳 Mongólia | Entretenimento",DreamTV
 https://xykt-fix.github.io/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="TNTInternational.ru@SD" tvg-logo="https://static.tildacdn.biz/tild6464-6564-4131-a534-613539363232/tnt-international_1.png" group-title="🇲🇳 Mongólia | Entretenimento",ТНТ International
+#EXTINF:-1 tvg-id="TNTInternational.ru@SD" tvg-logo="https://static.tildacdn.biz/tild6464-6564-4131-a534-613539363232/tnt-international_1.png" tvg-type="live" group-title="🇲🇳 Mongólia | Entretenimento",ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="🇲🇳 Mongólia | Culinária",Телекафе
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇲🇳 Mongólia | Culinária",Телекафе
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
-#EXTINF:-1 tvg-id="MalchinTV.mn@SD" tvg-logo="https://i.imgur.com/vCdEBZo.png" group-title="🇲🇳 Mongólia | Cultura",Malchin TV
+#EXTINF:-1 tvg-id="MalchinTV.mn@SD" tvg-logo="https://i.imgur.com/vCdEBZo.png" tvg-type="live" group-title="🇲🇳 Mongólia | Cultura",Malchin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1 tvg-id="MalchinTV.mn@SD" tvg-logo="https://i.imgur.com/vCdEBZo.png" group-title="🇲🇳 Mongólia | Cultura",Malchin TV
+#EXTINF:-1 tvg-id="MalchinTV.mn@SD" tvg-logo="https://i.imgur.com/vCdEBZo.png" tvg-type="live" group-title="🇲🇳 Mongólia | Cultura",Malchin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
-#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" group-title="🇲🇳 Mongólia | Educação",Education
+#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-type="live" group-title="🇲🇳 Mongólia | Educação",Education
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
-#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" group-title="🇲🇳 Mongólia | Educação",Education
+#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-type="live" group-title="🇲🇳 Mongólia | Educação",Education
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
-#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="🇲🇳 Mongólia | Esportes",MNB Sport
+#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" tvg-type="live" group-title="🇲🇳 Mongólia | Esportes",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="🇲🇳 Mongólia | Esportes",MNB Sport
+#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" tvg-type="live" group-title="🇲🇳 Mongólia | Esportes",MNB Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="🇲🇳 Mongólia | Esportes",MNB Sport
+#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" tvg-type="live" group-title="🇲🇳 Mongólia | Esportes",MNB Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
-#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="🇲🇳 Mongólia | Família",STS Love (576i)
+#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png" tvg-type="live" group-title="🇲🇳 Mongólia | Família",STS Love (576i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
-#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-logo="https://i.imgur.com/yib6dM2.png" group-title="🇲🇳 Mongólia | Filmes",Cinema
+#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-logo="https://i.imgur.com/yib6dM2.png" tvg-type="live" group-title="🇲🇳 Mongólia | Filmes",Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
-#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-logo="https://i.imgur.com/yib6dM2.png" group-title="🇲🇳 Mongólia | Filmes",Cinema
+#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-logo="https://i.imgur.com/yib6dM2.png" tvg-type="live" group-title="🇲🇳 Mongólia | Filmes",Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
-#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-logo="https://i.imgur.com/yib6dM2.png" group-title="🇲🇳 Mongólia | Filmes",Cinema
+#EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-logo="https://i.imgur.com/yib6dM2.png" tvg-type="live" group-title="🇲🇳 Mongólia | Filmes",Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
-#EXTINF:-1 tvg-id="MNPlus.mn@SD" tvg-logo="https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg" group-title="🇲🇳 Mongólia | Filmes",MN+
+#EXTINF:-1 tvg-id="MNPlus.mn@SD" tvg-logo="https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg" tvg-type="live" group-title="🇲🇳 Mongólia | Filmes",MN+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
-#EXTINF:-1 tvg-id="MovieBox.mn@SD" tvg-logo="https://i.imgur.com/xeO1Zb4.png" group-title="🇲🇳 Mongólia | Filmes",MovieBox
+#EXTINF:-1 tvg-id="MovieBox.mn@SD" tvg-logo="https://i.imgur.com/xeO1Zb4.png" tvg-type="live" group-title="🇲🇳 Mongólia | Filmes",MovieBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
-#EXTINF:-1 tvg-id="MovieBox.mn@SD" tvg-logo="https://i.imgur.com/xeO1Zb4.png" group-title="🇲🇳 Mongólia | Filmes",MovieBox
+#EXTINF:-1 tvg-id="MovieBox.mn@SD" tvg-logo="https://i.imgur.com/xeO1Zb4.png" tvg-type="live" group-title="🇲🇳 Mongólia | Filmes",MovieBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",Auto TV
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Auto TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",Auto TV
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Auto TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
-#EXTINF:-1 tvg-id="C1.mn@SD" tvg-logo="https://i.imgur.com/v1mHG5x.png" group-title="🇲🇳 Mongólia | Geral",C1
+#EXTINF:-1 tvg-id="C1.mn@SD" tvg-logo="https://i.imgur.com/v1mHG5x.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",C1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
-#EXTINF:-1 tvg-id="C1.mn@SD" tvg-logo="https://i.imgur.com/v1mHG5x.png" group-title="🇲🇳 Mongólia | Geral",C1
+#EXTINF:-1 tvg-id="C1.mn@SD" tvg-logo="https://i.imgur.com/v1mHG5x.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",C1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
-#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://i.imgur.com/E9wAUrT.png" group-title="🇲🇳 Mongólia | Geral",Central TV
+#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://i.imgur.com/E9wAUrT.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Central TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
-#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://i.imgur.com/E9wAUrT.png" group-title="🇲🇳 Mongólia | Geral",Central TV
+#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://i.imgur.com/E9wAUrT.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Central TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
-#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://i.imgur.com/E9wAUrT.png" group-title="🇲🇳 Mongólia | Geral",Central TV
+#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://i.imgur.com/E9wAUrT.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Central TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8
-#EXTINF:-1 tvg-id="Channel11.mn@SD" tvg-logo="https://i.imgur.com/GztOajC.png" group-title="🇲🇳 Mongólia | Geral",Channel 11
+#EXTINF:-1 tvg-id="Channel11.mn@SD" tvg-logo="https://i.imgur.com/GztOajC.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Channel 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
-#EXTINF:-1 tvg-id="Channel11.mn@SD" tvg-logo="https://i.imgur.com/GztOajC.png" group-title="🇲🇳 Mongólia | Geral",Channel 11
+#EXTINF:-1 tvg-id="Channel11.mn@SD" tvg-logo="https://i.imgur.com/GztOajC.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Channel 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",CNBC MGL
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",CNBC MGL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
-#EXTINF:-1 tvg-id="GTV.mn@SD" tvg-logo="https://i.imgur.com/z18PSIo.png" group-title="🇲🇳 Mongólia | Geral",Gandan TV
+#EXTINF:-1 tvg-id="GTV.mn@SD" tvg-logo="https://i.imgur.com/z18PSIo.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Gandan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
-#EXTINF:-1 tvg-id="GTV.mn@SD" tvg-logo="https://i.imgur.com/z18PSIo.png" group-title="🇲🇳 Mongólia | Geral",Gandan TV
+#EXTINF:-1 tvg-id="GTV.mn@SD" tvg-logo="https://i.imgur.com/z18PSIo.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Gandan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" group-title="🇲🇳 Mongólia | Geral",Global TV
+#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Global TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
-#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" group-title="🇲🇳 Mongólia | Geral",Global TV
+#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Global TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
-#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="🇲🇳 Mongólia | Geral",Lotus Macau HD 720p
+#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-logo="https://i.imgur.com/7j8Lnog.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Lotus Macau HD 720p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="TV25.mn@SD" tvg-logo="https://i.imgur.com/F3MMJMd.png" group-title="🇲🇳 Mongólia | Geral",MN25
+#EXTINF:-1 tvg-id="TV25.mn@SD" tvg-logo="https://i.imgur.com/F3MMJMd.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MN25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
-#EXTINF:-1 tvg-id="TV25.mn@SD" tvg-logo="https://i.imgur.com/F3MMJMd.png" group-title="🇲🇳 Mongólia | Geral",MN25
+#EXTINF:-1 tvg-id="TV25.mn@SD" tvg-logo="https://i.imgur.com/F3MMJMd.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MN25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8
-#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/2.png" group-title="🇲🇳 Mongólia | Geral",MNB
+#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/2.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB
 https://live.mnb.mn/hls/mnb.stream.m3u8
-#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/2.png" group-title="🇲🇳 Mongólia | Geral",MNB
+#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/2.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
-#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/2.png" group-title="🇲🇳 Mongólia | Geral",MNB
+#EXTINF:-1 tvg-id="MNB.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/2.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8
-#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" group-title="🇲🇳 Mongólia | Geral",MNB World
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB World
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" group-title="🇲🇳 Mongólia | Geral",MNB World
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
-#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" group-title="🇲🇳 Mongólia | Geral",MNB World
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",MNB Гэр бүл
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB Гэр бүл
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",MNB Гэр бүл
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB Гэр бүл
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
-#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" group-title="🇲🇳 Mongólia | Geral",MNB Монголын Мэдээ
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB Монголын Мэдээ
 https://live.mnb.mn/hls/mn2.stream.m3u8
-#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" group-title="🇲🇳 Mongólia | Geral",MNB Монголын Мэдээ
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB Монголын Мэдээ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
-#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" group-title="🇲🇳 Mongólia | Geral",MNB Монголын Мэдээ
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",MNB Монголын Мэдээ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8
-#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="🇲🇳 Mongólia | Geral",Nei Monggol TV
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Nei Monggol TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
-#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-logo="https://i.imgur.com/2JbqbPY.png" group-title="🇲🇳 Mongólia | Geral",NTV
+#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-logo="https://i.imgur.com/2JbqbPY.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
-#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-logo="https://i.imgur.com/2JbqbPY.png" group-title="🇲🇳 Mongólia | Geral",NTV
+#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-logo="https://i.imgur.com/2JbqbPY.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8
-#EXTINF:-1 tvg-id="ONTV.mn@SD" tvg-logo="https://i.imgur.com/EzODUBO.png" group-title="🇲🇳 Mongólia | Geral",ONTV
+#EXTINF:-1 tvg-id="ONTV.mn@SD" tvg-logo="https://i.imgur.com/EzODUBO.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",ONTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
-#EXTINF:-1 tvg-id="ONTV.mn@SD" tvg-logo="https://i.imgur.com/EzODUBO.png" group-title="🇲🇳 Mongólia | Geral",ONTV
+#EXTINF:-1 tvg-id="ONTV.mn@SD" tvg-logo="https://i.imgur.com/EzODUBO.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",ONTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",Popcorn
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Popcorn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",Popcorn
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Popcorn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
-#EXTINF:-1 tvg-id="SBN.mn@SD" tvg-logo="https://i.imgur.com/E3fvpwn.png" group-title="🇲🇳 Mongólia | Geral",SBN
+#EXTINF:-1 tvg-id="SBN.mn@SD" tvg-logo="https://i.imgur.com/E3fvpwn.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",SBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
-#EXTINF:-1 tvg-id="SBN.mn@SD" tvg-logo="https://i.imgur.com/E3fvpwn.png" group-title="🇲🇳 Mongólia | Geral",SBN
+#EXTINF:-1 tvg-id="SBN.mn@SD" tvg-logo="https://i.imgur.com/E3fvpwn.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",SBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8
-#EXTINF:-1 tvg-id="SevenChannel.mn@SD" tvg-logo="https://i.imgur.com/9Ld5ATz.png" group-title="🇲🇳 Mongólia | Geral",Seven Channel
+#EXTINF:-1 tvg-id="SevenChannel.mn@SD" tvg-logo="https://i.imgur.com/9Ld5ATz.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Seven Channel
 https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
-#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://i.imgur.com/R6hxJgl.png" group-title="🇲🇳 Mongólia | Geral",Star TV
+#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://i.imgur.com/R6hxJgl.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
-#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://i.imgur.com/R6hxJgl.png" group-title="🇲🇳 Mongólia | Geral",Star TV
+#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://i.imgur.com/R6hxJgl.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Star TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
-#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://i.imgur.com/CnLxehv.png" group-title="🇲🇳 Mongólia | Geral",Suld TV
+#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://i.imgur.com/CnLxehv.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Suld TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
-#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://i.imgur.com/CnLxehv.png" group-title="🇲🇳 Mongólia | Geral",Suld TV
+#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://i.imgur.com/CnLxehv.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Suld TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
-#EXTINF:-1 tvg-id="TenGerTV.mn@SD" tvg-logo="https://i.imgur.com/MmPvkcO.png" group-title="🇲🇳 Mongólia | Geral",TenGer TV
+#EXTINF:-1 tvg-id="TenGerTV.mn@SD" tvg-logo="https://i.imgur.com/MmPvkcO.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TenGer TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
-#EXTINF:-1 tvg-id="TenGerTV.mn@SD" tvg-logo="https://i.imgur.com/MmPvkcO.png" group-title="🇲🇳 Mongólia | Geral",TenGer TV
+#EXTINF:-1 tvg-id="TenGerTV.mn@SD" tvg-logo="https://i.imgur.com/MmPvkcO.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TenGer TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
-#EXTINF:-1 tvg-id="TMTV.mn@SD" tvg-logo="https://i.imgur.com/Bza9r7U.png" group-title="🇲🇳 Mongólia | Geral",TM TV
+#EXTINF:-1 tvg-id="TMTV.mn@SD" tvg-logo="https://i.imgur.com/Bza9r7U.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
-#EXTINF:-1 tvg-id="TMTV.mn@SD" tvg-logo="https://i.imgur.com/Bza9r7U.png" group-title="🇲🇳 Mongólia | Geral",TM TV
+#EXTINF:-1 tvg-id="TMTV.mn@SD" tvg-logo="https://i.imgur.com/Bza9r7U.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8
-#EXTINF:-1 tvg-id="TV5.mn@SD" tvg-logo="https://i.imgur.com/asGQfGN.png" group-title="🇲🇳 Mongólia | Geral",TV5
+#EXTINF:-1 tvg-id="TV5.mn@SD" tvg-logo="https://i.imgur.com/asGQfGN.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8
-#EXTINF:-1 tvg-id="TV5.mn@SD" tvg-logo="https://i.imgur.com/asGQfGN.png" group-title="🇲🇳 Mongólia | Geral",TV5 HD
+#EXTINF:-1 tvg-id="TV5.mn@SD" tvg-logo="https://i.imgur.com/asGQfGN.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",TV7
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",TV7
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV7/HLSv3-FTA/TV7.m3u8
-#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://i.imgur.com/EguOdxW.png" group-title="🇲🇳 Mongólia | Geral",TV8
+#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://i.imgur.com/EguOdxW.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8
-#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://i.imgur.com/EguOdxW.png" group-title="🇲🇳 Mongólia | Geral",TV8 HD
+#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://i.imgur.com/EguOdxW.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
-#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://i.imgur.com/EguOdxW.png" group-title="🇲🇳 Mongólia | Geral",TV8 HD
+#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://i.imgur.com/EguOdxW.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
-#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-logo="https://i.imgur.com/QFteAgd.png" group-title="🇲🇳 Mongólia | Geral",TV9
+#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-logo="https://i.imgur.com/QFteAgd.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8
-#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-logo="https://i.imgur.com/QFteAgd.png" group-title="🇲🇳 Mongólia | Geral",TV9 HD
+#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-logo="https://i.imgur.com/QFteAgd.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",TV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
-#EXTINF:-1 tvg-id="UBS.mn@SD" tvg-logo="https://i.imgur.com/dIRMYYd.png" group-title="🇲🇳 Mongólia | Geral",UBS
+#EXTINF:-1 tvg-id="UBS.mn@SD" tvg-logo="https://i.imgur.com/dIRMYYd.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",UBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
-#EXTINF:-1 tvg-id="UBS.mn@SD" tvg-logo="https://i.imgur.com/dIRMYYd.png" group-title="🇲🇳 Mongólia | Geral",UBS
+#EXTINF:-1 tvg-id="UBS.mn@SD" tvg-logo="https://i.imgur.com/dIRMYYd.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",UBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8
-#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="🇲🇳 Mongólia | Geral",Время
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://i.imgur.com/jZlj3ga.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="🇲🇳 Mongólia | Geral",Мир
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" group-title="🇲🇳 Mongólia | Geral",Победа 720p
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Победа 720p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
-#EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn@SD" tvg-logo="https://i.imgur.com/iBZVvtW.png" group-title="🇲🇳 Mongólia | Geral",Соён Гэгээрүүлэгч
+#EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn@SD" tvg-logo="https://i.imgur.com/iBZVvtW.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Соён Гэгээрүүлэгч
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
-#EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn@SD" tvg-logo="https://i.imgur.com/iBZVvtW.png" group-title="🇲🇳 Mongólia | Geral",Соён Гэгээрүүлэгч
+#EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn@SD" tvg-logo="https://i.imgur.com/iBZVvtW.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Соён Гэгээрүүлэгч
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",Хөгжим
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Хөгжим
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇲🇳 Mongólia | Geral",Хөгжим
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Хөгжим
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
-#EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-logo="https://i.imgur.com/p7tsUTI.png" group-title="🇲🇳 Mongólia | Geral",Өлзий ТВ
+#EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-logo="https://i.imgur.com/p7tsUTI.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Өлзий ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
-#EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-logo="https://i.imgur.com/p7tsUTI.png" group-title="🇲🇳 Mongólia | Geral",Өлзий ТВ
+#EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-logo="https://i.imgur.com/p7tsUTI.png" tvg-type="live" group-title="🇲🇳 Mongólia | Geral",Өлзий ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
-#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" group-title="🇲🇳 Mongólia | Legislativo",Parliament TV
+#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-type="live" group-title="🇲🇳 Mongólia | Legislativo",Parliament TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
-#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" group-title="🇲🇳 Mongólia | Legislativo",Parliament TV
+#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-type="live" group-title="🇲🇳 Mongólia | Legislativo",Parliament TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇲🇳 Mongólia | Negócios",Bloomberg TV Mongolia HD
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇲🇳 Mongólia | Negócios",Bloomberg TV Mongolia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇲🇳 Mongólia | Negócios",Bloomberg TV Mongolia HD
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇲🇳 Mongólia | Negócios",Bloomberg TV Mongolia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="🇲🇳 Mongólia | Negócios",Bloomberg TV Plus
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇲🇳 Mongólia | Negócios",Bloomberg TV Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
-#EXTINF:-1 tvg-id="CNBCMongolia.mn@SD" tvg-logo="https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75" group-title="🇲🇳 Mongólia | Notícias",CNBC Mongolia
+#EXTINF:-1 tvg-id="CNBCMongolia.mn@SD" tvg-logo="https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75" tvg-type="live" group-title="🇲🇳 Mongólia | Notícias",CNBC Mongolia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
-#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" group-title="🇲🇳 Mongólia | Notícias",Eagle News HD
+#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" tvg-type="live" group-title="🇲🇳 Mongólia | Notícias",Eagle News HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
-#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" group-title="🇲🇳 Mongólia | Notícias",Eagle News HD
+#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" tvg-type="live" group-title="🇲🇳 Mongólia | Notícias",Eagle News HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
-#EXTINF:-1 tvg-id="ETV.mn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" group-title="🇲🇳 Mongólia | Notícias",ETV
+#EXTINF:-1 tvg-id="ETV.mn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" tvg-type="live" group-title="🇲🇳 Mongólia | Notícias",ETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
-#EXTINF:-1 tvg-id="ETV.mn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" group-title="🇲🇳 Mongólia | Notícias",ETV
+#EXTINF:-1 tvg-id="ETV.mn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" tvg-type="live" group-title="🇲🇳 Mongólia | Notícias",ETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
-#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://i.imgur.com/gMVqbwU.png" group-title="🇲🇳 Mongólia | Notícias",MNC
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://i.imgur.com/gMVqbwU.png" tvg-type="live" group-title="🇲🇳 Mongólia | Notícias",MNC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
-#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://i.imgur.com/gMVqbwU.png" group-title="🇲🇳 Mongólia | Notícias",MNC
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://i.imgur.com/gMVqbwU.png" tvg-type="live" group-title="🇲🇳 Mongólia | Notícias",MNC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8

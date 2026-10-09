@@ -1,56 +1,56 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="BusuiocTV.md@SD" tvg-logo="https://i.imgur.com/CQtfBPu.png" group-title="🇲🇩 Moldávia | Música",Busuioc TV
+#EXTINF:-1 tvg-id="BusuiocTV.md@SD" tvg-logo="https://i.imgur.com/CQtfBPu.png" tvg-type="live" group-title="🇲🇩 Moldávia | Música",Busuioc TV
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
-#EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="🇲🇩 Moldávia | Música",Hit FM
+#EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" tvg-type="live" group-title="🇲🇩 Moldávia | Música",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NorocTV.md@SD" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="🇲🇩 Moldávia | Música",Noroc TV
+#EXTINF:-1 tvg-id="NorocTV.md@SD" tvg-logo="https://i.imgur.com/XvYqpqG.png" tvg-type="live" group-title="🇲🇩 Moldávia | Música",Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8
-#EXTINF:-1 tvg-id="NorocTV.md@SD" tvg-logo="https://i.imgur.com/XvYqpqG.png" group-title="🇲🇩 Moldávia | Música",Noroc TV
+#EXTINF:-1 tvg-id="NorocTV.md@SD" tvg-logo="https://i.imgur.com/XvYqpqG.png" tvg-type="live" group-title="🇲🇩 Moldávia | Música",Noroc TV
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
-#EXTINF:-1 tvg-id="RadioChisinau.md@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg" group-title="🇲🇩 Moldávia | Música",Radio Chisinau
+#EXTINF:-1 tvg-id="RadioChisinau.md@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg" tvg-type="live" group-title="🇲🇩 Moldávia | Música",Radio Chisinau
 #EXTVLCOPT:http-referrer=https://radiochisinau.md/
 https://radiochisinau.md/hls/RChisinau.m3u8
-#EXTINF:-1 tvg-id="RadioMoldova.md@SD" tvg-logo="https://i.imgur.com/wNifDCo.png" group-title="🇲🇩 Moldávia | Música",Radio Moldova
+#EXTINF:-1 tvg-id="RadioMoldova.md@SD" tvg-logo="https://i.imgur.com/wNifDCo.png" tvg-type="live" group-title="🇲🇩 Moldávia | Música",Radio Moldova
 https://radiolive.trm.md/hls_rma/actualitati.m3u8
-#EXTINF:-1 tvg-id="RadioMoldovaMuzical.md@SD" tvg-logo="https://i.imgur.com/ZFHWst4.png" group-title="🇲🇩 Moldávia | Música",Radio Moldova Muzical
+#EXTINF:-1 tvg-id="RadioMoldovaMuzical.md@SD" tvg-logo="https://i.imgur.com/ZFHWst4.png" tvg-type="live" group-title="🇲🇩 Moldávia | Música",Radio Moldova Muzical
 https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
-#EXTINF:-1 tvg-id="TezaurTV.md@SD" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="🇲🇩 Moldávia | Música",Tezaur TV (576i)
+#EXTINF:-1 tvg-id="TezaurTV.md@SD" tvg-logo="https://i.imgur.com/eAagwLW.png" tvg-type="live" group-title="🇲🇩 Moldávia | Música",Tezaur TV (576i)
 https://tezaurtv.md/stream/index.m3u8
-#EXTINF:-1 tvg-id="RadioMoldovaTineret.md@SD" tvg-logo="https://i.imgur.com/h2oZuyc.png" group-title="🇲🇩 Moldávia | Entretenimento",Radio Moldova Tineret
+#EXTINF:-1 tvg-id="RadioMoldovaTineret.md@SD" tvg-logo="https://i.imgur.com/h2oZuyc.png" tvg-type="live" group-title="🇲🇩 Moldávia | Entretenimento",Radio Moldova Tineret
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
-#EXTINF:-1 tvg-id="Moldova1.md@SD" tvg-logo="https://i.imgur.com/ZbQY56v.png" group-title="🇲🇩 Moldávia | Geral",Moldova 1
+#EXTINF:-1 tvg-id="Moldova1.md@SD" tvg-logo="https://i.imgur.com/ZbQY56v.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1 tvg-id="Moldova2.md@SD" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="🇲🇩 Moldávia | Geral",Moldova 2
+#EXTINF:-1 tvg-id="Moldova2.md@SD" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="🇲🇩 Moldávia | Geral",Moldova TV
+#EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",Moldova TV
 https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" group-title="🇲🇩 Moldávia | Geral",Moldova TV
+#EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-logo="https://i.imgur.com/gPMlDCP.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",Moldova TV
 http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="N4.md@SD" tvg-logo="https://i.imgur.com/W9UwCv7.png" group-title="🇲🇩 Moldávia | Geral",N4
+#EXTINF:-1 tvg-id="N4.md@SD" tvg-logo="https://i.imgur.com/W9UwCv7.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",N4
 https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
-#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="🇲🇩 Moldávia | Geral",PRO TV Chisinau
+#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
-#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" group-title="🇲🇩 Moldávia | Geral",PRO TV Chisinau
+#EXTINF:-1 tvg-id="PROTVChisinau.md@SD" tvg-logo="https://i.imgur.com/X5PYRxF.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",PRO TV Chisinau
 http://178.76.68.60:7442/15/mpegts
-#EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" group-title="🇲🇩 Moldávia | Geral",Sor TV
+#EXTINF:-1 tvg-id="SorTV.md@SD" tvg-logo="https://i.imgur.com/BcfZgD8.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",Sor TV
 http://188.237.212.16:8888/live/cameraFeed.m3u8
-#EXTINF:-1 tvg-id="TSV.md@SD" tvg-logo="https://i.imgur.com/6p4weSK.png" group-title="🇲🇩 Moldávia | Geral",TSV
+#EXTINF:-1 tvg-id="TSV.md@SD" tvg-logo="https://i.imgur.com/6p4weSK.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",TSV
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 tvg-id="TVRMoldova.md@SD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="🇲🇩 Moldávia | Geral",TVR Moldova
+#EXTINF:-1 tvg-id="TVRMoldova.md@SD" tvg-logo="https://i.imgur.com/wDe9gL2.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",TVR Moldova
 https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
-#EXTINF:-1 tvg-id="TVRMoldova.md@HD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="🇲🇩 Moldávia | Geral",TVR Moldova HD
+#EXTINF:-1 tvg-id="TVRMoldova.md@HD" tvg-logo="https://i.imgur.com/wDe9gL2.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",TVR Moldova HD
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVRMoldova.md@HD" tvg-logo="https://i.imgur.com/wDe9gL2.png" group-title="🇲🇩 Moldávia | Geral",TVR Moldova HD
+#EXTINF:-1 tvg-id="TVRMoldova.md@HD" tvg-logo="https://i.imgur.com/wDe9gL2.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",TVR Moldova HD
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="🇲🇩 Moldávia | Geral",Vocea Basarabiei TV
+#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",Vocea Basarabiei TV
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
-#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" group-title="🇲🇩 Moldávia | Geral",Vocea Basarabiei TV
+#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md@SD" tvg-logo="https://i.imgur.com/irP8QLs.png" tvg-type="live" group-title="🇲🇩 Moldávia | Geral",Vocea Basarabiei TV
 https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
-#EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="🇲🇩 Moldávia | Legislativo",Privesc.Eu TV
+#EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" tvg-type="live" group-title="🇲🇩 Moldávia | Legislativo",Privesc.Eu TV
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-logo="https://i.imgur.com/Ul4IIfX.png" group-title="🇲🇩 Moldávia | Notícias",Rlive TV
+#EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-logo="https://i.imgur.com/Ul4IIfX.png" tvg-type="live" group-title="🇲🇩 Moldávia | Notícias",Rlive TV
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 tvg-id="TV8.md@SD" tvg-logo="https://i.imgur.com/Rsn4oUh.png" group-title="🇲🇩 Moldávia | Notícias",TV8
+#EXTINF:-1 tvg-id="TV8.md@SD" tvg-logo="https://i.imgur.com/Rsn4oUh.png" tvg-type="live" group-title="🇲🇩 Moldávia | Notícias",TV8
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
-#EXTINF:-1 tvg-id="TV8.md@SD" tvg-logo="https://i.imgur.com/Rsn4oUh.png" group-title="🇲🇩 Moldávia | Notícias",TV8
+#EXTINF:-1 tvg-id="TV8.md@SD" tvg-logo="https://i.imgur.com/Rsn4oUh.png" tvg-type="live" group-title="🇲🇩 Moldávia | Notícias",TV8
 http://178.76.68.60:7442/7/mpegts

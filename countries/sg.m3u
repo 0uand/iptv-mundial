@@ -1,43 +1,43 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-logo="https://i.imgur.com/9MzEjoY.png" group-title="🇸🇬 Singapura | Entretenimento",Channel U
+#EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-logo="https://i.imgur.com/9MzEjoY.png" tvg-type="live" group-title="🇸🇬 Singapura | Entretenimento",Channel U
 https://cdn.qd.je/163189/chu
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" tvg-logo="https://i.imgur.com/ppxUDxB.png" group-title="🇸🇬 Singapura | Entretenimento",meWATCH LIVE 1
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" tvg-logo="https://i.imgur.com/ppxUDxB.png" tvg-type="live" group-title="🇸🇬 Singapura | Entretenimento",meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="🇸🇬 Singapura | Entretenimento",ROCK Action
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-type="live" group-title="🇸🇬 Singapura | Entretenimento",ROCK Action
 http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg@HD" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="🇸🇬 Singapura | Entretenimento",ROCK Entertainment HD
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg@HD" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-type="live" group-title="🇸🇬 Singapura | Entretenimento",ROCK Entertainment HD
 http://58.8.186.128:10006/bysid/2612
-#EXTINF:-1 tvg-id="ROCKXStream.sg@HD" tvg-logo="https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp" group-title="🇸🇬 Singapura | Entretenimento",ROCK X Stream
+#EXTINF:-1 tvg-id="ROCKXStream.sg@HD" tvg-logo="https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp" tvg-type="live" group-title="🇸🇬 Singapura | Entretenimento",ROCK X Stream
 http://58.8.186.128:10007/bysid/2811
-#EXTINF:-1 tvg-id="AniplusAsia.sg@SD" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="🇸🇬 Singapura | Animação",Aniplus Asia
+#EXTINF:-1 tvg-id="AniplusAsia.sg@SD" tvg-logo="https://i.imgur.com/Im3MePy.png" tvg-type="live" group-title="🇸🇬 Singapura | Animação",Aniplus Asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://i.imgur.com/hlFQTrB.png" group-title="🇸🇬 Singapura | Documentários",CNA Originals
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://i.imgur.com/hlFQTrB.png" tvg-type="live" group-title="🇸🇬 Singapura | Documentários",CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://i.imgur.com/hlFQTrB.png" group-title="🇸🇬 Singapura | Documentários",CNA Originals
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://i.imgur.com/hlFQTrB.png" tvg-type="live" group-title="🇸🇬 Singapura | Documentários",CNA Originals
 https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="🇸🇬 Singapura | Filmes",AXN Asia Taiwan
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",AXN Asia Taiwan
 http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 tvg-id="AXNAsia.sg@Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="🇸🇬 Singapura | Filmes",AXN Asia Thailand
+#EXTINF:-1 tvg-id="AXNAsia.sg@Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",AXN Asia Thailand
 http://58.8.186.128:10007/bysid/2814
-#EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-logo="https://i.imgur.com/kyE3vXf.png" group-title="🇸🇬 Singapura | Filmes",HITS Movies
+#EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-logo="https://i.imgur.com/kyE3vXf.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HITS Movies
 http://103.151.60.162:2122/play/a01h/index.m3u8?hls
-#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://i.ibb.co/fYdZm7sS/IMG-2459.png" group-title="🇸🇬 Singapura | Geral",Channel 5
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://i.ibb.co/fYdZm7sS/IMG-2459.png" tvg-type="live" group-title="🇸🇬 Singapura | Geral",Channel 5
 https://cdn.qd.je/163189/ch5
-#EXTINF:-1 tvg-id="Channel8.sg@SD" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="🇸🇬 Singapura | Geral",Channel 8
+#EXTINF:-1 tvg-id="Channel8.sg@SD" tvg-logo="https://i.imgur.com/6YPZc24.png" tvg-type="live" group-title="🇸🇬 Singapura | Geral",Channel 8
 https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" group-title="🇸🇬 Singapura | Geral",Zee TV Asia Pacific
+#EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" tvg-type="live" group-title="🇸🇬 Singapura | Geral",Zee TV Asia Pacific
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="🇸🇬 Singapura | Infantil",Nick Jr. Asia
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nick Jr. Asia
 http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="🇸🇬 Singapura | Infantil",Nick Jr. Asia HD
+#EXTINF:-1 tvg-id="NickJrAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nick Jr. Asia HD
 http://58.8.186.128:10003/bysid/2330
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇸🇬 Singapura | Infantil",Nickelodeon Asia
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nickelodeon Asia
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="🇸🇬 Singapura | Infantil",ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",ZooMoo
 http://168.196.127.137:6001/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" group-title="🇸🇬 Singapura | Negócios",CNBC Asia
+#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" tvg-type="live" group-title="🇸🇬 Singapura | Negócios",CNBC Asia
 http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
-#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="🇸🇬 Singapura | Notícias",CNA International
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-type="live" group-title="🇸🇬 Singapura | Notícias",CNA International
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" tvg-logo="https://i.imgur.com/5nlmJIw.png" group-title="🇸🇬 Singapura | Viagem",Global Trekker
+#EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" tvg-logo="https://i.imgur.com/5nlmJIw.png" tvg-type="live" group-title="🇸🇬 Singapura | Viagem",Global Trekker
 http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8

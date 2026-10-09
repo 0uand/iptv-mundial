@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="ScorchTV.tt@SD" tvg-logo="https://i.imgur.com/CNszwj1.png" group-title="🇹🇹 Trinidad e Tobago | Música",Scorch TV
+#EXTINF:-1 tvg-id="ScorchTV.tt@SD" tvg-logo="https://i.imgur.com/CNszwj1.png" tvg-type="live" group-title="🇹🇹 Trinidad e Tobago | Música",Scorch TV
 https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="BizzTV.tt@SD" tvg-logo="https://i.imgur.com/UxHaJNR.png" group-title="🇹🇹 Trinidad e Tobago | Estilo de vida",Bizz TV
+#EXTINF:-1 tvg-id="BizzTV.tt@SD" tvg-logo="https://i.imgur.com/UxHaJNR.png" tvg-type="live" group-title="🇹🇹 Trinidad e Tobago | Estilo de vida",Bizz TV
 https://stream.bizzmedia.biz/bizz_tv/index.m3u8

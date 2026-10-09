@@ -47,6 +47,12 @@ with ThreadPoolExecutor(max_workers=3) as ex:
     results = list(ex.map(resolve, rows))
 
 live = [r for r in results if r.get("hls")]
+# proteção: se esta rodada resolveu menos da metade da anterior (ex.: bloqueio do YouTube no runner),
+# mantém a lista anterior em vez de publicar uma pior
+prev = json.load(open(STATE, encoding="utf-8")) if os.path.exists(STATE) else {}
+if len(live) < max(1, len(prev.get("live", [])) // 2) and os.path.exists(OUT):
+    print(f"ABORTADO: só {len(live)} lives resolvidas (antes: {len(prev.get('live', []))}); mantendo youtube.m3u anterior")
+    sys.exit(0)
 now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 with open(OUT, "w", encoding="utf-8") as f:
     f.write('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"\n')

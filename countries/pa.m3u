@@ -1,35 +1,35 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="CorazonTV.pa@SD" tvg-logo="https://i.imgur.com/HVdbXku.png" group-title="🇵🇦 Panamá | Música",Corazon TV
+#EXTINF:-1 tvg-id="CorazonTV.pa@SD" tvg-logo="https://i.imgur.com/HVdbXku.png" tvg-type="live" group-title="🇵🇦 Panamá | Música",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
-#EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa@SD" tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="🇵🇦 Panamá | Música",Fabulosa Estéreo 100.5 FM
+#EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa@SD" tvg-logo="https://i.imgur.com/YFmzkOp.png" tvg-type="live" group-title="🇵🇦 Panamá | Música",Fabulosa Estéreo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-#EXTINF:-1 tvg-id="LaXitosaPanama.pa@SD" tvg-logo="https://i.imgur.com/Pt4F9Xz.png" group-title="🇵🇦 Panamá | Música",LaXitosa Panamá
+#EXTINF:-1 tvg-id="LaXitosaPanama.pa@SD" tvg-logo="https://i.imgur.com/Pt4F9Xz.png" tvg-type="live" group-title="🇵🇦 Panamá | Música",LaXitosa Panamá
 https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
-#EXTINF:-1 tvg-id="Mas23TV.pa@SD" tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="🇵🇦 Panamá | Música",Mas23 TV
+#EXTINF:-1 tvg-id="Mas23TV.pa@SD" tvg-logo="https://i.imgur.com/y0h8dlX.png" tvg-type="live" group-title="🇵🇦 Panamá | Música",Mas23 TV
 https://movil.ejeserver.com/live/mas23tv.m3u8
-#EXTINF:-1 tvg-id="PindinTV.pa@SD" tvg-logo="https://i.imgur.com/UaQC0l8.jpeg" group-title="🇵🇦 Panamá | Música",Pindin TV
+#EXTINF:-1 tvg-id="PindinTV.pa@SD" tvg-logo="https://i.imgur.com/UaQC0l8.jpeg" tvg-type="live" group-title="🇵🇦 Panamá | Música",Pindin TV
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
-#EXTINF:-1 tvg-id="Planet1009FM.pa@SD" tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="🇵🇦 Panamá | Música",Planet 100.9 FM
+#EXTINF:-1 tvg-id="Planet1009FM.pa@SD" tvg-logo="https://i.imgur.com/8ZIBs8l.png" tvg-type="live" group-title="🇵🇦 Panamá | Música",Planet 100.9 FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperQPanama.pa@SD" tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="🇵🇦 Panamá | Música",Súper Q Panamá
+#EXTINF:-1 tvg-id="SuperQPanama.pa@SD" tvg-logo="https://i.imgur.com/ocTnqi7.png" tvg-type="live" group-title="🇵🇦 Panamá | Música",Súper Q Panamá
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
-#EXTINF:-1 tvg-id="TropiQ997FM.pa@SD" tvg-logo="https://i.imgur.com/5rPdHhb.png" group-title="🇵🇦 Panamá | Música",Tropi Q 99.7 FM
+#EXTINF:-1 tvg-id="TropiQ997FM.pa@SD" tvg-logo="https://i.imgur.com/5rPdHhb.png" tvg-type="live" group-title="🇵🇦 Panamá | Música",Tropi Q 99.7 FM
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
-#EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa@SD" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="🇵🇦 Panamá | Música",Tropical Moon Cumbia TV
+#EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa@SD" tvg-logo="https://i.imgur.com/jL1kLyS.png" tvg-type="live" group-title="🇵🇦 Panamá | Música",Tropical Moon Cumbia TV
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMax.pa@SD" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="🇵🇦 Panamá | Entretenimento",TVMAX
+#EXTINF:-1 tvg-id="TVMax.pa@SD" tvg-logo="https://i.imgur.com/XcrkfGh.png" tvg-type="live" group-title="🇵🇦 Panamá | Entretenimento",TVMAX
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="BTVPanama.pa@SD" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="🇵🇦 Panamá | Geral",BTV Panamá
+#EXTINF:-1 tvg-id="BTVPanama.pa@SD" tvg-logo="https://i.imgur.com/CiYVtgB.png" tvg-type="live" group-title="🇵🇦 Panamá | Geral",BTV Panamá
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
-#EXTINF:-1 tvg-id="NexTVCanal21.pa@SD" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="🇵🇦 Panamá | Geral",Nex TV Canal 21
+#EXTINF:-1 tvg-id="NexTVCanal21.pa@SD" tvg-logo="https://i.imgur.com/QQBd052.png" tvg-type="live" group-title="🇵🇦 Panamá | Geral",Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
-#EXTINF:-1 tvg-id="Telemetro.pa@SD" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="🇵🇦 Panamá | Geral",Telemetro
+#EXTINF:-1 tvg-id="Telemetro.pa@SD" tvg-logo="https://i.imgur.com/vJJrGgV.png" tvg-type="live" group-title="🇵🇦 Panamá | Geral",Telemetro
 http://181.78.121.15:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="TropicalMoonEventosTV.pa@SD" tvg-logo="https://i.imgur.com/RklPmml.png" group-title="🇵🇦 Panamá | Geral",Tropical Moon Eventos TV
+#EXTINF:-1 tvg-id="TropicalMoonEventosTV.pa@SD" tvg-logo="https://i.imgur.com/RklPmml.png" tvg-type="live" group-title="🇵🇦 Panamá | Geral",Tropical Moon Eventos TV
 https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN.pa@SD" tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="🇵🇦 Panamá | Geral",TVN
+#EXTINF:-1 tvg-id="TVN.pa@SD" tvg-logo="https://i.imgur.com/tGeHwxd.png" tvg-type="live" group-title="🇵🇦 Panamá | Geral",TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="PlusTV.pa@SD" tvg-logo="https://i.imgur.com/MmpwhAG.png" group-title="🇵🇦 Panamá | Notícias",Plus TV
+#EXTINF:-1 tvg-id="PlusTV.pa@SD" tvg-logo="https://i.imgur.com/MmpwhAG.png" tvg-type="live" group-title="🇵🇦 Panamá | Notícias",Plus TV
 https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioAncon.pa@SD" tvg-logo="https://i.imgur.com/xum8PNe.jpg" group-title="🇵🇦 Panamá | Notícias",Radio Ancón
+#EXTINF:-1 tvg-id="RadioAncon.pa@SD" tvg-logo="https://i.imgur.com/xum8PNe.jpg" tvg-type="live" group-title="🇵🇦 Panamá | Notícias",Radio Ancón
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8

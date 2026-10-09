@@ -1,116 +1,116 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="Famatv.pt@SD" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="🇵🇹 Portugal | Música",Famatv
+#EXTINF:-1 tvg-id="Famatv.pt@SD" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" tvg-type="live" group-title="🇵🇹 Portugal | Música",Famatv
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt@SD" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="🇵🇹 Portugal | Música",Kuriakos Music
+#EXTINF:-1 tvg-id="KuriakosMusic.pt@SD" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" tvg-type="live" group-title="🇵🇹 Portugal | Música",Kuriakos Music
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NPCRadioeTV.pt@SD" tvg-logo="https://i.imgur.com/mw1lYWE.png" group-title="🇵🇹 Portugal | Música",NPC Rádio e TV
+#EXTINF:-1 tvg-id="NPCRadioeTV.pt@SD" tvg-logo="https://i.imgur.com/mw1lYWE.png" tvg-type="live" group-title="🇵🇹 Portugal | Música",NPC Rádio e TV
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
-#EXTINF:-1 tvg-id="ONFM.pt@SD" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="🇵🇹 Portugal | Música",ON FM
+#EXTINF:-1 tvg-id="ONFM.pt@SD" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" tvg-type="live" group-title="🇵🇹 Portugal | Música",ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RFPtv.pt@SD" tvg-logo="https://i.imgur.com/I60nQuR.png" group-title="🇵🇹 Portugal | Música",RFPtv
+#EXTINF:-1 tvg-id="RFPtv.pt@SD" tvg-logo="https://i.imgur.com/I60nQuR.png" tvg-type="live" group-title="🇵🇹 Portugal | Música",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="🇵🇹 Portugal | Entretenimento",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Entretenimento",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/fox.m3u8
-#EXTINF:-1 tvg-id="TVIReality.pt@SD" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="🇵🇹 Portugal | Entretenimento",TVI Reality
+#EXTINF:-1 tvg-id="TVIReality.pt@SD" tvg-logo="https://i.imgur.com/C9rxqA5.png" tvg-type="live" group-title="🇵🇹 Portugal | Entretenimento",TVI Reality
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
-#EXTINF:-1 tvg-id="StarComedy.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png" group-title="🇵🇹 Portugal | Comédia",Star Comedy
+#EXTINF:-1 tvg-id="StarComedy.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Comédia",Star Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
-#EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="🇵🇹 Portugal | Esportes",Sport TV+
+#EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png" tvg-type="live" group-title="🇵🇹 Portugal | Esportes",Sport TV+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
-#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" group-title="🇵🇹 Portugal | Esportes",Sport TV1
+#EXTINF:-1 tvg-id="SportTV1.pt@SD" tvg-logo="https://i.imgur.com/YWic36u.png" tvg-type="live" group-title="🇵🇹 Portugal | Esportes",Sport TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv1.m3u8
-#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" group-title="🇵🇹 Portugal | Esportes",Sport TV2
+#EXTINF:-1 tvg-id="SportTV2.pt@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png" tvg-type="live" group-title="🇵🇹 Portugal | Esportes",Sport TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv2.m3u8
-#EXTINF:-1 tvg-id="SportTV5.pt@SD" tvg-logo="https://i.imgur.com/4w4vuad.png" group-title="🇵🇹 Portugal | Esportes",Sport TV5
+#EXTINF:-1 tvg-id="SportTV5.pt@SD" tvg-logo="https://i.imgur.com/4w4vuad.png" tvg-type="live" group-title="🇵🇹 Portugal | Esportes",Sport TV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/stv5.m3u8
-#EXTINF:-1 tvg-id="SportTV6.pt@SD" tvg-logo="https://i.imgur.com/qmlQkyI.png" group-title="🇵🇹 Portugal | Esportes",Sport TV6
+#EXTINF:-1 tvg-id="SportTV6.pt@SD" tvg-logo="https://i.imgur.com/qmlQkyI.png" tvg-type="live" group-title="🇵🇹 Portugal | Esportes",Sport TV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://zntx.dyndns.org:8085/hls/stv6.m3u8
-#EXTINF:-1 tvg-id="SportTV7.pt@SD" tvg-logo="https://i.imgur.com/2HmCAm5.png" group-title="🇵🇹 Portugal | Esportes",Sport TV7
+#EXTINF:-1 tvg-id="SportTV7.pt@SD" tvg-logo="https://i.imgur.com/2HmCAm5.png" tvg-type="live" group-title="🇵🇹 Portugal | Esportes",Sport TV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://zntx.dyndns.org:8085/hls/stv7.m3u8
-#EXTINF:-1 tvg-id="StarCrime.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" group-title="🇵🇹 Portugal | Estilo de vida",Star Crime
+#EXTINF:-1 tvg-id="StarCrime.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Estilo de vida",Star Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/foxcrime.m3u8
-#EXTINF:-1 tvg-id="StarLife.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" group-title="🇵🇹 Portugal | Estilo de vida",Star Life
+#EXTINF:-1 tvg-id="StarLife.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Estilo de vida",Star Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/foxlife.m3u8
-#EXTINF:-1 tvg-id="AXN.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="🇵🇹 Portugal | Filmes",AXN
+#EXTINF:-1 tvg-id="AXN.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Filmes",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/axn.m3u8
-#EXTINF:-1 tvg-id="AXN.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="🇵🇹 Portugal | Filmes",AXN
+#EXTINF:-1 tvg-id="AXN.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Filmes",AXN
 http://188.115.15.121:8000/play/a02z
-#EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="🇵🇹 Portugal | Filmes",AXN Movies
+#EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-logo="https://i.imgur.com/tJQckal.png" tvg-type="live" group-title="🇵🇹 Portugal | Filmes",AXN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" group-title="🇵🇹 Portugal | Filmes",Star Movies
+#EXTINF:-1 tvg-id="StarMovies.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Filmes",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/foxm.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt@SD" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="🇵🇹 Portugal | Geral",Porto Canal
+#EXTINF:-1 tvg-id="PortoCanal.pt@SD" tvg-logo="https://i.imgur.com/DwziwMY.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇹 Portugal | Geral",Rakuten Documentários
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇵🇹 Portugal | Geral",Rakuten Documentários
 https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇹 Portugal | Geral",Rakuten Família
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇵🇹 Portugal | Geral",Rakuten Família
 https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" group-title="🇵🇹 Portugal | Geral",RTP 1
+#EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" group-title="🇵🇹 Portugal | Geral",RTP 2
+#EXTINF:-1 tvg-id="RTP2.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="🇵🇹 Portugal | Geral",RTP Açores
+#EXTINF:-1 tvg-id="RTPAcores.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="🇵🇹 Portugal | Geral",RTP Açores
+#EXTINF:-1 tvg-id="RTPAcores.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png" group-title="🇵🇹 Portugal | Geral",RTP Madeira
+#EXTINF:-1 tvg-id="RTPMadeira.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png" group-title="🇵🇹 Portugal | Geral",RTP Memória
+#EXTINF:-1 tvg-id="RTPMemoria.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",RTP Memória
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" group-title="🇵🇹 Portugal | Geral",RTP Mundo
+#EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",RTP Mundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png" group-title="🇵🇹 Portugal | Geral",RTP África
+#EXTINF:-1 tvg-id="RTPAfrica.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",RTP África
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD" tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="🇵🇹 Portugal | Geral",SIC Alta Definição
+#EXTINF:-1 tvg-id="SICAltaDefinicao.pt@SD" tvg-logo="https://i.imgur.com/VdPwyQv.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",SIC Alta Definição
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 tvg-id="SICMulher.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" group-title="🇵🇹 Portugal | Geral",SIC Mulher
+#EXTINF:-1 tvg-id="SICMulher.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",SIC Mulher
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://zntx.dyndns.org:8085/hls/sicm.m3u8
-#EXTINF:-1 tvg-id="SICRadical.pt@SD" tvg-logo="https://i.imgur.com/6g0obyk.png" group-title="🇵🇹 Portugal | Geral",SIC Radical
+#EXTINF:-1 tvg-id="SICRadical.pt@SD" tvg-logo="https://i.imgur.com/6g0obyk.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",SIC Radical
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/sicr.m3u8
-#EXTINF:-1 tvg-id="SICReplay.pt@SD" tvg-logo="https://i.imgur.com/fj84mXz.png" group-title="🇵🇹 Portugal | Geral",SIC Replay
+#EXTINF:-1 tvg-id="SICReplay.pt@SD" tvg-logo="https://i.imgur.com/fj84mXz.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="🇵🇹 Portugal | Geral",TVI
+#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
-#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="🇵🇹 Portugal | Geral",TVI
+#EXTINF:-1 tvg-id="TVI.pt@SD" tvg-logo="https://i.imgur.com/H8Tgl7m.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",TVI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://zntx.dyndns.org:8085/hls/tvi.m3u8
-#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="🇵🇹 Portugal | Geral",V+ TVI
+#EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" tvg-type="live" group-title="🇵🇹 Portugal | Geral",V+ TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="🇵🇹 Portugal | Infantil",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇵🇹 Portugal | Infantil",Disney Channel
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="🇵🇹 Portugal | Infantil",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇵🇹 Portugal | Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://zntx.dyndns.org:8085/hls/disney.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="🇵🇹 Portugal | Legislativo",ARTV Canal Parlamento
+#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-type="live" group-title="🇵🇹 Portugal | Legislativo",ARTV Canal Parlamento
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="🇵🇹 Portugal | Notícias",RTP Noticias
+#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Notícias",RTP Noticias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="🇵🇹 Portugal | Notícias",RTP Noticias
+#EXTINF:-1 tvg-id="RTPNoticias.pt@SD" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" tvg-type="live" group-title="🇵🇹 Portugal | Notícias",RTP Noticias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="🇵🇹 Portugal | Séries",TVI Ficção
+#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" tvg-type="live" group-title="🇵🇹 Portugal | Séries",TVI Ficção
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8

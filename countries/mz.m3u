@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="TVVitoria.mz@SD" tvg-logo="https://i.imgur.com/HlWzzfj.png" group-title="🇲🇿 Moçambique | Entretenimento",TV Vitória
+#EXTINF:-1 tvg-id="TVVitoria.mz@SD" tvg-logo="https://i.imgur.com/HlWzzfj.png" tvg-type="live" group-title="🇲🇿 Moçambique | Entretenimento",TV Vitória
 https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="🇲🇿 Moçambique | Geral",TVM
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="🇲🇿 Moçambique | Geral",TVM
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="🇲🇿 Moçambique | Geral",TVM
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM
 https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMInternacional.mz@SD" tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="🇲🇿 Moçambique | Geral",TVM Internacional
+#EXTINF:-1 tvg-id="TVMInternacional.mz@SD" tvg-logo="https://i.imgur.com/fRV6p50.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM Internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-logo="https://i.imgur.com/oAygpDw.png" group-title="🇲🇿 Moçambique | Infantil",Reino Infantil
+#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-type="live" group-title="🇲🇿 Moçambique | Infantil",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
-#EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" group-title="🇲🇿 Moçambique | Negócios",MNTV
+#EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" tvg-type="live" group-title="🇲🇿 Moçambique | Negócios",MNTV
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8

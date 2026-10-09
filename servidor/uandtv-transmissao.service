@@ -1,0 +1,19 @@
+# /etc/systemd/system/uandtv-transmissao.service — mantém a transmissão no ar 24h
+[Unit]
+Description=uandtv — transmissão HLS 24h
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=uandtv
+Group=uandtv
+Environment=UANDTV_BASE=/srv/uandtv
+Environment=UANDTV_WWW=/var/www/uandtv
+ExecStartPre=/bin/sh -c 'rm -f /var/www/uandtv/seg_*.ts /var/www/uandtv/live.m3u8'
+ExecStart=/srv/uandtv/bin/transmitir.sh
+Restart=always
+RestartSec=3
+Nice=-5
+
+[Install]
+WantedBy=multi-user.target

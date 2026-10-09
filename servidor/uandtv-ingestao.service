@@ -1,0 +1,13 @@
+# /etc/systemd/system/uandtv-ingestao.service — ingere o que houver de novo em programacao.txt
+[Unit]
+Description=uandtv — ingestão da programação
+
+[Service]
+Type=oneshot
+User=uandtv
+Group=uandtv
+Environment=UANDTV_BASE=/srv/uandtv
+ExecStart=/srv/uandtv/bin/ingerir.sh
+# se a lista mudou, reinicia a transmissão para ela pegar a nova ordem (corte de ~3 s)
+ExecStartPost=/srv/uandtv/bin/reiniciar-se-mudou.sh
+Nice=15

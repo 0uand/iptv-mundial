@@ -1,0 +1,8 @@
+# uandtv — PROGRAMAÇÃO. Uma linha por vídeo, na ordem em que vão ao ar (loop infinito).
+# Aceita: URL (YouTube, Vimeo, Internet Archive… tudo que o yt-dlp abre) ou caminho local (/srv/uandtv/meus/video.mp4).
+# Só entra aqui conteúdo que você tem direito de reencodar e redistribuir (ver README).
+# Linhas com # são ignoradas. Depois de editar: sudo -u uandtv /srv/uandtv/bin/ingerir.sh (ou espere o timer horário).
+
+# Exemplo de domínio público (Internet Archive) — troque pela sua grade:
+https://archive.org/details/Plan_9_from_Outer_Space_1959
+https://archive.org/details/night_of_the_living_dead

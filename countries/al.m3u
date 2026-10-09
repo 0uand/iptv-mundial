@@ -1,0 +1,49 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="🇦🇱 Albânia | Esportes",RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-logo="https://i.imgur.com/88kRsW3.png" group-title="🇦🇱 Albânia | Filmes",RTSH Shqip
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="🇦🇱 Albânia | Geral",Alpo TV
+https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
+#EXTINF:-1 tvg-id="FieriTv.al" tvg-logo="https://raw.githubusercontent.com/biptv/fieri-tv-logo/main/120.png" group-title="🇦🇱 Albânia | Geral",Fieri Tv
+http://valashop.online:8090/fieritv.m3u8
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="🇦🇱 Albânia | Geral",RTSH 1
+http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH2.al" tvg-logo="https://i.imgur.com/AZ43XZn.png" group-title="🇦🇱 Albânia | Geral",RTSH 2
+http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-logo="https://i.imgur.com/D3hNOVS.png" group-title="🇦🇱 Albânia | Geral",Tropoja Televizion
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJohaniter.al" tvg-logo="https://i.imgur.com/Zo9lJgP.png" group-title="🇦🇱 Albânia | Geral",TV Johaniter
+https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png" group-title="🇦🇱 Albânia | Geral",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="🇦🇱 Albânia | Geral",Zjarr TV
+https://zjarr.future.al/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Cufo.al" tvg-logo="https://i.imgur.com/GbBHtwD.png" group-title="🇦🇱 Albânia | Infantil",Cufo
+https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="🇦🇱 Albânia | Música",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="🇦🇱 Albânia | Música",AlbKanale Music TV
+https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" group-title="🇦🇱 Albânia | Notícias",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="CNA.al" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" group-title="🇦🇱 Albânia | Notícias",CNA
+https://live1.mediadesk.al/cnatv.php
+#EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="🇦🇱 Albânia | Notícias",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="🇦🇱 Albânia | Notícias",News 24 Albania
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.al" tvg-logo="https://i.imgur.com/gtZLzxq.png" group-title="🇦🇱 Albânia | Notícias",ntv
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+#EXTINF:-1 tvg-id="OraNews.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png" group-title="🇦🇱 Albânia | Notícias",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/960px-Panorama_logo.svg.png" group-title="🇦🇱 Albânia | Notícias",Panorama TV
+https://159.69.221.56/panorama/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="🇦🇱 Albânia | Notícias",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-logo="https://i.imgur.com/H6tCoGW.png" group-title="🇦🇱 Albânia | Notícias",RTSH 24
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+#EXTINF:-1 tvg-id="Syri.al" tvg-logo="https://i.imgur.com/EEHyKdL.jpeg" group-title="🇦🇱 Albânia | Notícias",Syri
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-logo="https://i.imgur.com/tL1n9mh.png" group-title="🇦🇱 Albânia | Religioso",TV 7 Albania
+https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8

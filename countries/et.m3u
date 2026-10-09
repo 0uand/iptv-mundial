@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="EBS.us" tvg-logo="https://i.imgur.com/zqbK2IB.png" group-title="🇪🇹 Etiópia | Cultura",EBS HD
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 tvg-id="EBSCinema.us" tvg-logo="https://i.imgur.com/fewPTFE.png" group-title="🇪🇹 Etiópia | Filmes",EBS Cinema
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 tvg-id="AddisTV.et" tvg-logo="https://i.imgur.com/kqHWrZ9.png" group-title="🇪🇹 Etiópia | Geral",Addis TV
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSMusika.us" tvg-logo="https://i.imgur.com/lSpplhD.png" group-title="🇪🇹 Etiópia | Música",EBS Musika
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1 tvg-id="MerejaTV.et" tvg-logo="https://i.imgur.com/PaAacxF.png" group-title="🇪🇹 Etiópia | Notícias",Mereja TV
+https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
+#EXTINF:-1 tvg-id="MerejaTV.et" tvg-logo="https://i.imgur.com/PaAacxF.png" group-title="🇪🇹 Etiópia | Notícias",Mereja TV
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NesihaTV.et" tvg-logo="https://i.imgur.com/rqEyzjE.png" group-title="🇪🇹 Etiópia | Religioso",Nesiha TV
+https://stream.cisk.tech/nasihatv/index.m3u8

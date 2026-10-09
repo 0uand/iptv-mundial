@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="TVUFOP.br" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" group-title="🇧🇷 Brasil | Pública",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="3CatCameresdeltemps.es" tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="🇪🇸 Espanha | Pública",3Cat Càmeres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="🇪🇸 Espanha | Pública",Esport3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="🇪🇸 Espanha | Pública",Esport3
+https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB1On.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg" group-title="🇪🇸 Espanha | Pública",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.m3u8
+#EXTINF:-1 tvg-id="ETB1On.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg" group-title="🇪🇸 Espanha | Pública",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.mpd

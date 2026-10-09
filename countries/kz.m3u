@@ -1,0 +1,132 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="AbaiTV.kz" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="🇰🇿 Cazaquistão | Cultura",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="AbaiTV.kz" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="🇰🇿 Cazaquistão | Cultura",Abai TV
+https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="🇰🇿 Cazaquistão | Educação",Manas TV
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="QonaevMedia.kz" tvg-logo="https://i.imgur.com/JLlqgdp.png" group-title="🇰🇿 Cazaquistão | Entretenimento",Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="🇰🇿 Cazaquistão | Esportes",QazSport
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="🇰🇿 Cazaquistão | Esportes",QazSport
+https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="SportPlusQazaqstan.kz" tvg-logo="https://i.imgur.com/vIV7x6n.png" group-title="🇰🇿 Cazaquistão | Esportes",Sport+ Qazaqstan
+https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KinoBoevik.kz" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png" group-title="🇰🇿 Cazaquistão | Filmes",KinoBoevik
+https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Mirovoekino.kz" tvg-logo="https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_65c24031d8bec399a7aa2226.png" group-title="🇰🇿 Cazaquistão | Filmes",Mirovoe kino
+https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="31Kanal.kz" tvg-logo="https://31.kz/noimage.png" group-title="🇰🇿 Cazaquistão | Geral",31 Kanal
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 tvg-id="31Kanal.kz" tvg-logo="https://31.kz/noimage.png" group-title="🇰🇿 Cazaquistão | Geral",31 Kanal
+#EXTVLCOPT:http-referrer=https://31.kz/
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
+#EXTINF:-1 tvg-id="31Kanal.kz" tvg-logo="https://31.kz/noimage.png" group-title="🇰🇿 Cazaquistão | Geral",31 Kanal
+https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="AlauTV.kz" tvg-logo="https://i.imgur.com/gK6ZRzp.png" group-title="🇰🇿 Cazaquistão | Geral",Alau TV
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-logo="https://i.imgur.com/Mjqwt8C.png" group-title="🇰🇿 Cazaquistão | Geral",Almaty TV
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Aqjaiyq.kz" tvg-logo="https://i.imgur.com/ZqIzzmf.png" group-title="🇰🇿 Cazaquistão | Geral",Aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 tvg-id="Aqtobe.kz" tvg-logo="https://i.imgur.com/csKl1z6.png" group-title="🇰🇿 Cazaquistão | Geral",Aqtóbe
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-id="AstanaTV.kz" tvg-logo="https://i.imgur.com/j4HfVK0.png" group-title="🇰🇿 Cazaquistão | Geral",Astana TV
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 tvg-id="AstanaTV.kz" tvg-logo="https://i.imgur.com/j4HfVK0.png" group-title="🇰🇿 Cazaquistão | Geral",Astana TV
+https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Atyray.kz" tvg-logo="https://i.imgur.com/kva4O3T.png" group-title="🇰🇿 Cazaquistão | Geral",Atyraý
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 tvg-id="Channel7.kz" tvg-logo="https://i.imgur.com/LebKU09.png" group-title="🇰🇿 Cazaquistão | Geral",Channel 7
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1 tvg-id="Channel7.kz" tvg-logo="https://i.imgur.com/LebKU09.png" group-title="🇰🇿 Cazaquistão | Geral",Channel 7
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz" tvg-logo="https://i.imgur.com/vm5sJHP.png" group-title="🇰🇿 Cazaquistão | Geral",Channel One Eurasia
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Ertis.kz" tvg-logo="https://i.imgur.com/tghMiwW.png" group-title="🇰🇿 Cazaquistão | Geral",Ertis
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 tvg-id="Jambyl.kz" tvg-logo="https://i.imgur.com/X7N3JK4.png" group-title="🇰🇿 Cazaquistão | Geral",Jambyl
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 tvg-id="JibekJoly.kz" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="🇰🇿 Cazaquistão | Geral",Jibek Joly
+https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="JibekJoly.kz" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="🇰🇿 Cazaquistão | Geral",Jibek Joly HD
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Khabar.kz" tvg-logo="https://i.imgur.com/upZ0Cuu.png" group-title="🇰🇿 Cazaquistão | Geral",Khabar
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="🇰🇿 Cazaquistão | Geral",KTK
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="🇰🇿 Cazaquistão | Geral",KTK
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="🇰🇿 Cazaquistão | Geral",KTK HD
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="🇰🇿 Cazaquistão | Geral",KTK HD
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kokshe.kz" tvg-logo="https://i.imgur.com/pOR3FSR.png" group-title="🇰🇿 Cazaquistão | Geral",Kókshe
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 tvg-id="Mangystay.kz" tvg-logo="https://i.imgur.com/9JfLseu.png" group-title="🇰🇿 Cazaquistão | Geral",Mańǵystaý
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 tvg-id="MTRK.kz" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="🇰🇿 Cazaquistão | Geral",MTRK
+https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="🇰🇿 Cazaquistão | Geral",Novoe televidenie
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="🇰🇿 Cazaquistão | Geral",Novoe televidenie
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NTK.kz" tvg-logo="https://i.imgur.com/hHSCH4L.png" group-title="🇰🇿 Cazaquistão | Geral",NTK
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 tvg-id="NTK.kz" tvg-logo="https://i.imgur.com/hHSCH4L.png" group-title="🇰🇿 Cazaquistão | Geral",NTK
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Ontustik.kz" tvg-logo="https://i.imgur.com/xqr1hjN.png" group-title="🇰🇿 Cazaquistão | Geral",Ontústik
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan
+#EXTVLCOPT:http-referrer=https://megogo.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan HD
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan HD
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Qostanai.kz" tvg-logo="https://i.imgur.com/eOz4xJ8.png" group-title="🇰🇿 Cazaquistão | Geral",Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 tvg-id="Qyzyljar.kz" tvg-logo="https://i.imgur.com/7l1WSDJ.png" group-title="🇰🇿 Cazaquistão | Geral",Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 tvg-id="Qyzylorda.kz" tvg-logo="https://i.imgur.com/r4BFQpE.png" group-title="🇰🇿 Cazaquistão | Geral",Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 tvg-id="RikaTV.kz" tvg-logo="https://i.imgur.com/KJHWZ3B.png" group-title="🇰🇿 Cazaquistão | Geral",Rika TV
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Saryarqa.kz" tvg-logo="https://i.imgur.com/EIXwi1c.png" group-title="🇰🇿 Cazaquistão | Geral",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 tvg-id="Semei.kz" tvg-logo="https://i.ibb.co/P9V0532/Captura.png" group-title="🇰🇿 Cazaquistão | Geral",Semeı
+#EXTVLCOPT:http-referrer=https://qazaqstan.tv/
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-id="SilkWay.kz" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="🇰🇿 Cazaquistão | Geral",Silk Way
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+#EXTINF:-1 tvg-id="TDK42.kz" tvg-logo="https://i.imgur.com/iVhdcS7.png" group-title="🇰🇿 Cazaquistão | Geral",TDK 42
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TuranTV.kz" tvg-logo="https://i.imgur.com/VagTPMo.png" group-title="🇰🇿 Cazaquistão | Geral",Turan TV
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Ulytau.kz" tvg-logo="https://i.imgur.com/jTL6TvC.png" group-title="🇰🇿 Cazaquistão | Geral",Ulytau
+https://ulytau.tv/hls/master.m3u8
+#EXTINF:-1 tvg-id="MTRK.kz" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="🇰🇿 Cazaquistão | Geral",МТРК
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="🇰🇿 Cazaquistão | Geral",Новое телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="🇰🇿 Cazaquistão | Infantil",Balapan
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="🇰🇿 Cazaquistão | Infantil",Balapan HD
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BalapanInternational.kz" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" group-title="🇰🇿 Cazaquistão | Infantil",Balapan International
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-logo="https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png" group-title="🇰🇿 Cazaquistão | Infantil",Nickelodeon CIS
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 tvg-id="MuzzOne.kz" tvg-logo="https://i.imgur.com/nHVABXh.png" group-title="🇰🇿 Cazaquistão | Música",MuzzOne
+#EXTVLCOPT:http-referrer=https://muzzone.tv/
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-logo="https://i.imgur.com/CfRvm8i.png" group-title="🇰🇿 Cazaquistão | Negócios",Atameken Business
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="24KZ.kz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/24KZ2023.svg" group-title="🇰🇿 Cazaquistão | Notícias",24KZ
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv

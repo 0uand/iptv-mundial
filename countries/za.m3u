@@ -1,0 +1,45 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="🇿🇦 África do Sul | Entretenimento",1KZN TV
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NuViewTV.za" tvg-logo="https://i.imgur.com/dYRJ7F0.png" group-title="🇿🇦 África do Sul | Entretenimento",NuView TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SowetoTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="🇿🇦 África do Sul | Entretenimento",Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TshwaneTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="🇿🇦 África do Sul | Entretenimento",Tshwane TV
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CapeTownTV.za" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="🇿🇦 África do Sul | Geral",Cape Town TV
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ROVTV.za" tvg-logo="https://i.imgur.com/sbeuEYY.png" group-title="🇿🇦 África do Sul | Geral",ROV TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSAfrica.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="🇿🇦 África do Sul | Geral",TV BRICS Africa
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BOKTV.za" tvg-logo="https://i.imgur.com/mcNjuuO.png" group-title="🇿🇦 África do Sul | Música",BOKTV
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 tvg-id="LN24SA.za" tvg-logo="https://i.imgur.com/Hg5YTwu.png" group-title="🇿🇦 África do Sul | Notícias",LN24SA
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="🇿🇦 África do Sul | Outdoor",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="🇿🇦 África do Sul | Outdoor",WildEarth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="🇿🇦 África do Sul | Outdoor",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="FaithAfrica.za" tvg-logo="https://i.imgur.com/yAZE7aU.png" group-title="🇿🇦 África do Sul | Religioso",Faith Africa
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FaithAfrica.za" tvg-logo="https://i.imgur.com/yAZE7aU.png" group-title="🇿🇦 África do Sul | Religioso",Faith Africa
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GNFTV.za" tvg-logo="https://i.imgur.com/vCB7u0e.png" group-title="🇿🇦 África do Sul | Religioso",GNF TV
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HomebaseTV.za" tvg-logo="https://i.imgur.com/MaLNfJG.png" group-title="🇿🇦 África do Sul | Religioso",Homebase TV
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HomebaseTV.za" tvg-logo="https://i.imgur.com/MaLNfJG.png" group-title="🇿🇦 África do Sul | Religioso",Homebase TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelAfrica.za" tvg-logo="https://i.imgur.com/SFacyYO.png" group-title="🇿🇦 África do Sul | Religioso",Hope Channel Africa
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+#EXTINF:-1 tvg-id="LoveworldSAT.ng" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="🇿🇦 África do Sul | Religioso",LoveworldSAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+#EXTINF:-1 tvg-id="LoveworldSAT.ng" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="🇿🇦 África do Sul | Religioso",LoveworldSAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="RLWTV.za" tvg-logo="https://i.imgur.com/VcwqoEF.png" group-title="🇿🇦 África do Sul | Religioso",RLW TV
+https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SeraphimTV.za" tvg-logo="https://i.imgur.com/MfeKk07.png" group-title="🇿🇦 África do Sul | Religioso",Seraphim TV
+https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8

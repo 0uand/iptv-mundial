@@ -1,0 +1,56 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="ComedyTV.ge" tvg-logo="https://i.imgur.com/i1TANKv.png" group-title="🇬🇪 Geórgia | Comédia",Comedy TV
+http://31.146.5.178:8087/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="Adjarasport1.ge" tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="🇬🇪 Geórgia | Esportes",Adjarasport 1
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports3.ge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" group-title="🇬🇪 Geórgia | Esportes",Setanta Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="🇬🇪 Geórgia | Geral",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="🇬🇪 Geórgia | Geral",1TV
+http://nue01-edge01.itdc.ge/gpb/mpegts
+#EXTINF:-1 tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="🇬🇪 Geórgia | Geral",2TV
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="ApsuaTV.ge" tvg-logo="https://i.imgur.com/TJowroY.png" group-title="🇬🇪 Geórgia | Geral",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+#EXTINF:-1 tvg-id="GDSTV.ge" tvg-logo="https://i.imgur.com/gv61tFf.png" group-title="🇬🇪 Geórgia | Geral",GDS TV
+http://31.146.5.178:8087/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="GMSTV.ge" tvg-logo="" group-title="🇬🇪 Geórgia | Geral",GMS TV
+http://158.101.222.193:88/georgia_play.php?id=gms
+#EXTINF:-1 tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="🇬🇪 Geórgia | Geral",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="🇬🇪 Geórgia | Geral",Imedi TV
+http://nue01-edge01.itdc.ge/imedihd/mpegts
+#EXTINF:-1 tvg-id="Maestro.ge" tvg-logo="https://i.imgur.com/nUz1VRv.png" group-title="🇬🇪 Geórgia | Geral",Maestro
+http://str2.iptvhd.ru:8080/maestro/index.m3u8
+#EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/tLtGnJW.png" group-title="🇬🇪 Geórgia | Geral",Mtavari Arkhi
+https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
+#EXTINF:-1 tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/ogMqmth.png" group-title="🇬🇪 Geórgia | Geral",Rioni TV
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge" tvg-logo="https://i.imgur.com/rPqd1Cx.png" group-title="🇬🇪 Geórgia | Geral",Rustavi 2
+http://31.146.5.178:8087/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge" tvg-logo="https://i.imgur.com/rPqd1Cx.png" group-title="🇬🇪 Geórgia | Geral",Rustavi 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+#EXTINF:-1 tvg-id="TVPirveli.ge" tvg-logo="https://i.imgur.com/cGHsM1x.png" group-title="🇬🇪 Geórgia | Geral",TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
+#EXTINF:-1 tvg-id="TVC.ge" tvg-logo="https://sul.ge/images/televizia/tvc.png" group-title="🇬🇪 Geórgia | Geral",TVC
+http://31.146.5.178:8087/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="AbazaTV.ru" tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="🇬🇪 Geórgia | Geral",АБАЗА-ТВ
+https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
+#EXTINF:-1 tvg-id="BMGTV.ge" tvg-logo="https://i.imgur.com/vGLkTPA.png" group-title="🇬🇪 Geórgia | Negócios",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="🇬🇪 Geórgia | Notícias",Euronews Georgia
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-id="Formula.ge" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="🇬🇪 Geórgia | Notícias",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="Formula.ge" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="🇬🇪 Geórgia | Notícias",Formula
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1 tvg-id="ObieqtiviTV.ge" tvg-logo="https://i.imgur.com/Kqc8H8X.png" group-title="🇬🇪 Geórgia | Notícias",Obieqtivi TV
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="🇬🇪 Geórgia | Notícias",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-logo="https://i.imgur.com/BW95PMF.png" group-title="🇬🇪 Geórgia | Notícias",Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="Ertsulovneba.ge" tvg-logo="https://i.imgur.com/KuuODMM.png" group-title="🇬🇪 Geórgia | Religioso",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8

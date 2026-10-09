@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="🇾🇪 Iêmen | Geral",Yemen Today TV
+https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="🇾🇪 Iêmen | Notícias",Al Masirah
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasirahMubacher.ye" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="🇾🇪 Iêmen | Notícias",Al Masirah Mubacher
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSahatTV.ye" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="🇾🇪 Iêmen | Religioso",Al-Sahat TV
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8

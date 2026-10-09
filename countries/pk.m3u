@@ -1,0 +1,254 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="MasalaTV.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="🇵🇰 Paquistão | Culinária",Masala TV
+http://103.250.28.74:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="MasalaTV.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="🇵🇰 Paquistão | Culinária",Masala TV
+https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
+#EXTINF:-1 tvg-id="HarPalGeo.pk" tvg-logo="https://i.imgur.com/NX3vvAX.png" group-title="🇵🇰 Paquistão | Cultura",HarPal Geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MehranTV.pk" tvg-logo="https://i.imgur.com/ma2bFXk.png" group-title="🇵🇰 Paquistão | Cultura",Mehran TV
+http://103.250.28.74:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-logo="https://i.imgur.com/uu0UJme.png" group-title="🇵🇰 Paquistão | Entretenimento",A-Plus TV
+http://115.42.65.142:9981/stream/channelid/113328724
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-logo="https://i.imgur.com/uu0UJme.png" group-title="🇵🇰 Paquistão | Entretenimento",A-Plus TV
+http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-logo="https://i.imgur.com/uu0UJme.png" group-title="🇵🇰 Paquistão | Entretenimento",A-Plus TV
+https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+#EXTINF:-1 tvg-id="AajEntertainment.pk" tvg-logo="https://i.ibb.co/xt5RBDds/Aaj-Entertainment-HD.png" group-title="🇵🇰 Paquistão | Entretenimento",Aaj Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="🇵🇰 Paquistão | Entretenimento",ATV
+http://115.42.65.142:9981/stream/channelid/299762256
+#EXTINF:-1 tvg-id="AVTKhyber.pk" tvg-logo="https://i.imgur.com/FqkABWT.png" group-title="🇵🇰 Paquistão | Entretenimento",AVT Khyber
+http://115.42.65.142:9981/stream/channelid/1380586642
+#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="🇵🇰 Paquistão | Entretenimento",Bol Entertainment HD
+https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="🇵🇰 Paquistão | Entretenimento",Express Entertainment
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="FalakTV.pk" tvg-logo="https://i.imgur.com/2TqlNsI.png" group-title="🇵🇰 Paquistão | Entretenimento",Falak TV
+https://falak.rst.ae/index.m3u8
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="🇵🇰 Paquistão | Entretenimento",Hum TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="🇵🇰 Paquistão | Entretenimento",Hum TV SD
+https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
+#EXTINF:-1 tvg-id="Pashto1.pk" tvg-logo="https://i.imgur.com/QB9xOSZ.png" group-title="🇵🇰 Paquistão | Entretenimento",Pashto 1
+http://103.250.28.74:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-logo="https://i.imgur.com/BnNNDrE.png" group-title="🇵🇰 Paquistão | Entretenimento",Play Entertainment
+http://103.250.28.74:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="SABTV.pk" tvg-logo="https://i.imgur.com/hC7Sidr.png" group-title="🇵🇰 Paquistão | Entretenimento",SAB TV
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MSports.pk" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="🇵🇰 Paquistão | Esportes",M Sports
+https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1 tvg-id="MSports.pk" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="🇵🇰 Paquistão | Esportes",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MSports.pk" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="🇵🇰 Paquistão | Esportes",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OneGolf.pk" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="🇵🇰 Paquistão | Esportes",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="PKSports.pk" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="🇵🇰 Paquistão | Esportes",PK Sports
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="🇵🇰 Paquistão | Esportes",PTV Sports
+http://103.250.28.74:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="🇵🇰 Paquistão | Esportes",PTV Sports
+https://tvsen7.aynascope.net/Sports1/index.m3u8
+#EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-logo="https://i.imgur.com/58dIRkS.jpeg" group-title="🇵🇰 Paquistão | Esportes",Ten Sports Pakistan
+http://121.91.61.106:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="LTNFamily.pk" tvg-logo="https://i.ibb.co/zhbLf04g/LTN-Family.png" group-title="🇵🇰 Paquistão | Família",LTN Family
+http://103.250.28.74:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="Filmax.pk" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="🇵🇰 Paquistão | Filmes",Filmax
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTINF:-1 tvg-id="Filmazia.pk" tvg-logo="https://i.imgur.com/hpTCANa.png" group-title="🇵🇰 Paquistão | Filmes",Filmazia
+http://103.250.28.74:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="ApnaChannel.pk" tvg-logo="https://i.imgur.com/ICSA4W6.png" group-title="🇵🇰 Paquistão | Geral",Apna Channel
+http://115.42.65.142:9981/stream/channelid/1273966657
+#EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="🇵🇰 Paquistão | Geral",aurLife HD
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="BSFilm.pk" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="🇵🇰 Paquistão | Geral",BS Film
+https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="BSFilm.pk" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="🇵🇰 Paquistão | Geral",BS Film
+https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="BSTV.pk" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg" group-title="🇵🇰 Paquistão | Geral",BSTV
+https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
+#EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" group-title="🇵🇰 Paquistão | Geral",Jeremiah TV
+https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
+#EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" group-title="🇵🇰 Paquistão | Geral",Jeremiah TV
+https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8
+#EXTINF:-1 tvg-id="Kay2HD.pk" tvg-logo="https://i.imgur.com/CRKk0iP.png" group-title="🇵🇰 Paquistão | Geral",Kay2 HD
+http://103.250.28.74:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="PMITV.pk" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="🇵🇰 Paquistão | Geral",PMI TV
+https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PraiseTV.pk" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="🇵🇰 Paquistão | Geral",Praise TV
+https://livecdn.live247stream.com/praise/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PraiseTV.pk" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="🇵🇰 Paquistão | Geral",Praise TV
+https://pixelsmedia.live/livepraisetv/index.m3u8
+#EXTINF:-1 tvg-id="RaaviTV.pk" tvg-logo="https://i.imgur.com/Sdvg5h2.png" group-title="🇵🇰 Paquistão | Geral",Raavi TV
+http://116.90.120.149:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="Rohi.pk" tvg-logo="https://i.imgur.com/zC8hXi4.png" group-title="🇵🇰 Paquistão | Geral",Rohi
+http://103.250.28.74:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="SamaaTV.pk" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="🇵🇰 Paquistão | Geral",Samaa TV
+http://103.250.28.74:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="SamaaTV.pk" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="🇵🇰 Paquistão | Geral",Samaa TV
+https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+#EXTINF:-1 tvg-id="ShineStarTV.pk" tvg-logo="https://i.imgur.com/I3lTIeN.png" group-title="🇵🇰 Paquistão | Geral",Shine Star TV
+https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
+#EXTINF:-1 tvg-id="SilverScreen.pk" tvg-logo="https://i.imgur.com/s4Rv6pK.png" group-title="🇵🇰 Paquistão | Geral",Silver Screen
+http://103.250.28.74:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="SindhTV.pk" tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="🇵🇰 Paquistão | Geral",Sindh TV
+http://103.250.28.74:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="StarAsia.pk" tvg-logo="https://i.imgur.com/9coLhX8.png" group-title="🇵🇰 Paquistão | Geral",Star Asia
+http://103.250.28.74:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="TVOneGlobal.pk" tvg-logo="https://i.imgur.com/Xn3XxMY.png" group-title="🇵🇰 Paquistão | Geral",TV One Global
+http://103.250.28.74:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="TVToday.pk" tvg-logo="https://i.imgur.com/MYoosNo.png" group-title="🇵🇰 Paquistão | Geral",TV Today
+http://103.250.28.74:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="VenusHD.pk" tvg-logo="https://i.imgur.com/0C9KunR.png" group-title="🇵🇰 Paquistão | Geral",Venus HD
+http://103.250.28.74:8000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="WasebTV.pk" tvg-logo="https://i.imgur.com/RsF5yVA.png" group-title="🇵🇰 Paquistão | Geral",Waseb TV
+http://103.250.28.74:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="ZindagiTV.pk" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="🇵🇰 Paquistão | Geral",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Arabic
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Chinese
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Urdu
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1 tvg-id="KidsZone.pk" tvg-logo="https://i.imgur.com/mJWBVH1.png" group-title="🇵🇰 Paquistão | Infantil",Kids Zone
+http://103.250.28.74:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="Minimax.pk" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="🇵🇰 Paquistão | Infantil",Minimax
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-id="8XM.pk" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" group-title="🇵🇰 Paquistão | Música",8XM HD
+https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
+#EXTINF:-1 tvg-id="ARYMusik.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="🇵🇰 Paquistão | Música",ARY Musik
+#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
+https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-logo="https://i.imgur.com/HWb5Iat.png" group-title="🇵🇰 Paquistão | Música",Jalwa TV
+http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
+#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-logo="https://i.imgur.com/HWb5Iat.png" group-title="🇵🇰 Paquistão | Música",Jalwa TV
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
+#EXTINF:-1 tvg-id="JooMusic.pk" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="🇵🇰 Paquistão | Música",JooMusic
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="24NewsHD.pk" tvg-logo="https://i.imgur.com/IH6AaWm.jpeg" group-title="🇵🇰 Paquistão | Notícias",24 News HD
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+#EXTINF:-1 tvg-id="365News.pk" tvg-logo="https://i.imgur.com/8I6PWof.png" group-title="🇵🇰 Paquistão | Notícias",365 News
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
+#EXTINF:-1 tvg-id="7News.pk" tvg-logo="https://i.imgur.com/PTl92P5.png" group-title="🇵🇰 Paquistão | Notícias",7 News
+https://sscsott.com/7news/live/index.m3u8
+#EXTINF:-1 tvg-id="92NewsHD.pk" tvg-logo="https://i.imgur.com/eqKrL9S.png" group-title="🇵🇰 Paquistão | Notícias",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="AajNews.pk" tvg-logo="https://i.imgur.com/VNGnHYz.png" group-title="🇵🇰 Paquistão | Notícias",Aaj News
+http://115.42.65.142:9981/stream/channelid/750987367
+#EXTINF:-1 tvg-id="AbbTakk.pk" tvg-logo="https://i.imgur.com/D6IHRrP.png" group-title="🇵🇰 Paquistão | Notícias",Abb Takk
+http://115.42.65.142:9981/stream/channelid/852828604
+#EXTINF:-1 tvg-id="ABNNews.pk" tvg-logo="https://i.imgur.com/R7BThkR.jpeg" group-title="🇵🇰 Paquistão | Notícias",ABN News
+http://115.42.65.142:9981/stream/channelid/966869781
+#EXTINF:-1 tvg-id="ABNNews.pk" tvg-logo="https://i.imgur.com/R7BThkR.jpeg" group-title="🇵🇰 Paquistão | Notícias",ABN News
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-logo="https://i.imgur.com/svPXoAP.png" group-title="🇵🇰 Paquistão | Notícias",Aik News
+https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-logo="https://i.imgur.com/svPXoAP.png" group-title="🇵🇰 Paquistão | Notícias",Aik News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="🇵🇰 Paquistão | Notícias",ARY News
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
+#EXTINF:-1 tvg-id="CapitalTV.pk" tvg-logo="https://i.imgur.com/UxAE5O4.png" group-title="🇵🇰 Paquistão | Notícias",Capital TV
+https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+#EXTINF:-1 tvg-id="City41.pk" tvg-logo="https://i.imgur.com/U5BdY2g.png" group-title="🇵🇰 Paquistão | Notícias",City 41
+http://163.61.227.29:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="🇵🇰 Paquistão | Notícias",Dunya News (INT Feed)
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="🇵🇰 Paquistão | Notícias",Dunya News (INT Feed)
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="🇵🇰 Paquistão | Notícias",Dunya News (UK Feed)
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="HumNews.pk" tvg-logo="https://i.imgur.com/9OroocT.png" group-title="🇵🇰 Paquistão | Notícias",Hum News
+http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C
+#EXTINF:-1 tvg-id="KohenoorNews.pk" tvg-logo="https://i.imgur.com/cD3Ogdh.png" group-title="🇵🇰 Paquistão | Notícias",Kohenoor News
+http://103.250.28.74:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="KTNNews.pk" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="🇵🇰 Paquistão | Notícias",KTN News
+https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
+#EXTINF:-1 tvg-id="KTNNews.pk" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="🇵🇰 Paquistão | Notícias",KTN News
+https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8
+#EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="🇵🇰 Paquistão | Notícias",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LahoreRang.pk" tvg-logo="https://i.imgur.com/hglxHTa.png" group-title="🇵🇰 Paquistão | Notícias",Lahore Rang
+http://103.250.28.74:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="MNews.pk" tvg-logo="https://i.imgur.com/ANyX0yK.png" group-title="🇵🇰 Paquistão | Notícias",M News
+https://cdn.rabta.stream/M-News/index.m3u8
+#EXTINF:-1 tvg-id="MashriqTV.pk" tvg-logo="https://i.imgur.com/8pMiqcp.png" group-title="🇵🇰 Paquistão | Notícias",Mashriq TV
+http://103.250.28.74:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="MashriqTV.pk" tvg-logo="https://i.imgur.com/8pMiqcp.png" group-title="🇵🇰 Paquistão | Notícias",Mashriq TV
+https://cdn4.mjunoon.tv:8087/streamtest/108M/chunks.m3u8
+#EXTINF:-1 tvg-id="Metro1News.pk" tvg-logo="https://i.imgur.com/qD9cj27.jpg" group-title="🇵🇰 Paquistão | Notícias",Metro1 News
+http://103.250.28.74:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-id="NeoNews.pk" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="🇵🇰 Paquistão | Notícias",Neo News
+http://103.250.28.74:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="NeoNews.pk" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="🇵🇰 Paquistão | Notícias",Neo News
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsOne.pk" tvg-logo="https://i.imgur.com/2N45SPQ.png" group-title="🇵🇰 Paquistão | Notícias",News One
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsOne.pk" tvg-logo="https://i.imgur.com/2N45SPQ.png" group-title="🇵🇰 Paquistão | Notícias",News One
+http://103.250.28.74:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="ONNewsHD.pk" tvg-logo="https://i.imgur.com/h3IUrMI.png" group-title="🇵🇰 Paquistão | Notícias",ON News HD
+http://103.250.28.74:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="PTVNews.pk" tvg-logo="https://i.imgur.com/Fpn8VU7.png" group-title="🇵🇰 Paquistão | Notícias",PTV News
+http://103.250.28.74:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="PublicNews.pk" tvg-logo="https://i.imgur.com/q3ij8wO.png" group-title="🇵🇰 Paquistão | Notícias",Public News
+http://103.250.28.74:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="RozeNews.pk" tvg-logo="https://i.imgur.com/TedWqfL.png" group-title="🇵🇰 Paquistão | Notícias",Roze News
+http://103.250.28.74:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="SindhTVNews.pk" tvg-logo="https://i.imgur.com/Ap9K1lj.png" group-title="🇵🇰 Paquistão | Notícias",Sindh TV News
+http://103.250.28.74:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsUrdu.pk" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" group-title="🇵🇰 Paquistão | Notícias",Sky News Urdu
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+#EXTINF:-1 tvg-id="SuchTV.pk" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="🇵🇰 Paquistão | Notícias",Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-logo="https://i.imgur.com/FeSntVO.jpg" group-title="🇵🇰 Paquistão | Notícias",Suno News HD
+http://103.250.28.74:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="VSHNews.pk" tvg-logo="https://i.imgur.com/pmPZoYC.png" group-title="🇵🇰 Paquistão | Notícias",VSH News
+http://103.250.28.74:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="FazalTV.pk" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="🇵🇰 Paquistão | Religioso",Fazal TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="🇵🇰 Paquistão | Religioso",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="🇵🇰 Paquistão | Religioso",God Stands TV Arabic
+https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="🇵🇰 Paquistão | Religioso",God Stands TV Chinese
+https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="🇵🇰 Paquistão | Religioso",God Stands TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="🇵🇰 Paquistão | Religioso",God Stands TV Hindi
+https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="🇵🇰 Paquistão | Religioso",God Stands TV Punjabi
+https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="🇵🇰 Paquistão | Religioso",God Stands TV Tagalog
+https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="🇵🇰 Paquistão | Religioso",God Stands TV Urdu
+https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
+#EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="🇵🇰 Paquistão | Religioso",Grace Network
+https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaacTV.pk" tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="🇵🇰 Paquistão | Religioso",Isaac TV
+https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JoshuaTV.pk" tvg-logo="https://i.imgur.com/x9xPR2h.png" group-title="🇵🇰 Paquistão | Religioso",Joshua TV
+https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KingTV.pk" tvg-logo="https://i.imgur.com/dujrwRE.png" group-title="🇵🇰 Paquistão | Religioso",King TV
+https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="🇵🇰 Paquistão | Religioso",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="🇵🇰 Paquistão | Religioso",Madani Channel English
+http://tvsen7.aynascope.net/MadaniTV/index.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="🇵🇰 Paquistão | Religioso",Madani Channel English
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="🇵🇰 Paquistão | Religioso",Madani Channel Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="🇵🇰 Paquistão | Religioso",Paighan TV
+http://116.90.120.151:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="🇵🇰 Paquistão | Religioso",Paighan TV
+https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+#EXTINF:-1 tvg-id="QuranTV.pk" tvg-logo="https://i.imgur.com/nc7X3Ux.png" group-title="🇵🇰 Paquistão | Religioso",Quran TV
+http://103.250.28.74:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan
+http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan
+http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED

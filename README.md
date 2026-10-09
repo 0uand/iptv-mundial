@@ -1,6 +1,6 @@
 # 📺 IPTV Mundial
 
-**16.052 canais de TV** de **176 países** + **2.537 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
+**16.052 canais de TV** de **176 países** + **2.538 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
 
 _Última atualização: 09/10/2026_
 
@@ -14,7 +14,7 @@ Adicione as três como playlists separadas no seu app (IPTV Smarters, TiviMate, 
 | Divisão | Conteúdo | URL |
 |---|---|---|
 | 📡 **TV ao vivo** | 16.083 canais — TV Aberta Brasil e Surf no topo, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
-| 🎬 **Filmes** | 1.988 títulos — por categoria (premiados, gêneros, décadas, cinema aberto) | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
+| 🎬 **Filmes** | 1.989 títulos — por categoria (premiados, gêneros, décadas, cinema aberto) | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
 | 📺 **Séries** | 549 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
 
 Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uand/iptv-mundial/main/index.m3u`
@@ -45,7 +45,7 @@ Filmes e séries: acervo de **domínio público** do [Internet Archive](https://
 
 | Catálogo | Títulos | Playlist |
 |---|---:|---|
-| 🎬 Filmes (por categoria) | 1.988 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
+| 🎬 Filmes (por categoria) | 1.989 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
 | 📺 Séries (episódios) | 329 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
 | 📺 Desenhos | 220 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/desenhos.m3u` |
 

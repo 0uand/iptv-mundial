@@ -178,8 +178,9 @@ def write_films():
         for grp, d, c in films:
             ident = d["identifier"]; y = year(d)
             title = s(d.get("title")) + (f" ({y})" if y else "")
-            dur = runtime_min(d) * 60 or -1
-            f.write(f'#EXTINF:{dur} tvg-id="ia.{ident}" tvg-logo="https://archive.org/services/img/{ident}" tvg-type="movie" group-title="{grp}",{title}\n{c["url"]}\n')
+            # várias convenções de "filme" ao mesmo tempo: tvg-type/type=movie, grupo "Movies", URL com /movie/ (fragmento, não vai ao servidor) e extensão .mp4
+            url = c["url"] + f"#/movie/{ident}.mp4"
+            f.write(f'#EXTINF:-1 tvg-id="ia.{ident}" tvg-name="{title}" tvg-logo="https://archive.org/services/img/{ident}" tvg-type="movie" type="movie" group-title="{grp}",{title}\n{url}\n')
 
 def write_series(path, rows, label):
     ep_counter = {}
@@ -194,8 +195,8 @@ def write_series(path, rows, label):
             genre = series_genre(show, d) if label == "Séries" else "Desenhos"
             grp = f"Series | {genre}" if label == "Séries" else f"Series | {genre}"
             sid = re.sub(r"[^a-z0-9]+", "-", show.lower()).strip("-")
-            dur = runtime_min(d) * 60 or -1
-            f.write(f'#EXTINF:{dur} tvg-id="ia.{ident}" tvg-logo="https://archive.org/services/img/{ident}" tvg-type="serie" tvg-serie="{sid}" serie-title="{show}" tvg-season="{season}" tvg-episode="{ep}" group-title="{grp}",{show} S{season:02d}E{ep:02d} - {base}\n{c["url"]}\n')
+            url = c["url"] + f"#/series/{ident}.mp4"
+            f.write(f'#EXTINF:-1 tvg-id="ia.{ident}" tvg-logo="https://archive.org/services/img/{ident}" tvg-type="serie" type="series" tvg-serie="{sid}" serie-title="{show}" tvg-season="{season}" tvg-episode="{ep}" group-title="{grp}",{show} S{season:02d}E{ep:02d} - {base}\n{url}\n')
 
 write_films(); write_series(f"{OUT}/series.m3u", series, "Séries"); write_series(f"{OUT}/desenhos.m3u", cartoons, "Séries")
 from collections import Counter

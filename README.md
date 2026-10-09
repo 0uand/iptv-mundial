@@ -94,7 +94,7 @@ Guia gerado diariamente neste repositório com o [iptv-org/epg](https://github.c
 https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz
 ```
 
-Última geração: 2026-10-09 19:39 UTC — 259 canais com programação, 19.806 programas.
+Última geração: 2026-10-09 22:02 UTC — 2.553 canais com programação, 184.875 programas.
 
 ## ⏪ Replay (catchup)
 

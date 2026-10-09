@@ -2,8 +2,9 @@
 """Resolve as transmissões ao vivo públicas do YouTube listadas em data/youtube.csv
 e gera youtube.m3u com o manifesto HLS atual de cada canal.
 
-As URLs HLS do YouTube expiram em ~6 h, por isso o workflow roda a cada 4 h.
-Só entram canais cuja live esteja no ar no momento da execução.
+IMPORTANTE: o YouTube amarra cada URL ao IP de quem a resolveu e ela expira em ~6 h.
+Por isso este script precisa rodar NA MESMA REDE em que você assiste (casa), a cada 4 h —
+veja scripts/home/README.md. Resolvido num servidor (GitHub, nuvem), não toca na sua TV.
 """
 import csv, json, os, re, subprocess, sys, datetime
 from concurrent.futures import ThreadPoolExecutor
@@ -19,7 +20,7 @@ FLAG = {"br":"🇧🇷","us":"🇺🇸","uk":"🇬🇧","pt":"🇵🇹","de":"�
         "jp":"🇯🇵","ar":"🇦🇷","mx":"🇲🇽","co":"🇨🇴","int":"🌐"}
 
 def resolve(row):
-    url = f"https://www.youtube.com/@{row['handle']}/live"
+    url = f"https://www.youtube.com/watch?v={row['video_id']}" if row.get("video_id") else f"https://www.youtube.com/@{row['handle']}/live"
     import time
     for attempt in range(int(os.environ.get("YT_ATTEMPTS", "4"))):
       for client in os.environ.get("YT_CLIENTS", "android,android_vr,web_embedded,tv_embedded,ios").split(","):

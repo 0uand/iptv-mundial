@@ -17,8 +17,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -q yt-dlp
-      - name: Resolver lives públicas
-        run: python scripts/youtube_resolve.py
+      # As lives do YouTube NÃO são resolvidas aqui: a URL fica amarrada ao IP do runner e não toca
+      # na TV do usuário. Elas vêm do resolvedor de casa (scripts/home). Este workflow só cuida da uandtv.
       - name: Resolver programação da uandtv
         run: python scripts/uandtv_resolve.py || true
       - name: Reanexar YouTube ao index.m3u

@@ -1,6 +1,6 @@
 # 📺 IPTV Mundial
 
-**16.052 canais de TV** de **176 países** + **11 lives do YouTube** + **2.537 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
+**16.052 canais de TV** de **176 países** + **0 lives do YouTube** + **2.537 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
 
 _Última atualização: 09/10/2026_
 
@@ -13,7 +13,7 @@ Adicione as três como playlists separadas no seu app (IPTV Smarters, TiviMate, 
 
 | Divisão | Conteúdo | URL |
 |---|---|---|
-| 📡 **TV ao vivo** | 16.094 canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
+| 📡 **TV ao vivo** | 16.083 canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
 | 🎬 **Filmes** | 1.988 títulos — clássicos em domínio público + shows e festivais | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
 | 📺 **Séries** | 549 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
 
@@ -43,13 +43,13 @@ Dentro de cada país, Música e Entretenimento aparecem sempre como as primeiras
 
 ## ▶️ YouTube TV
 
-Canais que transmitem ao vivo no YouTube (Dia TV, CazéTV, GE TV, CNN Brasil, Jovem Pan News, Lofi Girl, NASA, Sky News…). As URLs do YouTube expiram em ~6 h, por isso esta lista é **renovada automaticamente a cada 4 horas**; só entram canais que estejam ao vivo naquele momento (CazéTV e GE TV, por exemplo, só ficam ao vivo em jogos e eventos).
+Canais que transmitem ao vivo no YouTube (Dia TV, CazéTV, GE TV, CNN Brasil, Jovem Pan News, Lofi Girl, NASA, Sky News, WSL, Coachella…). O YouTube amarra cada URL ao IP de quem resolveu e ela expira em ~6 h — por isso esta parte é renovada por um **resolvedor que roda na rede de casa** (Mac, a cada 4 h): veja [`scripts/home/README.md`](scripts/home/README.md). Só entram canais ao vivo no momento (CazéTV e GE TV, por exemplo, só em jogos e eventos).
 
 ```
 https://raw.githubusercontent.com/0uand/iptv-mundial/main/youtube.m3u
 ```
 
-No ar na última verificação (2026-10-09 22:19 UTC): **11** de 56 canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.
+No ar na última verificação (2026-10-09 22:19 UTC): **0** de 56 canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.
 
 ## 🎬 Filmes, séries, desenhos, shows e festivais (VOD)
 

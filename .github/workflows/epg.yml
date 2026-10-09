@@ -1,0 +1,36 @@
+name: EPG (guia de programação)
+on:
+  schedule:
+    - cron: "41 4 * * *"   # diário, 01:41 (Brasília)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish
+  cancel-in-progress: false
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - uses: actions/setup-node@v4
+        with: { node-version: "22" }
+      - name: Clonar iptv-org/epg
+        run: git clone --depth 1 https://github.com/iptv-org/epg.git /tmp/epg && cd /tmp/epg && npm install --no-audit --no-fund
+      - name: Mapear canais da lista para fontes de guia
+        env: { EPG_DIR: /tmp/epg, EPG_MAX_CHANNELS: "4000" }
+        run: python scripts/epg_channels.py
+      - name: Baixar programação em blocos (3 dias)
+        env: { EPG_DIR: /tmp/epg, EPG_DAYS: "3", EPG_CHUNK: "500" }
+        run: bash scripts/epg_grab.sh
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: EPG atualizado ($(date -u +%Y-%m-%d))"
+          git push

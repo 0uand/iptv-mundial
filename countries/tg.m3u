@@ -1,23 +1,17 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="ChandelTV.tg" tvg-logo="https://i.imgur.com/jQO7dVE.png" group-title="🇹🇬 Togo | Entretenimento",Chandel TV
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="ChandelTV.tg@SD" tvg-logo="https://i.imgur.com/jQO7dVE.png" group-title="🇹🇬 Togo | Entretenimento",Chandel TV
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
-#EXTINF:-1 tvg-id="NWMagazine.tg" tvg-logo="https://i.imgur.com/RZNJZYN.png" group-title="🇹🇬 Togo | Entretenimento",NW Magazine
+#EXTINF:-1 tvg-id="NWMagazine.tg@SD" tvg-logo="https://i.imgur.com/RZNJZYN.png" group-title="🇹🇬 Togo | Entretenimento",NW Magazine
 https://hls.newworldtv.com/nw-magazine/video/live.m3u8
-#EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-logo="https://i.imgur.com/wQpooHw.png" group-title="🇹🇬 Togo | Estilo de vida",SOS Docteur TV
+#EXTINF:-1 tvg-id="SOSDocteurTV.tg@SD" tvg-logo="https://i.imgur.com/wQpooHw.png" group-title="🇹🇬 Togo | Estilo de vida",SOS Docteur TV
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-logo="https://i.imgur.com/utBh0xL.png" group-title="🇹🇬 Togo | Geral",Television Espoir 47
+#EXTINF:-1 tvg-id="TelevisionEspoir47.tg@SD" tvg-logo="https://i.imgur.com/utBh0xL.png" group-title="🇹🇬 Togo | Geral",Television Espoir 47
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
-#EXTINF:-1 tvg-id="TVT.tg" tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="🇹🇬 Togo | Geral",TVT
+#EXTINF:-1 tvg-id="TVT.tg@SD" tvg-logo="https://i.imgur.com/WtXonN9.png" group-title="🇹🇬 Togo | Geral",TVT
 http://69.64.57.208/tvt/playlist.m3u8
-#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-logo="https://i.imgur.com/OmlFQa8.png" group-title="🇹🇬 Togo | Negócios",NW Economie
+#EXTINF:-1 tvg-id="NWEconomie.tg@SD" tvg-logo="https://i.imgur.com/OmlFQa8.png" group-title="🇹🇬 Togo | Negócios",NW Economie
 https://hls.newworldtv.com/nw-economie/video/live.m3u8
-#EXTINF:-1 tvg-id="NWInfo2.tg" tvg-logo="https://i.imgur.com/0W4GqFD.png" group-title="🇹🇬 Togo | Notícias",NW Info 2 EN
+#EXTINF:-1 tvg-id="NWInfo2.tg@SD" tvg-logo="https://i.imgur.com/0W4GqFD.png" group-title="🇹🇬 Togo | Notícias",NW Info 2 EN
 https://hls.newworldtv.com/nw-info-2/video/live.m3u8
-#EXTINF:-1 tvg-id="NWInfo.tg" tvg-logo="https://i.imgur.com/UDEY91v.png" group-title="🇹🇬 Togo | Notícias",NW Info FR
+#EXTINF:-1 tvg-id="NWInfo.tg@SD" tvg-logo="https://i.imgur.com/UDEY91v.png" group-title="🇹🇬 Togo | Notícias",NW Info FR
 https://hls.newworldtv.com/nw-info/video/live.m3u8
-#EXTINF:-1 tvg-id="ACTV.tg" tvg-logo="https://i.imgur.com/SYugK7Y.png" group-title="🇹🇬 Togo | Religioso",AC TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
-#EXTINF:-1 tvg-id="DynamicGospelTV.tg" tvg-logo="https://i.imgur.com/e36BNNK.jpg" group-title="🇹🇬 Togo | Religioso",Dynamic Gospel TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTJVA.tg" tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" group-title="🇹🇬 Togo | Religioso",RT JVA
-https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8

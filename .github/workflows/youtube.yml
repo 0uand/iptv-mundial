@@ -1,0 +1,45 @@
+name: YouTube TV (renovar lives)
+on:
+  schedule:
+    - cron: "23 */4 * * *"   # a cada 4 h (as URLs do YouTube expiram em ~6 h)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish
+  cancel-in-progress: false
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q yt-dlp
+      - name: Resolver lives públicas
+        run: python scripts/youtube_resolve.py
+      - name: Reanexar YouTube ao index.m3u
+        run: |
+          python - <<'EOF'
+          import re
+          idx = open("index.m3u", encoding="utf-8").read().splitlines()
+          # remove bloco YouTube antigo (linhas do grupo ▶️ YouTube TV e suas URLs/opções)
+          out, skip = [], False
+          for ln in idx:
+              if ln.startswith("#EXTINF") : skip = "▶️ YouTube TV" in ln
+              if not skip: out.append(ln)
+          yt = [l for l in open("youtube.m3u", encoding="utf-8").read().splitlines()[1:] if l and not l.startswith("# ")]
+          # insere o bloco YouTube logo antes do primeiro item de VOD (ou no fim)
+          pos = next((i for i, l in enumerate(out) if l.startswith("#EXTINF") and ("🎬 Filmes" in l or "📺 Séries" in l or "🧸 Desenhos" in l)), len(out))
+          out[pos:pos] = yt
+          open("index.m3u", "w", encoding="utf-8").write("\n".join(out) + "\n")
+          EOF
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: lives do YouTube renovadas ($(date -u +%Y-%m-%d\ %H:%M))"
+          git push

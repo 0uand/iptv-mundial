@@ -1,35 +1,31 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" group-title="🇨🇩 RD Congo | Documentários",RL PRO TV
-https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
-#EXTINF:-1 tvg-id="EVITV.cd" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="🇨🇩 RD Congo | Entretenimento",EVI TV
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="EVITV.cd@SD" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="🇨🇩 RD Congo | Entretenimento",EVI TV
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
-#EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-logo="https://i.imgur.com/fQhrsdr.png" group-title="🇨🇩 RD Congo | Filmes",Lollywood HD TV
+#EXTINF:-1 tvg-id="RLPROTV.cd@SD" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" group-title="🇨🇩 RD Congo | Documentários",RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:-1 tvg-id="LollywoodHDTV.cd@SD" tvg-logo="https://i.imgur.com/fQhrsdr.png" group-title="🇨🇩 RD Congo | Filmes",Lollywood HD TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
-#EXTINF:-1 tvg-id="AntenneA.cd" tvg-logo="https://i.imgur.com/tgxrcv7.png" group-title="🇨🇩 RD Congo | Geral",Antenne A
+#EXTINF:-1 tvg-id="AntenneA.cd@SD" tvg-logo="https://i.imgur.com/tgxrcv7.png" group-title="🇨🇩 RD Congo | Geral",Antenne A
 http://51.254.199.122:8080/antenne_a-plus/index.m3u8
-#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-logo="https://i.imgur.com/rc9MXm5.png" group-title="🇨🇩 RD Congo | Geral",Boss Brothers TV
+#EXTINF:-1 tvg-id="BossBrothersTV.cd@SD" tvg-logo="https://i.imgur.com/rc9MXm5.png" group-title="🇨🇩 RD Congo | Geral",Boss Brothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://i.imgur.com/9IIIvPf.png" group-title="🇨🇩 RD Congo | Geral",Congo Planet Télévision
+#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd@SD" tvg-logo="https://i.imgur.com/9IIIvPf.png" group-title="🇨🇩 RD Congo | Geral",Congo Planet Télévision
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇨🇩 RD Congo | Geral",Congo Planet Télévision Pop
 https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-logo="https://i.imgur.com/uz2Rsu7.png" group-title="🇨🇩 RD Congo | Geral",Digital Congo TV
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd@SD" tvg-logo="https://i.imgur.com/uz2Rsu7.png" group-title="🇨🇩 RD Congo | Geral",Digital Congo TV
 http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
-#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-logo="https://i.imgur.com/yJehCQM.png" group-title="🇨🇩 RD Congo | Geral",Mikuba TV
+#EXTINF:-1 tvg-id="MikubaTV.cd@SD" tvg-logo="https://i.imgur.com/yJehCQM.png" group-title="🇨🇩 RD Congo | Geral",Mikuba TV
 http://51.254.199.122:8080/MIKUBATV/index.m3u8
-#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-logo="https://i.imgur.com/xQlkuAa.png" group-title="🇨🇩 RD Congo | Geral",PSTV HD
+#EXTINF:-1 tvg-id="PSTVHD.cd@SD" tvg-logo="https://i.imgur.com/xQlkuAa.png" group-title="🇨🇩 RD Congo | Geral",PSTV HD
 http://51.254.199.122:8080/PSTV/index.m3u8
-#EXTINF:-1 tvg-id="RTNC3.cd" tvg-logo="https://i.imgur.com/rr9Zsno.jpeg" group-title="🇨🇩 RD Congo | Geral",RTNC 3
+#EXTINF:-1 tvg-id="RTNC3.cd@SD" tvg-logo="https://i.imgur.com/rr9Zsno.jpeg" group-title="🇨🇩 RD Congo | Geral",RTNC 3
 http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
-#EXTINF:-1 tvg-id="RTVS1.cd" tvg-logo="https://i.imgur.com/doaZCzy.png" group-title="🇨🇩 RD Congo | Geral",RTVS1
+#EXTINF:-1 tvg-id="RTVS1.cd@SD" tvg-logo="https://i.imgur.com/doaZCzy.png" group-title="🇨🇩 RD Congo | Geral",RTVS1
 http://51.254.199.122:8080/RTVS1/index.m3u8
-#EXTINF:-1 tvg-id="BarakaTelevision.cd" tvg-logo="https://i.imgur.com/IKXddHN.png" group-title="🇨🇩 RD Congo | Notícias",Baraka Television
+#EXTINF:-1 tvg-id="BarakaTelevision.cd@SD" tvg-logo="https://i.imgur.com/IKXddHN.png" group-title="🇨🇩 RD Congo | Notícias",Baraka Television
 https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
-#EXTINF:-1 tvg-id="Kin24.cd" tvg-logo="https://i.imgur.com/Lak10Wo.png" group-title="🇨🇩 RD Congo | Notícias",Kin24
+#EXTINF:-1 tvg-id="Kin24.cd@SD" tvg-logo="https://i.imgur.com/Lak10Wo.png" group-title="🇨🇩 RD Congo | Notícias",Kin24
 http://51.254.199.122:8080/kin24/index.m3u8
-#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-logo="https://i.imgur.com/2igwi7g.png" group-title="🇨🇩 RD Congo | Notícias",Le Monde en 24h
+#EXTINF:-1 tvg-id="LeMondeen24h.cd@SD" tvg-logo="https://i.imgur.com/2igwi7g.png" group-title="🇨🇩 RD Congo | Notícias",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
-#EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-logo="https://i.imgur.com/buMvLJc.jpeg" group-title="🇨🇩 RD Congo | Religioso",LBFD RTV
-https://tnt-television.com/LBFD_RTV/index.m3u8
-#EXTINF:-1 tvg-id="ONETV.cd" tvg-logo="https://i.imgur.com/Wob7gjp.png" group-title="🇨🇩 RD Congo | Religioso",ONE-TV
-https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8

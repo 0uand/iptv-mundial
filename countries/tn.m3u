@@ -1,13 +1,13 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳 Tunísia | Geral",El Watania 1
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳 Tunísia | Geral",El Watania 1 (1080i)
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
-#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳 Tunísia | Geral",El Watania 1 (1080i)
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
-#EXTINF:-1 tvg-id="ElWatania2.tn" tvg-logo="https://i.imgur.com/kgkrD3V.png" group-title="🇹🇳 Tunísia | Geral",El Watania 2
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.imgur.com/mRSQ5bP.png" group-title="🇹🇳 Tunísia | Música",Jawhara TV
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="JawharaTV.tn@SD" tvg-logo="https://i.imgur.com/mRSQ5bP.png" group-title="🇹🇳 Tunísia | Música",Jawhara TV
 https://streaming.toutech.net/live/jtv/index.m3u8
-#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="🇹🇳 Tunísia | Música",Mosaique FM
+#EXTINF:-1 tvg-id="MosaiqueFM.tn@SD" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="🇹🇳 Tunísia | Música",Mosaique FM
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="ElWatania1.tn@SD" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳 Tunísia | Geral",El Watania 1
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="ElWatania1.tn@SD" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳 Tunísia | Geral",El Watania 1 (1080i)
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
+#EXTINF:-1 tvg-id="ElWatania1.tn@SD" tvg-logo="https://i.imgur.com/gNr2V14.png" group-title="🇹🇳 Tunísia | Geral",El Watania 1 (1080i)
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
+#EXTINF:-1 tvg-id="ElWatania2.tn@SD" tvg-logo="https://i.imgur.com/kgkrD3V.png" group-title="🇹🇳 Tunísia | Geral",El Watania 2
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR

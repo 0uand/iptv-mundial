@@ -1,25 +1,23 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="ArlaadiTV.so" tvg-logo="https://i.imgur.com/2tlFMXF.png" group-title="🇸🇴 Somalia | Geral",Arlaadi TV
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="ArlaadiTV.so@SD" tvg-logo="https://i.imgur.com/2tlFMXF.png" group-title="🇸🇴 Somalia | Geral",Arlaadi TV
 https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
-#EXTINF:-1 tvg-id="CrimeandEvidence.za" tvg-logo="https://i.imgur.com/xwGquEb.png" group-title="🇸🇴 Somalia | Geral",Crime and Evidence
+#EXTINF:-1 tvg-id="CrimeandEvidence.za@SD" tvg-logo="https://i.imgur.com/xwGquEb.png" group-title="🇸🇴 Somalia | Geral",Crime and Evidence
 https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
-#EXTINF:-1 tvg-id="HirshabelleTV.so" tvg-logo="https://i.imgur.com/Kk0A2o7.png" group-title="🇸🇴 Somalia | Geral",Hirshabelle TV
+#EXTINF:-1 tvg-id="HirshabelleTV.so@SD" tvg-logo="https://i.imgur.com/Kk0A2o7.png" group-title="🇸🇴 Somalia | Geral",Hirshabelle TV
 http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="PuntlandTV.so" tvg-logo="https://i.imgur.com/C8EvQUo.png" group-title="🇸🇴 Somalia | Geral",Puntland TV
+#EXTINF:-1 tvg-id="PuntlandTV.so@SD" tvg-logo="https://i.imgur.com/C8EvQUo.png" group-title="🇸🇴 Somalia | Geral",Puntland TV
 http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SaabTV.so" tvg-logo="https://i.imgur.com/JEC1J89.png" group-title="🇸🇴 Somalia | Geral",Saab TV
+#EXTINF:-1 tvg-id="SaabTV.so@SD" tvg-logo="https://i.imgur.com/JEC1J89.png" group-title="🇸🇴 Somalia | Geral",Saab TV
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
-#EXTINF:-1 tvg-id="SaabTV.so" tvg-logo="https://i.imgur.com/JEC1J89.png" group-title="🇸🇴 Somalia | Geral",Saab TV
+#EXTINF:-1 tvg-id="SaabTV.so@SD" tvg-logo="https://i.imgur.com/JEC1J89.png" group-title="🇸🇴 Somalia | Geral",Saab TV
 https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBCTV.so" tvg-logo="https://i.imgur.com/VLhgTIA.png" group-title="🇸🇴 Somalia | Geral",SBC TV
+#EXTINF:-1 tvg-id="SBCTV.so@SD" tvg-logo="https://i.imgur.com/VLhgTIA.png" group-title="🇸🇴 Somalia | Geral",SBC TV
 http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SNTVDaljir.so" tvg-logo="https://i.imgur.com/zmVKI26.jpg" group-title="🇸🇴 Somalia | Geral",SNTV Daljir
+#EXTINF:-1 tvg-id="SNTVDaljir.so@SD" tvg-logo="https://i.imgur.com/zmVKI26.jpg" group-title="🇸🇴 Somalia | Geral",SNTV Daljir
 https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
-#EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="🇸🇴 Somalia | Geral",Somali National TV
+#EXTINF:-1 tvg-id="SomaliNationalTV.so@SD" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="🇸🇴 Somalia | Geral",Somali National TV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
-#EXTINF:-1 tvg-id="Trigger.za" tvg-logo="https://i.imgur.com/TrlrcWf.png" group-title="🇸🇴 Somalia | Geral",Trigger
+#EXTINF:-1 tvg-id="Trigger.za@SD" tvg-logo="https://i.imgur.com/TrlrcWf.png" group-title="🇸🇴 Somalia | Geral",Trigger
 https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
-#EXTINF:-1 tvg-id="etvNewsSport.za" tvg-logo="https://i.imgur.com/lXMzsNM.png" group-title="🇸🇴 Somalia | Notícias",ETVN
+#EXTINF:-1 tvg-id="etvNewsSport.za@SD" tvg-logo="https://i.imgur.com/lXMzsNM.png" group-title="🇸🇴 Somalia | Notícias",ETVN
 https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
-#EXTINF:-1 tvg-id="DacwaTV.ke" tvg-logo="https://i.imgur.com/rMqrLzV.png" group-title="🇸🇴 Somalia | Religioso",Dacwa TV
-https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8

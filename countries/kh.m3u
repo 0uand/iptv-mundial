@@ -1,82 +1,80 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" group-title="🇰🇭 Camboja | Educação",EBC General Education
-https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
-#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-logo="https://i.imgur.com/wLzVdeT.png" group-title="🇰🇭 Camboja | Educação",One TV E-School Cambodia
-http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
-#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/L36ptO2.png" group-title="🇰🇭 Camboja | Educação",TVK 2
-https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="🇰🇭 Camboja | Educação",WIKI TV
-https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="iTVHD.kh" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="🇰🇭 Camboja | Entretenimento",iTV HD
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="DMusic.kh@SD" tvg-logo="" group-title="🇰🇭 Camboja | Música",D Music
+http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
+#EXTINF:-1 tvg-id="iTVHD.kh@SD" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="🇰🇭 Camboja | Entretenimento",iTV HD
 https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
-#EXTINF:-1 tvg-id="iTVHD.kh" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="🇰🇭 Camboja | Entretenimento",iTV HD
+#EXTINF:-1 tvg-id="iTVHD.kh@SD" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="🇰🇭 Camboja | Entretenimento",iTV HD
 https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
-#EXTINF:-1 tvg-id="MyTV.kh" tvg-logo="https://i.imgur.com/lhxRefQ.png" group-title="🇰🇭 Camboja | Entretenimento",My TV
+#EXTINF:-1 tvg-id="MyTV.kh@SD" tvg-logo="https://i.imgur.com/lhxRefQ.png" group-title="🇰🇭 Camboja | Entretenimento",My TV
 https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KomsanTV.kh" tvg-logo="https://i.imgur.com/SNTf2r3.png" group-title="🇰🇭 Camboja | Filmes",Komsan TV
+#EXTINF:-1 tvg-id="EBCGeneralEducation.kh@SD" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" group-title="🇰🇭 Camboja | Educação",EBC General Education
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh@SD" tvg-logo="https://i.imgur.com/wLzVdeT.png" group-title="🇰🇭 Camboja | Educação",One TV E-School Cambodia
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh@SD" tvg-logo="https://i.imgur.com/L36ptO2.png" group-title="🇰🇭 Camboja | Educação",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh@SD" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="🇰🇭 Camboja | Educação",WIKI TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="KomsanTV.kh@SD" tvg-logo="https://i.imgur.com/SNTf2r3.png" group-title="🇰🇭 Camboja | Filmes",Komsan TV
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
-#EXTINF:-1 tvg-id="ApsaraTV11.kh" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="🇰🇭 Camboja | Geral",Apsara TV11
+#EXTINF:-1 tvg-id="ApsaraTV11.kh@SD" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="🇰🇭 Camboja | Geral",Apsara TV11
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="🇰🇭 Camboja | Geral",Bayon TV
+#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="🇰🇭 Camboja | Geral",Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="🇰🇭 Camboja | Geral",Bayon TV
+#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="🇰🇭 Camboja | Geral",Bayon TV
 https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8
-#EXTINF:-1 tvg-id="CTN.kh" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="🇰🇭 Camboja | Geral",CTN
+#EXTINF:-1 tvg-id="CTN.kh@SD" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="🇰🇭 Camboja | Geral",CTN
 https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="🇰🇭 Camboja | Geral",CTV 9
+#EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="🇰🇭 Camboja | Geral",CTV 9
 http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="🇰🇭 Camboja | Geral",CTV 9
+#EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="🇰🇭 Camboja | Geral",CTV 9
 https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8
-#EXTINF:-1 tvg-id="CTV8HD.kh" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Camboja | Geral",CTV8 HD
+#EXTINF:-1 tvg-id="CTV8HD.kh@SD" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Camboja | Geral",CTV8 HD
 https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
-#EXTINF:-1 tvg-id="CTV8HD.kh" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Camboja | Geral",CTV8 HD
+#EXTINF:-1 tvg-id="CTV8HD.kh@SD" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Camboja | Geral",CTV8 HD
 https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh@SD" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh@SD" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh@SD" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh@SD" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh@SD" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="🇰🇭 Camboja | Geral",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Camboja | Geral",MSJ TV
+#EXTINF:-1 tvg-id="MSJTV.kh@SD" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Camboja | Geral",MSJ TV
 #EXTVLCOPT:http-referrer=https://www.iptvservice.site/
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Camboja | Geral",MSJ TV
+#EXTINF:-1 tvg-id="MSJTV.kh@SD" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Camboja | Geral",MSJ TV
 http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Camboja | Geral",MSJ TV
+#EXTINF:-1 tvg-id="MSJTV.kh@SD" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Camboja | Geral",MSJ TV
 http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇰🇭 Camboja | Geral",Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="NTV.kh" tvg-logo="https://i.imgur.com/SoBhuIb.png" group-title="🇰🇭 Camboja | Geral",NTV
+#EXTINF:-1 tvg-id="NTV.kh@SD" tvg-logo="https://i.imgur.com/SoBhuIb.png" group-title="🇰🇭 Camboja | Geral",NTV
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
-#EXTINF:-1 tvg-id="NTV.kh" tvg-logo="https://i.imgur.com/SoBhuIb.png" group-title="🇰🇭 Camboja | Geral",NTV
+#EXTINF:-1 tvg-id="NTV.kh@SD" tvg-logo="https://i.imgur.com/SoBhuIb.png" group-title="🇰🇭 Camboja | Geral",NTV
 https://stream.pdtvhd.com/LiveApp/streams/ntvhd.m3u8
-#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="🇰🇭 Camboja | Geral",Rasmey Hang Meas HDTV
+#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh@SD" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="🇰🇭 Camboja | Geral",Rasmey Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="🇰🇭 Camboja | Geral",Rasmey Hang Meas HDTV
+#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh@SD" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="🇰🇭 Camboja | Geral",Rasmey Hang Meas HDTV
 https://live.happywatch99.com/rhm/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="🇰🇭 Camboja | Geral",SEATV
+#EXTINF:-1 tvg-id="SEATV.kh@SD" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="🇰🇭 Camboja | Geral",SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh" tvg-logo="https://i.imgur.com/9fUGvVG.png" group-title="🇰🇭 Camboja | Geral",Town TV
+#EXTINF:-1 tvg-id="TownTV.kh@SD" tvg-logo="https://i.imgur.com/9fUGvVG.png" group-title="🇰🇭 Camboja | Geral",Town TV
 https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="🇰🇭 Camboja | Geral",TV5 Cambodia
+#EXTINF:-1 tvg-id="TV5Cambodia.kh@SD" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="🇰🇭 Camboja | Geral",TV5 Cambodia
 https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
-#EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="🇰🇭 Camboja | Geral",TVK
+#EXTINF:-1 tvg-id="TVK.kh@SD" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="🇰🇭 Camboja | Geral",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DMusic.kh" tvg-logo="" group-title="🇰🇭 Camboja | Música",D Music
-http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="🇰🇭 Camboja | Notícias",BTV News
+#EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="🇰🇭 Camboja | Notícias",BTV News
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="🇰🇭 Camboja | Notícias",BTV News
+#EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="🇰🇭 Camboja | Notícias",BTV News
 https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8
-#EXTINF:-1 tvg-id="EACNewsTV.kh" tvg-logo="https://i.imgur.com/EuYhS9Z.png" group-title="🇰🇭 Camboja | Notícias",EAC News TV
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD" tvg-logo="https://i.imgur.com/EuYhS9Z.png" group-title="🇰🇭 Camboja | Notícias",EAC News TV
 https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
-#EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="🇰🇭 Camboja | Notícias",Fresh News
+#EXTINF:-1 tvg-id="FreshNews.kh@SD" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="🇰🇭 Camboja | Notícias",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ARDBTV.kh" tvg-logo="https://i.imgur.com/yOncWla.png" group-title="🇰🇭 Camboja | Outdoor",ARDB TV
+#EXTINF:-1 tvg-id="ARDBTV.kh@SD" tvg-logo="https://i.imgur.com/yOncWla.png" group-title="🇰🇭 Camboja | Outdoor",ARDB TV
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
-#EXTINF:-1 tvg-id="SangkemTV.kh" tvg-logo="https://i.imgur.com/728fAcC.png" group-title="🇰🇭 Camboja | Religioso",Sangkem TV
-https://live.sangkemtv.com/memfs/sangkem.m3u8

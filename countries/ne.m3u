@@ -1,9 +1,9 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="TalTV.ne" tvg-logo="https://i.imgur.com/KWMP0t1.png" group-title="🇳🇪 Niger | Entretenimento",Tal TV
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="TalTV.ne@SD" tvg-logo="https://i.imgur.com/KWMP0t1.png" group-title="🇳🇪 Niger | Entretenimento",Tal TV
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
-#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-logo="https://i.imgur.com/ENBCDaQ.png" group-title="🇳🇪 Niger | Geral",Dounia TV
+#EXTINF:-1 tvg-id="DouniaTV.ne@SD" tvg-logo="https://i.imgur.com/ENBCDaQ.png" group-title="🇳🇪 Niger | Geral",Dounia TV
 https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
-#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-logo="https://i.imgur.com/O8XIcpH.png" group-title="🇳🇪 Niger | Geral",Saraounia TV
+#EXTINF:-1 tvg-id="SaraouniaTV.ne@SD" tvg-logo="https://i.imgur.com/O8XIcpH.png" group-title="🇳🇪 Niger | Geral",Saraounia TV
 https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
-#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-logo="https://i.imgur.com/vboq428.png" group-title="🇳🇪 Niger | Geral",Tele Sahel
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD" tvg-logo="https://i.imgur.com/vboq428.png" group-title="🇳🇪 Niger | Geral",Tele Sahel
 https://mediaserver1.castpin.com/hls/telesahel/index.m3u8

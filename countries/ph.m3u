@@ -1,21 +1,13 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="PremierSports.ph" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="🇵🇭 Filipinas | Esportes",Premier Sports
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="PremierSports.ph@SD" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="🇵🇭 Filipinas | Esportes",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-logo="https://i.imgur.com/UQeXWd2.png" group-title="🇵🇭 Filipinas | Esportes",Premier Sports 2
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD" tvg-logo="https://i.imgur.com/UQeXWd2.png" group-title="🇵🇭 Filipinas | Esportes",Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="CLTV36.ph" tvg-logo="https://i.imgur.com/2fGhl7q.png" group-title="🇵🇭 Filipinas | Geral",CLTV 36
+#EXTINF:-1 tvg-id="CLTV36.ph@SD" tvg-logo="https://i.imgur.com/2fGhl7q.png" group-title="🇵🇭 Filipinas | Geral",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="🇵🇭 Filipinas | Geral",SMNI
+#EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="🇵🇭 Filipinas | Geral",SMNI
 https://stream.kdlc.click/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🇵🇭 Filipinas | Geral",TeleRadyo
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-#EXTINF:-1 tvg-id="AbanteTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="🇵🇭 Filipinas | Notícias",Abante TV
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="🇵🇭 Filipinas | Notícias",Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="🇵🇭 Filipinas | Religioso",CCTN 47
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="🇵🇭 Filipinas | Religioso",Hope Channel Philippines
-https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
-#EXTINF:-1 tvg-id="INCRadio.ph" tvg-logo="https://i.imgur.com/6cKju6d.png" group-title="🇵🇭 Filipinas | Religioso",INC Radio
-https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
-#EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/iC11uWK.png" group-title="🇵🇭 Filipinas | Religioso",INC TV
-https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8

@@ -1,22 +1,35 @@
-name: Atualizar playlists
+name: Atualizar playlists (canais, VOD, replay)
 on:
   schedule:
     - cron: "17 6 * * 1"   # toda segunda, 03:17 (Brasília)
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: publish
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: python scripts/build.py
+      - name: Catálogo VOD (Internet Archive, domínio público)
+        run: python scripts/build_vod.py
+      - name: Playlists por país e categoria
+        run: python scripts/build.py
+      - name: Sondar replay (catchup) — orçamento de 2 h
+        env: { PROBE_WORKERS: "64", PROBE_BUDGET_SEC: "7200" }
+        run: python scripts/probe_catchup.py
+      - name: Regerar playlists com as tags de replay
+        run: python scripts/build.py
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
           git add -A
-          git diff --cached --quiet || git commit -m "chore: atualização automática das playlists ($(date -u +%Y-%m-%d))"
+          git diff --cached --quiet || git commit -m "chore: atualização semanal das playlists ($(date -u +%Y-%m-%d))"
           git push

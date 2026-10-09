@@ -1,11 +1,11 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="🇲🇱 Mali | Entretenimento",D3 TV
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="🇲🇱 Mali | Entretenimento",D3 TV
 https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="D3TV.ml" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="🇲🇱 Mali | Entretenimento",D3 TV
+#EXTINF:-1 tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="🇲🇱 Mali | Entretenimento",D3 TV
 https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="🇲🇱 Mali | Geral",ORTM 1
+#EXTINF:-1 tvg-id="ORTM1.ml@SD" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="🇲🇱 Mali | Geral",ORTM 1
 http://69.64.57.208/ortm/playlist.m3u8
-#EXTINF:-1 tvg-id="ORTM1.ml" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="🇲🇱 Mali | Geral",ORTM 1
+#EXTINF:-1 tvg-id="ORTM1.ml@SD" tvg-logo="https://i.imgur.com/eKUpcls.png" group-title="🇲🇱 Mali | Geral",ORTM 1
 https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
-#EXTINF:-1 tvg-id="TM1TV.ml" tvg-logo="https://i.imgur.com/83BgaBa.png" group-title="🇲🇱 Mali | Geral",TM1
+#EXTINF:-1 tvg-id="TM1TV.ml@SD" tvg-logo="https://i.imgur.com/83BgaBa.png" group-title="🇲🇱 Mali | Geral",TM1
 http://69.64.57.208/tm1/playlist.m3u8

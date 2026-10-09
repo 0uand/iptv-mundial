@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="ZNSTV.bs" tvg-logo="https://i.imgur.com/h6nC8fe.png" group-title="🇧🇸 Bahamas | Geral",ZNS-TV
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="ZNSTV.bs@SD" tvg-logo="https://i.imgur.com/h6nC8fe.png" group-title="🇧🇸 Bahamas | Geral",ZNS-TV
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TheParliamentaryChannel.bs" tvg-logo="https://i.imgur.com/ZQagV0x.png" group-title="🇧🇸 Bahamas | Legislativo",The Parliamentary Channel
+#EXTINF:-1 tvg-id="TheParliamentaryChannel.bs@SD" tvg-logo="https://i.imgur.com/ZQagV0x.png" group-title="🇧🇸 Bahamas | Legislativo",The Parliamentary Channel
 https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
-#EXTINF:-1 tvg-id="GuardianTalkRadio.bs" tvg-logo="https://i.imgur.com/o3cWUwL.png" group-title="🇧🇸 Bahamas | Notícias",Guardian Talk Radio
+#EXTINF:-1 tvg-id="GuardianTalkRadio.bs@SD" tvg-logo="https://i.imgur.com/o3cWUwL.png" group-title="🇧🇸 Bahamas | Notícias",Guardian Talk Radio
 https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8

@@ -2,7 +2,7 @@
 """Gera as playlists a partir da fonte pública iptv-org.
 Saída: index.m3u (tudo), countries/<cc>.m3u, categories/<cat>.m3u, README.md
 """
-import re, os, csv, glob, io, urllib.request, zipfile, tempfile, sys, datetime
+import re, os, csv, glob, io, json, urllib.request, zipfile, tempfile, sys, datetime
 from collections import defaultdict, Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -41,7 +41,17 @@ logos = {}
 for r in db["logos"]:
     logos.setdefault(r["channel"], r["url"])
 
+MUSIC_RE = re.compile(r"\b(vevo|mtv|music|m[uú]sica|musik|musique|hits?|radio|r[aá]dio|fm|clubbing|dance|hip.?hop|rock|jazz|k-?pop|stingray|trace|qello|concert|karaoke|4ever|sertanejo|pagode|funk|samba|gospel music|mezzo|djing|edm|rap|reggae|salsa|cumbia|tango|schlager|deutsche musik|rtl hits|clubland|now 80s|now 90s|kerrang|magic|kiss|heart|capital|box hits|vh1|cmt|bet jams|revolt|xite|loop|flow|beat|soul|blues|classical|opera|symphony|hitlist|top 40|charts?)\b", re.I)
+ENT_RE = re.compile(r"\b(entertainment|entretenimento|comedy|com[eé]dia|humor|reality|variety|show|lifestyle|celebrity|gossip|fun|divers[ãa]o|telenovela|novela)\b", re.I)
+def guess_cat(name, cat):
+    if cat and cat != "general": return cat
+    if MUSIC_RE.search(name): return "music"
+    if ENT_RE.search(name): return "entertainment"
+    return cat or "general"
+
 rows, seen = [], set()
+EXCLUDE_CATS = {"religious"}
+LOGO_OVERRIDES = {r"^SBT( Nacional| News| Interior| Cuiaba| Nova Mutum| Rondonopolis)?$": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/sbt_black_1_b78d9ef3d9.png"}
 for p in sorted(glob.glob(f"{streams_dir}/*.m3u")):
     code = os.path.basename(p)[:-4].split("_")[0]
     cur, hdrs = None, []
@@ -52,55 +62,126 @@ for p in sorted(glob.glob(f"{streams_dir}/*.m3u")):
         elif ln.startswith("http") and cur:
             url = ln.strip()
             name = cur.split(",", 1)[1].strip()
-            tid = (re.search(r'tvg-id="([^"]*)"', cur) or [None, ""])[1].split("@")[0]
-            if url in seen or "[Geo-blocked]" in name or tid in nsfw or re.search(r"\b(xxx|porn|adult|erotic)\b", name, re.I):
+            tid = (re.search(r'tvg-id="([^"]*)"', cur) or [None, ""])[1]
+            base = tid.split("@")[0]
+            if url in seen or "[Geo-blocked]" in name or base in nsfw or re.search(r"\b(xxx|porn|adult|erotic)\b", name, re.I):
                 cur = None; continue
             seen.add(url)
             clean = re.sub(r"\s*\(\d+p\)|\s*\[Not 24/7\]", "", name).strip()
-            logo = (re.search(r'tvg-logo="([^"]*)"', cur) or [None, ""])[1] or logos.get(tid, "")
-            rows.append(dict(code=code, name=clean, url=url, hdrs=hdrs, tid=tid, logo=logo, cat=cat_of.get(tid, "") or "general"))
+            logo = (re.search(r'tvg-logo="([^"]*)"', cur) or [None, ""])[1] or logos.get(base, "")
+            cat = guess_cat(clean, cat_of.get(base, ""))
+            if cat in EXCLUDE_CATS or re.search(r"\b(igreja|gospel|evang[eé]lic|cat[oó]lic|canção nova|rede vida|tv aparecida|novo tempo|3abn|church|christian|god tv|daystar|ewtn|islam|quran|al.?quran|hindu|sikh|jesus|bible|biblia|pastor|ministério|ministerio|padre|rede super|sat 7|tbn|hope channel|loveworld|iurd|igreja universal)\b", clean, re.I):
+                cur = None; continue
+            # logos oficiais
+            for pat, lg in LOGO_OVERRIDES.items():
+                if re.search(pat, clean, re.I): logo = lg
+            rows.append(dict(code=code, name=clean, url=url, hdrs=hdrs, tid=tid, logo=logo, cat=cat))
             cur = None
 
 PRI = {"br":0,"pt":1,"us":2,"uk":3,"es":4,"ar":5,"int":6}
 def ckey(code): return (PRI.get(code, 10), countries.get(code, (code.upper(),))[0])
-rows.sort(key=lambda r: (ckey(r["code"]), CATPT.get(r["cat"], "Geral"), r["name"].lower()))
+CAT_PRI = {"music": 0, "entertainment": 1}
+def catkey(cat): return (CAT_PRI.get(cat, 5), CATPT.get(cat, "Geral"))
+rows.sort(key=lambda r: (ckey(r["code"]), catkey(r["cat"]), r["name"].lower()))
+
+CATCHUP = {}
+_cp = f"{ROOT}/data/catchup.json"
+if os.path.exists(_cp):
+    CATCHUP = json.load(open(_cp, encoding="utf-8"))
 
 def write(path, items):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
-        f.write('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"\n')
+        f.write(f'#EXTM3U x-tvg-url="{RAW}/epg/guide.xml.gz"\n')
         for r in items:
             cn, fl = countries.get(r["code"], (r["code"].upper(), ""))
             grp = f'{fl} {cn} | {CATPT.get(r["cat"], "Geral")}'.strip()
-            f.write(f'#EXTINF:-1 tvg-id="{r["tid"]}" tvg-logo="{r["logo"]}" group-title="{grp}",{r["name"]}\n')
+            cu = CATCHUP.get(r["url"])
+            extra = ""
+            if cu and cu.get("type") == "flussonic":
+                extra = f' catchup="flussonic" catchup-days="{cu["days"]}"'
+            elif cu:
+                extra = f' catchup="default" catchup-source="{cu["source"]}" catchup-days="{cu["days"]}"'
+            f.write(f'#EXTINF:-1 tvg-id="{r["tid"]}" tvg-logo="{r["logo"]}" group-title="{grp}"{extra},{r["name"]}\n')
             for h in r["hdrs"]: f.write(h + "\n")
             f.write(r["url"] + "\n")
 
+def tail_of(path):
+    """linhas de outra playlist (sem o cabeçalho), para anexar ao index"""
+    if not os.path.exists(path): return []
+    return [ln for ln in open(path, encoding="utf-8").read().splitlines()[1:] if ln and not ln.startswith("# ")]
+
 write(f"{ROOT}/index.m3u", rows)
+with open(f"{ROOT}/index.m3u", "a", encoding="utf-8") as f:
+    for extra in ("youtube.m3u", "vod/filmes.m3u", "vod/series.m3u", "vod/desenhos.m3u"):
+        for ln in tail_of(f"{ROOT}/{extra}"): f.write(ln + "\n")
+# hubs mundiais de Música e Entretenimento (todos os países)
+write(f"{ROOT}/hubs/musica-mundial.m3u", [r for r in rows if r["cat"] == "music"])
+write(f"{ROOT}/hubs/entretenimento-mundial.m3u", [r for r in rows if r["cat"] == "entertainment"])
+write(f"{ROOT}/hubs/vevo.m3u", [r for r in rows if r["name"].lower().startswith("vevo")])
+write(f"{ROOT}/hubs/musica-e-entretenimento-brasil.m3u", [r for r in rows if r["code"] == "br" and r["cat"] in ("music", "entertainment")])
 bycountry, bycat = defaultdict(list), defaultdict(list)
 for r in rows: bycountry[r["code"]].append(r); bycat[r["cat"]].append(r)
 for c, items in bycountry.items(): write(f"{ROOT}/countries/{c}.m3u", items)
 for c, items in bycat.items(): write(f"{ROOT}/categories/{c}.m3u", items)
 
 today = datetime.date.today().strftime("%d/%m/%Y")
+def n(x): return f"{x:,}".replace(",", ".")
+def cnt(path):
+    return sum(1 for l in open(path, encoding="utf-8") if l.startswith("http")) if os.path.exists(path) else 0
+n_yt = cnt(f"{ROOT}/youtube.m3u"); n_f = cnt(f"{ROOT}/vod/filmes.m3u"); n_s = cnt(f"{ROOT}/vod/series.m3u"); n_d = cnt(f"{ROOT}/vod/desenhos.m3u")
+n_cu = sum(1 for r in rows if r["url"] in CATCHUP)
+epg_info = json.load(open(f"{ROOT}/epg/info.json")) if os.path.exists(f"{ROOT}/epg/info.json") else {}
+yt_state = json.load(open(f"{ROOT}/data/youtube_state.json")) if os.path.exists(f"{ROOT}/data/youtube_state.json") else {}
+n_music = sum(1 for r in rows if r["cat"] == "music"); n_ent = sum(1 for r in rows if r["cat"] == "entertainment")
+
 md = [f"# 📺 IPTV Mundial\n",
-      f"Lista IPTV gratuita com **{len(rows):,}** canais de **{len(bycountry)}** países, organizada por país e categoria. Atualizada automaticamente toda semana a partir da base pública [iptv-org](https://github.com/iptv-org/iptv) — só canais que as próprias emissoras disponibilizam abertamente.\n".replace(f"{len(rows):,}", f"{len(rows):,}".replace(",", ".")),
+      f"**{n(len(rows))} canais de TV** de **{len(bycountry)} países** + **{n_yt} lives do YouTube** + **{n(n_f + n_s + n_d)} filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.\n",
       f"_Última atualização: {today}_\n",
+      "> ### ✅ Isto não é pirataria",
+      "> Todos os canais desta lista são **transmissões públicas e gratuitas disponibilizadas pelas próprias emissoras** na internet (sinal aberto, canais FAST como Pluto TV / Samsung TV Plus / Roku, lives oficiais no YouTube e acervos de domínio público do Internet Archive). Nenhum stream é hospedado ou retransmitido aqui: o repositório apenas organiza links que já são de acesso público, a partir da base aberta do projeto [iptv-org](https://github.com/iptv-org/iptv). Não há canais pagos, nem conteúdo de assinatura (Netflix, Globoplay, HBO etc.). Se você é titular de um canal e quer removê-lo, abra uma *issue*.\n",
       "## 🚀 Como usar\n",
-      "Cole a URL abaixo no seu app de IPTV (IPTV Smarters, TiviMate, GSE Smart IPTV, iPlayTV, Flex IPTV, VLC, Kodi…):\n",
+      "Cole a URL abaixo no seu app de IPTV (IPTV Smarters, TiviMate, GSE Smart IPTV, iPlayTV, Flex IPTV, VLC, Kodi…). O EPG já vem configurado dentro da lista.\n",
       f"```\n{RAW}/index.m3u\n```\n",
-      "Ou use apenas um país / categoria com as URLs das tabelas abaixo. O guia de programação (EPG) já está configurado dentro da lista.\n",
+      "A lista completa é grande (~15 MB). Em Apple TV ou apps mais lentos, prefira uma das listas menores abaixo.\n",
+      "## 🎵 Música e Entretenimento (destaque)\n", "| Lista | Canais | Playlist |", "|---|---:|---|",
+      f"| 🎵 Música — todos os países | {n_music} | `{RAW}/hubs/musica-mundial.m3u` |",
+      f"| 🎭 Entretenimento — todos os países | {n_ent} | `{RAW}/hubs/entretenimento-mundial.m3u` |",
+      f"| 🎤 Vevo (todos os canais Vevo do mundo) | {cnt(f'{ROOT}/hubs/vevo.m3u')} | `{RAW}/hubs/vevo.m3u` |",
+      f"| 🇧🇷 Música e Entretenimento — Brasil | {cnt(f'{ROOT}/hubs/musica-e-entretenimento-brasil.m3u')} | `{RAW}/hubs/musica-e-entretenimento-brasil.m3u` |",
+      "\nDentro de cada país, Música e Entretenimento aparecem sempre como as primeiras categorias.\n",
+      "## ▶️ YouTube TV\n",
+      f"Canais que transmitem ao vivo no YouTube (Dia TV, CazéTV, GE TV, CNN Brasil, Jovem Pan News, Lofi Girl, NASA, Sky News…). As URLs do YouTube expiram em ~6 h, por isso esta lista é **renovada automaticamente a cada 4 horas**; só entram canais que estejam ao vivo naquele momento (CazéTV e GE TV, por exemplo, só ficam ao vivo em jogos e eventos).\n",
+      f"```\n{RAW}/youtube.m3u\n```\n",
+      f"No ar na última verificação ({yt_state.get('updated', '—')}): **{n_yt}** de {len(yt_state.get('live', [])) + len(yt_state.get('offline', []))} canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.\n",
+      "## 🎬 Filmes, séries e desenhos (VOD)\n",
+      "Acervo de **domínio público** do [Internet Archive](https://archive.org): clássicos do cinema, ficção/terror, cinema mudo, séries de TV clássicas e animações antigas. Os arquivos ficam hospedados no próprio Archive.\n",
+      "| Catálogo | Títulos | Playlist |", "|---|---:|---|",
+      f"| 🎬 Filmes | {n(n_f)} | `{RAW}/vod/filmes.m3u` |",
+      f"| 📺 Séries (episódios) | {n(n_s)} | `{RAW}/vod/series.m3u` |",
+      f"| 🧸 Desenhos | {n(n_d)} | `{RAW}/vod/desenhos.m3u` |",
+      "\n## 📅 EPG (guia de programação)\n",
+      f"Guia gerado diariamente neste repositório com o [iptv-org/epg](https://github.com/iptv-org/epg), com 3 dias de programação, sinopses e imagens. Os IDs batem com os `tvg-id` das playlists, então basta usar a lista que o guia carrega sozinho. Se o seu app pedir a URL do EPG separadamente:\n",
+      f"```\n{RAW}/epg/guide.xml.gz\n```\n",
+      f"Última geração: {epg_info.get('updated', '—')} — {n(epg_info.get('channels', 0))} canais com programação, {n(epg_info.get('programmes', 0))} programas.\n",
+      "## ⏪ Replay (catchup)\n",
+      f"Replay é um recurso do servidor de cada emissora, e pouquíssimos streams públicos oferecem. A cada atualização semanal todos os canais são sondados; os que têm arquivo recebem as tags `catchup` / `catchup-source` / `catchup-days` (compatíveis com TiviMate, IPTV Smarters, OTT Navigator, Kodi). Atualmente: **{n_cu} canais com replay**.\n",
       "## 🌎 Por país\n", "| País | Canais | Playlist |", "|---|---:|---|"]
 for c in sorted(bycountry, key=ckey):
     cn, fl = countries.get(c, (c.upper(), ""))
     md.append(f"| {fl} {cn} | {len(bycountry[c])} | `{RAW}/countries/{c}.m3u` |")
-md += ["\n## 🎬 Por categoria\n", "| Categoria | Canais | Playlist |", "|---|---:|---|"]
-for c in sorted(bycat, key=lambda x: CATPT.get(x, "Geral")):
+md += ["\n## 🎯 Por categoria\n", "| Categoria | Canais | Playlist |", "|---|---:|---|"]
+for c in sorted(bycat, key=catkey):
     md.append(f"| {CATPT.get(c, 'Geral')} | {len(bycat[c])} | `{RAW}/categories/{c}.m3u` |")
 md += ["\n## ⚠️ Avisos\n",
-       "- Em listas públicas, parte dos canais pode estar fora do ar em um dado momento — a lista é regenerada semanalmente para remover links mortos conhecidos.",
+       "- Em listas públicas, parte dos canais pode estar fora do ar em um dado momento — a lista é regenerada semanalmente.",
        "- Alguns canais só funcionam no país de origem (bloqueio de região imposto pela própria emissora, não pelo seu aparelho).",
-       "- Nenhum stream é hospedado aqui; o repositório apenas reúne links públicos. Problemas com um canal específico devem ser reportados à emissora ou ao projeto iptv-org.\n",
-       "## 📄 Licença\n", "Dados derivados do projeto [iptv-org/iptv](https://github.com/iptv-org/iptv) (Unlicense)."]
+       "- Problemas com um canal específico devem ser reportados à emissora ou ao projeto iptv-org.\n",
+       "## 🔧 Como funciona\n",
+       "| Workflow | Frequência | O que faz |", "|---|---|---|",
+       "| `update.yml` | semanal (seg) | regenera canais, VOD e sonda replay |",
+       "| `youtube.yml` | a cada 4 h | renova as lives do YouTube |",
+       "| `epg.yml` | diário | gera o guia de programação |",
+       "\n## 📄 Licença\n", "Dados derivados dos projetos [iptv-org/iptv](https://github.com/iptv-org/iptv) e [iptv-org/epg](https://github.com/iptv-org/epg) (Unlicense). Conteúdo VOD: domínio público via Internet Archive."]
 open(f"{ROOT}/README.md", "w", encoding="utf-8").write("\n".join(md) + "\n")
 print(f"OK: {len(rows)} canais, {len(bycountry)} países, {len(bycat)} categorias")

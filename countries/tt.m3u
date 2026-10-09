@@ -1,15 +1,5 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml"
-#EXTINF:-1 tvg-id="BizzTV.tt" tvg-logo="https://i.imgur.com/UxHaJNR.png" group-title="🇹🇹 Trinidad e Tobago | Estilo de vida",Bizz TV
-https://stream.bizzmedia.biz/bizz_tv/index.m3u8
-#EXTINF:-1 tvg-id="ScorchTV.tt" tvg-logo="https://i.imgur.com/CNszwj1.png" group-title="🇹🇹 Trinidad e Tobago | Música",Scorch TV
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="ScorchTV.tt@SD" tvg-logo="https://i.imgur.com/CNszwj1.png" group-title="🇹🇹 Trinidad e Tobago | Música",Scorch TV
 https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RiddimHopeTV.tt" tvg-logo="https://i.imgur.com/c27k0Bd.png" group-title="🇹🇹 Trinidad e Tobago | Religioso",Riddim & Hope TV
-https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SankhyaTV.tt" tvg-logo="https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png" group-title="🇹🇹 Trinidad e Tobago | Religioso",Sankhya TV
-https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="🇹🇹 Trinidad e Tobago | Religioso",The Islamic Network
-http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="🇹🇹 Trinidad e Tobago | Religioso",The Islamic Network
-https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
-#EXTINF:-1 tvg-id="TrinityTV.tt" tvg-logo="https://i.imgur.com/69igLlk.png" group-title="🇹🇹 Trinidad e Tobago | Religioso",Trinity TV
-https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
+#EXTINF:-1 tvg-id="BizzTV.tt@SD" tvg-logo="https://i.imgur.com/UxHaJNR.png" group-title="🇹🇹 Trinidad e Tobago | Estilo de vida",Bizz TV
+https://stream.bizzmedia.biz/bizz_tv/index.m3u8

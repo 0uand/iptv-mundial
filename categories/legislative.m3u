@@ -23,8 +23,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:-1 tvg-id="TVCamaraSalvador.br@SD" tvg-logo="https://i.imgur.com/VEXEzSx.png" tvg-type="live" group-title="🇧🇷 Brasil | Legislativo",TV Câmara Salvador [SD]
 https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-type="live" group-title="🇵🇹 Portugal | Legislativo",ARTV Canal Parlamento [HD]
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCityofMarina.us@SD" tvg-logo="https://i.imgur.com/ldyanxN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Legislativo",Access Media Productions Marina TV [HD]
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
 #EXTINF:-1 tvg-id="ThePeninsulaChannel.us@SD" tvg-logo="https://i.imgur.com/Ybp6YKD.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Legislativo",Access Media Productions Peninsula Channel [HD]
@@ -213,6 +211,37 @@ https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 #EXTINF:-1 tvg-id="BBCParliament.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Legislativo",BBC Parliament
 https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD" tvg-logo="https://i.imgur.com/xAC6gQO.png" tvg-type="live" group-title="🇲🇽 México | Legislativo",Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx@SD" tvg-logo="https://i.imgur.com/fLpkHfZ.png" tvg-type="live" group-title="🇲🇽 México | Legislativo",Canal Parlamento del Congreso de Jalisco [HD]
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IcrtvColima.mx@SD" tvg-logo="https://i.imgur.com/iUks0ot.png" tvg-type="live" group-title="🇲🇽 México | Legislativo",ICRTV Colima [FHD]
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" tvg-type="live" group-title="🇲🇽 México | Legislativo",Justicia TV [HD]
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Legislativo",Canal Congreso [FHD]
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Legislativo",Canal Congreso [FHD] (fonte 2)
+http://181.78.82.130:8000/play/a0s1/index.m3u8
+#EXTINF:-1 tvg-id="JNETV.pe@SD" tvg-logo="https://i.imgur.com/b25XfCj.png" tvg-type="live" group-title="🇵🇪 Peru | Legislativo",JNE TV [HD]
+https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.pe@SD" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-type="live" group-title="🇵🇪 Peru | Legislativo",Justicia TV [FHD]
+http://190.93.224.42/JUSTICIA-TV/index.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.pe@SD" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-type="live" group-title="🇵🇪 Peru | Legislativo",Justicia TV [FHD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-logo="https://i.imgur.com/Qm88HT0.png" tvg-type="live" group-title="🇻🇪 Venezuela | Legislativo",ANTV [HD]
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="TVLegislativa.ec@SD" tvg-logo="https://i.imgur.com/3Y6Lp5l.png" tvg-type="live" group-title="🇪🇨 Equador | Legislativo",TV Legislativa [FHD]
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara [FHD]
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
+#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara [FHD] (fonte 2)
+http://158.172.217.18:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv@SD" tvg-logo="https://i.imgur.com/OBuiCyb.png" tvg-type="live" group-title="🇸🇻 El Salvador | Legislativo",Legislative Assembly of El Salvador [FHD]
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-type="live" group-title="🇵🇹 Portugal | Legislativo",ARTV Canal Parlamento [HD]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalParlamento.es@SD" tvg-logo="https://i.imgur.com/BUO0wH6.png" tvg-type="live" group-title="🇪🇸 Espanha | Legislativo",Canal Parlamento [SD]
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-id="CongresodelosDiputados1.es@SD" tvg-logo="https://i.imgur.com/3Qxpe72.png" tvg-type="live" group-title="🇪🇸 Espanha | Legislativo",Congreso de los Diputados 1 [SD]
@@ -231,22 +260,6 @@ https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
 #EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD" tvg-logo="https://i.imgur.com/JnhWxKv.png" tvg-type="live" group-title="🇪🇸 Espanha | Legislativo",Parlamento de Navarra [SD]
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 1 [FHD]
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 2 [FHD]
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 3 [FHD]
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 4 [FHD]
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TheParliamentaryChannel.bs@SD" tvg-logo="https://i.imgur.com/ZQagV0x.png" tvg-type="live" group-title="🇧🇸 Bahamas | Legislativo",The Parliamentary Channel [HD]
-https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
-#EXTINF:-1 tvg-id="EbS.be@SD" tvg-logo="https://i.imgur.com/DIIRPNN.png" tvg-type="live" group-title="🇧🇪 Bélgica | Legislativo",EBS [FHD]
-https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be@SD" tvg-logo="https://i.imgur.com/7V012zQ.png" tvg-type="live" group-title="🇧🇪 Bélgica | Legislativo",EBS Plus [FHD]
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-type="live" group-title="🇧🇦 Bósnia | Legislativo",Senato TV [FHD]
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="CPACEnglish.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png" tvg-type="live" group-title="🇨🇦 Canadá | Legislativo",CPAC [HD]
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca@SD" tvg-logo="https://i.imgur.com/n24MrsX.png" tvg-type="live" group-title="🇨🇦 Canadá | Legislativo",Legislative Assembly of Ontario
@@ -259,28 +272,22 @@ http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD" tvg-logo="https://i.imgur.com/xKXs6ER.png" tvg-type="live" group-title="🇨🇦 Canadá | Legislativo",Ontario Parliamentary Network (fonte 2)
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Legislativo",Canal Congreso [FHD]
-http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
-#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Legislativo",Canal Congreso [FHD] (fonte 2)
-http://181.78.82.130:8000/play/a0s1/index.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 1 [FHD]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 2 [FHD]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 3 [FHD]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 4 [FHD]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-type="live" group-title="🇫🇷 França | Legislativo",LCP [SD]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-logo="https://i.imgur.com/hv4zi9N.png" tvg-type="live" group-title="🇮🇹 Itália | Legislativo",Camera dei Deputati (via RR) [SD]
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Legislativo",Korea TV [FHD]
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalAssemblyTV.kr@SD" tvg-logo="https://i.imgur.com/UKdB8vD.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Legislativo",National Assembly TV [HD]
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
-#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk@SD" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Legislativo",Folketinget [FHD]
-https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv@SD" tvg-logo="https://i.imgur.com/OBuiCyb.png" tvg-type="live" group-title="🇸🇻 El Salvador | Legislativo",Legislative Assembly of El Salvador [FHD]
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-id="TVLegislativa.ec@SD" tvg-logo="https://i.imgur.com/3Y6Lp5l.png" tvg-type="live" group-title="🇪🇨 Equador | Legislativo",TV Legislativa [FHD]
-https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVNRSR.sk@SD" tvg-logo="https://i.imgur.com/hsJsu3I.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Legislativo",TV NRSR [HD]
-https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-type="live" group-title="🇫🇷 França | Legislativo",LCP [SD]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-type="live" group-title="🇬🇷 Grécia | Legislativo",Hellenic Parliament TV [FHD]
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
-#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-type="live" group-title="🇬🇷 Grécia | Legislativo",Βουλή Τηλεόραση [SD]
-https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-type="live" group-title="🇳🇱 Holanda | Legislativo",Tweede Kamer: Actualiteitenkanaal [FHD]
 https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-type="live" group-title="🇳🇱 Holanda | Legislativo",Tweede Kamer: Aletta Jacobszaal [FHD]
@@ -311,20 +318,12 @@ https://livestream.tweedekamer.nl/live/tilanuskamer/index.m3u8?hd=1&sourcetimest
 https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl@SD" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-type="live" group-title="🇳🇱 Holanda | Legislativo",Tweede Kamer: Wttewaall van Stoetwegenzaal [FHD]
 https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-type="live" group-title="🇭🇺 Hungria | Legislativo",Országgyűlés (Plenáris) [HD]
-http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-type="live" group-title="🇭🇺 Hungria | Legislativo",Országgyűlés (Plenáris) [HD] (fonte 2)
-https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-type="live" group-title="🇭🇺 Hungria | Legislativo",Országgyűlés (Törvényalkotási bizottság) [HD]
-http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-type="live" group-title="🇭🇺 Hungria | Legislativo",Országgyűlés (Törvényalkotási bizottság) [HD] (fonte 2)
-https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" tvg-type="live" group-title="🇮🇩 Indonésia | Legislativo",MBG TV [FHD]
-https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Legislativo",TVR Parlemen [HD]
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Legislativo",TVR Parlemen [HD] (fonte 2)
-https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="EbS.be@SD" tvg-logo="https://i.imgur.com/DIIRPNN.png" tvg-type="live" group-title="🇧🇪 Bélgica | Legislativo",EBS [FHD]
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be@SD" tvg-logo="https://i.imgur.com/7V012zQ.png" tvg-type="live" group-title="🇧🇪 Bélgica | Legislativo",EBS Plus [FHD]
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk@SD" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Legislativo",Folketinget [FHD]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="OireachtasTV.ie@SD" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-type="live" group-title="🇮🇪 Irlanda | Legislativo",Oireachtas TV [HD]
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom1.ie@SD" tvg-logo="https://i.imgur.com/JLYqKC0.jpg" tvg-type="live" group-title="🇮🇪 Irlanda | Legislativo",Oireachtas TV Committee Room 1 [HD]
@@ -339,60 +338,18 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
 #EXTINF:-1 tvg-id="OireachtasTVSeanadEireann.ie@SD" tvg-logo="https://i.imgur.com/c5TI2DT.jpg" tvg-type="live" group-title="🇮🇪 Irlanda | Legislativo",Oireachtas TV Seanad Éireann [HD]
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
-#EXTINF:-1 tvg-id="Althingi.is@SD" tvg-logo="https://i.imgur.com/tKNPdea.png" tvg-type="live" group-title="🇮🇸 Islândia | Legislativo",Althingi [FHD]
-https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
-#EXTINF:-1 tvg-id="KnessetChannel.il@SD" tvg-logo="https://i.imgur.com/QXB1jv8.png" tvg-type="live" group-title="🇮🇱 Israel | Legislativo",Knesset Channel [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/48/index.m3u8
-#EXTINF:-1 tvg-id="KnessetChannel.il@SD" tvg-logo="https://i.imgur.com/QXB1jv8.png" tvg-type="live" group-title="🇮🇱 Israel | Legislativo",Knesset Channel [SD] (fonte 2)
-https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-logo="https://i.imgur.com/hv4zi9N.png" tvg-type="live" group-title="🇮🇹 Itália | Legislativo",Camera dei Deputati (via RR) [SD]
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" tvg-type="live" group-title="🇲🇩 Moldávia | Legislativo",Privesc.Eu TV [4K]
-https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-type="live" group-title="🇲🇳 Mongólia | Legislativo",Parliament TV [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
-#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-type="live" group-title="🇲🇳 Mongólia | Legislativo",Parliament TV [HD] (fonte 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
-#EXTINF:-1 tvg-id="HluttawSD.mm@SD" tvg-logo="https://i.imgur.com/Gffq8ks.png" tvg-type="live" group-title="🇲🇲 Myanmar | Legislativo",Hluttaw S & D
-https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
-#EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD" tvg-logo="https://i.imgur.com/xAC6gQO.png" tvg-type="live" group-title="🇲🇽 México | Legislativo",Canal del Congreso 45.1
-https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
-#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx@SD" tvg-logo="https://i.imgur.com/fLpkHfZ.png" tvg-type="live" group-title="🇲🇽 México | Legislativo",Canal Parlamento del Congreso de Jalisco [HD]
-https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IcrtvColima.mx@SD" tvg-logo="https://i.imgur.com/iUks0ot.png" tvg-type="live" group-title="🇲🇽 México | Legislativo",ICRTV Colima [FHD]
-https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" tvg-type="live" group-title="🇲🇽 México | Legislativo",Justicia TV [HD]
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Legislativo",Parliament TV [FHD]
-https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara [FHD]
-http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara [FHD] (fonte 2)
-http://158.172.217.18:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="JNETV.pe@SD" tvg-logo="https://i.imgur.com/b25XfCj.png" tvg-type="live" group-title="🇵🇪 Peru | Legislativo",JNE TV [HD]
-https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.pe@SD" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-type="live" group-title="🇵🇪 Peru | Legislativo",Justicia TV [FHD]
-http://190.93.224.42/JUSTICIA-TV/index.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.pe@SD" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-type="live" group-title="🇵🇪 Peru | Legislativo",Justicia TV [FHD] (fonte 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-type="live" group-title="🇷🇺 Rússia | Legislativo",Duma TV [HD]
-http://185.23.80.23:8080/DumaTV/index.m3u8
-#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-type="live" group-title="🇷🇺 Rússia | Legislativo",Дума ТВ [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://dumatv.iptv2022.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th@SD" tvg-logo="https://i.imgur.com/Okcnmt6.png" tvg-type="live" group-title="🇹🇭 Tailândia | Legislativo",Thai Parliament TV [FHD]
-https://tv-live.tpchannel.org/live/tv.m3u8
-#EXTINF:-1 tvg-id="PershyiZahidnyi.ua@SD" tvg-logo="https://i.imgur.com/SnljTbR.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Legislativo",Pershyi Zahidnyi [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/246/index.m3u8
-#EXTINF:-1 tvg-id="RadaTV.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Legislativo",Rada TV [HD]
-https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-logo="https://i.imgur.com/Qm88HT0.png" tvg-type="live" group-title="🇻🇪 Venezuela | Legislativo",ANTV [HD]
-http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-type="live" group-title="🇬🇷 Grécia | Legislativo",Hellenic Parliament TV [FHD]
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr@SD" tvg-logo="https://i.imgur.com/o2cvqv3.png" tvg-type="live" group-title="🇬🇷 Grécia | Legislativo",Βουλή Τηλεόραση [SD]
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-type="live" group-title="🇭🇺 Hungria | Legislativo",Országgyűlés (Plenáris) [HD]
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-type="live" group-title="🇭🇺 Hungria | Legislativo",Országgyűlés (Plenáris) [HD] (fonte 2)
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-type="live" group-title="🇭🇺 Hungria | Legislativo",Országgyűlés (Törvényalkotási bizottság) [HD]
+http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu@SD" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-type="live" group-title="🇭🇺 Hungria | Legislativo",Országgyűlés (Törvényalkotási bizottság) [HD] (fonte 2)
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SansadTV1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Legislativo",Sansad TV 1 [FHD]
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
@@ -407,3 +364,46 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Legislativo",Sansad TV 2 (fonte 3)
 https://cdn.pishow.tv/ott/live/39/master.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-type="live" group-title="🇷🇺 Rússia | Legislativo",Duma TV [HD]
+http://185.23.80.23:8080/DumaTV/index.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-type="live" group-title="🇷🇺 Rússia | Legislativo",Дума ТВ [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://dumatv.iptv2022.com/playlist.m3u8
+#EXTINF:-1 tvg-id="KnessetChannel.il@SD" tvg-logo="https://i.imgur.com/QXB1jv8.png" tvg-type="live" group-title="🇮🇱 Israel | Legislativo",Knesset Channel [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/48/index.m3u8
+#EXTINF:-1 tvg-id="KnessetChannel.il@SD" tvg-logo="https://i.imgur.com/QXB1jv8.png" tvg-type="live" group-title="🇮🇱 Israel | Legislativo",Knesset Channel [SD] (fonte 2)
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" tvg-type="live" group-title="🇮🇩 Indonésia | Legislativo",MBG TV [FHD]
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Legislativo",TVR Parlemen [HD]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Legislativo",TVR Parlemen [HD] (fonte 2)
+https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th@SD" tvg-logo="https://i.imgur.com/Okcnmt6.png" tvg-type="live" group-title="🇹🇭 Tailândia | Legislativo",Thai Parliament TV [FHD]
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Legislativo",Parliament TV [FHD]
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="PershyiZahidnyi.ua@SD" tvg-logo="https://i.imgur.com/SnljTbR.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Legislativo",Pershyi Zahidnyi [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/246/index.m3u8
+#EXTINF:-1 tvg-id="RadaTV.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Legislativo",Rada TV [HD]
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNRSR.sk@SD" tvg-logo="https://i.imgur.com/hsJsu3I.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Legislativo",TV NRSR [HD]
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-type="live" group-title="🇲🇳 Mongólia | Legislativo",Parliament TV [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-type="live" group-title="🇲🇳 Mongólia | Legislativo",Parliament TV [HD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-logo="https://i.imgur.com/ukBacSn.png" tvg-type="live" group-title="🇲🇩 Moldávia | Legislativo",Privesc.Eu TV [4K]
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-id="HluttawSD.mm@SD" tvg-logo="https://i.imgur.com/Gffq8ks.png" tvg-type="live" group-title="🇲🇲 Myanmar | Legislativo",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-type="live" group-title="🇧🇦 Bósnia | Legislativo",Senato TV [FHD]
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="Althingi.is@SD" tvg-logo="https://i.imgur.com/tKNPdea.png" tvg-type="live" group-title="🇮🇸 Islândia | Legislativo",Althingi [FHD]
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
+#EXTINF:-1 tvg-id="TheParliamentaryChannel.bs@SD" tvg-logo="https://i.imgur.com/ZQagV0x.png" tvg-type="live" group-title="🇧🇸 Bahamas | Legislativo",The Parliamentary Channel [HD]
+https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8

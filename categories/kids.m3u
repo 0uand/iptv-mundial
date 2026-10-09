@@ -46,11 +46,6 @@ https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 #EXTINF:-1 tvg-id="TurmadaMonica.us@Brazil" tvg-logo="https://i.imgur.com/nrvPPrW.png" tvg-type="live" group-title="🇧🇷 Brasil | Infantil",Turma da Mônica [HD]
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇵🇹 Portugal | Infantil",Disney Channel [FHD]
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇵🇹 Portugal | Infantil",Disney Channel (fonte 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://zntx.dyndns.org:8085/hls/disney.m3u8
 #EXTINF:-1 tvg-id="90sKids.us@SD" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Infantil",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 tvg-id="90sKidsTV2.us@SD" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Infantil",90s Kids TV 2
@@ -264,6 +259,49 @@ http://92.114.85.72:8000/play/a08g
 http://92.114.85.72:8000/play/a08p
 #EXTINF:-1 tvg-id="TotallyTurtles.de@GB" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",Totally Turtles
 https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
+#EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Baby Shark TV
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Babyfirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Bob Esponja Pantalones Cuadrados [HD]
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" tvg-type="live" group-title="🇲🇽 México | Infantil",El Chavo TV [HD]
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="HeyArnold.us@LatAm" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.us@LatAm" tvg-logo="https://i.imgur.com/GCenuyl.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Nick Jr. Club [HD]
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Nickelodeon Clásico [HD]
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Nickelodeon Teen [HD]
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 tvg-id="NickelodeonToons.us@LatAm" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Nickelodeon Toons [HD]
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVJunior.us@LatAm" tvg-logo="https://i.imgur.com/7sApMZS.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Pluto TV Junior
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKids.us@LatAm" tvg-logo="https://i.imgur.com/yVSLWy5.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Pluto TV Kids
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:-1 tvg-id="Rugrats.us@LatAm" tvg-logo="https://i.imgur.com/l5XmvM1.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Rugrats
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" tvg-type="live" group-title="🇦🇷 Argentina | Infantil",Pakapaka [FHD]
+http://190.128.214.97:64333/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="13Kids.cl@SD" tvg-logo="https://i.imgur.com/8WJUbSD.png" tvg-type="live" group-title="🇨🇱 Chile | Infantil",13 Kids [FHD]
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="FunBox.cl@SD" tvg-logo="https://i.imgur.com/9MXM6jD.png" tvg-type="live" group-title="🇨🇱 Chile | Infantil",FunBox
+http://186.148.196.100:8000/play/a00d
+#EXTINF:-1 tvg-id="Chikitoonz.pe@SD" tvg-logo="https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png" tvg-type="live" group-title="🇵🇪 Peru | Infantil",Chikitoonz [FHD]
+http://45.70.201.81:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Infantil",Chinola TV [SD]
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" tvg-type="live" group-title="🇩🇴 República Dominicana | Infantil",Tom And Jerry [HD]
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇵🇹 Portugal | Infantil",Disney Channel [FHD]
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇵🇹 Portugal | Infantil",Disney Channel (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://zntx.dyndns.org:8085/hls/disney.m3u8
 #EXTINF:-1 tvg-id="BobEsponja.de@ES" tvg-logo="https://i.imgur.com/nmZ2nId.png" tvg-type="live" group-title="🇪🇸 Espanha | Infantil",Bob Esponja [HD]
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 tvg-id="Clan.es@SD" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" tvg-type="live" group-title="🇪🇸 Espanha | Infantil",Clan [FHD]
@@ -279,66 +317,6 @@ https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 #EXTINF:-1 tvg-id="Rugrats.de@ES" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Infantil",Rugrats
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-#EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" tvg-type="live" group-title="🇦🇷 Argentina | Infantil",Pakapaka [FHD]
-http://190.128.214.97:64333/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="Cufo.al@SD" tvg-logo="https://i.imgur.com/GbBHtwD.png" tvg-type="live" group-title="🇦🇱 Albânia | Infantil",Cufo
-https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
-#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Disney Channel
-http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
-#EXTINF:-1 tvg-id="DrakeJosh.de@DACH" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Drake & Josh
-https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
-#EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",KiKA [FHD]
-https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
-#EXTINF:-1 tvg-id="NickJrClub.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Nick Jr. Club [HD]
-https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Nickelodeon
-https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-#EXTINF:-1 tvg-id="NickelodeonClassics.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Nickelodeon Classics [HD]
-https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
-#EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",RiC [FHD]
-https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://i.imgur.com/NIsgNvI.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",SpongeBob Schwammkopf [HD]
-https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Totally Turtles [HD]
-https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-#EXTINF:-1 tvg-id="AmouYazidTV.dz@SD" tvg-logo="https://i.imgur.com/L8UPGPC.png" tvg-type="live" group-title="🇩🇿 Argélia | Infantil",Amou Yazid TV [SD]
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" tvg-logo="https://i.imgur.com/Y2BqP9m.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Infantil",Atfal & Mawaheb TV [FHD]
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" tvg-logo="https://i.imgur.com/Y2BqP9m.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Infantil",Atfal & Mawaheb TV [FHD] (fonte 2)
-https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCKids.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",ABC Kids
-https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",Kartoon Channel [FHD]
-https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",Ryan and Friends [FHD]
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",ToonGoggles [HD]
-https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",Zoo Moo (Australia) [FHD]
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DurontoTV.bd@SD" tvg-logo="https://i.imgur.com/gXsddRK.png" tvg-type="live" group-title="🇧🇩 Bangladesh | Infantil",Duronto TV [HD]
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-#EXTINF:-1 tvg-id="DurontoTV.bd@SD" tvg-logo="https://i.imgur.com/gXsddRK.png" tvg-type="live" group-title="🇧🇩 Bangladesh | Infantil",Duronto TV [HD] (fonte 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://box.bbaria.net/DurontoTV/index.m3u8
-#EXTINF:-1 tvg-id="ADOTV.bj@SD" tvg-logo="https://i.imgur.com/pxFamLr.png" tvg-type="live" group-title="🇧🇯 Benin | Infantil",ADO TV [HD]
-https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a059
-#EXTINF:-1 tvg-id="EKids.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",EKids [SD]
-http://78.108.244.134:8899/ekids
-#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon [SD]
-http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon (fonte 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a056
-#EXTINF:-1 tvg-id="RING.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",RING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a06e
-#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-logo="https://i.imgur.com/irTDbpn.png" tvg-type="live" group-title="🇧🇦 Bósnia | Infantil",TNT Kids [SD]
-https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.us@CA" tvg-logo="https://i.imgur.com/ITwU1yZ.png" tvg-type="live" group-title="🇨🇦 Canadá | Infantil",Bob l'éponge [HD]
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us@CA" tvg-logo="https://i.imgur.com/zJuSbmU.png" tvg-type="live" group-title="🇨🇦 Canadá | Infantil",Dora TV
@@ -366,64 +344,24 @@ https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" tvg-type="live" group-title="🇨🇦 Canadá | Infantil",TVOKids (fonte 2)
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
-#EXTINF:-1 tvg-id="Balapan.kz@SD" tvg-logo="https://i.imgur.com/2o5T0gi.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Infantil",Balapan [SD]
-https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://i.imgur.com/2o5T0gi.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Infantil",Balapan HD [FHD]
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:-1 tvg-id="BalapanInternational.kz@SD" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Infantil",Balapan International [FHD]
-https://live-3.otcnet.ru/Balapan/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Infantil",Nickelodeon CIS [FHD]
-https://stream8.cinerama.uz/1500/playlist.m3u8
-#EXTINF:-1 tvg-id="13Kids.cl@SD" tvg-logo="https://i.imgur.com/8WJUbSD.png" tvg-type="live" group-title="🇨🇱 Chile | Infantil",13 Kids [FHD]
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="FunBox.cl@SD" tvg-logo="https://i.imgur.com/9MXM6jD.png" tvg-type="live" group-title="🇨🇱 Chile | Infantil",FunBox
-http://186.148.196.100:8000/play/a00d
-#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn@SD" tvg-logo="https://i.imgur.com/t8X4wPZ.png" tvg-type="live" group-title="🇨🇳 China | Infantil",BRTV Kaku Childrens Channel
-http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
-#EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" tvg-type="live" group-title="🇨🇳 China | Infantil",CCTV-14 [FHD]
-http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" tvg-type="live" group-title="🇨🇳 China | Infantil",Jiangxi Children's Channel
-https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr@SD" tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Infantil",EBS kids [SD]
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="BravoKidsTV.hr@SD" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" tvg-type="live" group-title="🇭🇷 Croácia | Infantil",Bravo! Kids TV
-https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
-#EXTINF:-1 tvg-id="NickJr.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-type="live" group-title="🇭🇷 Croácia | Infantil",Nick Jr. [SD]
-http://176.61.157.250/NickJr/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-type="live" group-title="🇭🇷 Croácia | Infantil",Nickelodeon [FHD]
-http://176.61.157.250/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Avatar.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Avatar
-https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
-#EXTINF:-1 tvg-id="iCarly.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",iCarly
-https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
-#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Pluto TV Juniorklubben [HD]
-https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilm.se@DK" tvg-logo="https://images.pluto.tv/channels/67f508992ebe80e2929b5c98/colorLogoPNG_1748955041610.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Pluto TV Klassiske tegnefilm [HD]
-https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Pluto TV Tegnefilm [HD]
-https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se@DK" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Pluto TV Ungdomsserier [HD]
-https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
-#EXTINF:-1 tvg-id="SvampeBobFirkant.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",SvampeBob Firkant [HD]
-https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Totally Turtles [HD]
-https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
-#EXTINF:-1 tvg-id="KoogiTV.eg@SD" tvg-logo="https://i.imgur.com/zojMTP9.png" tvg-type="live" group-title="🇪🇬 Egito | Infantil",Koogi TV [FHD]
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD]
-https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD] (fonte 2)
-https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD] (fonte 3)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
-#EXTINF:-1 tvg-id="ducktv.sk@HD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv HD
-https://dash3.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" tvg-logo="https://i.imgur.com/RFhxfOx.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv PLUS
-https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1 tvg-id="KiKA.de@HD" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",KiKA HD
-https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ETV2.ee@SD" tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-type="live" group-title="🇪🇪 Estônia | Infantil",ETV2 [HD]
-https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Disney Channel
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
+#EXTINF:-1 tvg-id="DrakeJosh.de@DACH" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Drake & Josh
+https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",KiKA [FHD]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Nick Jr. Club [HD]
+https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="NickelodeonClassics.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Nickelodeon Classics [HD]
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",RiC [FHD]
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://i.imgur.com/NIsgNvI.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",SpongeBob Schwammkopf [HD]
+https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+#EXTINF:-1 tvg-id="TotallyTurtles.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Totally Turtles [HD]
+https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" tvg-type="live" group-title="🇫🇷 França | Infantil",Disney Jr. [FHD]
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" tvg-type="live" group-title="🇫🇷 França | Infantil",Disney Jr. [SD] (fonte 2)
@@ -455,12 +393,123 @@ https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 #EXTINF:-1 tvg-id="TortuesNinjaTV.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" tvg-type="live" group-title="🇫🇷 França | Infantil",Tortues Ninja TV [HD]
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
+#EXTINF:-1 tvg-id="BeJoykids.it@HD" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",BeJoy.kids [FHD]
+https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Iunior TV [FHD]
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+#EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Iunior TV [HD] (fonte 2)
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Nick Jr. [HD]
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Nickelodeon
+https://zg9mhld.s.gy/HD-NICK-IT.ts
+#EXTINF:-1 tvg-id="PlutoTVTeen.de@IT" tvg-logo="https://i.imgur.com/lNJ5p5e.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Pluto TV Teen [HD]
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+#EXTINF:-1 tvg-id="Super.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Super%21_logo_2015.svg" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperiCarly.us@Italy" tvg-logo="https://i.imgur.com/IWcQfF2.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super! iCarly
+https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
+#EXTINF:-1 tvg-id="SuperPop.us@Italy" tvg-logo="https://i.imgur.com/2FfREQE.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super! Pop
+https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
+#EXTINF:-1 tvg-id="SuperSpongeBob.us@Italy" tvg-logo="https://i.imgur.com/65wxNn4.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super! SpongeBob [HD]
+https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr@SD" tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Infantil",EBS kids [SD]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCKids.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",Kartoon Channel [FHD]
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",Ryan and Friends [FHD]
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",ToonGoggles [HD]
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇦🇺 Austrália | Infantil",Zoo Moo (Australia) [FHD]
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇳🇱 Holanda | Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsScandinavia.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-type="live" group-title="🇳🇱 Holanda | Infantil",Nicktoons Scandinavia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
+#EXTINF:-1 tvg-id="iCarly.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",iCarly
+https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
+#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se@SE" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Pluto TV Juniorklubben [HD]
+https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTecknadeklassiker.se@SE" tvg-logo="https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Pluto TV Tecknade klassiker [HD]
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTecknat.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Pluto TV Tecknat [HD]
+https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se@SE" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Pluto TV Ungdomsserier [HD]
+https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
+#EXTINF:-1 tvg-id="SvampBobFyrkant.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",SvampBob Fyrkant [HD]
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+#EXTINF:-1 tvg-id="TotallyTurtles.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Totally Turtles [HD]
+https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
+#EXTINF:-1 tvg-id="iCarly.se@NO" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",iCarly
+https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
+#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Pluto TV Juniorklubben [HD]
+https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilmer.se@NO" tvg-logo="https://images.pluto.tv/channels/67f508f68ddd60c57dc44766/colorLogoPNG_1748955225113.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Pluto TV Klassiske tegnefilmer [HD]
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Pluto TV Tegnefilm [HD]
+https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se@NO" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Pluto TV Ungdomsserier [HD]
+https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
+#EXTINF:-1 tvg-id="SvampeBobFirkant.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",SvampeBob Firkant [HD]
+https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
+#EXTINF:-1 tvg-id="TotallyTurtles.se@NO" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Totally Turtles [HD]
+https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
+#EXTINF:-1 tvg-id="Avatar.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Avatar
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+#EXTINF:-1 tvg-id="iCarly.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",iCarly
+https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Pluto TV Juniorklubben [HD]
+https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilm.se@DK" tvg-logo="https://images.pluto.tv/channels/67f508992ebe80e2929b5c98/colorLogoPNG_1748955041610.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Pluto TV Klassiske tegnefilm [HD]
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Pluto TV Tegnefilm [HD]
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se@DK" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Pluto TV Ungdomsserier [HD]
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
+#EXTINF:-1 tvg-id="SvampeBobFirkant.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",SvampeBob Firkant [HD]
+https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
+#EXTINF:-1 tvg-id="TotallyTurtles.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Infantil",Totally Turtles [HD]
+https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
+#EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" tvg-type="live" group-title="🇦🇹 Áustria | Infantil",ORF Kids [HD]
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 tvg-id="4FunKids.pl@SD" tvg-logo="https://i.imgur.com/2JO5Y8c.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",4 Fun Kids (576i)
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us@Poland" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",CBeebies [SD]
+http://92.114.85.87:8017/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",CBeebies [SD] (fonte 2)
+https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Disney Channel HD [FHD]
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Disney Junior [SD]
+http://57.128.231.171:8080/277/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Disney XD [SD]
+http://185.227.34.179:8080/disney-xd/index.m3u8
+#EXTINF:-1 tvg-id="PolsatJimJam.pl@SD" tvg-logo="https://i.imgur.com/GjppUlg.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Polsat JimJam [SD]
+http://185.227.34.179:8080/jimjam/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Disney Channel
+http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 tvg-id="MinimaxCEE.cz@SD" tvg-logo="https://i.imgur.com/WWOlm1x.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Minimax [SD]
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.cz@SD" tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_nick_jr/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.cz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Nicktoons
+http://88.212.15.19/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="CTDecko.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",ČT:D/ČT art [FHD]
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu@SD" tvg-logo="https://i.imgur.com/aOa73uT.png" tvg-type="live" group-title="🇭🇺 Hungria | Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
@@ -485,185 +534,6 @@ http://88.212.15.19/live/nicktoons_hungary/index.m3u8
 #EXTINF:-1 tvg-id="TV2Kids.hu@SD" tvg-logo="https://i.imgur.com/Zltlezm.png" tvg-type="live" group-title="🇭🇺 Hungria | Infantil",TV2 Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/tv2_kids/index.m3u8
-#EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Biznet Kids [FHD]
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 tvg-id="GrooviaKids.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Groovia Kids [SD]
-https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
-#EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1 tvg-id="MyKidz.id@SD" tvg-logo="https://i.imgur.com/qzZFU6d.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",My Kidz [HD]
-https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
-#EXTINF:-1 tvg-id="VTV.id@SD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",VTV [HD]
-#EXTVLCOPT:http-referrer=https://youtv.live/
-https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1 tvg-id="VTV.id@HD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",VTV HD [FHD]
-http://ikitv.sqn.at:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="VTV.id@HD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",VTV HD [FHD] (fonte 2)
-http://202.150.172.59/VTVHD/index.m3u8
-#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://afarin.tv/images/baxcha.png" tvg-type="live" group-title="🇮🇶 Iraque | Infantil",Afarin Baxcha [FHD]
-https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://i.imgur.com/6MnXD7g.png" tvg-type="live" group-title="🇮🇶 Iraque | Infantil",Afarin TV [HD]
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD" tvg-logo="https://i.imgur.com/l8XMKTT.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",HodHod Farsi TV [FHD]
-https://northtelecom.b-cdn.net/hodhodtv.m3u8
-#EXTINF:-1 tvg-id="IRIBOmid.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",Omid
-https://ncdn.telewebion.ir/omid/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",Pooya & Nahal
-https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",Pooya TV
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",Pooya TV Plus
-https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Disney Channel [SD]
-http://str2.iptvhd.ru:8080/disney/index.m3u8
-#EXTINF:-1 tvg-id="Hop.il@SD" tvg-logo="https://i.imgur.com/bScuilD.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Hop! [FHD]
-http://stream.mcquack.net/44/index.m3u8
-#EXTINF:-1 tvg-id="Junior.il@SD" tvg-logo="https://i.imgur.com/w8fYTnw.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Junior [FHD]
-http://str2.iptvhd.ru:8080/junior/index.m3u8
-#EXTINF:-1 tvg-id="Luli.il@SD" tvg-logo="https://cdn.epg.one/img2/2695.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Luli [FHD]
-http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.il@SD" tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Nick Jr. [SD]
-http://str2.iptvhd.ru:8080/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",TeenNick [SD]
-http://89.33.29.115:8080/TeenNick/index.m3u8
-#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",TeenNick (fonte 2)
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
-#EXTINF:-1 tvg-id="Zoom.il@SD" tvg-logo="https://i.imgur.com/KnBzNtA.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Zoom [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/377/index.m3u8
-#EXTINF:-1 tvg-id="Zoom.il@SD" tvg-logo="https://i.imgur.com/KnBzNtA.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Zoom [SD] (fonte 2)
-http://str2.iptvhd.ru:8080/zoom/index.m3u8
-#EXTINF:-1 tvg-id="BeJoykids.it@HD" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",BeJoy.kids [FHD]
-https://stream.paroledivita.org/bejoy.m3u8
-#EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Iunior TV [FHD]
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
-#EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Iunior TV [HD] (fonte 2)
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Nick Jr. [HD]
-http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.it@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Nickelodeon
-https://zg9mhld.s.gy/HD-NICK-IT.ts
-#EXTINF:-1 tvg-id="PlutoTVTeen.de@IT" tvg-logo="https://i.imgur.com/lNJ5p5e.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Pluto TV Teen [HD]
-https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
-#EXTINF:-1 tvg-id="Super.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Super%21_logo_2015.svg" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperiCarly.us@Italy" tvg-logo="https://i.imgur.com/IWcQfF2.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super! iCarly
-https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
-#EXTINF:-1 tvg-id="SuperPop.us@Italy" tvg-logo="https://i.imgur.com/2FfREQE.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super! Pop
-https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
-#EXTINF:-1 tvg-id="SuperSpongeBob.us@Italy" tvg-logo="https://i.imgur.com/65wxNn4.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super! SpongeBob [HD]
-https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
-#EXTINF:-1 tvg-id="TVArberia3Femije.xk@SD" tvg-logo="https://i.imgur.com/zLRzyVS.png" tvg-type="live" group-title="🇽🇰 Kosovo | Infantil",TV Arbëria 3 Fëmijë [HD]
-https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
-#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-type="live" group-title="🇱🇧 Líbano | Infantil",Taha TV [SD]
-https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
-#EXTINF:-1 tvg-id="MNetKids.mk@SD" tvg-logo="https://i.imgur.com/SbKkpuH.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Infantil",M-Net Kids [HD]
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-type="live" group-title="🇲🇿 Moçambique | Infantil",Reino Infantil
-https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
-#EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Avatar: La Leyenda de Aang
-https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Baby Shark TV
-https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Babyfirst
-https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
-#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Bob Esponja Pantalones Cuadrados [HD]
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" tvg-type="live" group-title="🇲🇽 México | Infantil",El Chavo TV [HD]
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="HeyArnold.us@LatAm" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Hey Arnold!
-https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-id="NickJrClub.us@LatAm" tvg-logo="https://i.imgur.com/GCenuyl.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Nick Jr. Club [HD]
-https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-#EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Nickelodeon Clásico [HD]
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Nickelodeon Teen [HD]
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:-1 tvg-id="NickelodeonToons.us@LatAm" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Nickelodeon Toons [HD]
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVJunior.us@LatAm" tvg-logo="https://i.imgur.com/7sApMZS.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Pluto TV Junior
-https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKids.us@LatAm" tvg-logo="https://i.imgur.com/yVSLWy5.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Pluto TV Kids
-https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
-#EXTINF:-1 tvg-id="Rugrats.us@LatAm" tvg-logo="https://i.imgur.com/l5XmvM1.png" tvg-type="live" group-title="🇲🇽 México | Infantil",Rugrats
-https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-#EXTINF:-1 tvg-id="iCarly.se@NO" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",iCarly
-https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
-#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Pluto TV Juniorklubben [HD]
-https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilmer.se@NO" tvg-logo="https://images.pluto.tv/channels/67f508f68ddd60c57dc44766/colorLogoPNG_1748955225113.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Pluto TV Klassiske tegnefilmer [HD]
-https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Pluto TV Tegnefilm [HD]
-https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se@NO" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Pluto TV Ungdomsserier [HD]
-https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
-#EXTINF:-1 tvg-id="SvampeBobFirkant.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",SvampeBob Firkant [HD]
-https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.se@NO" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Infantil",Totally Turtles [HD]
-https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
-#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Kartoon Channel [FHD]
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Ryan and Friends [FHD]
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Zoo Moo [FHD]
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Zoo Moo [FHD] (fonte 2)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Arabic
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV English
-https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Urdu
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
-#EXTINF:-1 tvg-id="KidsZone.pk@SD" tvg-logo="https://i.imgur.com/mJWBVH1.png" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",Kids Zone [HD]
-http://103.250.28.74:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",Minimax [SD]
-https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Chikitoonz.pe@SD" tvg-logo="https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png" tvg-type="live" group-title="🇵🇪 Peru | Infantil",Chikitoonz [FHD]
-http://45.70.201.81:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="4FunKids.pl@SD" tvg-logo="https://i.imgur.com/2JO5Y8c.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",4 Fun Kids (576i)
-https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 tvg-id="BabySharkTV.us@Poland" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Baby Shark TV
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",CBeebies [SD]
-http://92.114.85.87:8017/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",CBeebies [SD] (fonte 2)
-https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Disney Channel HD [FHD]
-http://185.227.34.179:8080/disney-channel-hd/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Disney Junior [SD]
-http://57.128.231.171:8080/277/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Disney XD [SD]
-http://185.227.34.179:8080/disney-xd/index.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl@SD" tvg-logo="https://i.imgur.com/GjppUlg.png" tvg-type="live" group-title="🇵🇱 Polônia | Infantil",Polsat JimJam [SD]
-http://185.227.34.179:8080/jimjam/index.m3u8
-#EXTINF:-1 tvg-id="BilimIlim.kg@SD" tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" tvg-type="live" group-title="🇰🇬 Quirguistão | Infantil",ЭлТР Билим Илим [SD]
-http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
-#EXTINF:-1 tvg-id="AkiliKids.ke@SD" tvg-logo="https://i.imgur.com/xFm2co6.png" tvg-type="live" group-title="🇰🇪 Quênia | Infantil",Akili Kids!
-https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Infantil",Chinola TV [SD]
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" tvg-type="live" group-title="🇩🇴 República Dominicana | Infantil",Tom And Jerry [HD]
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Disney Channel
-http://88.212.15.19/live/test_disney/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Disney Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_disney_junior/playlist.m3u8
-#EXTINF:-1 tvg-id="MinimaxCEE.cz@SD" tvg-logo="https://i.imgur.com/WWOlm1x.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Minimax [SD]
-http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:-1 tvg-id="NickJr.cz@SD" tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Nick Jr.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_nick_jr/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.cz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",Nicktoons
-http://88.212.15.19/live/test_nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-id="CTDecko.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Infantil",ČT:D/ČT art [FHD]
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇷🇴 Romênia | Infantil",Disney Channel
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -682,6 +552,58 @@ https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
 https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 #EXTINF:-1 tvg-id="TraLaLaTV.ro@SD" tvg-logo="https://i.imgur.com/xJBMnjy.png" tvg-type="live" group-title="🇷🇴 Romênia | Infantil",TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Chithiram [SD]
+https://cdn.pishow.tv/ott/live/1243/master.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney Channel [SD]
+http://51.75.127.199:3141/disneychannel/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney Channel HD [FHD]
+http://66.102.126.10:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/FAoDDiaq0WPescE65173/image.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney International HD [SD]
+http://103.151.60.162:2122/play/a018/index.m3u8?hls
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney Junior [SD]
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney Junior [SD] (fonte 2)
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+#EXTINF:-1 tvg-id="EpicKids.in@Digital" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVSR.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Epic Kids Digital [FHD]
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-logo="https://i.imgur.com/zsTxPV9.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",ETV Bal Bharat [SD]
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Hungama TV [SD]
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Hungama TV [SD] (fonte 2)
+http://66.102.126.10:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Hungama TV [SD] (fonte 3)
+http://51.75.127.199:3141/hungama/index.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nick HD+ [FHD]
+http://51.75.127.199:3141/nickhd/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nick Jr. [SD]
+http://103.185.24.134:3001/NICK-JR/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nick Jr. [SD] (fonte 2)
+http://202.70.146.135:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nick Jr. [SD] (fonte 3)
+http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nickelodeon [SD]
+http://103.185.24.134:3001/NICK/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nickelodeon [SD] (fonte 2)
+http://202.70.146.135:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nickelodeon [SD] (fonte 3)
+http://51.75.127.199:3141/nickbangla/index.m3u8
+#EXTINF:-1 tvg-id="PequesTV.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Peques TV [HD]
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Sonic [SD]
+http://103.185.24.134:3001/SONIC/index.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Sonic [SD] (fonte 2)
+http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+#EXTINF:-1 tvg-id="TheJungleBook.in@SD" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",The Jungle Book [FHD]
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="ZBCartoon.in@HD" tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",ZB Cartoon [FHD]
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn@SD" tvg-logo="https://i.imgur.com/t8X4wPZ.png" tvg-type="live" group-title="🇨🇳 China | Infantil",BRTV Kaku Childrens Channel
+http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" tvg-type="live" group-title="🇨🇳 China | Infantil",CCTV-14 [FHD]
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" tvg-type="live" group-title="🇨🇳 China | Infantil",Jiangxi Children's Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://i.imgur.com/i2AP0hp.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Ani [SD]
 http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://i.imgur.com/i2AP0hp.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Ani [SD] (fonte 2)
@@ -860,32 +782,6 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="Unikum.ru@SD" tvg-logo="https://i.imgur.com/kSJZjDL.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Уникум [SD]
 http://31.148.48.15/Detskiy/index.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nick Jr. Asia [HD]
-http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nick Jr. Asia HD [HD]
-http://58.8.186.128:10003/bysid/2330
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nickelodeon Asia [FHD]
-http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",ZooMoo [FHD]
-http://168.196.127.137:6001/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Infantil",TVCARiB Kids & Teens [HD]
-https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:-1 tvg-id="iCarly.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",iCarly
-https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
-#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se@SE" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Pluto TV Juniorklubben [HD]
-https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTecknadeklassiker.se@SE" tvg-logo="https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Pluto TV Tecknade klassiker [HD]
-https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTecknat.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Pluto TV Tecknat [HD]
-https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se@SE" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Pluto TV Ungdomsserier [HD]
-https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
-#EXTINF:-1 tvg-id="SvampBobFyrkant.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",SvampBob Fyrkant [HD]
-https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Infantil",Totally Turtles [HD]
-https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
-#EXTINF:-1 tvg-id="TVBahoriston.tj@SD" tvg-logo="https://i.imgur.com/Dacai5z.png" tvg-type="live" group-title="🇹🇯 Tajiquistão | Infantil",TV Bahoriston [FHD]
-https://live.teleradiocom.tj/3/3m.m3u8
 #EXTINF:-1 tvg-id="GEMJunior.tr@SD" tvg-logo="https://i.imgur.com/jK8yzj2.png" tvg-type="live" group-title="🇹🇷 Turkiye | Infantil",GEM Junior
 https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMKids.tr@SD" tvg-logo="https://i.imgur.com/ArkjaFk.png" tvg-type="live" group-title="🇹🇷 Turkiye | Infantil",GEM Kids
@@ -902,6 +798,64 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" tvg-logo="https://i.imgur.com/8PmXz9t.png" tvg-type="live" group-title="🇹🇷 Turkiye | Infantil",TRT Diyanet Çocuk [HD]
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" tvg-logo="https://i.imgur.com/Y2BqP9m.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Infantil",Atfal & Mawaheb TV [FHD]
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa@SD" tvg-logo="https://i.imgur.com/Y2BqP9m.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Infantil",Atfal & Mawaheb TV [FHD] (fonte 2)
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Disney Channel [SD]
+http://str2.iptvhd.ru:8080/disney/index.m3u8
+#EXTINF:-1 tvg-id="Hop.il@SD" tvg-logo="https://i.imgur.com/bScuilD.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Hop! [FHD]
+http://stream.mcquack.net/44/index.m3u8
+#EXTINF:-1 tvg-id="Junior.il@SD" tvg-logo="https://i.imgur.com/w8fYTnw.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Junior [FHD]
+http://str2.iptvhd.ru:8080/junior/index.m3u8
+#EXTINF:-1 tvg-id="Luli.il@SD" tvg-logo="https://cdn.epg.one/img2/2695.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Luli [FHD]
+http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.il@SD" tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Nick Jr. [SD]
+http://str2.iptvhd.ru:8080/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",TeenNick [SD]
+http://89.33.29.115:8080/TeenNick/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",TeenNick (fonte 2)
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.il@SD" tvg-logo="https://i.imgur.com/KnBzNtA.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Zoom [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.il@SD" tvg-logo="https://i.imgur.com/KnBzNtA.png" tvg-type="live" group-title="🇮🇱 Israel | Infantil",Zoom [SD] (fonte 2)
+http://str2.iptvhd.ru:8080/zoom/index.m3u8
+#EXTINF:-1 tvg-id="KoogiTV.eg@SD" tvg-logo="https://i.imgur.com/zojMTP9.png" tvg-type="live" group-title="🇪🇬 Egito | Infantil",Koogi TV [FHD]
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Biznet Kids [FHD]
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-id="GrooviaKids.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Groovia Kids [SD]
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+#EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="MyKidz.id@SD" tvg-logo="https://i.imgur.com/qzZFU6d.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",My Kidz [HD]
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1 tvg-id="VTV.id@SD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",VTV [HD]
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="VTV.id@HD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",VTV HD [FHD]
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="VTV.id@HD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",VTV HD [FHD] (fonte 2)
+http://202.150.172.59/VTVHD/index.m3u8
+#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Infantil",ON Kids [HD]
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nick Jr. Asia [HD]
+http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
+#EXTINF:-1 tvg-id="NickJrAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nick Jr. Asia HD [HD]
+http://58.8.186.128:10003/bysid/2330
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",Nickelodeon Asia [FHD]
+http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇸🇬 Singapura | Infantil",ZooMoo [FHD]
+http://168.196.127.137:6001/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Kartoon Channel [FHD]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-logo="https://i.imgur.com/jcIprmt.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Ryan and Friends [FHD]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Zoo Moo [FHD]
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Zoo Moo [FHD] (fonte 2)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePlusKids.ua@SD" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Infantil",Cine+ Kids [SD]
 http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusKids.ua@SD" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Infantil",Cine+ Kids (fonte 2)
@@ -925,57 +879,103 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PLUSPLUS.ua@SD" tvg-logo="https://i.imgur.com/9bPhStm.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Infantil",PLUSPLUS [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/339/index.m3u8
+#EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD" tvg-logo="https://i.imgur.com/l8XMKTT.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",HodHod Farsi TV [FHD]
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#EXTINF:-1 tvg-id="IRIBOmid.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",Omid
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",Pooya & Nahal
+https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",Pooya TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-type="live" group-title="🇮🇷 Irã | Infantil",Pooya TV Plus
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD]
+https://jmp2.uk/stvp-ESBC4700001GR
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD] (fonte 2)
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD] (fonte 3)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
+#EXTINF:-1 tvg-id="ducktv.sk@HD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv HD
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" tvg-logo="https://i.imgur.com/RFhxfOx.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv PLUS
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@HD" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",KiKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Arabic
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Chinese
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV English
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",God Stands Kids Club TV Urdu
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1 tvg-id="KidsZone.pk@SD" tvg-logo="https://i.imgur.com/mJWBVH1.png" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",Kids Zone [HD]
+http://103.250.28.74:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" tvg-type="live" group-title="🇵🇰 Paquistão | Infantil",Minimax [SD]
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a059
+#EXTINF:-1 tvg-id="EKids.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",EKids [SD]
+http://78.108.244.134:8899/ekids
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon [SD]
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a056
+#EXTINF:-1 tvg-id="RING.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",RING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 tvg-id="Balapan.kz@SD" tvg-logo="https://i.imgur.com/2o5T0gi.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Infantil",Balapan [SD]
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://i.imgur.com/2o5T0gi.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Infantil",Balapan HD [FHD]
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BalapanInternational.kz@SD" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Infantil",Balapan International [FHD]
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Infantil",Nickelodeon CIS [FHD]
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://afarin.tv/images/baxcha.png" tvg-type="live" group-title="🇮🇶 Iraque | Infantil",Afarin Baxcha [FHD]
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://i.imgur.com/6MnXD7g.png" tvg-type="live" group-title="🇮🇶 Iraque | Infantil",Afarin TV [HD]
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Aqlvoy.uz@SD" tvg-logo="https://i.imgur.com/ekF5cAi.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Infantil",Aqlvoy
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bolajon.uz@SD" tvg-logo="https://i.imgur.com/s7o0ifu.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Infantil",Bolajon [SD]
 https://stream8.cinerama.uz/1007/playlist.m3u8
-#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Infantil",ON Kids [HD]
-https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" tvg-type="live" group-title="🇦🇹 Áustria | Infantil",ORF Kids [HD]
-https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-#EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Chithiram [SD]
-https://cdn.pishow.tv/ott/live/1243/master.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney Channel [SD]
-http://51.75.127.199:3141/disneychannel/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1540/1785251571540-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney Channel HD [FHD]
-http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/FAoDDiaq0WPescE65173/image.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney International HD [SD]
-http://103.151.60.162:2122/play/a018/index.m3u8?hls
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney Junior [SD]
-http://51.75.127.199:3141/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/kDx5CloMCE4tFekQtkOQ/image.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Disney Junior [SD] (fonte 2)
-http://103.151.60.162:2122/play/a016/index.m3u8?hls
-#EXTINF:-1 tvg-id="EpicKids.in@Digital" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVSR.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Epic Kids Digital [FHD]
-https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-logo="https://i.imgur.com/zsTxPV9.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",ETV Bal Bharat [SD]
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Hungama TV [SD]
-http://103.185.24.134:3001/HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Hungama TV [SD] (fonte 2)
-http://66.102.126.10:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Hungama TV [SD] (fonte 3)
-http://51.75.127.199:3141/hungama/index.m3u8
-#EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nick HD+ [FHD]
-http://51.75.127.199:3141/nickhd/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nick Jr. [SD]
-http://103.185.24.134:3001/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nick Jr. [SD] (fonte 2)
-http://202.70.146.135:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nick Jr. [SD] (fonte 3)
-http://103.151.60.162:2122/play/a00s/index.m3u8?hls
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nickelodeon [SD]
-http://103.185.24.134:3001/NICK/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nickelodeon [SD] (fonte 2)
-http://202.70.146.135:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6807/1784039246807-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Nickelodeon [SD] (fonte 3)
-http://51.75.127.199:3141/nickbangla/index.m3u8
-#EXTINF:-1 tvg-id="PequesTV.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Peques TV [HD]
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Sonic [SD]
-http://103.185.24.134:3001/SONIC/index.m3u8
-#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6294/1782290926294-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",Sonic [SD] (fonte 2)
-http://103.151.60.162:2122/play/a02v/index.m3u8?hls
-#EXTINF:-1 tvg-id="TheJungleBook.in@SD" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" tvg-type="live" group-title="🇮🇳 Índia | Infantil",The Jungle Book [FHD]
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-id="ZBCartoon.in@HD" tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" tvg-type="live" group-title="🇮🇳 Índia | Infantil",ZB Cartoon [FHD]
-https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-id="DurontoTV.bd@SD" tvg-logo="https://i.imgur.com/gXsddRK.png" tvg-type="live" group-title="🇧🇩 Bangladesh | Infantil",Duronto TV [HD]
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1 tvg-id="DurontoTV.bd@SD" tvg-logo="https://i.imgur.com/gXsddRK.png" tvg-type="live" group-title="🇧🇩 Bangladesh | Infantil",Duronto TV [HD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://box.bbaria.net/DurontoTV/index.m3u8
+#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-type="live" group-title="🇱🇧 Líbano | Infantil",Taha TV [SD]
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+#EXTINF:-1 tvg-id="Cufo.al@SD" tvg-logo="https://i.imgur.com/GbBHtwD.png" tvg-type="live" group-title="🇦🇱 Albânia | Infantil",Cufo
+https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+#EXTINF:-1 tvg-id="MNetKids.mk@SD" tvg-logo="https://i.imgur.com/SbKkpuH.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Infantil",M-Net Kids [HD]
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="BravoKidsTV.hr@SD" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" tvg-type="live" group-title="🇭🇷 Croácia | Infantil",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1 tvg-id="NickJr.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-type="live" group-title="🇭🇷 Croácia | Infantil",Nick Jr. [SD]
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-type="live" group-title="🇭🇷 Croácia | Infantil",Nickelodeon [FHD]
+http://176.61.157.250/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="AkiliKids.ke@SD" tvg-logo="https://i.imgur.com/xFm2co6.png" tvg-type="live" group-title="🇰🇪 Quênia | Infantil",Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ETV2.ee@SD" tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-type="live" group-title="🇪🇪 Estônia | Infantil",ETV2 [HD]
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="TVBahoriston.tj@SD" tvg-logo="https://i.imgur.com/Dacai5z.png" tvg-type="live" group-title="🇹🇯 Tajiquistão | Infantil",TV Bahoriston [FHD]
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-logo="https://i.imgur.com/irTDbpn.png" tvg-type="live" group-title="🇧🇦 Bósnia | Infantil",TNT Kids [SD]
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk@SD" tvg-logo="https://i.imgur.com/zLRzyVS.png" tvg-type="live" group-title="🇽🇰 Kosovo | Infantil",TV Arbëria 3 Fëmijë [HD]
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+#EXTINF:-1 tvg-id="BilimIlim.kg@SD" tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" tvg-type="live" group-title="🇰🇬 Quirguistão | Infantil",ЭлТР Билим Илим [SD]
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+#EXTINF:-1 tvg-id="ADOTV.bj@SD" tvg-logo="https://i.imgur.com/pxFamLr.png" tvg-type="live" group-title="🇧🇯 Benin | Infantil",ADO TV [HD]
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="AmouYazidTV.dz@SD" tvg-logo="https://i.imgur.com/L8UPGPC.png" tvg-type="live" group-title="🇩🇿 Argélia | Infantil",Amou Yazid TV [SD]
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-type="live" group-title="🇲🇿 Moçambique | Infantil",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Infantil",TVCARiB Kids & Teens [HD]
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8

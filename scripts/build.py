@@ -80,14 +80,25 @@ for p in sorted(glob.glob(f"{streams_dir}/*.m3u")):
             rows.append(dict(code=code, name=clean, url=url, hdrs=hdrs, tid=tid, logo=logo, cat=cat, res=res))
             cur = None
 
-PRI = {"br":0,"pt":1,"us":2,"uk":3,"es":4,"ar":5,"int":6}
-def ckey(code): return (PRI.get(code, 10), countries.get(code, (code.upper(),))[0])
+# Ordem dos países: Brasil → EUA → Reino Unido → América Latina (por tamanho) → Portugal/Espanha →
+# grandes mercados por tamanho e importância → demais por nº de canais
+ORDER = ["br", "us", "uk",
+         "mx", "ar", "co", "cl", "pe", "ve", "ec", "uy", "py", "bo", "do", "cr", "pa", "gt", "hn", "sv", "ni", "cu", "pr",
+         "pt", "es",
+         "ca", "de", "fr", "it", "jp", "kr", "au", "nl", "ch", "be", "se", "no", "dk", "fi", "ie", "at", "pl", "gr", "cz", "hu", "ro",
+         "in", "cn", "ru", "tr", "sa", "ae", "qa", "il", "za", "ng", "eg", "id", "th", "vn", "ph", "my", "sg", "hk", "tw", "nz", "ua", "int"]
+PRI = {c: i for i, c in enumerate(ORDER)}
+def ckey(code):
+    name = countries.get(code, (code.upper(),))[0]
+    return (PRI.get(code, 1000), 0, name) if code in PRI else (1000, -len(bycode.get(code, [])), name)
 CAT_PRI = {"music": 0, "entertainment": 1}
 PINNED = [  # (grupo, regex de nome, países permitidos)
     ("⭐ TV Aberta Brasil", r"^(Red Bull TV BR|Rede Globo|TV Globo Sao Paulo|GloboNews|SBT Nacional|SBT News|Record|RecordTV|Record News|Band|BandNews|Band Sports|Rede TV!|Rede TV! SP|TV Cultura|TV Brasil|TV Gazeta|Arte 1|Canal Rural|Jovem Pan News|CNN Brasil|TVE RS|Cultura Fast)$", {"br"}),
     ("🏄 Surf & Ação", r"^(Red Bull TV BR|Surf Cinema|SURFER TV|Fuel TV|FUEL TV|Red Bull TV|Red Bull TV BR|Inside Outside|Extreme Sports Channel|Nautical Channel|Outside TV|Outside TV\+|Waves|Adventure Sports Network)$", None),
 ]
 def catkey(cat): return (CAT_PRI.get(cat, 5), CATPT.get(cat, "Geral"))
+bycode = {}
+for r in rows: bycode.setdefault(r["code"], []).append(r)
 rows.sort(key=lambda r: (ckey(r["code"]), catkey(r["cat"]), r["name"].lower(), -r["res"]))
 def qlabel(res):
     if res >= 2160: return " [4K]"

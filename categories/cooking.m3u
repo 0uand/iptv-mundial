@@ -53,8 +53,8 @@ https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us@UK" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Culinária",Tastemade [FHD] (fonte 2)
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCocina.de@ES" tvg-logo="https://i.imgur.com/LRtfQla.png" tvg-type="live" group-title="🇪🇸 Espanha | Culinária",Pluto TV Cocina
-https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@US" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-type="live" group-title="🇲🇽 México | Culinária",Tastemade [HD]
+https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-type="live" group-title="🇦🇷 Argentina | Culinária",El Gourmet [FHD]
 http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-type="live" group-title="🇦🇷 Argentina | Culinária",El Gourmet [FHD] (fonte 2)
@@ -63,12 +63,26 @@ http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 http://138.121.15.230:9002/EL-GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-type="live" group-title="🇦🇷 Argentina | Culinária",El Gourmet South [FHD]
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFood.de@DACH" tvg-logo="https://i.imgur.com/HTLo1GG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Culinária",Pluto TV Food
-https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCocina.de@ES" tvg-logo="https://i.imgur.com/LRtfQla.png" tvg-type="live" group-title="🇪🇸 Espanha | Culinária",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" tvg-logo="https://i.imgur.com/WgN4T18.png" tvg-type="live" group-title="🇨🇦 Canadá | Culinária",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca@SD" tvg-logo="https://i.imgur.com/swUX3hQ.png" tvg-type="live" group-title="🇨🇦 Canadá | Culinária",Gusto TV [FHD]
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFood.de@DACH" tvg-logo="https://i.imgur.com/HTLo1GG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Culinária",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCuisine.de@FR" tvg-logo="https://i.imgur.com/OuAi5ef.png" tvg-type="live" group-title="🇫🇷 França | Culinária",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 tvg-id="GamberoRossoChannel.it@SD" tvg-logo="https://i.imgur.com/x5cwb1q.png" tvg-type="live" group-title="🇮🇹 Itália | Culinária",Gambero Rosso [HD]
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCucina.de@IT" tvg-logo="https://i.imgur.com/cwkrxcS.png" tvg-type="live" group-title="🇮🇹 Itália | Culinária",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 tvg-id="BuyingBlindDenmark.se@SE" tvg-logo="https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Culinária",Buying Blind Denmark
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+#EXTINF:-1 tvg-id="StugfixarnaNorge.se@SE" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Culinária",Stugfixarna Norge
+https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+#EXTINF:-1 tvg-id="Boligkjopiblinde.se@NO" tvg-logo="https://images.pluto.tv/channels/63c6a1c46d126a000760b91c/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Culinária",Boligkjøp i blinde
+https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 #EXTINF:-1 tvg-id="Boligkobiblinde.se@DK" tvg-logo="https://images.pluto.tv/channels/63c6a27a4faf1c0007b48f7b/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Culinária",Boligkøb i blinde
 https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
 #EXTINF:-1 tvg-id="Kochenpatoppen.se@DK" tvg-logo="https://images.pluto.tv/channels/660d667519ca71000849a1e1/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Culinária",Koch'en på toppen
@@ -81,31 +95,6 @@ https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
 https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
 #EXTINF:-1 tvg-id="TilMiddagHos.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Culinária",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCuisine.de@FR" tvg-logo="https://i.imgur.com/OuAi5ef.png" tvg-type="live" group-title="🇫🇷 França | Culinária",Pluto TV Cuisine
-https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
-#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" tvg-type="live" group-title="🇮🇩 Indonésia | Culinária",Dens Food Channel
-https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
-#EXTINF:-1 tvg-id="FoodChannel.il@SD" tvg-logo="https://i.imgur.com/mpXPmfw.png" tvg-type="live" group-title="🇮🇱 Israel | Culinária",Food Channel [FHD]
-http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
-#EXTINF:-1 tvg-id="GamberoRossoChannel.it@SD" tvg-logo="https://i.imgur.com/x5cwb1q.png" tvg-type="live" group-title="🇮🇹 Itália | Culinária",Gambero Rosso [HD]
-https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCucina.de@IT" tvg-logo="https://i.imgur.com/cwkrxcS.png" tvg-type="live" group-title="🇮🇹 Itália | Culinária",Pluto TV Cucina
-https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
-#EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-type="live" group-title="🇯🇴 Jordânia | Culinária",Jordan Kitchen [FHD]
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇲🇳 Mongólia | Culinária",Телекафе [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us@US" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-type="live" group-title="🇲🇽 México | Culinária",Tastemade [HD]
-https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
-#EXTINF:-1 tvg-id="Boligkjopiblinde.se@NO" tvg-logo="https://images.pluto.tv/channels/63c6a1c46d126a000760b91c/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Culinária",Boligkjøp i blinde
-https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
-#EXTINF:-1 tvg-id="GustoTV.ca@SD" tvg-logo="https://i.imgur.com/swUX3hQ.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Culinária",Gusto TV [FHD]
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Culinária",Masala TV [SD]
-http://103.250.28.74:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Culinária",Masala TV (fonte 2)
-https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca@Poland" tvg-logo="https://i.imgur.com/swUX3hQ.png" tvg-type="live" group-title="🇵🇱 Polônia | Culinária",Gusto TV [FHD]
 https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png" tvg-type="live" group-title="🇷🇴 Romênia | Culinária",Chefi.ro [FHD]
@@ -114,6 +103,12 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" tvg-type="live" group-title="🇷🇴 Romênia | Culinária",Hello Taste (fonte 2)
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-type="live" group-title="🇮🇳 Índia | Culinária",Food Food [SD]
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-type="live" group-title="🇮🇳 Índia | Culinária",Food Food [SD] (fonte 2)
+https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-type="live" group-title="🇮🇳 Índia | Culinária",Food Food [SD] (fonte 3)
+https://cdn.pishow.tv/ott/live/267/master.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru@SD" tvg-logo="https://i.imgur.com/gxCYAwH.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",FoodTime [FHD]
 http://stream.mcquack.net/216/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru@HD" tvg-logo="https://i.imgur.com/gxCYAwH.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",FoodTime [FHD] (fonte 2)
@@ -142,18 +137,23 @@ https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Телекафе [SD]
 http://31.148.48.15/Telekafe/index.m3u8
-#EXTINF:-1 tvg-id="BuyingBlindDenmark.se@SE" tvg-logo="https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Culinária",Buying Blind Denmark
-https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
-#EXTINF:-1 tvg-id="StugfixarnaNorge.se@SE" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Culinária",Stugfixarna Norge
-https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+#EXTINF:-1 tvg-id="GEMFood.tr@SD" tvg-logo="https://i.imgur.com/SMtSinK.png" tvg-type="live" group-title="🇹🇷 Turkiye | Culinária",GEM Food
+https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="FoodChannel.il@SD" tvg-logo="https://i.imgur.com/mpXPmfw.png" tvg-type="live" group-title="🇮🇱 Israel | Culinária",Food Channel [FHD]
+http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
+#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" tvg-type="live" group-title="🇮🇩 Indonésia | Culinária",Dens Food Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
+#EXTINF:-1 tvg-id="GustoTV.ca@SD" tvg-logo="https://i.imgur.com/swUX3hQ.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Culinária",Gusto TV [FHD]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Culinária",Masala TV [SD]
+http://103.250.28.74:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Culinária",Masala TV (fonte 2)
+https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇲🇳 Mongólia | Culinária",Телекафе [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 #EXTINF:-1 tvg-id="KitchenTV.rs@SD" tvg-logo="https://i.imgur.com/WcGKc4C.png" tvg-type="live" group-title="🇷🇸 Sérvia | Culinária",Kitchen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
-#EXTINF:-1 tvg-id="GEMFood.tr@SD" tvg-logo="https://i.imgur.com/SMtSinK.png" tvg-type="live" group-title="🇹🇷 Turkiye | Culinária",GEM Food
-https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-type="live" group-title="🇮🇳 Índia | Culinária",Food Food [SD]
-https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
-#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-type="live" group-title="🇮🇳 Índia | Culinária",Food Food [SD] (fonte 2)
-https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
-#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-type="live" group-title="🇮🇳 Índia | Culinária",Food Food [SD] (fonte 3)
-https://cdn.pishow.tv/ott/live/267/master.m3u8
+#EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-type="live" group-title="🇯🇴 Jordânia | Culinária",Jordan Kitchen [FHD]
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8

@@ -71,6 +71,12 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="TJC.uk@SD" tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Compras",TJC [FHD] (fonte 2)
 https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8
+#EXTINF:-1 tvg-id="RedTVShop.bo@SD" tvg-logo="https://i.imgur.com/I7yB176.png" tvg-type="live" group-title="🇧🇴 Bolívia | Compras",Red TV Shop [HD]
+https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:-1 tvg-id="BajoTechoTV.do@SD" tvg-logo="https://i.imgur.com/I2wRq88.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Compras",Bajo Techo TV [FHD]
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSC.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png" tvg-type="live" group-title="🇨🇦 Canadá | Compras",Today's Shopping Choice (TSC) [HD]
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://i.imgur.com/slSUDNX.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",1-2-3 TV [SD]
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="Handystar.de@SD" tvg-logo="https://i.imgur.com/oMIygVf.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",Handystar [SD]
@@ -93,18 +99,18 @@ https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 tvg-id="QVCStyle.de@SD" tvg-logo="https://i.imgur.com/DwdkHGj.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",QVC Style Germany [SD]
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
-#EXTINF:-1 tvg-id="ExpoChannel.au@SD" tvg-logo="https://i.imgur.com/2KzCShW.png" tvg-type="live" group-title="🇦🇺 Austrália | Compras",Expo Channel [SD]
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 tvg-id="TVSN.au@SD" tvg-logo="https://i.imgur.com/lmoAFm3.png" tvg-type="live" group-title="🇦🇺 Austrália | Compras",TVSN [FHD]
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
-#EXTINF:-1 tvg-id="TVSNBeauty.au@SD" tvg-logo="https://i.imgur.com/lmoAFm3.png" tvg-type="live" group-title="🇦🇺 Austrália | Compras",TVSN Beauty [FHD]
-https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
-#EXTINF:-1 tvg-id="RedTVShop.bo@SD" tvg-logo="https://i.imgur.com/I7yB176.png" tvg-type="live" group-title="🇧🇴 Bolívia | Compras",Red TV Shop [HD]
-https://master.tucableip.com/redtvshop/index.m3u8
-#EXTINF:-1 tvg-id="TSC.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png" tvg-type="live" group-title="🇨🇦 Canadá | Compras",Today's Shopping Choice (TSC) [HD]
-https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
-#EXTINF:-1 tvg-id="FengshangShoppingChannel.cn@SD" tvg-logo="https://i.imgur.com/WNhfnUR.png" tvg-type="live" group-title="🇨🇳 China | Compras",风尚购物 [FHD]
-http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+#EXTINF:-1 tvg-id="CasaItalia53.it@SD" tvg-logo="https://i.imgur.com/X8BI1Md.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",Casa Italia 53 [HD]
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Juwelo.it@SD" tvg-logo="https://i.imgur.com/T3r1khc.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",Juwelo Italia [SD]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+#EXTINF:-1 tvg-id="QVC.it@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",QVC Italia [SD]
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-type="live" group-title="🇯🇵 Japão | Compras" catchup="default" catchup-source="https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)?utc={utc}&lutc={lutc}" catchup-days="1",GSTV [HD]
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-type="live" group-title="🇯🇵 Japão | Compras" catchup="default" catchup-source="https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",QVC [FHD]
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" tvg-type="live" group-title="🇯🇵 Japão | Compras",Shop Channel [FHD]
+https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="CJOnStyle.kr@SD" tvg-logo="https://i.imgur.com/JiSfEBv.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Compras",CJ OnStyle [SD]
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-id="CJOnStylePlus.kr@SD" tvg-logo="https://i.imgur.com/OYmOL20.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Compras",CJ OnStyle Plus [SD]
@@ -137,28 +143,18 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-id="WShopping.kr@SD" tvg-logo="https://i.imgur.com/hfXjVJd.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Compras",W Shopping [HD]
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="ExpoChannel.au@SD" tvg-logo="https://i.imgur.com/2KzCShW.png" tvg-type="live" group-title="🇦🇺 Austrália | Compras",Expo Channel [SD]
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="TVSN.au@SD" tvg-logo="https://i.imgur.com/lmoAFm3.png" tvg-type="live" group-title="🇦🇺 Austrália | Compras",TVSN [FHD]
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="TVSNBeauty.au@SD" tvg-logo="https://i.imgur.com/lmoAFm3.png" tvg-type="live" group-title="🇦🇺 Austrália | Compras",TVSN Beauty [FHD]
+https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 tvg-id="HighTV.gr@SD" tvg-logo="https://i.imgur.com/8gHuwt7.png" tvg-type="live" group-title="🇬🇷 Grécia | Compras",High TV [HD]
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-id="BSTV.hk@SD" tvg-logo="https://i.imgur.com/GVYSSgm.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Compras",耀才財經台 [SD]
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="CasaItalia53.it@SD" tvg-logo="https://i.imgur.com/X8BI1Md.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",Casa Italia 53 [HD]
-https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Juwelo.it@SD" tvg-logo="https://i.imgur.com/T3r1khc.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",Juwelo Italia [SD]
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
-#EXTINF:-1 tvg-id="QVC.it@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",QVC Italia [SD]
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-type="live" group-title="🇯🇵 Japão | Compras" catchup="default" catchup-source="https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)?utc={utc}&lutc={lutc}" catchup-days="1",GSTV [HD]
-https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
-#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-type="live" group-title="🇯🇵 Japão | Compras" catchup="default" catchup-source="https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",QVC [FHD]
-https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
-#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" tvg-type="live" group-title="🇯🇵 Japão | Compras",Shop Channel [FHD]
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="LSTV.la@SD" tvg-logo="https://i.imgur.com/fs3dQ6J.png" tvg-type="live" group-title="🇱🇦 Laos | Compras",LS TV [SD]
-https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SukeTV.my@SD" tvg-logo="https://i.imgur.com/hCwH3s0.png" tvg-type="live" group-title="🇲🇾 Malásia | Compras",Suke TV [HD]
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
-#EXTINF:-1 tvg-id="BajoTechoTV.do@SD" tvg-logo="https://i.imgur.com/I2wRq88.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Compras",Bajo Techo TV [FHD]
-https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PropexTV.in@SD" tvg-logo="https://i.ibb.co/fYTXkfL/unnamed.png" tvg-type="live" group-title="🇮🇳 Índia | Compras",Propex TV [SD]
+http://51.75.127.199:3141/propextv/index.m3u8
+#EXTINF:-1 tvg-id="FengshangShoppingChannel.cn@SD" tvg-logo="https://i.imgur.com/WNhfnUR.png" tvg-type="live" group-title="🇨🇳 China | Compras",风尚购物 [FHD]
+http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 #EXTINF:-1 tvg-id="Leomax24.ru@SD" tvg-logo="https://i.imgur.com/qU9ohQu.png" tvg-type="live" group-title="🇷🇺 Rússia | Compras",Leomax 24 [FHD]
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="Moymir.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" tvg-type="live" group-title="🇷🇺 Rússia | Compras",Moy mir [HD]
@@ -173,10 +169,14 @@ https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-id="Yuvelirochka.ru@SD" tvg-logo="https://i.imgur.com/IcWtXCZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Compras",Ювелирочка ТВ [SD]
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-id="SukeTV.my@SD" tvg-logo="https://i.imgur.com/hCwH3s0.png" tvg-type="live" group-title="🇲🇾 Malásia | Compras",Suke TV [HD]
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
+#EXTINF:-1 tvg-id="BSTV.hk@SD" tvg-logo="https://i.imgur.com/GVYSSgm.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Compras",耀才財經台 [SD]
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="MOMOTV.tw@SD" tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-type="live" group-title="🇹🇼 Taiwan | Compras",MOMO TV [FHD]
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-id="TUSO.ua@SD" tvg-logo="https://i.imgur.com/kb4B9wN.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Compras",Тюсо [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
-#EXTINF:-1 tvg-id="PropexTV.in@SD" tvg-logo="https://i.ibb.co/fYTXkfL/unnamed.png" tvg-type="live" group-title="🇮🇳 Índia | Compras",Propex TV [SD]
-http://51.75.127.199:3141/propextv/index.m3u8
+#EXTINF:-1 tvg-id="LSTV.la@SD" tvg-logo="https://i.imgur.com/fs3dQ6J.png" tvg-type="live" group-title="🇱🇦 Laos | Compras",LS TV [SD]
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8

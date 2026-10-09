@@ -1,35 +1,35 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="JordanSongs.jo@SD" tvg-logo="https://i.imgur.com/1DE7Gmw.png" tvg-type="live" group-title="🇯🇴 Jordânia | Música",Jordan Songs
+#EXTINF:-1 tvg-id="JordanSongs.jo@SD" tvg-logo="https://i.imgur.com/1DE7Gmw.png" tvg-type="live" group-title="🇯🇴 Jordânia | Música",Jordan Songs [FHD]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo@SD" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" tvg-type="live" group-title="🇯🇴 Jordânia | Música",Radio Fann Jordan Studio
+#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo@SD" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" tvg-type="live" group-title="🇯🇴 Jordânia | Música",Radio Fann Jordan Studio [FHD]
 http://45.63.116.205/hls2/stream1.m3u8
-#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/wHOQU0R.png" tvg-type="live" group-title="🇯🇴 Jordânia | Música",Radio Yaqeen Jordan City View
+#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/wHOQU0R.png" tvg-type="live" group-title="🇯🇴 Jordânia | Música",Radio Yaqeen Jordan City View [FHD]
 http://45.63.116.205/hls4/stream1.m3u8
-#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" tvg-logo="https://i.imgur.com/xGDjlp5.png" tvg-type="live" group-title="🇯🇴 Jordânia | Música",Rotana Radio Jordan Studio
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" tvg-logo="https://i.imgur.com/xGDjlp5.png" tvg-type="live" group-title="🇯🇴 Jordânia | Música",Rotana Radio Jordan Studio [FHD]
 http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="JordanComedy.jo@SD" tvg-logo="https://i.imgur.com/DuwwoO2.png" tvg-type="live" group-title="🇯🇴 Jordânia | Comédia",Jordan Comedy
+#EXTINF:-1 tvg-id="JordanComedy.jo@SD" tvg-logo="https://i.imgur.com/DuwwoO2.png" tvg-type="live" group-title="🇯🇴 Jordânia | Comédia",Jordan Comedy [FHD]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
-#EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-type="live" group-title="🇯🇴 Jordânia | Culinária",Jordan Kitchen
+#EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-type="live" group-title="🇯🇴 Jordânia | Culinária",Jordan Kitchen [FHD]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-logo="https://i.imgur.com/5l7kw0b.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Amman TV
+#EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-logo="https://i.imgur.com/5l7kw0b.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Amman TV [HD]
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-logo="https://i.imgur.com/5l7kw0b.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Amman TV
+#EXTINF:-1 tvg-id="AmmanTV.jo@SD" tvg-logo="https://i.imgur.com/5l7kw0b.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Amman TV [HD] (fonte 2)
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-id="JordanArchive.jo@SD" tvg-logo="https://i.imgur.com/8UrCl4k.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Jordan Archive
+#EXTINF:-1 tvg-id="JordanArchive.jo@SD" tvg-logo="https://i.imgur.com/8UrCl4k.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Jordan Archive [FHD]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
-#EXTINF:-1 tvg-id="JordanDrama.jo@SD" tvg-logo="https://i.imgur.com/gvIAEsJ.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Jordan Drama
+#EXTINF:-1 tvg-id="JordanDrama.jo@SD" tvg-logo="https://i.imgur.com/gvIAEsJ.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Jordan Drama [FHD]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
-#EXTINF:-1 tvg-id="JordanTV.jo@SD" tvg-logo="https://i.imgur.com/0XozB5N.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Jordan Satellite Channel
+#EXTINF:-1 tvg-id="JordanTV.jo@SD" tvg-logo="https://i.imgur.com/0XozB5N.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Jordan Satellite Channel [FHD]
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="JordanTourism.jo@SD" tvg-logo="https://i.imgur.com/gpeIoU9.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Jordan Tourism
+#EXTINF:-1 tvg-id="JordanTourism.jo@SD" tvg-logo="https://i.imgur.com/gpeIoU9.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Jordan Tourism [FHD]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
-#EXTINF:-1 tvg-id="KaifaTV.jo@SD" tvg-logo="https://i.imgur.com/zGGeSQg.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Kaifa TV
+#EXTINF:-1 tvg-id="KaifaTV.jo@SD" tvg-logo="https://i.imgur.com/zGGeSQg.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Kaifa TV [SD]
 http://82.212.74.2:8000/live/7311.m3u8
-#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/NjgOBts.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Rotana Tarab Jordan City View
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/NjgOBts.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Rotana Tarab Jordan City View [HD]
 http://45.63.116.205/hls3/stream1.m3u8
-#EXTINF:-1 tvg-id="RoyaTV.jo@SD" tvg-logo="https://i.imgur.com/WX80rty.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Roya TV
+#EXTINF:-1 tvg-id="RoyaTV.jo@SD" tvg-logo="https://i.imgur.com/WX80rty.png" tvg-type="live" group-title="🇯🇴 Jordânia | Geral",Roya TV [FHD]
 https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo@SD" tvg-logo="" tvg-type="live" group-title="🇯🇴 Jordânia | Notícias",Alhaqeqa Aldawlia
+#EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo@SD" tvg-logo="" tvg-type="live" group-title="🇯🇴 Jordânia | Notícias",Alhaqeqa Aldawlia [FHD]
 https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 tvg-id="AltaghierTV.jo@SD" tvg-logo="https://i.imgur.com/YTyCBvB.png" tvg-type="live" group-title="🇯🇴 Jordânia | Notícias",Altaghier TV
+#EXTINF:-1 tvg-id="AltaghierTV.jo@SD" tvg-logo="https://i.imgur.com/YTyCBvB.png" tvg-type="live" group-title="🇯🇴 Jordânia | Notícias",Altaghier TV [FHD]
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8

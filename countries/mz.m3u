@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="TVVitoria.mz@SD" tvg-logo="https://i.imgur.com/HlWzzfj.png" tvg-type="live" group-title="🇲🇿 Moçambique | Entretenimento",TV Vitória
+#EXTINF:-1 tvg-id="TVVitoria.mz@SD" tvg-logo="https://i.imgur.com/HlWzzfj.png" tvg-type="live" group-title="🇲🇿 Moçambique | Entretenimento",TV Vitória [HD]
 https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM [SD]
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM [SD] (fonte 2)
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM (fonte 3)
 https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMInternacional.mz@SD" tvg-logo="https://i.imgur.com/fRV6p50.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM Internacional
+#EXTINF:-1 tvg-id="TVMInternacional.mz@SD" tvg-logo="https://i.imgur.com/fRV6p50.png" tvg-type="live" group-title="🇲🇿 Moçambique | Geral",TVM Internacional [SD]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-type="live" group-title="🇲🇿 Moçambique | Infantil",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8

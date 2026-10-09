@@ -1,31 +1,31 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",Comedy Central Brasil
+#EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",Comedy Central Brasil [SD]
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@BR" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@Brazil" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",FailArmy
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
-#EXTINF:-1 tvg-id="ForaTedioTV.br@SD" tvg-logo="https://i.imgur.com/R9ul4T1.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",Fora Tedio TV
+#EXTINF:-1 tvg-id="ForaTedioTV.br@SD" tvg-logo="https://i.imgur.com/R9ul4T1.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",Fora Tedio TV [HD]
 #EXTVLCOPT:http-referrer=https://www.foratedio.com
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMaticComedy.br@SD" tvg-logo="https://i.imgur.com/l5PBcKN.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",TVMatic Comedy
+#EXTINF:-1 tvg-id="TVMaticComedy.br@SD" tvg-logo="https://i.imgur.com/l5PBcKN.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",TVMatic Comedy [HD]
 http://cdn.tvmatic.net/comedy.m3u8
 #EXTINF:-1 tvg-id="StarComedy.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Comédia",Star Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
-#EXTINF:-1 tvg-id="30ARidiculousTV.us@SD" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",30A Ridiculous TV
+#EXTINF:-1 tvg-id="30ARidiculousTV.us@SD" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",30A Ridiculous TV [HD]
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 tvg-id="AFV.us@SD" tvg-logo="https://i.imgur.com/TOB9vmW.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",AFV
+#EXTINF:-1 tvg-id="AFV.us@SD" tvg-logo="https://i.imgur.com/TOB9vmW.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",AFV [HD]
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AFVEspanol.us@SD" tvg-logo="https://i.imgur.com/HUK4WXC.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",AFV en Español
+#EXTINF:-1 tvg-id="AFVEspanol.us@SD" tvg-logo="https://i.imgur.com/HUK4WXC.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",AFV en Español [HD]
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Anger Management Channel
+#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Anger Management Channel [HD]
 https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
 #EXTINF:-1 tvg-id="BETThrowbacks.us@SD" tvg-logo="https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG_1759340015358.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",BET Throwbacks
 https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
 #EXTINF:-1 tvg-id="BlackFamilySitcoms.us@SD" tvg-logo="https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoPNG_1752619670829.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Black Family Sitcoms
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
-#EXTINF:-1 tvg-id="CameraSmileTV.us@SD" tvg-logo="https://i.imgur.com/V5h4R83.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Camera Smile
+#EXTINF:-1 tvg-id="CameraSmileTV.us@SD" tvg-logo="https://i.imgur.com/V5h4R83.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Camera Smile [SD]
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-id="CheersPlusFrasier.us@SD" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
@@ -33,100 +33,100 @@ https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-logo="https://i.imgur.com/6xTD3G8.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central en español
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America [FHD]
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America [FHD] (fonte 2)
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America [FHD] (fonte 3)
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America (fonte 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://103.111.40.244:9999/play/a0i5/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America
-http://181.78.79.131:8000/play/a0mu
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics [FHD]
 https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics [FHD] (fonte 2)
 https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics
-https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics [FHD] (fonte 3)
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Dry Bar Comedy
+#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics [HD] (fonte 4)
+https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Dry Bar Comedy [HD]
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",FailArmy
 https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
 #EXTINF:-1 tvg-id="FunnyAF.us@SD" tvg-logo="https://i.imgur.com/UCwjdtQ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Funny AF
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
-#EXTINF:-1 tvg-id="Gagsnetwork.us@SD" tvg-logo="https://i.imgur.com/ENj5GIp.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Gagsnetwork
+#EXTINF:-1 tvg-id="Gagsnetwork.us@SD" tvg-logo="https://i.imgur.com/ENj5GIp.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Gagsnetwork [SD]
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-#EXTINF:-1 tvg-id="Gagsnetwork.us@SD" tvg-logo="https://i.imgur.com/ENj5GIp.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Gagsnetwork
+#EXTINF:-1 tvg-id="Gagsnetwork.us@SD" tvg-logo="https://i.imgur.com/ENj5GIp.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Gagsnetwork [SD] (fonte 2)
 http://stream.mcquack.net/458/index.m3u8
-#EXTINF:-1 tvg-id="HumorMill.us@SD" tvg-logo="https://i.imgur.com/e5W91v2.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Humor Mill
+#EXTINF:-1 tvg-id="HumorMill.us@SD" tvg-logo="https://i.imgur.com/e5W91v2.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Humor Mill [FHD]
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
-#EXTINF:-1 tvg-id="HumorMill.us@SD" tvg-logo="https://i.imgur.com/e5W91v2.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Humor Mill TV
+#EXTINF:-1 tvg-id="HumorMill.us@SD" tvg-logo="https://i.imgur.com/e5W91v2.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Humor Mill TV [FHD]
 https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
 #EXTINF:-1 tvg-id="ILoveLucy.us@SD" tvg-logo="https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoPNG.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",I Love Lucy
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Just for Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Just for Laughs Gags [FHD]
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Just for Laughs GAGS
-https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Just for Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Just for Laughs Gags [FHD] (fonte 2)
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
-#EXTINF:-1 tvg-id="Laff.us@SD" tvg-logo="https://i.imgur.com/ozFhY32.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Laff
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Just for Laughs GAGS [HD] (fonte 3)
+https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Laff.us@SD" tvg-logo="https://i.imgur.com/ozFhY32.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Laff [SD]
 http://tvsen7.aynascope.net/laff/index.m3u8
-#EXTINF:-1 tvg-id="Laff.us@SD" tvg-logo="https://i.imgur.com/ozFhY32.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Laff
+#EXTINF:-1 tvg-id="Laff.us@SD" tvg-logo="https://i.imgur.com/ozFhY32.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Laff [SD] (fonte 2)
 https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
-#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us@SD" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",LOL! Network
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us@SD" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",LOL! Network [HD]
 https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="MoreTVSitcoms.us@SD" tvg-logo="https://i.imgur.com/4mbhOEo.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
-#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us@SD" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Mystery Science Theater 3000
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us@SD" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Mystery Science Theater 3000 [FHD]
 https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
-#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us@SD" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Mystery Science Theater 3000
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us@SD" tvg-logo="https://i.imgur.com/8KWjY4o.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Mystery Science Theater 3000 [FHD] (fonte 2)
 https://mst3k-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",NBC Comedy Vault
+#EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",NBC Comedy Vault [FHD]
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedy.us@US" tvg-logo="https://i.imgur.com/MTVrbd5.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Pluto TV Comedy
 https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
 #EXTINF:-1 tvg-id="Ridiculousness.us@SD" tvg-logo="https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Ridiculousness
 https://jmp2.uk/plu-6996296087742204bff43147.m3u8
-#EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-logo="https://i.imgur.com/hM4yKMn.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",RiffTrax
-https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
-#EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-logo="https://i.imgur.com/hM4yKMn.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",RiffTrax
+#EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-logo="https://i.imgur.com/hM4yKMn.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",RiffTrax [HD]
 https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-logo="https://i.imgur.com/hM4yKMn.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",RiffTrax (fonte 2)
+https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 #EXTINF:-1 tvg-id="SitcomLegends.us@SD" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 #EXTINF:-1 tvg-id="SketchyAF.us@SD" tvg-logo="https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoPNG.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Sketchy AF
 https://jmp2.uk/plu-67882c1c7b11714b795c2008.m3u8
-#EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",SNL Vault
+#EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",SNL Vault [FHD]
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
-#EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",SNL Vault
+#EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",SNL Vault [FHD] (fonte 2)
 https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us@East" tvg-logo="https://i.imgur.com/JpKvjZe.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Starz Comedy
+#EXTINF:-1 tvg-id="StarzComedy.us@East" tvg-logo="https://i.imgur.com/JpKvjZe.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Starz Comedy [FHD]
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="TVLandSitcoms.us@SD" tvg-logo="https://i.imgur.com/phHHs7l.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
-#EXTINF:-1 tvg-id="TVSComedyNetwork.us@SD" tvg-logo="https://i.imgur.com/rXORbti.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",TVS Comedy Network
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us@SD" tvg-logo="https://i.imgur.com/rXORbti.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",TVS Comedy Network [HD]
 https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@UK" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",FailArmy
+#EXTINF:-1 tvg-id="FailArmy.us@UK" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",FailArmy [HD]
 https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@English" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",Mr Bean Live Action
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@English" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",Mr Bean Live Action [FHD]
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",Mr Bean Live Action
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",Mr Bean Live Action [FHD] (fonte 2)
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetFun.uk@SD" tvg-logo="https://i.imgur.com/5U1iKUq.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",Planet Fun
+#EXTINF:-1 tvg-id="PlanetFun.uk@SD" tvg-logo="https://i.imgur.com/5U1iKUq.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",Planet Fun [FHD]
 http://66.102.126.10:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimation.de@GB" tvg-logo="https://i.imgur.com/HT0hv7F.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",Pluto TV Animation
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
 #EXTINF:-1 tvg-id="SabrinaTheTeenageWitch.de@GB" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
-#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",The Chat Show Channel
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇬🇧 Reino Unido | Comédia",The Chat Show Channel [FHD]
 https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ComediaalobestiadePlutoTV.de@ES" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" tvg-type="live" group-title="🇪🇸 Espanha | Comédia",Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇪🇸 Espanha | Comédia",FailArmy
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇪🇸 Espanha | Comédia",FailArmy [HD]
 https://jmp2.uk/plu-5f1abf5fafb5ee0007d4d0ca.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediamadeinSpain.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Comédia",Pluto TV Comedia made in Spain
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
@@ -160,16 +160,16 @@ https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
 https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 #EXTINF:-1 tvg-id="TakeshisCastle.de@DACH" tvg-logo="https://i.imgur.com/KuK72kL.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-type="live" group-title="🇦🇺 Austrália | Comédia",Anger Management Channel
+#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-type="live" group-title="🇦🇺 Austrália | Comédia",Anger Management Channel [FHD]
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇦🇺 Austrália | Comédia",Dry Bar Comedy
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇦🇺 Austrália | Comédia",Dry Bar Comedy [HD]
 https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇦🇺 Austrália | Comédia",Failarmy International
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇦🇺 Austrália | Comédia",Failarmy International [HD]
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bTVComedy.bg@SD" tvg-logo="https://i.imgur.com/1c6A5dO.png" tvg-type="live" group-title="🇧🇬 Bulgária | Comédia",bTV Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04k
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇧🇪 Bélgica | Comédia",Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇧🇪 Bélgica | Comédia",Just For Laughs Gags [HD]
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",Anger Management
 https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d.m3u8
@@ -183,7 +183,7 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-62bdb5500c21270007218ce1.m3u8
 #EXTINF:-1 tvg-id="ILoveLucy.us@CA" tvg-logo="https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoPNG.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",I Love Lucy
 https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",Just for Laughs GAGS
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",Just for Laughs GAGS [HD]
 https://jmp2.uk/plu-677f929054f43dad4b325c1c.m3u8
 #EXTINF:-1 tvg-id="MorePlutoTVComedy.us@CA" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",More Pluto TV Comedy
 https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
@@ -195,7 +195,7 @@ https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-id="TheBeverlyHillbillies.us@CA" tvg-logo="https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",The Beverly Hillbillies
 https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
-#EXTINF:-1 tvg-id="13Humor.cl@SD" tvg-logo="https://i.imgur.com/56uwseX.png" tvg-type="live" group-title="🇨🇱 Chile | Comédia",13 Humor
+#EXTINF:-1 tvg-id="13Humor.cl@SD" tvg-logo="https://i.imgur.com/56uwseX.png" tvg-type="live" group-title="🇨🇱 Chile | Comédia",13 Humor [FHD]
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Anger Management
 https://jmp2.uk/plu-6964b6f5f7f6b0334bbf6cdb.m3u8
@@ -209,7 +209,7 @@ https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
 https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
 #EXTINF:-1 tvg-id="ChappellesShow.se@DK" tvg-logo="https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Chappelle's Show
 https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Comedy Central [HD]
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralRoast.se@DK" tvg-logo="https://images.pluto.tv/channels/6641fd41b18d700008e7e2b8/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Comedy Central Roast
 https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
@@ -217,16 +217,16 @@ https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
 https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
 #EXTINF:-1 tvg-id="EverybodyHatesChris.se@DK" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Everybody Hates Chris
 https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",FailArmy
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",FailArmy [HD]
 https://jmp2.uk/plu-6177f6bf7693550007531275.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Failarmy International
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Failarmy International [HD]
 https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Family Ties
 https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Just for Laughs GAGS
-https://jmp2.uk/plu-6177fd9812fe0c000726f9eb.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Just For Laughs Gags [HD]
 https://distributionsjustepourrire-justforlaughsgags-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Just for Laughs GAGS (fonte 2)
+https://jmp2.uk/plu-6177fd9812fe0c000726f9eb.m3u8
 #EXTINF:-1 tvg-id="KeyPeele.se@DK" tvg-logo="https://images.pluto.tv/channels/65cba715dc10a40008034917/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Key & Peele
 https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8
 #EXTINF:-1 tvg-id="ManwithaPlan.se@DK" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Comédia",Man with a Plan
@@ -239,11 +239,11 @@ https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
 https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
 #EXTINF:-1 tvg-id="HAHATV.sk@SD" tvg-logo="" tvg-type="live" group-title="🇸🇰 Eslováquia | Comédia",HAHA TV
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇫🇮 Finlândia | Comédia",Failarmy International
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇫🇮 Finlândia | Comédia",Failarmy International [HD]
 https://failarmy-international-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇫🇮 Finlândia | Comédia",Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇫🇮 Finlândia | Comédia",Just For Laughs Gags [HD]
 https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇫🇷 França | Comédia",FailArmy
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇫🇷 França | Comédia",FailArmy [HD]
 https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr@SD" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" tvg-type="live" group-title="🇫🇷 França | Comédia",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
@@ -251,50 +251,50 @@ https://comedyhls.persiana.live/hls/stream.m3u8
 https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediesCultes.de@FR" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" tvg-type="live" group-title="🇫🇷 França | Comédia",Pluto TV Comédies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
-#EXTINF:-1 tvg-id="Ridiculousness.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" tvg-type="live" group-title="🇫🇷 França | Comédia",Ridiculousness
+#EXTINF:-1 tvg-id="Ridiculousness.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" tvg-type="live" group-title="🇫🇷 França | Comédia",Ridiculousness [HD]
 https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.ge@SD" tvg-logo="https://i.imgur.com/i1TANKv.png" tvg-type="live" group-title="🇬🇪 Geórgia | Comédia",Comedy TV
 http://31.146.5.178:8087/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇳🇱 Holanda | Comédia",Failarmy International
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇳🇱 Holanda | Comédia",Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇳🇱 Holanda | Comédia",Just For Laughs Gags [HD]
 https://distributionsjustepourrire-justforlaughsgags-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2Comedy.hu@SD" tvg-logo="https://i.imgur.com/B02hbcV.png" tvg-type="live" group-title="🇭🇺 Hungria | Comédia",TV2 Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/tv2_comedy/index.m3u8
-#EXTINF:-1 tvg-id="HOTComedy.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/08/HOTComedyCentral.svg/250px-HOTComedyCentral.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Comédia",HOT Comedy
+#EXTINF:-1 tvg-id="HOTComedy.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/08/HOTComedyCentral.svg/250px-HOTComedyCentral.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Comédia",HOT Comedy [FHD]
 http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",FailArmy
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",FailArmy [HD]
 https://jmp2.uk/plu-608014d19a26320007c92ab6.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@Italy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",Failarmy
+#EXTINF:-1 tvg-id="FailArmy.us@Italy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",Failarmy (fonte 2)
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",Just for Laughs GAGS
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",Just for Laughs GAGS [HD]
 https://jmp2.uk/plu-6093f48c95132a00075fd859.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScherzierisate.de@IT" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
-#EXTINF:-1 tvg-id="JordanComedy.jo@SD" tvg-logo="https://i.imgur.com/DuwwoO2.png" tvg-type="live" group-title="🇯🇴 Jordânia | Comédia",Jordan Comedy
+#EXTINF:-1 tvg-id="JordanComedy.jo@SD" tvg-logo="https://i.imgur.com/DuwwoO2.png" tvg-type="live" group-title="🇯🇴 Jordânia | Comédia",Jordan Comedy [FHD]
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇱🇺 Luxemburgo | Comédia",Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇱🇺 Luxemburgo | Comédia",Just For Laughs Gags [HD]
 https://distributionsjustepourrire-justforlaughsgags-1-lu.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@LatAm" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 #EXTINF:-1 tvg-id="Daria.us@LatAm" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia [FHD]
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia [FHD] (fonte 2)
 http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia [FHD] (fonte 3)
 http://190.61.47.54:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia [FHD] (fonte 4)
 http://45.5.57.58:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Distrito Comedia [FHD] (fonte 5)
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇲🇽 México | Comédia",FailArmy
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇲🇽 México | Comédia",FailArmy [HD]
 https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Failarmy International
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Failarmy International [HD]
 https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇲🇽 México | Comédia",Just For Laughs Gags [HD]
 https://distributionsjustepourrire-justforlaughsgags-1-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Anger Management
 https://jmp2.uk/plu-6964b77dff4f2148e520fa9b.m3u8
@@ -312,15 +312,15 @@ https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
 https://jmp2.uk/plu-693ae58fc2d0f38be38df821.m3u8
 #EXTINF:-1 tvg-id="EverybodyHatesChris.se@NO" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Everybody Hates Chris
 https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",FailArmy
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",FailArmy [HD]
 https://jmp2.uk/plu-61781077929e930007c194ee.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Failarmy International
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Failarmy International [HD]
 https://failarmy-international-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Family Ties
 https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Just for Laughs GAGS
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Just for Laughs GAGS [HD]
 https://jmp2.uk/plu-61781878a3580d0008967df8.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Just For Laughs Gags [HD] (fonte 2)
 https://distributionsjustepourrire-justforlaughsgags-1-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KeyPeele.se@NO" tvg-logo="https://images.pluto.tv/channels/65cba715dc10a40008034917/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Comédia",Key & Peele
 https://jmp2.uk/plu-65cba7573ba51e00084d76e1.m3u8
@@ -334,13 +334,13 @@ https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
 https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8
 #EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Comédia",Drybar Comedy
 https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Comédia",The Chat Show Channel
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Comédia",The Chat Show Channel [FHD]
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Comédia",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Comédia",Comedy Central [FHD]
 http://57.128.231.171:8080/286/index.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@Poland" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇵🇱 Polônia | Comédia",Fail Army
+#EXTINF:-1 tvg-id="FailArmy.us@Poland" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇵🇱 Polônia | Comédia",Fail Army [HD]
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl@SD" tvg-logo="https://i.imgur.com/6GOWgtE.png" tvg-type="live" group-title="🇵🇱 Polônia | Comédia",Polsat Comedy Central Extra
+#EXTINF:-1 tvg-id="PolsatComedyCentralExtra.pl@SD" tvg-logo="https://i.imgur.com/6GOWgtE.png" tvg-type="live" group-title="🇵🇱 Polônia | Comédia",Polsat Comedy Central Extra [FHD]
 http://57.128.231.171:8080/290/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇷🇴 Romênia | Comédia",Comedy Central
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -348,39 +348,39 @@ http://57.128.231.171:8080/290/index.m3u8
 https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" tvg-type="live" group-title="🇷🇴 Romênia | Comédia",Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
-#EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",alpha Cinema
+#EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",alpha Cinema [FHD]
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-id="Kamedi.ru@HD" tvg-logo="https://i.imgur.com/UU4SGuk.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kamedi HD
+#EXTINF:-1 tvg-id="Kamedi.ru@HD" tvg-logo="https://i.imgur.com/UU4SGuk.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kamedi HD [FHD]
 http://str2.iptvhd.ru:8080/Kinopokaz_HD2/index.m3u8
-#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija [SD]
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija [SD] (fonte 2)
 https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija [SD] (fonte 3)
 http://str2.iptvhd.ru:8080/Komediya_TV/index.m3u8
-#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia
+#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia [SD]
 http://stream.mcquack.net/68/index.m3u8
-#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia
+#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia [SD] (fonte 2)
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia
+#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia [SD] (fonte 3)
 http://str2.iptvhd.ru:8080/russkaya_komedia/index.m3u8
-#EXTINF:-1 tvg-id="Komediynoe.ru@HD" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komediynoe HD
+#EXTINF:-1 tvg-id="Komediynoe.ru@HD" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komediynoe HD [FHD]
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV [SD]
 http://178.124.179.122:8080/KVN-TV/index.m3u8
-#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV [SD] (fonte 2)
 https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV [SD] (fonte 3)
 http://str2.iptvhd.ru:8080/KVN_TV/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD [FHD]
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD [FHD] (fonte 2)
 http://str2.iptvhd.ru:8080/TV1000_Comedy_HD/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD [FHD] (fonte 3)
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
-#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",КВН ТВ
+#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",КВН ТВ [SD]
 http://31.148.48.15/KVN_TV/index.m3u8
-#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Твое ТВ Юмор
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Твое ТВ Юмор [FHD]
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Anger Management
 https://jmp2.uk/plu-6964b7e007ea70192df28d43.m3u8
@@ -404,9 +404,9 @@ https://jmp2.uk/plu-6178037c35922000072a2ff5.m3u8
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Family Ties
 https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Just for Laughs GAGS
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Just for Laughs GAGS [HD]
 https://jmp2.uk/plu-61780ce4c215ad0007a66ab2.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Just For Laughs Gags
+#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Just For Laughs Gags [HD] (fonte 2)
 https://distributionsjustepourrire-justforlaughsgags-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KeyPeele.se@SE" tvg-logo="https://images.pluto.tv/channels/65cba715dc10a40008034917/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Key & Peele
 https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8
@@ -422,14 +422,14 @@ https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
 https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
 #EXTINF:-1 tvg-id="GEMComedy.tr@SD" tvg-logo="https://i.imgur.com/FuscfJW.png" tvg-type="live" group-title="🇹🇷 Turkiye | Comédia",GEM Comedy
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="ETVComedy.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",ETV Comedy
+#EXTINF:-1 tvg-id="ETVComedy.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",ETV Comedy [FHD]
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",Failarmy International
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HumorMill.us@SD" tvg-logo="https://i.imgur.com/e5W91v2.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",Humor Mill
+#EXTINF:-1 tvg-id="HumorMill.us@SD" tvg-logo="https://i.imgur.com/e5W91v2.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",Humor Mill [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
-#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Comédia",Sirippoli TV
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Comédia",Sirippoli TV [SD]
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",Zee Comedy Nation
+#EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",Zee Comedy Nation [FHD]
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8

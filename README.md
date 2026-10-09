@@ -1,6 +1,6 @@
 # 📺 IPTV Mundial
 
-**16.052 canais de TV** de **176 países** + **0 lives do YouTube** + **3.600 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
+**16.052 canais de TV** de **176 países** + **0 lives do YouTube** + **3.599 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
 
 _Última atualização: 09/10/2026_
 
@@ -13,9 +13,9 @@ Adicione as três como playlists separadas no seu app (IPTV Smarters, TiviMate, 
 
 | Divisão | Conteúdo | URL |
 |---|---|---|
-| 📡 **TV ao vivo** | 16.082 canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
+| 📡 **TV ao vivo** | 16.083 canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
 | 🎬 **Filmes** | 2.468 títulos — clássicos em domínio público + shows e festivais | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
-| 📺 **Séries** | 1.132 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
+| 📺 **Séries** | 1.131 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
 
 Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uand/iptv-mundial/main/index.m3u`
 
@@ -23,7 +23,7 @@ Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uan
 
 | Lista | Canais | Playlist |
 |---|---:|---|
-| ⭐ TV Aberta Brasil (Globo, SBT, Record, Band, RedeTV!, Cultura, TV Brasil, Gazeta, GloboNews, BandNews, Record News, SBT News, CNN Brasil, Jovem Pan…) | 21 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/tv-aberta-brasil.m3u` |
+| ⭐ TV Aberta Brasil (Globo, SBT, Record, Band, RedeTV!, Cultura, TV Brasil, Gazeta, GloboNews, BandNews, Record News, SBT News, CNN Brasil, Jovem Pan…) | 22 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/tv-aberta-brasil.m3u` |
 | 🏄 Surf & Ação (Surf Cinema, SURFER TV, Fuel TV, Red Bull TV, Inside Outside, Outside TV, Nautical Channel, Extreme Sports) | 9 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/surf.m3u` |
 
 No YouTube TV também entram World Surf League e Red Bull quando estão ao vivo; em Filmes há a seção 🏄 Surf com replays e highlights da WSL e do Red Bull Surf.
@@ -34,6 +34,8 @@ No YouTube TV também entram World Surf League e Red Bull quando estão ao vivo;
 |---|---:|---|
 | 🎵 Música — todos os países | 1189 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/musica-mundial.m3u` |
 | 🎭 Entretenimento — todos os países | 1233 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/entretenimento-mundial.m3u` |
+| 📺 Só canais 4K / UHD | 17 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/4k-uhd.m3u` |
+| 📺 Só canais Full HD (1080p ou mais) | 4813 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/full-hd.m3u` |
 | 🎤 Vevo (todos os canais Vevo do mundo) | 50 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/vevo.m3u` |
 | 🇧🇷 Música e Entretenimento — Brasil | 45 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/musica-e-entretenimento-brasil.m3u` |
 
@@ -59,7 +61,7 @@ Shows e festivais: vídeos **públicos dos canais oficiais** no YouTube — Coac
 |---|---:|---|
 | 🎬 Filmes clássicos | 2.468 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
 | 🎤 Shows, festivais e surf | 0 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/shows.m3u` |
-| 📺 Séries (episódios) | 827 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
+| 📺 Séries (episódios) | 826 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
 | 📺 Desenhos | 305 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/desenhos.m3u` |
 
 > **Por que não tem Tela Brasil, +SBT, Globoplay, Band Play, PlayPlus?** Essas plataformas são gratuitas, mas exigem login (gov.br, conta da emissora) e entregam o vídeo com URL assinada por usuário. Não existe link público para colocar numa lista — e incluir seria burlar o acesso delas. Use os apps oficiais; aqui ficam só os sinais abertos e os canais FAST que as próprias emissoras publicam.

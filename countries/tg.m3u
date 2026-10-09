@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="ChandelTV.tg@SD" tvg-logo="https://i.imgur.com/jQO7dVE.png" tvg-type="live" group-title="🇹🇬 Togo | Entretenimento",Chandel TV
+#EXTINF:-1 tvg-id="ChandelTV.tg@SD" tvg-logo="https://i.imgur.com/jQO7dVE.png" tvg-type="live" group-title="🇹🇬 Togo | Entretenimento",Chandel TV [HD]
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
-#EXTINF:-1 tvg-id="NWMagazine.tg@SD" tvg-logo="https://i.imgur.com/RZNJZYN.png" tvg-type="live" group-title="🇹🇬 Togo | Entretenimento",NW Magazine
+#EXTINF:-1 tvg-id="NWMagazine.tg@SD" tvg-logo="https://i.imgur.com/RZNJZYN.png" tvg-type="live" group-title="🇹🇬 Togo | Entretenimento",NW Magazine [SD]
 https://hls.newworldtv.com/nw-magazine/video/live.m3u8
-#EXTINF:-1 tvg-id="SOSDocteurTV.tg@SD" tvg-logo="https://i.imgur.com/wQpooHw.png" tvg-type="live" group-title="🇹🇬 Togo | Estilo de vida",SOS Docteur TV
+#EXTINF:-1 tvg-id="SOSDocteurTV.tg@SD" tvg-logo="https://i.imgur.com/wQpooHw.png" tvg-type="live" group-title="🇹🇬 Togo | Estilo de vida",SOS Docteur TV [SD]
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisionEspoir47.tg@SD" tvg-logo="https://i.imgur.com/utBh0xL.png" tvg-type="live" group-title="🇹🇬 Togo | Geral",Television Espoir 47
+#EXTINF:-1 tvg-id="TelevisionEspoir47.tg@SD" tvg-logo="https://i.imgur.com/utBh0xL.png" tvg-type="live" group-title="🇹🇬 Togo | Geral",Television Espoir 47 [HD]
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
-#EXTINF:-1 tvg-id="TVT.tg@SD" tvg-logo="https://i.imgur.com/WtXonN9.png" tvg-type="live" group-title="🇹🇬 Togo | Geral",TVT
+#EXTINF:-1 tvg-id="TVT.tg@SD" tvg-logo="https://i.imgur.com/WtXonN9.png" tvg-type="live" group-title="🇹🇬 Togo | Geral",TVT [HD]
 http://69.64.57.208/tvt/playlist.m3u8
-#EXTINF:-1 tvg-id="NWEconomie.tg@SD" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-type="live" group-title="🇹🇬 Togo | Negócios",NW Economie
+#EXTINF:-1 tvg-id="NWEconomie.tg@SD" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-type="live" group-title="🇹🇬 Togo | Negócios",NW Economie [SD]
 https://hls.newworldtv.com/nw-economie/video/live.m3u8
-#EXTINF:-1 tvg-id="NWInfo2.tg@SD" tvg-logo="https://i.imgur.com/0W4GqFD.png" tvg-type="live" group-title="🇹🇬 Togo | Notícias",NW Info 2 EN
+#EXTINF:-1 tvg-id="NWInfo2.tg@SD" tvg-logo="https://i.imgur.com/0W4GqFD.png" tvg-type="live" group-title="🇹🇬 Togo | Notícias",NW Info 2 EN [SD]
 https://hls.newworldtv.com/nw-info-2/video/live.m3u8
-#EXTINF:-1 tvg-id="NWInfo.tg@SD" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-type="live" group-title="🇹🇬 Togo | Notícias",NW Info FR
+#EXTINF:-1 tvg-id="NWInfo.tg@SD" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-type="live" group-title="🇹🇬 Togo | Notícias",NW Info FR [SD]
 https://hls.newworldtv.com/nw-info/video/live.m3u8

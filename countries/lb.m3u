@@ -1,55 +1,55 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="AghaniAghaniTV.lb@SD" tvg-logo="https://i.imgur.com/o6HSfNg.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",Aghani Aghani TV
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb@SD" tvg-logo="https://i.imgur.com/o6HSfNg.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",Aghani Aghani TV [FHD]
 https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
-#EXTINF:-1 tvg-id="ArabicaTV.lb@SD" tvg-logo="https://i.imgur.com/sTOoDy1.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",Arabica TV
+#EXTINF:-1 tvg-id="ArabicaTV.lb@SD" tvg-logo="https://i.imgur.com/sTOoDy1.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",Arabica TV [HD]
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="mfm.lb@HD" tvg-logo="https://www.mtv.com.lb/images/header/mfm-logo.svg" tvg-type="live" group-title="🇱🇧 Líbano | Música",mfm
+#EXTINF:-1 tvg-id="mfm.lb@HD" tvg-logo="https://www.mtv.com.lb/images/header/mfm-logo.svg" tvg-type="live" group-title="🇱🇧 Líbano | Música",mfm [FHD]
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",MTV Lebanon
+#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",MTV Lebanon [FHD]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
-#EXTINF:-1 tvg-id="OneTV.lb@SD" tvg-logo="https://i.imgur.com/O4DuR9G.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",One TV
+#EXTINF:-1 tvg-id="OneTV.lb@SD" tvg-logo="https://i.imgur.com/O4DuR9G.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",One TV [HD]
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="OneFM.lb@SD" tvg-logo="https://i.ibb.co/Vp2G9wTz/onefmlb.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",OneFM
+#EXTINF:-1 tvg-id="OneFM.lb@SD" tvg-logo="https://i.ibb.co/Vp2G9wTz/onefmlb.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",OneFM [HD]
 https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
-#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" tvg-logo="https://i.imgur.com/QMUjPXx.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Al Ittihad
+#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" tvg-logo="https://i.imgur.com/QMUjPXx.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Al Ittihad [SD]
 http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
-#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" tvg-logo="https://i.imgur.com/QMUjPXx.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Al Ittihad
+#EXTINF:-1 tvg-id="AlIttihadTV.lb@SD" tvg-logo="https://i.imgur.com/QMUjPXx.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Al Ittihad [SD] (fonte 2)
 https://live.alittihad.tv:444/ittihad/index.m3u8
-#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Al Jadeed
+#EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Al Jadeed [FHD]
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 tvg-id="FutureTV.lb@SD" tvg-logo="https://i.imgur.com/OaqEpwe.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Future TV
+#EXTINF:-1 tvg-id="FutureTV.lb@SD" tvg-logo="https://i.imgur.com/OaqEpwe.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Future TV [FHD]
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LanaTV.lb@SD" tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Lana TV
+#EXTINF:-1 tvg-id="LanaTV.lb@SD" tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Lana TV [SD]
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
-#EXTINF:-1 tvg-id="LBC.sa@SD" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp" tvg-type="live" group-title="🇱🇧 Líbano | Geral",LBC
+#EXTINF:-1 tvg-id="LBC.sa@SD" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp" tvg-type="live" group-title="🇱🇧 Líbano | Geral",LBC [SD]
 http://185.9.2.18/chid_327/index.m3u8
-#EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-logo="https://i.imgur.com/h26xtUv.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",LBC International
+#EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-logo="https://i.imgur.com/h26xtUv.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",LBC International [FHD]
 http://185.9.2.18/chid_521/index.m3u8
-#EXTINF:-1 tvg-id="OTV.lb@SD" tvg-logo="https://i.imgur.com/toxFMeY.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",OTV
+#EXTINF:-1 tvg-id="OTV.lb@SD" tvg-logo="https://i.imgur.com/toxFMeY.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",OTV [FHD]
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SensesTV.lb@SD" tvg-logo="https://i.imgur.com/hnTx8eK.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Senses TV
+#EXTINF:-1 tvg-id="SensesTV.lb@SD" tvg-logo="https://i.imgur.com/hnTx8eK.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Senses TV [FHD]
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
-#EXTINF:-1 tvg-id="TeleLiban.lb@SD" tvg-logo="https://i.imgur.com/5VPYxJi.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Tele Liban
+#EXTINF:-1 tvg-id="TeleLiban.lb@SD" tvg-logo="https://i.imgur.com/5VPYxJi.png" tvg-type="live" group-title="🇱🇧 Líbano | Geral",Tele Liban [HD]
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-type="live" group-title="🇱🇧 Líbano | Infantil",Taha TV
+#EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-type="live" group-title="🇱🇧 Líbano | Infantil",Taha TV [SD]
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb@SD" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Al Manar
+#EXTINF:-1 tvg-id="AlManar.lb@SD" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Al Manar [SD]
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Al Mayadeen
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Al Mayadeen [SD]
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ALWifakNewsTV.lb@SD" tvg-logo="https://i.imgur.com/1vqhmNz.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",ALWifak News TV
+#EXTINF:-1 tvg-id="ALWifakNewsTV.lb@SD" tvg-logo="https://i.imgur.com/1vqhmNz.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",ALWifak News TV [HD]
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="NabaaTV.lb@SD" tvg-logo="https://i.imgur.com/p8eRgSs.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Nabaa TV
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD" tvg-logo="https://i.imgur.com/p8eRgSs.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Nabaa TV [HD]
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-id="NabaaTV.lb@SD" tvg-logo="https://i.imgur.com/p8eRgSs.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Nabaa TV
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD" tvg-logo="https://i.imgur.com/p8eRgSs.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Nabaa TV [HD] (fonte 2)
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-id="NabaaTV.lb@SD" tvg-logo="https://i.imgur.com/p8eRgSs.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Nabaa TV
+#EXTINF:-1 tvg-id="NabaaTV.lb@SD" tvg-logo="https://i.imgur.com/p8eRgSs.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Nabaa TV [HD] (fonte 3)
 https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Palestine Al Yawm
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Palestine Al Yawm [HD]
 https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
-#EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" tvg-logo="https://i.imgur.com/bWwY885.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Red TV Lebanon
+#EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" tvg-logo="https://i.imgur.com/bWwY885.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Red TV Lebanon [FHD]
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UNews.lb@SD" tvg-logo="" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",UNews
+#EXTINF:-1 tvg-id="UNews.lb@SD" tvg-logo="" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",UNews [FHD]
 https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
-#EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" tvg-logo="https://i.imgur.com/f8WcqRY.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Voice of Lebanon
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" tvg-logo="https://i.imgur.com/f8WcqRY.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Voice of Lebanon [FHD]
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8

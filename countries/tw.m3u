@@ -1,87 +1,87 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="CTiVariety.tw@SD" tvg-logo="https://i.imgur.com/tqsKObw.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",CTi Variety (中天綜合台)
+#EXTINF:-1 tvg-id="CTiVariety.tw@SD" tvg-logo="https://i.imgur.com/tqsKObw.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",CTi Variety (中天綜合台) [HD]
 http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",TVBS Asia
+#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",TVBS Asia [FHD]
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="MOMOTV.tw@SD" tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-type="live" group-title="🇹🇼 Taiwan | Compras",MOMO TV
+#EXTINF:-1 tvg-id="MOMOTV.tw@SD" tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-type="live" group-title="🇹🇼 Taiwan | Compras",MOMO TV [FHD]
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-#EXTINF:-1 tvg-id="IndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/vmk4F9u.png" tvg-type="live" group-title="🇹🇼 Taiwan | Cultura",Indigenous TV
+#EXTINF:-1 tvg-id="IndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/vmk4F9u.png" tvg-type="live" group-title="🇹🇼 Taiwan | Cultura",Indigenous TV [HD]
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",DaAi 2
+#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",DaAi 2 [FHD]
 http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
-#EXTINF:-1 tvg-id="DaAi1.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",DaAi1 (大愛1)
+#EXTINF:-1 tvg-id="DaAi1.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",DaAi1 (大愛1) [HD]
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",DaAi2 (大愛2)
+#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",DaAi2 (大愛2) [HD]
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",Dali TV (大立電視台)
+#EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",Dali TV (大立電視台) [HD]
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="FTV.tw@SD" tvg-logo="https://i.imgur.com/q8ahtbT.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",FTV (民視)
+#EXTINF:-1 tvg-id="FTV.tw@SD" tvg-logo="https://i.imgur.com/q8ahtbT.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",FTV (民視) [HD]
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="FTVOne.tw@SD" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",FTV One (民視第一台)
+#EXTINF:-1 tvg-id="FTVOne.tw@SD" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",FTV One (民視第一台) [HD]
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH12 維他命施
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH12 維他命施 [HD]
 https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH14 真情部落格
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH14 真情部落格 [HD]
 https://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH15 真情之夜
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH15 真情之夜 [HD]
 https://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH16 葉光明
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH16 葉光明 [HD]
 https://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH17 大衛鮑森
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH17 大衛鮑森 [HD]
 https://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH18 國際講員
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH18 國際講員 [HD]
 https://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH20 恩典時分
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH20 恩典時分 [HD]
 https://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH21 華語講員
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH21 華語講員 [HD]
 https://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH24 劉三講古
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH24 劉三講古 [HD]
 https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH27 空中聖經學院
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH27 空中聖經學院 [HD]
 https://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH28 現代詩歌
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH28 現代詩歌 [HD]
 https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH29 經典音樂河
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH29 經典音樂河 [HD]
 https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH3 真情部落格 短版
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH3 真情部落格 短版 [HD]
 https://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH30 天堂敬拜
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH30 天堂敬拜 [HD]
 https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH31 福音佈道音樂會
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH31 福音佈道音樂會 [HD]
 https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH32 特會系列：禱告與轉化
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH32 特會系列：禱告與轉化 [HD]
 https://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH33 特會系列：研經培靈
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH33 特會系列：研經培靈 [HD]
 https://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH38 特會系列：青年特會
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH38 特會系列：青年特會 [HD]
 https://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH40 家庭8點檔轉轉發現愛
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH40 家庭8點檔轉轉發現愛 [HD]
 https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH45 卡通
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH45 卡通 [HD]
 https://live.streamingfast.net/osmflivech45.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH47 牧者頻道
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH47 牧者頻道 [HD]
 https://live.streamingfast.net/osmflivech47.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH49 禱告頻道
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH49 禱告頻道 [HD]
 https://live.streamingfast.net/osmflivech49.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH5 共享觀點 短版
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH5 共享觀點 短版 [HD]
 https://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH50 國際講員 中文發音
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH50 國際講員 中文發音 [HD]
 https://live.streamingfast.net/osmflivech50.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH6 親近神 詩歌音樂
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH6 親近神 詩歌音樂 [HD]
 https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH7 禱告大軍 信息
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH7 禱告大軍 信息 [HD]
 https://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH9 愛+好醫生 短版
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH9 愛+好醫生 短版 [HD]
 https://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/QqIdVqz.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",Taiwan Indigenous TV
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/QqIdVqz.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",Taiwan Indigenous TV [HD]
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",Taiwan Plus TV
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",Taiwan Plus TV [FHD]
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="TTV.tw@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",台视
+#EXTINF:-1 tvg-id="TTV.tw@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",台视 [HD]
 http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-logo="https://i.imgur.com/uFDkOhV.png" tvg-type="live" group-title="🇹🇼 Taiwan | Notícias",EBC Financial News (東森財經新聞台)
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-logo="https://i.imgur.com/uFDkOhV.png" tvg-type="live" group-title="🇹🇼 Taiwan | Notícias",EBC Financial News (東森財經新聞台) [FHD]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="EBCNews.tw@SD" tvg-logo="https://i.imgur.com/QFZs80p.png" tvg-type="live" group-title="🇹🇼 Taiwan | Notícias",EBC News (東森新聞台)
+#EXTINF:-1 tvg-id="EBCNews.tw@SD" tvg-logo="https://i.imgur.com/QFZs80p.png" tvg-type="live" group-title="🇹🇼 Taiwan | Notícias",EBC News (東森新聞台) [FHD]
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="FTVTaiwan.tw@SD" tvg-logo="https://i.imgur.com/p108I5g.png" tvg-type="live" group-title="🇹🇼 Taiwan | Notícias",FTV Taiwan (民視台灣台)
+#EXTINF:-1 tvg-id="FTVTaiwan.tw@SD" tvg-logo="https://i.imgur.com/p108I5g.png" tvg-type="live" group-title="🇹🇼 Taiwan | Notícias",FTV Taiwan (民視台灣台) [HD]
 http://seb.sason.top/ptv/ftv.php?id=tw

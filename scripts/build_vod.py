@@ -94,7 +94,7 @@ def _unused():
     pass
 def esc(s):
     if isinstance(s, list): s = s[0] if s else ""
-    return re.sub(r"[\r\n,]+", " ", str(s)).strip()
+    return re.sub(r"\s+", " ", re.sub(r"[\r\n,\"]+", " ", str(s))).strip()
 def year(d):
     y = d.get("year") or ""
     if isinstance(y, list): y = y[0]
@@ -107,6 +107,7 @@ for coll, out, group, d in items:
     by_out.setdefault(out, []).append((group, d, c))
 
 counts = {}
+ep_counter = {}
 for out, rows in by_out.items():
     rows.sort(key=lambda r: (r[0], esc(r[1].get("title") or "").lower()))
     with open(f"{OUT}/{out}.m3u", "w", encoding="utf-8") as f:
@@ -114,11 +115,19 @@ for out, rows in by_out.items():
         for group, d, c in rows:
             ident = d["identifier"]; y = year(d)
             title = esc(d.get("title") or ident) + (f" ({y})" if y else "")
-            ttype = "series" if out in ("series", "desenhos") else "movie"
-            if ttype == "series":
-                m = re.search(r"\b[Ss](\d{1,2})\s*[Ee](\d{1,3})\b", title) or re.search(r"\b(?:Season|Temporada)\s*(\d+).*?\b(?:Episode|Ep\.?|Epis[oó]dio)\s*(\d+)", title, re.I)
-                if m: title = f"{title} S{int(m.group(1)):02d}E{int(m.group(2)):02d}"
-            f.write(f'#EXTINF:-1 tvg-id="ia.{ident}" tvg-logo="https://archive.org/services/img/{ident}" tvg-type="{ttype}" group-title="{group}",{title}\n')
+            if out in ("series", "desenhos"):
+                # nome da série = parte antes de " - " / ":" ; episódios numerados em ordem
+                base_t = esc(d.get("title") or ident)
+                show = re.split(r"\s+-\s+|:\s+|\s+\(", base_t, 1)[0].strip()[:60] or base_t
+                m = re.search(r"\b[Ss](\d{1,2})\s*[Ee](\d{1,3})\b", base_t) or re.search(r"\b(?:Season|Temporada)\s*(\d+).*?\b(?:Episode|Ep\.?|Epis[oó]dio)\s*(\d+)", base_t, re.I)
+                if m: season, ep = int(m.group(1)), int(m.group(2))
+                else:
+                    ep_counter[show] = ep_counter.get(show, 0) + 1; season, ep = 1, ep_counter[show]
+                sid = re.sub(r"[^a-z0-9]+", "-", show.lower()).strip("-")
+                title = f"{show} S{season:02d}E{ep:02d} - {base_t}"
+                f.write(f'#EXTINF:-1 tvg-id="ia.{ident}" tvg-logo="https://archive.org/services/img/{ident}" tvg-type="serie" tvg-serie="{sid}" serie-title="{show}" tvg-season="{season}" tvg-episode="{ep}" group-title="{group}",{title}\n')
+            else:
+                f.write(f'#EXTINF:-1 tvg-id="ia.{ident}" tvg-logo="https://archive.org/services/img/{ident}" tvg-type="movie" group-title="{group}",{title}\n')
             f.write(c["url"] + "\n")
     counts[out] = len(rows)
 print("OK:", counts)

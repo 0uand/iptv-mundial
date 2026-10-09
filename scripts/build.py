@@ -67,6 +67,8 @@ for p in sorted(glob.glob(f"{streams_dir}/*.m3u")):
             if url in seen or "[Geo-blocked]" in name or base in nsfw or re.search(r"\b(xxx|porn|adult|erotic)\b", name, re.I):
                 cur = None; continue
             seen.add(url)
+            mres = re.search(r"\((\d{3,4})p\)", name)
+            res = int(mres.group(1)) if mres else 0
             clean = re.sub(r"\s*\(\d+p\)|\s*\[Not 24/7\]", "", name).strip()
             logo = (re.search(r'tvg-logo="([^"]*)"', cur) or [None, ""])[1] or logos.get(base, "")
             cat = guess_cat(clean, cat_of.get(base, ""))
@@ -75,18 +77,30 @@ for p in sorted(glob.glob(f"{streams_dir}/*.m3u")):
             # logos oficiais
             for pat, lg in LOGO_OVERRIDES.items():
                 if re.search(pat, clean, re.I): logo = lg
-            rows.append(dict(code=code, name=clean, url=url, hdrs=hdrs, tid=tid, logo=logo, cat=cat))
+            rows.append(dict(code=code, name=clean, url=url, hdrs=hdrs, tid=tid, logo=logo, cat=cat, res=res))
             cur = None
 
 PRI = {"br":0,"pt":1,"us":2,"uk":3,"es":4,"ar":5,"int":6}
 def ckey(code): return (PRI.get(code, 10), countries.get(code, (code.upper(),))[0])
 CAT_PRI = {"music": 0, "entertainment": 1}
 PINNED = [  # (grupo, regex de nome, países permitidos)
-    ("⭐ TV Aberta Brasil", r"^(Rede Globo|TV Globo Sao Paulo|GloboNews|SBT Nacional|SBT News|Record|RecordTV|Record News|Band|BandNews|Band Sports|Rede TV!|Rede TV! SP|TV Cultura|TV Brasil|TV Gazeta|Arte 1|Canal Rural|Jovem Pan News|CNN Brasil|TVE RS|Cultura Fast)$", {"br"}),
-    ("🏄 Surf & Ação", r"^(Surf Cinema|SURFER TV|Fuel TV|FUEL TV|Red Bull TV|Red Bull TV BR|Inside Outside|Extreme Sports Channel|Nautical Channel|Outside TV|Outside TV\+|Waves|Adventure Sports Network)$", None),
+    ("⭐ TV Aberta Brasil", r"^(Red Bull TV BR|Rede Globo|TV Globo Sao Paulo|GloboNews|SBT Nacional|SBT News|Record|RecordTV|Record News|Band|BandNews|Band Sports|Rede TV!|Rede TV! SP|TV Cultura|TV Brasil|TV Gazeta|Arte 1|Canal Rural|Jovem Pan News|CNN Brasil|TVE RS|Cultura Fast)$", {"br"}),
+    ("🏄 Surf & Ação", r"^(Red Bull TV BR|Surf Cinema|SURFER TV|Fuel TV|FUEL TV|Red Bull TV|Red Bull TV BR|Inside Outside|Extreme Sports Channel|Nautical Channel|Outside TV|Outside TV\+|Waves|Adventure Sports Network)$", None),
 ]
 def catkey(cat): return (CAT_PRI.get(cat, 5), CATPT.get(cat, "Geral"))
-rows.sort(key=lambda r: (ckey(r["code"]), catkey(r["cat"]), r["name"].lower()))
+rows.sort(key=lambda r: (ckey(r["code"]), catkey(r["cat"]), r["name"].lower(), -r["res"]))
+def qlabel(res):
+    if res >= 2160: return " [4K]"
+    if res >= 1080: return " [FHD]"
+    if res >= 720: return " [HD]"
+    if res > 0: return " [SD]"
+    return ""
+# fontes alternativas do mesmo canal (mesmo nome/país) ficam depois da melhor e marcadas
+_seen_alt = {}
+for r in rows:
+    k = (r["code"], r["name"].lower())
+    n_ = _seen_alt.get(k, 0); _seen_alt[k] = n_ + 1
+    r["label"] = r["name"] + qlabel(r["res"]) + (f" (fonte {n_ + 1})" if n_ else "")
 
 CATCHUP = {}
 _cp = f"{ROOT}/data/catchup.json"
@@ -106,7 +120,7 @@ def write(path, items, group=None, mode="w"):
                 extra = f' catchup="flussonic" catchup-days="{cu["days"]}"'
             elif cu:
                 extra = f' catchup="default" catchup-source="{cu["source"]}" catchup-days="{cu["days"]}"'
-            f.write(f'#EXTINF:-1 tvg-id="{r["tid"]}" tvg-logo="{r["logo"]}" tvg-type="live" group-title="{grp}"{extra},{r["name"]}\n')
+            f.write(f'#EXTINF:-1 tvg-id="{r["tid"]}" tvg-logo="{r["logo"]}" tvg-type="live" group-title="{grp}"{extra},{r.get("label", r["name"])}\n')
             for h in r["hdrs"]: f.write(h + "\n")
             f.write(r["url"] + "\n")
 
@@ -121,7 +135,7 @@ def append_lines(path, lines):
 pinned_sets = []
 for grp, rx, codes in PINNED:
     sel, names = [], set()
-    for r in sorted(rows, key=lambda r: (r["name"].lower(), 0 if r["code"] == "br" else 1)):
+    for r in sorted(rows, key=lambda r: (0 if r["name"] == "Red Bull TV BR" else 1, r["name"].lower(), 0 if r["code"] == "br" else 1, -r["res"])):
         if re.match(rx, r["name"]) and (codes is None or r["code"] in codes) and r["name"].lower() not in names:
             sel.append(r); names.add(r["name"].lower())
     pinned_sets.append((grp, sel))
@@ -142,6 +156,8 @@ for grp, sel in pinned_sets:
 # hubs mundiais de Música e Entretenimento (todos os países)
 write(f"{ROOT}/hubs/musica-mundial.m3u", [r for r in rows if r["cat"] == "music"])
 write(f"{ROOT}/hubs/entretenimento-mundial.m3u", [r for r in rows if r["cat"] == "entertainment"])
+write(f"{ROOT}/hubs/4k-uhd.m3u", sorted([r for r in rows if r["res"] >= 2160], key=lambda r: r["name"].lower()), group="📺 4K / UHD")
+write(f"{ROOT}/hubs/full-hd.m3u", [r for r in rows if r["res"] >= 1080])
 write(f"{ROOT}/hubs/vevo.m3u", [r for r in rows if r["name"].lower().startswith("vevo")])
 write(f"{ROOT}/hubs/musica-e-entretenimento-brasil.m3u", [r for r in rows if r["code"] == "br" and r["cat"] in ("music", "entertainment")])
 bycountry, bycat = defaultdict(list), defaultdict(list)
@@ -178,6 +194,8 @@ md = [f"# 📺 IPTV Mundial\n",
       "## 🎵 Música e Entretenimento (destaque)\n", "| Lista | Canais | Playlist |", "|---|---:|---|",
       f"| 🎵 Música — todos os países | {n_music} | `{RAW}/hubs/musica-mundial.m3u` |",
       f"| 🎭 Entretenimento — todos os países | {n_ent} | `{RAW}/hubs/entretenimento-mundial.m3u` |",
+      f"| 📺 Só canais 4K / UHD | {cnt(f'{ROOT}/hubs/4k-uhd.m3u')} | `{RAW}/hubs/4k-uhd.m3u` |",
+      f"| 📺 Só canais Full HD (1080p ou mais) | {cnt(f'{ROOT}/hubs/full-hd.m3u')} | `{RAW}/hubs/full-hd.m3u` |",
       f"| 🎤 Vevo (todos os canais Vevo do mundo) | {cnt(f'{ROOT}/hubs/vevo.m3u')} | `{RAW}/hubs/vevo.m3u` |",
       f"| 🇧🇷 Música e Entretenimento — Brasil | {cnt(f'{ROOT}/hubs/musica-e-entretenimento-brasil.m3u')} | `{RAW}/hubs/musica-e-entretenimento-brasil.m3u` |",
       "\nDentro de cada país, Música e Entretenimento aparecem sempre como as primeiras categorias.\n",

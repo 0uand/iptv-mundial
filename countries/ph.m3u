@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="PremierSports.ph@SD" tvg-logo="https://i.imgur.com/BURPHzI.png" tvg-type="live" group-title="🇵🇭 Filipinas | Esportes",Premier Sports
+#EXTINF:-1 tvg-id="PremierSports.ph@SD" tvg-logo="https://i.imgur.com/BURPHzI.png" tvg-type="live" group-title="🇵🇭 Filipinas | Esportes",Premier Sports [FHD]
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="PremierSports2.ph@SD" tvg-logo="https://i.imgur.com/UQeXWd2.png" tvg-type="live" group-title="🇵🇭 Filipinas | Esportes",Premier Sports 2
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD" tvg-logo="https://i.imgur.com/UQeXWd2.png" tvg-type="live" group-title="🇵🇭 Filipinas | Esportes",Premier Sports 2 [FHD]
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="CLTV36.ph@SD" tvg-logo="https://i.imgur.com/2fGhl7q.png" tvg-type="live" group-title="🇵🇭 Filipinas | Geral",CLTV 36
+#EXTINF:-1 tvg-id="CLTV36.ph@SD" tvg-logo="https://i.imgur.com/2fGhl7q.png" tvg-type="live" group-title="🇵🇭 Filipinas | Geral",CLTV 36 [HD]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" tvg-type="live" group-title="🇵🇭 Filipinas | Geral",SMNI
+#EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" tvg-type="live" group-title="🇵🇭 Filipinas | Geral",SMNI [HD]
 https://stream.kdlc.click/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇵🇭 Filipinas | Geral",TeleRadyo
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇵🇭 Filipinas | Geral",TeleRadyo [FHD]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" tvg-type="live" group-title="🇵🇭 Filipinas | Notícias",Abante TV
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" tvg-type="live" group-title="🇵🇭 Filipinas | Notícias",Abante TV [FHD]
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8

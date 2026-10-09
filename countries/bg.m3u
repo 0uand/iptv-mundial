@@ -2,30 +2,30 @@
 #EXTINF:-1 tvg-id="BOXTV.bg@SD" tvg-logo="https://i.imgur.com/swFzesA.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",BOX TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0an
-#EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-logo="https://i.imgur.com/mFL452f.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",City TV
+#EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-logo="https://i.imgur.com/mFL452f.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",City TV [SD]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",DSTV
+#EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",DSTV [SD]
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="HitMixMusic.bg@SD" tvg-logo="https://i.imgur.com/Gbaxq6P.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",Hit Mix Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cl
-#EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-logo="https://i.imgur.com/n7bcrrp.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",Magic TV
+#EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-logo="https://i.imgur.com/n7bcrrp.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",Magic TV [HD]
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-logo="https://i.imgur.com/OoJSmoj.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",The Voice TV
+#EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-logo="https://i.imgur.com/OoJSmoj.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",The Voice TV [HD]
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-logo="https://i.imgur.com/VKY4q64.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",Tiankov Folk
+#EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-logo="https://i.imgur.com/VKY4q64.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",Tiankov Folk [SD]
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8
-#EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" tvg-logo="https://i.imgur.com/33LexyP.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",Tiankov Orient Folk
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" tvg-logo="https://i.imgur.com/33LexyP.png" tvg-type="live" group-title="🇧🇬 Bulgária | Música",Tiankov Orient Folk [SD]
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
-#EXTINF:-1 tvg-id="TVRodina.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Música",TV Rodina
+#EXTINF:-1 tvg-id="TVRodina.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Música",TV Rodina [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/RodinaTV/index.m3u8
 #EXTINF:-1 tvg-id="78TV.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" tvg-type="live" group-title="🇧🇬 Bulgária | Entretenimento",7/8 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cn
-#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" tvg-type="live" group-title="🇧🇬 Bulgária | Entretenimento",This is Bulgaria HD
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" tvg-type="live" group-title="🇧🇬 Bulgária | Entretenimento",This is Bulgaria HD [FHD]
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
-#EXTINF:-1 tvg-id="100AutoMotoTV.bg@SD" tvg-logo="https://i.imgur.com/SZtJfOG.png" tvg-type="live" group-title="🇧🇬 Bulgária | Automotivo",100% Auto Moto TV
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg@SD" tvg-logo="https://i.imgur.com/SZtJfOG.png" tvg-type="live" group-title="🇧🇬 Bulgária | Automotivo",100% Auto Moto TV [SD]
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.bg@SD" tvg-logo="https://i.imgur.com/JU1dFfK.png" tvg-type="live" group-title="🇧🇬 Bulgária | Clássicos",Nostalgia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -41,48 +41,48 @@ http://213.91.179.28:8000/play/a03r
 http://213.91.179.28:8000/play/a0c1
 #EXTINF:-1 tvg-id="ID.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",ID
 http://213.91.179.28:8000/play/a0cf
-#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic [FHD]
+http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
-#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic
-http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic Wild [FHD]
+http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic Wild (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cu
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic Wild
-http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",Viasat Explore
+#EXTINF:-1 tvg-id="ViasatExplore.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",Viasat Explore [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",Viasat History
+#EXTINF:-1 tvg-id="ViasatHistory.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",Viasat History [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",Viasat Nature
+#EXTINF:-1 tvg-id="ViasatNature.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",Viasat Nature [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
-#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 1
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 1 [FHD]
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 1 [HD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
 http://213.91.179.28:8000/play/a0as
-#EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 1
-http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
-#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 2
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 2 [FHD]
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 2 [HD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://213.91.179.28:8000/play/a0at
-#EXTINF:-1 tvg-id="MaxSport2.bg@SD" tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 2
-http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
-#EXTINF:-1 tvg-id="MaxSport3.bg@SD" tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 3
+#EXTINF:-1 tvg-id="MaxSport3.bg@SD" tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 3 [FHD]
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport3.bg@SD" tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 3 [HD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://213.91.179.28:8000/play/a0ar
-#EXTINF:-1 tvg-id="MaxSport3.bg@SD" tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 3
-http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
-#EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 4
+#EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 4 [FHD]
+http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 4 (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05n
-#EXTINF:-1 tvg-id="MaxSport4.bg@SD" tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-type="live" group-title="🇧🇬 Bulgária | Esportes",Max Sport 4
-http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
-#EXTINF:-1 tvg-id="CodeFashionTV.bg@SD" tvg-logo="https://i.imgur.com/mVc2g64.png" tvg-type="live" group-title="🇧🇬 Bulgária | Estilo de vida",Code Fashion TV
+#EXTINF:-1 tvg-id="CodeFashionTV.bg@SD" tvg-logo="https://i.imgur.com/mVc2g64.png" tvg-type="live" group-title="🇧🇬 Bulgária | Estilo de vida",Code Fashion TV [FHD]
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
-#EXTINF:-1 tvg-id="CodeHealthTV.bg@SD" tvg-logo="https://i.imgur.com/NXBMzGV.png" tvg-type="live" group-title="🇧🇬 Bulgária | Estilo de vida",Code Health TV
+#EXTINF:-1 tvg-id="CodeHealthTV.bg@SD" tvg-logo="https://i.imgur.com/NXBMzGV.png" tvg-type="live" group-title="🇧🇬 Bulgária | Estilo de vida",Code Health TV [FHD]
 https://cdn2.invivo.bg/codehealth_test/index.m3u8
 #EXTINF:-1 tvg-id="DiemaFamily.bg@SD" tvg-logo="https://i.imgur.com/SgNVY4d.png" tvg-type="live" group-title="🇧🇬 Bulgária | Família",Diema Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -107,79 +107,79 @@ http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="KinoNova.bg@SD" tvg-logo="https://i.imgur.com/hMqEY0J.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Kino Nova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a041
-#EXTINF:-1 tvg-id="MovieStar.bg@SD" tvg-logo="https://i.imgur.com/DdZH49P.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Movie Star
+#EXTINF:-1 tvg-id="MovieStar.bg@SD" tvg-logo="https://i.imgur.com/DdZH49P.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Movie Star [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/MovieStar/index.m3u8
-#EXTINF:-1 tvg-id="MovieStar.bg@SD" tvg-logo="https://i.imgur.com/DdZH49P.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Movie Star
+#EXTINF:-1 tvg-id="MovieStar.bg@SD" tvg-logo="https://i.imgur.com/DdZH49P.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Movie Star (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.160:5000
-#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Star Channel [HD]
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Star Channel (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
-#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Star Channel
-http://hls127.freeott.top:8080/BG_FOX/video.m3u8
 #EXTINF:-1 tvg-id="TV1000.bg@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",TV1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.100:5000
-#EXTINF:-1 tvg-id="TV1000.bg@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",TV1000
+#EXTINF:-1 tvg-id="TV1000.bg@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",TV1000 (fonte 2)
 http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 1
+#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 1 [FHD]
 https://shift03.isp.bg/BNT1_HD/index.m3u8
-#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 1
+#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 1 [HD] (fonte 2)
+http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
+#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 1 (fonte 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a046
-#EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 1
-http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
-#EXTINF:-1 tvg-id="BNT2.bg@SD" tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 2
+#EXTINF:-1 tvg-id="BNT2.bg@SD" tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 2 [FHD]
 https://shift03.isp.bg/BNT2_HD/index.m3u8
-#EXTINF:-1 tvg-id="BNT2.bg@SD" tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 2
+#EXTINF:-1 tvg-id="BNT2.bg@SD" tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 2 [HD] (fonte 2)
+http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="BNT2.bg@SD" tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 2 (fonte 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a049
-#EXTINF:-1 tvg-id="BNT2.bg@SD" tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 2
-http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
-#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 3
+#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 3 [FHD]
 https://shift03.isp.bg/BNT3_HD/index.m3u8
-#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 3
+#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 3 [HD] (fonte 2)
+http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
+#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 3 (fonte 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03x
-#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 3
-http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
-#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 4
+#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 4 [FHD]
 https://shift03.isp.bg/BNT4_HD/index.m3u8
-#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 4
+#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 4 [HD] (fonte 2)
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
+#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 4 (fonte 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04u
-#EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",BNT 4
-http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
 #EXTINF:-1 tvg-id="bTV.bg@SD" tvg-logo="https://i.imgur.com/l47z7gw.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",bTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03w
-#EXTINF:-1 tvg-id="Eurocom.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",Evrokom
+#EXTINF:-1 tvg-id="Eurocom.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",Evrokom [SD]
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Nova.bg@SD" tvg-logo="https://i.imgur.com/WCsPSLX.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",Nova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03l
-#EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-logo="https://rmtv.bg/img/logo.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",RMTV
+#EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-logo="https://rmtv.bg/img/logo.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",RMTV [SD]
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg@SD" tvg-logo="https://tvsb.bg/theme/images/logo.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8
-#EXTINF:-1 tvg-id="TVZagora.bg@SD" tvg-logo="https://i.imgur.com/DvBboqe.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",TV Zagora
+#EXTINF:-1 tvg-id="TVZagora.bg@SD" tvg-logo="https://i.imgur.com/DvBboqe.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",TV Zagora [SD]
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
-#EXTINF:-1 tvg-id="VivacomArena.bg@SD" tvg-logo="https://i.imgur.com/M7QKnH3.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",Vivacom Arena
+#EXTINF:-1 tvg-id="VivacomArena.bg@SD" tvg-logo="https://i.imgur.com/M7QKnH3.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",Vivacom Arena [HD]
+http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
+#EXTINF:-1 tvg-id="VivacomArena.bg@SD" tvg-logo="https://i.imgur.com/M7QKnH3.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",Vivacom Arena (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a053
-#EXTINF:-1 tvg-id="VivacomArena.bg@SD" tvg-logo="https://i.imgur.com/M7QKnH3.png" tvg-type="live" group-title="🇧🇬 Bulgária | Geral",Vivacom Arena
-http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a059
-#EXTINF:-1 tvg-id="EKids.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",EKids
+#EXTINF:-1 tvg-id="EKids.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",EKids [SD]
 http://78.108.244.134:8899/ekids
-#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon [SD]
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a056
-#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon
-http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="RING.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",RING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a06e
@@ -195,17 +195,17 @@ http://213.91.179.28:8000/play/a05e
 #EXTINF:-1 tvg-id="NovaNews.bg@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Nova_News_HD.svg" tvg-type="live" group-title="🇧🇬 Bulgária | Notícias",Nova News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a063
-#EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-logo="https://i.imgur.com/tPMNDtD.png" tvg-type="live" group-title="🇧🇬 Bulgária | Outdoor",Agro TV
+#EXTINF:-1 tvg-id="AgroTV.bg@SD" tvg-logo="https://i.imgur.com/tPMNDtD.png" tvg-type="live" group-title="🇧🇬 Bulgária | Outdoor",Agro TV [SD]
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
-#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Crime
+#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Crime [HD]
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Crime (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cs
-#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Crime
-http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
-#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Life
+#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Life [HD]
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
+#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Life (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cr
-#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Life
-http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
-#EXTINF:-1 tvg-id="TravelTV.bg@SD" tvg-logo="https://i.imgur.com/5xllfed.png" tvg-type="live" group-title="🇧🇬 Bulgária | Viagem",Travel TV
+#EXTINF:-1 tvg-id="TravelTV.bg@SD" tvg-logo="https://i.imgur.com/5xllfed.png" tvg-type="live" group-title="🇧🇬 Bulgária | Viagem",Travel TV [SD]
 https://streamer103.neterra.tv/travel/live.m3u8

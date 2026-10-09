@@ -7,7 +7,7 @@ https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
 #EXTINF:-1 tvg-id="History.si@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Documentários",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
-#EXTINF:-1 tvg-id="History.si@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Documentários",History Channel
+#EXTINF:-1 tvg-id="History.si@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Documentários",History Channel [FHD]
 https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 tvg-id="ViasatExplore.si@HD" tvg-logo="https://i.imgur.com/jboGcoY.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Documentários",Viasat Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -24,7 +24,7 @@ http://92.36.202.5:10001/play/a01s
 #EXTINF:-1 tvg-id="StarMovies.si@SD" tvg-logo="https://i.imgur.com/JcoAgDF.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Filmes",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://92.36.202.5:10001/play/a01o
-#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Filmes",Viasat Kino Balkan
+#EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Filmes",Viasat Kino Balkan [FHD]
 http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="KanalA.si@SD" tvg-logo="https://i.imgur.com/JHNpcqF.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",Kanal A
 https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
@@ -34,13 +34,13 @@ https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-defau
 https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 tvg-id="TVSLO3.si@SD" tvg-logo="https://i.imgur.com/yPb2FKg.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",SLO 3
 https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
-#EXTINF:-1 tvg-id="TrzicTV.si@SD" tvg-logo="https://i.imgur.com/VZiaoqz.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",Tržič TV
+#EXTINF:-1 tvg-id="TrzicTV.si@SD" tvg-logo="https://i.imgur.com/VZiaoqz.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",Tržič TV [FHD]
 https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",TV SLO 1 HD
+#EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",TV SLO 1 HD [FHD]
 http://23.88.66.93/SLO1/index.m3u8
-#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-logo="https://i.imgur.com/OPlzjjv.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",TV SLO 2 HD
+#EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-logo="https://i.imgur.com/OPlzjjv.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",TV SLO 2 HD [FHD]
 http://23.88.66.93/SLO2/index.m3u8
-#EXTINF:-1 tvg-id="TelevizijaUrslja.si@SD" tvg-logo="https://i.imgur.com/PZwdXlN.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",TV Uršlja
+#EXTINF:-1 tvg-id="TelevizijaUrslja.si@SD" tvg-logo="https://i.imgur.com/PZwdXlN.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",TV Uršlja [FHD]
 http://ott.sgn.net/hls/tvurslja.m3u8
 #EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si@SD" tvg-logo="https://i.imgur.com/49VrbSW.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Geral",TV Veseljak Golica HD
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8

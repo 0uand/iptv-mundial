@@ -1,37 +1,37 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="3StonesTV.ke@SD" tvg-logo="https://i.imgur.com/im3g7T2.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",3 Stones TV
+#EXTINF:-1 tvg-id="3StonesTV.ke@SD" tvg-logo="https://i.imgur.com/im3g7T2.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",3 Stones TV [SD]
 https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
-#EXTINF:-1 tvg-id="CMTvKenya.ke@SD" tvg-logo="https://i.imgur.com/ewHBokK.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",CMTv Kenya
+#EXTINF:-1 tvg-id="CMTvKenya.ke@SD" tvg-logo="https://i.imgur.com/ewHBokK.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",CMTv Kenya [SD]
 https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
-#EXTINF:-1 tvg-id="GBSTV.ke@SD" tvg-logo="https://i.imgur.com/2AP1xVg.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",GBS TV
+#EXTINF:-1 tvg-id="GBSTV.ke@SD" tvg-logo="https://i.imgur.com/2AP1xVg.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",GBS TV [HD]
 https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
 #EXTINF:-1 tvg-id="GreatCommissionTV.ke@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Great%20Commission%20TV.jpeg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Great Commission TV
 https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
-#EXTINF:-1 tvg-id="GTNTV.ke@SD" tvg-logo="https://i.imgur.com/CSCZW6L.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",GTN TV
+#EXTINF:-1 tvg-id="GTNTV.ke@SD" tvg-logo="https://i.imgur.com/CSCZW6L.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",GTN TV [FHD]
 https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
-#EXTINF:-1 tvg-id="HLCTV.ke@SD" tvg-logo="https://i.imgur.com/TPZoSXM.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",HLC TV
+#EXTINF:-1 tvg-id="HLCTV.ke@SD" tvg-logo="https://i.imgur.com/TPZoSXM.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",HLC TV [SD]
 https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
 #EXTINF:-1 tvg-id="InooroTV.ke@SD" tvg-logo="https://i.imgur.com/5qFJtmo.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral" catchup="default" catchup-source="https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",Inooro TV
 https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
-#EXTINF:-1 tvg-id="K24.ke@SD" tvg-logo="https://i.imgur.com/SUjo6Bm.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",K24
+#EXTINF:-1 tvg-id="K24.ke@SD" tvg-logo="https://i.imgur.com/SUjo6Bm.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",K24 [FHD]
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
-#EXTINF:-1 tvg-id="KassTV.ke@SD" tvg-logo="https://i.imgur.com/MW8wZ5v.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Kass TV
+#EXTINF:-1 tvg-id="KassTV.ke@SD" tvg-logo="https://i.imgur.com/MW8wZ5v.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Kass TV [HD]
 https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
-#EXTINF:-1 tvg-id="LuyaaTV.ke@SD" tvg-logo="https://i.imgur.com/bnq7DNt.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Luyaa TV
+#EXTINF:-1 tvg-id="LuyaaTV.ke@SD" tvg-logo="https://i.imgur.com/bnq7DNt.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Luyaa TV [SD]
 https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8
-#EXTINF:-1 tvg-id="MasharikiTV.ke@SD" tvg-logo="https://i.imgur.com/5Qcwpg5.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Mashariki TV
+#EXTINF:-1 tvg-id="MasharikiTV.ke@SD" tvg-logo="https://i.imgur.com/5Qcwpg5.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Mashariki TV [HD]
 https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
-#EXTINF:-1 tvg-id="MERUTV.ke@SD" tvg-logo="https://i.imgur.com/EPmWNfz.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",MERU TV
+#EXTINF:-1 tvg-id="MERUTV.ke@SD" tvg-logo="https://i.imgur.com/EPmWNfz.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",MERU TV [HD]
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
-#EXTINF:-1 tvg-id="NiceTVKenya.ke@SD" tvg-logo="https://i.imgur.com/UawxLTW.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Nice TV Kenya
+#EXTINF:-1 tvg-id="NiceTVKenya.ke@SD" tvg-logo="https://i.imgur.com/UawxLTW.jpg" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Nice TV Kenya [HD]
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
-#EXTINF:-1 tvg-id="NjataTV.ke@SD" tvg-logo="https://i.imgur.com/246CBAW.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Njata TV
+#EXTINF:-1 tvg-id="NjataTV.ke@SD" tvg-logo="https://i.imgur.com/246CBAW.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Njata TV [SD]
 https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
-#EXTINF:-1 tvg-id="RaiaTV.ke@SD" tvg-logo="https://i.imgur.com/IyFULjw.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Raia TV
+#EXTINF:-1 tvg-id="RaiaTV.ke@SD" tvg-logo="https://i.imgur.com/IyFULjw.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",Raia TV [HD]
 https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
-#EXTINF:-1 tvg-id="UTV.ke@SD" tvg-logo="https://i.imgur.com/yN4e2up.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",UTV
+#EXTINF:-1 tvg-id="UTV.ke@SD" tvg-logo="https://i.imgur.com/yN4e2up.png" tvg-type="live" group-title="🇰🇪 Quênia | Geral",UTV [SD]
 https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8
 #EXTINF:-1 tvg-id="AkiliKids.ke@SD" tvg-logo="https://i.imgur.com/xFm2co6.png" tvg-type="live" group-title="🇰🇪 Quênia | Infantil",Akili Kids!
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LolweTV.ke@SD" tvg-logo="https://i.imgur.com/tjZ1cOP.png" tvg-type="live" group-title="🇰🇪 Quênia | Notícias",Lolwe TV
+#EXTINF:-1 tvg-id="LolweTV.ke@SD" tvg-logo="https://i.imgur.com/tjZ1cOP.png" tvg-type="live" group-title="🇰🇪 Quênia | Notícias",Lolwe TV [SD]
 https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8

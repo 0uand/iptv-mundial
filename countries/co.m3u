@@ -1,301 +1,301 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="BluRadio.co@SD" tvg-logo="https://i.imgur.com/w2t8CGT.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Blu Radio
+#EXTINF:-1 tvg-id="BluRadio.co@SD" tvg-logo="https://i.imgur.com/w2t8CGT.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Blu Radio [HD]
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:-1 tvg-id="BuenisimaRadioTV.co@SD" tvg-logo="https://i.imgur.com/URKDlOZ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
-#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://i.imgur.com/zAYtbYi.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Canal Capital
+#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://i.imgur.com/zAYtbYi.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Canal Capital [FHD]
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
-#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://i.imgur.com/zAYtbYi.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Canal Capital
-http://190.61.47.54:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://i.imgur.com/zAYtbYi.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Canal Capital
+#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://i.imgur.com/zAYtbYi.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Canal Capital [FHD] (fonte 2)
 http://200.122.223.13:55000/play/canal-capital-banda-ku/index.m3u8
-#EXTINF:-1 tvg-id="ClaroMusicaTV.co@SD" tvg-logo="https://i.imgur.com/vrSFUwv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Claro Musica TV
+#EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://i.imgur.com/zAYtbYi.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Canal Capital [HD] (fonte 3)
+http://190.61.47.54:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="ClaroMusicaTV.co@SD" tvg-logo="https://i.imgur.com/vrSFUwv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Claro Musica TV [FHD]
 http://45.171.64.30:6060/play/a010
-#EXTINF:-1 tvg-id="ClaroMusicaTV.co@SD" tvg-logo="https://i.imgur.com/vrSFUwv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Claro Musica TV
+#EXTINF:-1 tvg-id="ClaroMusicaTV.co@SD" tvg-logo="https://i.imgur.com/vrSFUwv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Claro Musica TV [FHD] (fonte 2)
 http://45.171.64.30:6060/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="EmisoraComunitaria1041FM.co@SD" tvg-logo="https://i.imgur.com/SQ79Wsb.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Emisora Comunitaria 104.1 FM
 https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FiestaTV.co@SD" tvg-logo="https://i.imgur.com/42wImV2.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
-#EXTINF:-1 tvg-id="HeliconiaRadioTV.co@SD" tvg-logo="https://i.imgur.com/AJ182BG.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Heliconia Radio TV
+#EXTINF:-1 tvg-id="HeliconiaRadioTV.co@SD" tvg-logo="https://i.imgur.com/AJ182BG.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Heliconia Radio TV [HD]
 https://eu1.servers10.com:8081/8178/index.m3u8
-#EXTINF:-1 tvg-id="LaHermandadSalsera.co@SD" tvg-logo="https://i.imgur.com/7Wlt6bc.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",La Hermandad Salsera
+#EXTINF:-1 tvg-id="LaHermandadSalsera.co@SD" tvg-logo="https://i.imgur.com/7Wlt6bc.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",La Hermandad Salsera [FHD]
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
-#EXTINF:-1 tvg-id="LaKalle.co@SD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",La Kalle
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-#EXTINF:-1 tvg-id="LaKalle.co@SD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",La Kalle
+#EXTINF:-1 tvg-id="LaKalle.co@SD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",La Kalle [FHD]
 http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8
-#EXTINF:-1 tvg-id="LaMoradaRadioTV.co@SD" tvg-logo="https://i.imgur.com/E3wDEX5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",La Morada Radio TV
+#EXTINF:-1 tvg-id="LaKalle.co@SD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",La Kalle [HD] (fonte 2)
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="LaMoradaRadioTV.co@SD" tvg-logo="https://i.imgur.com/E3wDEX5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",La Morada Radio TV [HD]
 https://movil.ejeserver.com/live/lamoradatv.m3u8
-#EXTINF:-1 tvg-id="MasMusicaFM.co@SD" tvg-logo="https://i.imgur.com/tCg7owd.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",MasMusica FM
+#EXTINF:-1 tvg-id="MasMusicaFM.co@SD" tvg-logo="https://i.imgur.com/tCg7owd.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",MasMusica FM [HD]
 https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="MasMusicaFM.co@SD" tvg-logo="https://i.imgur.com/tCg7owd.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",MasMusica FM
+#EXTINF:-1 tvg-id="MasMusicaFM.co@SD" tvg-logo="https://i.imgur.com/tCg7owd.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",MasMusica FM [HD] (fonte 2)
 https://video.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="OndambientalTV.co@SD" tvg-logo="https://i.imgur.com/u5804Au.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Ondambiental TV
+#EXTINF:-1 tvg-id="OndambientalTV.co@SD" tvg-logo="https://i.imgur.com/u5804Au.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Ondambiental TV [SD]
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Parranda Vallenata
+#EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Parranda Vallenata [HD]
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
-#EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-logo="https://i.imgur.com/3AXjotA.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Radiola TV
+#EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-logo="https://i.imgur.com/3AXjotA.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Radiola TV [FHD]
 http://158.172.217.18:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="Reyali.co@SD" tvg-logo="https://i.imgur.com/YmFjnsF.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Reyali
+#EXTINF:-1 tvg-id="Reyali.co@SD" tvg-logo="https://i.imgur.com/YmFjnsF.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Reyali [SD]
 https://eu1.servers10.com:8081/8090/index.m3u8
 #EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV
 http://186.148.196.100:8000/play/a02h
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Salsa Gorda Television
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Salsa Gorda Television [FHD]
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 tvg-id="SupermusicaTV.co@SD" tvg-logo="https://i.imgur.com/MiVs42N.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Supermúsica TV
+#EXTINF:-1 tvg-id="SupermusicaTV.co@SD" tvg-logo="https://i.imgur.com/MiVs42N.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Supermúsica TV [HD]
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
-#EXTINF:-1 tvg-id="ANCTelevision.co@SD" tvg-logo="https://i.imgur.com/xjTU14t.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",ANC Television
+#EXTINF:-1 tvg-id="ANCTelevision.co@SD" tvg-logo="https://i.imgur.com/xjTU14t.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",ANC Television [HD]
 https://live.amelbatv.co:81/anctvlive/index.m3u8
-#EXTINF:-1 tvg-id="Canal14Codazzi.co@SD" tvg-logo="https://i.imgur.com/wNSUMhJ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canal 14 Codazzi
+#EXTINF:-1 tvg-id="Canal14Codazzi.co@SD" tvg-logo="https://i.imgur.com/wNSUMhJ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canal 14 Codazzi [HD]
 https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-logo="https://i.imgur.com/edaAexc.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canal Nets
+#EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-logo="https://i.imgur.com/edaAexc.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canal Nets [HD]
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-logo="https://i.imgur.com/edaAexc.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canal Nets
+#EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-logo="https://i.imgur.com/edaAexc.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canal Nets [HD] (fonte 2)
 https://video.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="CanalWomtv.co@SD" tvg-logo="https://i.imgur.com/Nr4muMP.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canal Womtv
+#EXTINF:-1 tvg-id="CanalWomtv.co@SD" tvg-logo="https://i.imgur.com/Nr4muMP.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canal Womtv [HD]
 https://live.amelbatv.co:81/womtvlive/index.m3u8
-#EXTINF:-1 tvg-id="CanicaTV.co@SD" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canica TV
+#EXTINF:-1 tvg-id="CanicaTV.co@SD" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Canica TV [SD]
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxTV.co@HD" tvg-logo="https://gia.tv/streams/pstream/209851.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",MaxTV
 https://inliveserver.com:1936/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="https://i.imgur.com/MJzuRAN.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Mas
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="https://i.imgur.com/MJzuRAN.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Mas [FHD]
 http://45.226.205.96:48000/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="https://i.imgur.com/MJzuRAN.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Mas
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="https://i.imgur.com/MJzuRAN.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Mas [FHD] (fonte 2)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="https://i.imgur.com/MJzuRAN.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Mas
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="https://i.imgur.com/MJzuRAN.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Mas [FHD] (fonte 3)
 http://190.128.214.97:64333/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [FHD]
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas
-http://170.238.200.199/rcn-novelas/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas
-http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas
-http://181.65.191.173:8069/play/a061
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [FHD] (fonte 2)
 https://stream1.bitred.cl/rcn-novelas/index.m3u8
-#EXTINF:-1 tvg-id="TeveColombia.co@SD" tvg-logo="https://i.imgur.com/vPwiJTw.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",TeveColombia
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [HD] (fonte 3)
+http://170.238.200.199/rcn-novelas/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [SD] (fonte 4)
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [SD] (fonte 5)
+http://181.65.191.173:8069/play/a061
+#EXTINF:-1 tvg-id="TeveColombia.co@SD" tvg-logo="https://i.imgur.com/vPwiJTw.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",TeveColombia [HD]
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 #EXTINF:-1 tvg-id="TVGolfoUraba.co@SD" tvg-logo="https://i.imgur.com/Nd5axnS.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
-#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" tvg-logo="https://i.imgur.com/1voWgLI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Ultra Casanare TV
+#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" tvg-logo="https://i.imgur.com/1voWgLI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",Ultra Casanare TV [FHD]
 https://eu1.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 tvg-id="TeleNostalgia.co@SD" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-type="live" group-title="🇨🇴 Colômbia | Clássicos",TeleNostalgia
+#EXTINF:-1 tvg-id="TeleNostalgia.co@SD" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-type="live" group-title="🇨🇴 Colômbia | Clássicos",TeleNostalgia [FHD]
 http://38.134.250.110:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="RaizalTV.co@SD" tvg-logo="https://i.imgur.com/qWNSxq8.png" tvg-type="live" group-title="🇨🇴 Colômbia | Cultura",Raizal TV
+#EXTINF:-1 tvg-id="RaizalTV.co@SD" tvg-logo="https://i.imgur.com/qWNSxq8.png" tvg-type="live" group-title="🇨🇴 Colômbia | Cultura",Raizal TV [FHD]
 http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
-#EXTINF:-1 tvg-id="TeleAmiga.co@SD" tvg-logo="https://i.imgur.com/gBZFZNv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Cultura",Tele Amiga
+#EXTINF:-1 tvg-id="TeleAmiga.co@SD" tvg-logo="https://i.imgur.com/gBZFZNv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Cultura",Tele Amiga [HD]
+http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
+#EXTINF:-1 tvg-id="TeleAmiga.co@SD" tvg-logo="https://i.imgur.com/gBZFZNv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Cultura",Tele Amiga [SD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleAmiga.co@SD" tvg-logo="https://i.imgur.com/gBZFZNv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Cultura",Tele Amiga
-http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
-#EXTINF:-1 tvg-id="Eduvision.co@SD" tvg-logo="https://i.imgur.com/ppBdqel.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Eduvision
+#EXTINF:-1 tvg-id="Eduvision.co@SD" tvg-logo="https://i.imgur.com/ppBdqel.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Eduvision [FHD]
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom
+#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom [FHD]
 http://138.121.15.230:9002/ZOOM/index.m3u8
-#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom
+#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom [FHD] (fonte 2)
 http://190.217.66.92:8000/play/a0ej/index.m3u8
-#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom
+#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom [FHD] (fonte 3)
 http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports [FHD]
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports
-http://15.204.146.163:8002/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports [FHD] (fonte 2)
 http://181.78.12.119:16123/play/ch18/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports
-http://168.228.44.241:9999/play/a050/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports [FHD] (fonte 3)
 http://190.217.66.92:8000/play/a0fh/index.m3u8
-#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win+ Futbol
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports [HD] (fonte 4)
+http://15.204.146.163:8002/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports [SD] (fonte 5)
+http://168.228.44.241:9999/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win+ Futbol [FHD]
 http://181.78.12.119:16123/play/ch19/index.m3u8
-#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win+ Futbol
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win+ Futbol [FHD] (fonte 2)
 http://190.217.66.92:8000/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="CanalCineDios.co@SD" tvg-logo="https://i.imgur.com/S4xqZgV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Filmes",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-id="MCITelevision.co@SD" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Filmes",MCI Televisión
+#EXTINF:-1 tvg-id="MCITelevision.co@SD" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Filmes",MCI Televisión [FHD]
 https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇨🇴 Colômbia | Filmes",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇨🇴 Colômbia | Filmes",Star Channel [FHD]
 http://190.61.47.54:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="AmagaTelevision.co@SD" tvg-logo="https://i.imgur.com/hvpbfzG.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Amaga Television
+#EXTINF:-1 tvg-id="AmagaTelevision.co@SD" tvg-logo="https://i.imgur.com/hvpbfzG.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Amaga Television [HD]
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
-#EXTINF:-1 tvg-id="AupurTelevision.co@SD" tvg-logo="https://i.imgur.com/FTv7zpJ.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Aupur Television
+#EXTINF:-1 tvg-id="AupurTelevision.co@SD" tvg-logo="https://i.imgur.com/FTv7zpJ.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Aupur Television [FHD]
 https://canal.aupurtv.co/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="BUMTelevision.co@SD" tvg-logo="https://i.imgur.com/I0eGYI0.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",BUM Televisión
+#EXTINF:-1 tvg-id="BUMTelevision.co@SD" tvg-logo="https://i.imgur.com/I0eGYI0.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",BUM Televisión [HD]
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="BUMTelevision.co@SD" tvg-logo="https://i.imgur.com/I0eGYI0.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",BUM Televisión
+#EXTINF:-1 tvg-id="BUMTelevision.co@SD" tvg-logo="https://i.imgur.com/I0eGYI0.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",BUM Televisión [HD] (fonte 2)
 https://video.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1
-http://138.121.15.230:9002/CANAL-UNO/index.m3u8
-#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1
-http://38.134.250.110:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1
-http://190.61.47.54:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1
+#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1 [FHD]
 http://190.109.2.92:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1
+#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1 [FHD] (fonte 2)
 http://200.122.223.13:55000/play/canal-1-tdt/index.m3u8
-#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="https://i.imgur.com/Yv8XIGW.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 2 Alpavisión Neiva
+#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1 [HD] (fonte 3)
+http://38.134.250.110:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1 [HD] (fonte 4)
+http://190.61.47.54:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/MiYlN0t.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 1 [SD] (fonte 5)
+http://138.121.15.230:9002/CANAL-UNO/index.m3u8
+#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="https://i.imgur.com/Yv8XIGW.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 2 Alpavisión Neiva [HD]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="https://i.imgur.com/peOIG1F.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 8 TV+
+#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="https://i.imgur.com/peOIG1F.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 8 TV+ [HD]
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="https://i.imgur.com/peOIG1F.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 8 TV+
+#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="https://i.imgur.com/peOIG1F.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 8 TV+ [HD] (fonte 2)
 https://video.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal9Cosespu.co@SD" tvg-logo="https://i.imgur.com/w5e1d8k.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal 9 Cosespu
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
-#EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Calima TV
+#EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Calima TV [HD]
 https://movil.ejeserver.com/live/calimatv.m3u8
 #EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="CanalDos.co@SD" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Dos
 https://stream2.micanal2.tv/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="CanalDos.co@SD" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Dos Yopal
+#EXTINF:-1 tvg-id="CanalDos.co@SD" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Dos Yopal [HD]
 http://131.221.41.94/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional
-http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional
+#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional [FHD]
 http://190.61.47.54:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional
+#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional [FHD] (fonte 2)
 http://190.109.2.92:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional
+#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional [FHD] (fonte 3)
 http://200.122.223.13:55000/play/canal-institucional-tdt/index.m3u8
-#EXTINF:-1 tvg-id="CanalMundoVision.co@SD" tvg-logo="https://i.imgur.com/zRqfJuj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Mundo Visión
+#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional [HD] (fonte 4)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" tvg-logo="https://i.imgur.com/CKnf3Ua.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Institucional [SD] (fonte 5)
+http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
+#EXTINF:-1 tvg-id="CanalMundoVision.co@SD" tvg-logo="https://i.imgur.com/zRqfJuj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Mundo Visión [HD]
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-id="CanalMundoVision.co@SD" tvg-logo="https://i.imgur.com/zRqfJuj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Mundo Visión
+#EXTINF:-1 tvg-id="CanalMundoVision.co@SD" tvg-logo="https://i.imgur.com/zRqfJuj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Mundo Visión [HD] (fonte 2)
 https://video.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="https://i.imgur.com/ODMa27W.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Más Televisión
+#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="https://i.imgur.com/ODMa27W.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Más Televisión [HD]
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="https://i.imgur.com/ODMa27W.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Más Televisión
+#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="https://i.imgur.com/ODMa27W.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal Más Televisión [HD] (fonte 2)
 https://video.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD]
 http://138.121.15.230:9002/RCN/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 2)
 http://181.78.17.228:8081/RCN-HD/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 3)
 http://209.14.115.253:8081/RCN/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 4)
 http://190.61.47.54:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 5)
 http://190.60.55.141:9083/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 6)
 http://181.205.130.194:4000/play/a0dl
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 7)
 http://38.134.250.110:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 8)
 http://190.60.46.228:8888/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 9)
 http://45.173.231.22:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 10)
 http://200.59.191.177:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 11)
 http://181.78.79.131:8000/play/a0sc
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 12)
 http://190.109.2.92:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal RCN [FHD] (fonte 13)
 http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8
-#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO
+#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO
+#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO [FHD] (fonte 2)
 http://190.61.47.54:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO
+#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO [FHD] (fonte 3)
 http://181.78.211.244:8005/play/a08c/index.m3u8
-#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO
+#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO [FHD] (fonte 4)
 http://181.78.82.130:8000/play/a0o1/index.m3u8
-#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO
+#EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-logo="https://i.imgur.com/bdBduvj.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TRO [FHD] (fonte 5)
 http://138.94.3.106:8000/play/a07i/index.m3u8
-#EXTINF:-1 tvg-id="CanalTV3.co@SD" tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TV3
+#EXTINF:-1 tvg-id="CanalTV3.co@SD" tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Canal TV3 [HD]
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
-#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol HD2
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol HD2 [FHD]
 http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol HD2
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol HD2 [FHD] (fonte 2)
 http://190.109.2.92:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional
-http://138.59.177.78:9999/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional [FHD]
 http://167.249.23.102:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional [FHD] (fonte 2)
 http://168.196.127.137:6001/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional [FHD] (fonte 3)
 http://168.228.44.241:9999/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional
-http://200.115.120.1:8000/play/ca067/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional [FHD] (fonte 4)
 http://190.123.76.22:8002/play/a06j/index.m3u8
-#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional [FHD] (fonte 5)
 http://132.255.210.69:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional [HD] (fonte 6)
+http://200.115.120.1:8000/play/ca067/index.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol Internacional [SD] (fonte 7)
+http://138.59.177.78:9999/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD]
 http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 2)
 http://181.78.17.228:8081/CARACOL-HD/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
-http://181.79.86.130:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
-http://181.79.86.130:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 3)
 http://190.61.47.54:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 4)
 http://181.205.130.194:4000/play/a0dz
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 5)
 http://190.60.46.228:8888/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 6)
 http://168.228.44.241:9997/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 7)
 http://181.205.130.194:4000/play/a0ck
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 8)
 http://200.115.96.61:9090/play/a0jk/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 9)
 http://45.173.231.22:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 10)
 http://200.59.191.177:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 11)
 http://190.110.96.238:8000/play/a0mu/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 12)
 http://138.94.3.106:8000/play/a06z
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 13)
 http://190.109.2.92:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 14)
 http://167.249.23.102:8000/play/a0i1/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 15)
 http://201.216.147.90:8729/play/a01v
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 16)
 http://181.78.79.131:8000/play/a0sb
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 17)
 http://38.190.100.202:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 18)
 http://190.61.42.218:9000/play/a09n/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 19)
 http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8
-#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [SD] (fonte 20)
+http://181.79.86.130:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV (fonte 21)
+http://181.79.86.130:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota [FHD]
 http://138.121.15.230:9002/CITY-TV/index.m3u8
-#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota [FHD] (fonte 2)
 http://190.61.47.54:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota [FHD] (fonte 3)
 http://168.228.44.241:9999/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota [FHD] (fonte 4)
 http://200.122.223.13:55000/play/city-tv-banda-ku/index.m3u8
-#EXTINF:-1 tvg-id="CNCBugavision.co@SD" tvg-logo="https://i.imgur.com/zJAwnvd.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Bugavisión
+#EXTINF:-1 tvg-id="CNCBugavision.co@SD" tvg-logo="https://i.imgur.com/zJAwnvd.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Bugavisión [HD]
 https://movil.ejeserver.com/live/cncbuga.m3u8
-#EXTINF:-1 tvg-id="CNCBugavision.co@SD" tvg-logo="https://i.imgur.com/zJAwnvd.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Bugavisión
+#EXTINF:-1 tvg-id="CNCBugavision.co@SD" tvg-logo="https://i.imgur.com/zJAwnvd.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Bugavisión [HD] (fonte 2)
 https://video.ejeserver.com/live/cncbuga.m3u8
-#EXTINF:-1 tvg-id="CNCMedellin.co@HD" tvg-logo="https://i.imgur.com/J1f4fNq.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Medellin
+#EXTINF:-1 tvg-id="CNCMedellin.co@HD" tvg-logo="https://i.imgur.com/J1f4fNq.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Medellin [FHD]
 http://138.94.3.106:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="CNCPereira.co@SD" tvg-logo="https://i.imgur.com/5vJ0aXH.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Pereira
+#EXTINF:-1 tvg-id="CNCPereira.co@SD" tvg-logo="https://i.imgur.com/5vJ0aXH.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Pereira [HD]
 https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
-#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Santander de Quilichao
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Santander de Quilichao [SD]
 https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Santander de Quilichao
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Santander de Quilichao [SD] (fonte 2)
 https://video.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-id="CNCTulua.co@SD" tvg-logo="https://i.imgur.com/NCzpcqm.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Tulua
+#EXTINF:-1 tvg-id="CNCTulua.co@SD" tvg-logo="https://i.imgur.com/NCzpcqm.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Tulua [FHD]
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="CNCValledupar.co@SD" tvg-logo="https://i.imgur.com/y5N6PCg.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Valledupar
+#EXTINF:-1 tvg-id="CNCValledupar.co@SD" tvg-logo="https://i.imgur.com/y5N6PCg.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",CNC Valledupar [HD]
 https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cosmovision.co@SD" tvg-logo="https://i.imgur.com/bj7Jd2q.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Cosmovision
+#EXTINF:-1 tvg-id="Cosmovision.co@SD" tvg-logo="https://i.imgur.com/bj7Jd2q.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Cosmovision [HD]
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8
-#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Kalu TV
+#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Kalu TV [FHD]
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="MarsellaTV.co@SD" tvg-logo="https://i.imgur.com/wwYOa00.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Marsella TV
 https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
@@ -303,141 +303,141 @@ https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
 https://live.arnoproducciones.com/hls/norte.m3u8
 #EXTINF:-1 tvg-id="NexoTV.co@SD" tvg-logo="https://i.imgur.com/tkEFZWo.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nexo TV
 https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
-#EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",NSTV
+#EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",NSTV [FHD]
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
-#EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",NSTV
+#EXTINF:-1 tvg-id="NSTV.co@SD" tvg-logo="https://i.imgur.com/ES6xFAv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",NSTV [HD] (fonte 2)
 http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional
-http://170.238.200.199/nuestra-tele/index.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional
-http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional
-http://190.60.55.141:9083/play/a0hg/index.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional [FHD]
 http://45.173.231.22:8000/play/a0cr/index.m3u8
-#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional [FHD] (fonte 2)
 https://stream1.bitred.cl/nuestra-tele/index.m3u8
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional [HD] (fonte 3)
+http://170.238.200.199/nuestra-tele/index.m3u8
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional [HD] (fonte 4)
+http://190.60.55.141:9083/play/a0hg/index.m3u8
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD" tvg-logo="https://i.imgur.com/JoGQqmP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Nuestra Tele Internacional [SD] (fonte 5)
+http://181.78.8.199:8000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="PancheTelevision.co@SD" tvg-logo="https://i.imgur.com/BJVlOVA.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Panche Television
 https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
-#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-logo="https://i.imgur.com/SrMPTfc.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",RCN HD2
+#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-logo="https://i.imgur.com/SrMPTfc.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",RCN HD2 [FHD]
 http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Red+
+#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Red+ [FHD]
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia
+#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia [FHD]
 http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia
+#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia [FHD] (fonte 2)
 http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia
-http://190.61.47.54:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia
+#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia [FHD] (fonte 3)
 http://200.122.223.13:55000/play/senal-colombia-tdt/index.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia [HD] (fonte 4)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Senal Colombia [HD] (fonte 5)
+http://190.61.47.54:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="SoonaTV.co@SD" tvg-logo="https://i.imgur.com/Pk8zzTL.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Soona TV
 https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-#EXTINF:-1 tvg-id="StreamForce360.co@Main" tvg-logo="https://streamforce360.com/wp-content/uploads/2026/06/logo-streamforce-30-20026-e1782248482848.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",StreamForce 360
+#EXTINF:-1 tvg-id="StreamForce360.co@Main" tvg-logo="https://streamforce360.com/wp-content/uploads/2026/06/logo-streamforce-30-20026-e1782248482848.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",StreamForce 360 [FHD]
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
-#EXTINF:-1 tvg-id="SuramTV.co@SD" tvg-logo="https://i.imgur.com/2N9LCES.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Suram TV
+#EXTINF:-1 tvg-id="SuramTV.co@SD" tvg-logo="https://i.imgur.com/2N9LCES.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Suram TV [HD]
 https://us.streaminghd.cl/suramtv/index.m3u8
-#EXTINF:-1 tvg-id="TeleMocoaCanal10.co@SD" tvg-logo="https://i.imgur.com/XHtpEfu.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Tele Mocoa Canal 10
+#EXTINF:-1 tvg-id="TeleMocoaCanal10.co@SD" tvg-logo="https://i.imgur.com/XHtpEfu.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Tele Mocoa Canal 10 [HD]
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia [FHD]
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia [FHD] (fonte 2)
+http://190.61.47.54:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia [FHD] (fonte 3)
+http://181.78.211.244:8005/play/a07y/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia [FHD] (fonte 4)
+http://181.78.82.130:8000/play/a0rs/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia [FHD] (fonte 5)
+http://190.60.46.228:8888/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia [FHD] (fonte 6)
+http://200.115.120.1:8000/play/ca246/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia [HD] (fonte 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia
-http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia [HD] (fonte 8)
 http://38.134.250.110:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia
-http://190.61.47.54:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia
-http://181.78.211.244:8005/play/a07y/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia
-http://181.78.82.130:8000/play/a0rs/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia
-http://190.60.46.228:8888/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleantioquia
-http://200.115.120.1:8000/play/ca246/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe [FHD] (fonte 2)
 http://138.121.15.230:9002/TELECAFE/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe [FHD] (fonte 3)
 http://181.78.211.244:8005/play/a083/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe [FHD] (fonte 4)
 http://181.78.82.130:8000/play/a0rv/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe [FHD] (fonte 5)
 http://190.60.46.228:8888/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe
+#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/28XmS1J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecafe [FHD] (fonte 6)
 http://181.78.16.156:18000/play/a0dt
-#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe
+#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe [FHD]
+http://138.121.15.230:9002/TELECARIBE/index.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe [FHD] (fonte 2)
+http://190.61.47.54:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe [FHD] (fonte 3)
+http://181.78.82.130:8000/play/a0rt/index.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe [HD] (fonte 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe
-http://138.121.15.230:9002/TELECARIBE/index.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe
+#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe [HD] (fonte 5)
 http://38.134.250.110:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe
-http://190.61.47.54:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe
-http://181.78.82.130:8000/play/a0rt/index.m3u8
-#EXTINF:-1 tvg-id="TelecaribePlus.co@SD" tvg-logo="https://i.imgur.com/su7Y5bC.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe Plus
+#EXTINF:-1 tvg-id="TelecaribePlus.co@SD" tvg-logo="https://i.imgur.com/su7Y5bC.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telecaribe Plus [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="https://i.imgur.com/aKHGRyk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleislas
-https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="https://i.imgur.com/aKHGRyk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleislas
+#EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="https://i.imgur.com/aKHGRyk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleislas [HD]
 http://190.61.47.54:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="https://i.imgur.com/aKHGRyk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleislas
+#EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="https://i.imgur.com/aKHGRyk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleislas [SD] (fonte 2)
 http://181.78.211.244:8005/play/a08d/index.m3u8
-#EXTINF:-1 tvg-id="Telemedellin.co@SD" tvg-logo="https://i.imgur.com/6NGOIhH.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telemedellin
+#EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="https://i.imgur.com/aKHGRyk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Teleislas [SD] (fonte 3)
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemedellin.co@SD" tvg-logo="https://i.imgur.com/6NGOIhH.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telemedellin [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="https://i.imgur.com/39hy97J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telepacifico
+#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="https://i.imgur.com/39hy97J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telepacifico [FHD]
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="https://i.imgur.com/39hy97J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telepacifico
+#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="https://i.imgur.com/39hy97J.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telepacifico [FHD] (fonte 2)
 http://190.61.47.54:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="TeleQuindio.co@SD" tvg-logo="https://i.imgur.com/bJWj5ja.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",TeleQuindio
+#EXTINF:-1 tvg-id="TeleQuindio.co@SD" tvg-logo="https://i.imgur.com/bJWj5ja.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",TeleQuindio [FHD]
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesangil.co@SD" tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telesangil
+#EXTINF:-1 tvg-id="Telesangil.co@SD" tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Telesangil [HD]
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Trece
+#EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Trece [FHD]
+http://190.60.46.228:8888/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Trece [HD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Trece
-http://190.60.46.228:8888/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="TVRivera.co@SD" tvg-logo="https://i.imgur.com/BmwZNWm.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",TV Rivera
 https://movil.ejeserver.com/live/tvrivera.m3u8
-#EXTINF:-1 tvg-id="TVRivera.co@SD" tvg-logo="https://i.imgur.com/BmwZNWm.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",TV Rivera
+#EXTINF:-1 tvg-id="TVRivera.co@SD" tvg-logo="https://i.imgur.com/BmwZNWm.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",TV Rivera (fonte 2)
 https://video.ejeserver.com/live/tvrivera.m3u8
-#EXTINF:-1 tvg-id="TV3LaPlata.co@SD" tvg-logo="https://i.imgur.com/uRMq5HC.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",TV3 La Plata
+#EXTINF:-1 tvg-id="TV3LaPlata.co@SD" tvg-logo="https://i.imgur.com/uRMq5HC.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",TV3 La Plata [SD]
 https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="ViveTV.co@SD" tvg-logo="https://i.imgur.com/25CFHpB.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Vive TV Colombia
+#EXTINF:-1 tvg-id="ViveTV.co@SD" tvg-logo="https://i.imgur.com/25CFHpB.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Vive TV Colombia [FHD]
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Legislativo",Canal Congreso
+#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Legislativo",Canal Congreso [FHD]
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
-#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Legislativo",Canal Congreso
+#EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-type="live" group-title="🇨🇴 Colômbia | Legislativo",Canal Congreso [FHD] (fonte 2)
 http://181.78.82.130:8000/play/a0s1/index.m3u8
-#EXTINF:-1 tvg-id="Cablenoticias.co@SD" tvg-logo="https://i.imgur.com/FfhOGR9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",Cablenoticias
+#EXTINF:-1 tvg-id="Cablenoticias.co@SD" tvg-logo="https://i.imgur.com/FfhOGR9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",Cablenoticias [FHD]
 http://181.78.211.244:8005/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="CanalPyC.co@SD" tvg-logo="https://i.imgur.com/3qxBDhV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",Canal PyC
+#EXTINF:-1 tvg-id="CanalPyC.co@SD" tvg-logo="https://i.imgur.com/3qxBDhV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",Canal PyC [HD]
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="Momento24.co@SD" tvg-logo="https://i.imgur.com/kLy6w9e.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",Momento24
 https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-logo="https://i.imgur.com/ThaRRCN.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",Noticiero 90 Minutos
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-logo="https://i.imgur.com/ThaRRCN.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",Noticiero 90 Minutos [FHD]
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",NTN24
-http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",NTN24
-http://181.78.12.119:16123/play/ch80/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",NTN24
-http://181.224.200.5:2277/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",NTN24
+#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",NTN24 [FHD]
 https://stream1.bitred.cl/ntn24/index.m3u8
-#EXTINF:-1 tvg-id="ElMundodelCampo.co@SD" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",El Mundo del Campo
+#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",NTN24 [HD] (fonte 2)
+http://181.78.12.119:16123/play/ch80/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",NTN24 [HD] (fonte 3)
+http://181.224.200.5:2277/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co@SD" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-type="live" group-title="🇨🇴 Colômbia | Notícias",NTN24 [SD] (fonte 4)
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co@SD" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",El Mundo del Campo [HD]
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-#EXTINF:-1 tvg-id="TVAgro.co@SD" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",TVAgro
+#EXTINF:-1 tvg-id="TVAgro.co@SD" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",TVAgro [HD]
 http://168.228.44.241:9999/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="UMCTV.co@SD" tvg-logo="https://i.imgur.com/YQUK4wO.png" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",UMC TV
+#EXTINF:-1 tvg-id="UMCTV.co@SD" tvg-logo="https://i.imgur.com/YQUK4wO.png" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",UMC TV [HD]
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8

@@ -1,34 +1,34 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="BHT1.ba@SD" tvg-logo="https://i.imgur.com/LEwlEEE.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",BHT 1
+#EXTINF:-1 tvg-id="BHT1.ba@SD" tvg-logo="https://i.imgur.com/LEwlEEE.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",BHT 1 [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
-#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" tvg-logo="https://i.imgur.com/astdRrE.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Federalna televizija
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" tvg-logo="https://i.imgur.com/astdRrE.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Federalna televizija [HD]
 http://185.81.240.65:15000/udp/233.233.233.39:12000
-#EXTINF:-1 tvg-id="Kanal6.ba@SD" tvg-logo="https://i.imgur.com/GGhvR0l.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Kanal 6
+#EXTINF:-1 tvg-id="Kanal6.ba@SD" tvg-logo="https://i.imgur.com/GGhvR0l.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Kanal 6 [SD]
 https://restreamer1.tnt.ba/hls/kanal6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Malta
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Malta [HD]
 https://webtvstream.bhtelecom.ba/malta.m3u8
-#EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-logo="https://i.imgur.com/k06WvYl.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTRS Plus
+#EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-logo="https://i.imgur.com/k06WvYl.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTRS Plus [SD]
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1 tvg-id="RTRSTV.ba@SD" tvg-logo="https://i.imgur.com/2Sgs5gM.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTRS TV
+#EXTINF:-1 tvg-id="RTRSTV.ba@SD" tvg-logo="https://i.imgur.com/2Sgs5gM.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTRS TV [SD]
 https://uzivo.rtrs.tv/tv/live/index.m3u8
-#EXTINF:-1 tvg-id="RTVGlasDrine.ba@SD" tvg-logo="https://i.imgur.com/9NgxOdb.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTV Glas Drine
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba@SD" tvg-logo="https://i.imgur.com/9NgxOdb.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTV Glas Drine [SD]
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVHB.ba@SD" tvg-logo="https://i.imgur.com/6FNL8Iv.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTV Herceg-Bosne
+#EXTINF:-1 tvg-id="RTVHB.ba@SD" tvg-logo="https://i.imgur.com/6FNL8Iv.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTV Herceg-Bosne [SD]
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVZenica.ba@SD" tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTV Zenica
+#EXTINF:-1 tvg-id="RTVZenica.ba@SD" tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",RTV Zenica [HD]
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-id="SuperTV.ba@SD" tvg-logo="https://i.imgur.com/XYWgd3E.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Super TV Media
+#EXTINF:-1 tvg-id="SuperTV.ba@SD" tvg-logo="https://i.imgur.com/XYWgd3E.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Super TV Media [HD]
 https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1 tvg-id="Televizija5.ba@SD" tvg-logo="https://i.imgur.com/znpvJys.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Televizija 5
+#EXTINF:-1 tvg-id="Televizija5.ba@SD" tvg-logo="https://i.imgur.com/znpvJys.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Televizija 5 [SD]
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" tvg-logo="https://i.imgur.com/jT95ZEI.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Televizija M
+#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" tvg-logo="https://i.imgur.com/jT95ZEI.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",Televizija M [FHD]
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVSlonExtra.ba@SD" tvg-logo="https://i.imgur.com/AohYgH1.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",TV Slon Extra
+#EXTINF:-1 tvg-id="TVSlonExtra.ba@SD" tvg-logo="https://i.imgur.com/AohYgH1.png" tvg-type="live" group-title="🇧🇦 Bósnia | Geral",TV Slon Extra [FHD]
 http://31.47.0.130:8082
-#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-logo="https://i.imgur.com/irTDbpn.png" tvg-type="live" group-title="🇧🇦 Bósnia | Infantil",TNT Kids
+#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" tvg-logo="https://i.imgur.com/irTDbpn.png" tvg-type="live" group-title="🇧🇦 Bósnia | Infantil",TNT Kids [SD]
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
-#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-type="live" group-title="🇧🇦 Bósnia | Legislativo",Senato TV
+#EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-type="live" group-title="🇧🇦 Bósnia | Legislativo",Senato TV [FHD]
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" tvg-logo="https://i.imgur.com/BXFPz8c.png" tvg-type="live" group-title="🇧🇦 Bósnia | Notícias",Newsmax Balkans
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" tvg-logo="https://i.imgur.com/BXFPz8c.png" tvg-type="live" group-title="🇧🇦 Bósnia | Notícias",Newsmax Balkans [FHD]
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8

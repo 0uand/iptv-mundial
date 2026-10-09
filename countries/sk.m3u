@@ -14,7 +14,7 @@ https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
 http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Educação",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.sk@SD" tvg-logo="https://i.imgur.com/oAtcxNZ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Esportes",:Šport
+#EXTINF:-1 tvg-id="Sport.sk@SD" tvg-logo="https://i.imgur.com/oAtcxNZ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Esportes",:Šport [FHD]
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.sk@SD" tvg-logo="https://i.imgur.com/2qf67zW.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Esportes",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -48,7 +48,7 @@ https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",MDR Fernsehen Thuringen
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="MTR.sk@SD" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",MTR
+#EXTINF:-1 tvg-id="MTR.sk@SD" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",MTR [FHD]
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",NDR Fernsehen International
 https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
@@ -56,7 +56,7 @@ https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 #EXTINF:-1 tvg-id="PolarTV.cz@SD" tvg-logo="https://i.imgur.com/pTJHIX1.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Polar TV
 https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Prima Cool SK
+#EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Prima Cool SK [FHD]
 http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaKrimiSK.sk@HD" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Prima Krimi SK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -64,85 +64,85 @@ http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaSK.sk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/PRIMA_SK_logo_RGB.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Prima SK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://i.imgur.com/zZOk3nh.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",ProSieben
+#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://i.imgur.com/zZOk3nh.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",ProSieben [FHD]
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai1.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Rai 1 [HD]
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Rai 3 [HD]
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRaj.sk@SD" tvg-logo="https://i.imgur.com/CGckMyx.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Raj TV
+#EXTINF:-1 tvg-id="TVRaj.sk@SD" tvg-logo="https://i.imgur.com/CGckMyx.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Raj TV [HD]
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1 tvg-id="rbbFernsehen.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",rbb Fernsehen
 https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-logo="https://i.imgur.com/WlF6tlZ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Regio TV
 https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-logo="https://i.imgur.com/WlF6tlZ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Régió TV
+#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-logo="https://i.imgur.com/WlF6tlZ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Régió TV [SD]
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
-#EXTINF:-1 tvg-id="SAT1Gold.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",SAT.1 Gold
+#EXTINF:-1 tvg-id="SAT1Gold.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",SAT.1 Gold [SD]
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Senzi.sk@SD" tvg-logo="https://i.imgur.com/1qJMmBu.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Senzi
+#EXTINF:-1 tvg-id="Senzi.sk@SD" tvg-logo="https://i.imgur.com/1qJMmBu.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Senzi [HD]
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz@SD" tvg-logo="https://i.imgur.com/SJNDksF.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD" tvg-logo="https://i.imgur.com/psb8GxZ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Televízia Močenok
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD" tvg-logo="https://i.imgur.com/psb8GxZ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Televízia Močenok [HD]
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Televízia OSEM
+#EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Televízia OSEM [SD]
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Televízia OSEM
+#EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Televízia OSEM [SD] (fonte 2)
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="TurboTV.sk@SD" tvg-logo="https://i.imgur.com/HI7bCHq.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Turbo TV
+#EXTINF:-1 tvg-id="TurboTV.sk@SD" tvg-logo="https://i.imgur.com/HI7bCHq.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Turbo TV [FHD]
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBrezova.sk@SD" tvg-logo="https://i.imgur.com/59LpYoF.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Brezová
+#EXTINF:-1 tvg-id="TVBrezova.sk@SD" tvg-logo="https://i.imgur.com/59LpYoF.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Brezová [SD]
 http://95.105.193.219:88/hls/tvb.m3u8
-#EXTINF:-1 tvg-id="TVCentral.sk@SD" tvg-logo="https://i.imgur.com/LqGT8o9.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Central
+#EXTINF:-1 tvg-id="TVCentral.sk@SD" tvg-logo="https://i.imgur.com/LqGT8o9.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Central [SD]
 https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
-#EXTINF:-1 tvg-id="TVCentral.sk@SD" tvg-logo="https://i.imgur.com/LqGT8o9.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Central
+#EXTINF:-1 tvg-id="TVCentral.sk@SD" tvg-logo="https://i.imgur.com/LqGT8o9.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Central (fonte 2)
 https://dash4.antik.sk/live/test_central/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDK.sk@SD" tvg-logo="https://i.imgur.com/qTOnPXe.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV DK
+#EXTINF:-1 tvg-id="TVDK.sk@SD" tvg-logo="https://i.imgur.com/qTOnPXe.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV DK [SD]
 http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDK.sk@SD" tvg-logo="https://i.imgur.com/qTOnPXe.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV DK
+#EXTINF:-1 tvg-id="TVDK.sk@SD" tvg-logo="https://i.imgur.com/qTOnPXe.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV DK [SD] (fonte 2)
 https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLiptov.sk@SD" tvg-logo="https://i.imgur.com/CkvB3af.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Liptov
+#EXTINF:-1 tvg-id="TVLiptov.sk@SD" tvg-logo="https://i.imgur.com/CkvB3af.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Liptov [FHD]
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLocAll.sk@SD" tvg-logo="https://i.imgur.com/xN1CJol.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV LocAll
+#EXTINF:-1 tvg-id="TVLocAll.sk@SD" tvg-logo="https://i.imgur.com/xN1CJol.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV LocAll [SD]
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 tvg-id="TVLocAll.sk@SD" tvg-logo="https://i.imgur.com/xN1CJol.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV LocAll
+#EXTINF:-1 tvg-id="TVLocAll.sk@SD" tvg-logo="https://i.imgur.com/xN1CJol.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV LocAll (fonte 2)
 https://dash3.antik.sk/live/test_locall/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLux.sk@SD" tvg-logo="https://i.imgur.com/mAMyTkq.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Lux
+#EXTINF:-1 tvg-id="TVLux.sk@SD" tvg-logo="https://i.imgur.com/mAMyTkq.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Lux [HD]
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMistral.sk@SD" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMyjava.sk@SD" tvg-logo="https://i.imgur.com/9f9VmvF.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Myjava
+#EXTINF:-1 tvg-id="TVMyjava.sk@SD" tvg-logo="https://i.imgur.com/9f9VmvF.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Myjava [SD]
 http://95.105.193.219:88/hls/tvm.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk@SD" tvg-logo="https://i.imgur.com/iwWyG1A.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
-#EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-logo="https://i.imgur.com/jGZlnzT.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Nové Zámky
+#EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-logo="https://i.imgur.com/jGZlnzT.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Nové Zámky [SD]
 http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
 #EXTINF:-1 tvg-id="TVPanorama.sk@SD" tvg-logo="https://i.imgur.com/0YtCG4Y.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Panorama
 https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
-#EXTINF:-1 tvg-id="TVPoprad.sk@SD" tvg-logo="https://i.imgur.com/x6ZvOp6.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Poprad
+#EXTINF:-1 tvg-id="TVPoprad.sk@SD" tvg-logo="https://i.imgur.com/x6ZvOp6.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Poprad [FHD]
 http://213.81.153.221:8080/poprad
-#EXTINF:-1 tvg-id="TVPovazie.sk@SD" tvg-logo="https://i.imgur.com/JRD9YIY.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Povazie
+#EXTINF:-1 tvg-id="TVPovazie.sk@SD" tvg-logo="https://i.imgur.com/JRD9YIY.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Povazie [FHD]
 https://dash3.antik.sk/live/test_povazie/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRomana.sk@SD" tvg-logo="https://i.imgur.com/r7avFBX.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Romana
+#EXTINF:-1 tvg-id="TVRomana.sk@SD" tvg-logo="https://i.imgur.com/r7avFBX.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Romana [HD]
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRuzinov.sk@SD" tvg-logo="https://i.imgur.com/bUGuntH.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Ružinov
+#EXTINF:-1 tvg-id="TVRuzinov.sk@SD" tvg-logo="https://i.imgur.com/bUGuntH.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Ružinov [FHD]
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSen.sk@SD" tvg-logo="https://i.imgur.com/ckm2oLD.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Sen
+#EXTINF:-1 tvg-id="TVSen.sk@SD" tvg-logo="https://i.imgur.com/ckm2oLD.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Sen [SD]
 http://95.105.193.219:88/hls/tvsen.m3u8
-#EXTINF:-1 tvg-id="TVSeverka.sk@SD" tvg-logo="https://i.imgur.com/oQSee9S.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Severka
+#EXTINF:-1 tvg-id="TVSeverka.sk@SD" tvg-logo="https://i.imgur.com/oQSee9S.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Severka [SD]
 http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSkalica.sk@SD" tvg-logo="https://i.imgur.com/GB8fMoJ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Skalica
+#EXTINF:-1 tvg-id="TVSkalica.sk@SD" tvg-logo="https://i.imgur.com/GB8fMoJ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Skalica [SD]
 http://95.105.193.219:88/hls/tvs.m3u8
 #EXTINF:-1 tvg-id="TVSLO1.si@HD" tvg-logo="https://i.imgur.com/E3YmlxF.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSLO2.si@HD" tvg-logo="https://i.imgur.com/OPlzjjv.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV SLO 2 HD
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TVStaraTura.sk@SD" tvg-logo="https://i.imgur.com/kerkvRX.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Stará Turá
+#EXTINF:-1 tvg-id="TVStaraTura.sk@SD" tvg-logo="https://i.imgur.com/kerkvRX.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Stará Turá [SD]
 http://95.105.193.219:88/hls/tvst.m3u8
-#EXTINF:-1 tvg-id="TVVega.sk@SD" tvg-logo="https://i.imgur.com/Qw3NeLA.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Vega
+#EXTINF:-1 tvg-id="TVVega.sk@SD" tvg-logo="https://i.imgur.com/Qw3NeLA.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV Vega [SD]
 http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TV8
 https://dash3.antik.sk/live/test_osem/playlist.m3u8
@@ -152,21 +152,21 @@ https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:-1 tvg-id="TVT.sk@SD" tvg-logo="https://i.imgur.com/QG0iZlG.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TVT
+#EXTINF:-1 tvg-id="TVT.sk@SD" tvg-logo="https://i.imgur.com/QG0iZlG.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TVT [SD]
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
 #EXTINF:-1 tvg-id="VIATV.sk@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/247e7974b5eeaeda06744f312d2bbc51.svg" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",VIA TV
 http://88.212.15.19/live/via_tv/index.m3u8
-#EXTINF:-1 tvg-id="VIOTV.sk@SD" tvg-logo="https://i.imgur.com/7EL3VZ5.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",VIO TV
+#EXTINF:-1 tvg-id="VIOTV.sk@SD" tvg-logo="https://i.imgur.com/7EL3VZ5.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",VIO TV [SD]
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",WDR Fernsehen
 https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk@SD" tvg-logo="https://i.imgur.com/D72Y1IB.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
-#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD]
 https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD] (fonte 2)
 https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv [HD] (fonte 3)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
 #EXTINF:-1 tvg-id="ducktv.sk@HD" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",ducktv HD
 https://dash3.antik.sk/live/duck_tv/index.m3u8
@@ -174,15 +174,15 @@ https://dash3.antik.sk/live/duck_tv/index.m3u8
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="KiKA.de@HD" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Infantil",KiKA HD
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNRSR.sk@SD" tvg-logo="https://i.imgur.com/hsJsu3I.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Legislativo",TV NRSR
+#EXTINF:-1 tvg-id="TVNRSR.sk@SD" tvg-logo="https://i.imgur.com/hsJsu3I.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Legislativo",TV NRSR [HD]
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="24.sk@SD" tvg-logo="https://i.imgur.com/tTCuczU.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",:24
+#EXTINF:-1 tvg-id="24.sk@SD" tvg-logo="https://i.imgur.com/tTCuczU.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",:24 [FHD]
 http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",Al Jazeera English
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-#EXTINF:-1 tvg-id="AntikInfoTV.sk@HD" tvg-logo="https://i.imgur.com/Q0qL60o.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",Antik Info TV
+#EXTINF:-1 tvg-id="AntikInfoTV.sk@HD" tvg-logo="https://i.imgur.com/Q0qL60o.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",Antik Info TV [FHD]
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/kk2MdNC.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",Arirang TV HD
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8

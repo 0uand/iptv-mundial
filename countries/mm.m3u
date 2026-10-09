@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="5Plus.mm@SD" tvg-logo="https://i.imgur.com/4EHL2mH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",5 Plus
+#EXTINF:-1 tvg-id="5Plus.mm@SD" tvg-logo="https://i.imgur.com/4EHL2mH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",5 Plus [HD]
 https://mmtvs.exliatycl.online/5plus/stream.m3u8
-#EXTINF:-1 tvg-id="ChannelK.mm@SD" tvg-logo="https://i.imgur.com/6PqxuhF.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",Channel K
+#EXTINF:-1 tvg-id="ChannelK.mm@SD" tvg-logo="https://i.imgur.com/6PqxuhF.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",Channel K [HD]
 https://mmtvs.exliatycl.online/channelk/stream.m3u8
-#EXTINF:-1 tvg-id="FortuneTV.mm@SD" tvg-logo="https://i.imgur.com/MM5evnD.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",FORTUNE TV
+#EXTINF:-1 tvg-id="FortuneTV.mm@SD" tvg-logo="https://i.imgur.com/MM5evnD.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",FORTUNE TV [HD]
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
-#EXTINF:-1 tvg-id="MEntertainmentChannel.mm@SD" tvg-logo="https://i.imgur.com/6PcdTZ2.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",M Entertainment Channel
+#EXTINF:-1 tvg-id="MEntertainmentChannel.mm@SD" tvg-logo="https://i.imgur.com/6PcdTZ2.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",M Entertainment Channel [HD]
 https://mmtvs.exliatycl.online/mchannel/stream.m3u8
 #EXTINF:-1 tvg-id="MRTVEntertainment.mm@SD" tvg-logo="https://i.imgur.com/c9q6oT0.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",MRTV Entertainment
 https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
-#EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",MWD Variety
+#EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",MWD Variety [HD]
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 #EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Cultura",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
@@ -19,15 +19,15 @@ https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-logo="https://i.imgur.com/5KRsqeF.png" tvg-type="live" group-title="🇲🇲 Myanmar | Filmes",MWD Movies
 http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.mm@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",Channel 9
+#EXTINF:-1 tvg-id="Channel9.mm@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",Channel 9 [HD]
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MCS
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MCS [HD]
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="MRTV.mm@HD" tvg-logo="https://i.imgur.com/uyv7oJH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MRTV
+#EXTINF:-1 tvg-id="MRTV.mm@HD" tvg-logo="https://i.imgur.com/uyv7oJH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MRTV [HD]
 https://asia.sipradius.net/cache/SEAGames4/master.m3u8
-#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MRTV
+#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MRTV (fonte 2)
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
-#EXTINF:-1 tvg-id="MWD.mm@SD" tvg-logo="https://i.imgur.com/zyTQG9F.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MWD
+#EXTINF:-1 tvg-id="MWD.mm@SD" tvg-logo="https://i.imgur.com/zyTQG9F.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",MWD [HD]
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 tvg-id="MyanmarInternationalTV.mm@SD" tvg-logo="https://i.imgur.com/ClmWqE5.png" tvg-type="live" group-title="🇲🇲 Myanmar | Geral",Myanmar International TV
 https://mrtvott.com/cache/MITV/master.m3u8

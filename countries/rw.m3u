@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="IsangoTV.rw@SD" tvg-logo="https://i.imgur.com/EfsHaMQ.png" tvg-type="live" group-title="🇷🇼 Ruanda | Música",Isango TV
+#EXTINF:-1 tvg-id="IsangoTV.rw@SD" tvg-logo="https://i.imgur.com/EfsHaMQ.png" tvg-type="live" group-title="🇷🇼 Ruanda | Música",Isango TV [SD]
 http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
-#EXTINF:-1 tvg-id="KC2.rw@SD" tvg-logo="https://i.imgur.com/PsYPzNc.png" tvg-type="live" group-title="🇷🇼 Ruanda | Entretenimento",KC2
+#EXTINF:-1 tvg-id="KC2.rw@SD" tvg-logo="https://i.imgur.com/PsYPzNc.png" tvg-type="live" group-title="🇷🇼 Ruanda | Entretenimento",KC2 [HD]
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 tvg-id="KC2.rw@SD" tvg-logo="https://i.imgur.com/PsYPzNc.png" tvg-type="live" group-title="🇷🇼 Ruanda | Entretenimento",KC2
+#EXTINF:-1 tvg-id="KC2.rw@SD" tvg-logo="https://i.imgur.com/PsYPzNc.png" tvg-type="live" group-title="🇷🇼 Ruanda | Entretenimento",KC2 [HD] (fonte 2)
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="BTNTV.rw@SD" tvg-logo="https://i.imgur.com/WmaP8zP.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",BTN TV
 https://tv.btnrwanda.com:3973/live/btnv2live.m3u8
 #EXTINF:-1 tvg-id="IsiboTV.rw@SD" tvg-logo="https://i.imgur.com/bXhEeTC.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",Isibo TV
 https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RwandaTV.rw@SD" tvg-logo="https://i.imgur.com/4nbGvxW.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",RTV Rwanda
+#EXTINF:-1 tvg-id="RwandaTV.rw@SD" tvg-logo="https://i.imgur.com/4nbGvxW.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",RTV Rwanda [SD]
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="RwandaTV.rw@SD" tvg-logo="https://i.imgur.com/4nbGvxW.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",RTV Rwanda
+#EXTINF:-1 tvg-id="RwandaTV.rw@SD" tvg-logo="https://i.imgur.com/4nbGvxW.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",RTV Rwanda [SD] (fonte 2)
 https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.rw@SD" tvg-logo="https://i.imgur.com/wk59tHA.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",TV1
 https://live.tv1.rw/index.m3u8
-#EXTINF:-1 tvg-id="TV10.rw@SD" tvg-logo="https://i.imgur.com/DeaWC1N.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",TV10
+#EXTINF:-1 tvg-id="TV10.rw@SD" tvg-logo="https://i.imgur.com/DeaWC1N.png" tvg-type="live" group-title="🇷🇼 Ruanda | Geral",TV10 [HD]
 https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8

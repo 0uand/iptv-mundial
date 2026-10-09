@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="ArmeniaPremium.am@SD" tvg-logo="" tvg-type="live" group-title="🇦🇲 Armênia | Filmes",Armenia Premium
+#EXTINF:-1 tvg-id="ArmeniaPremium.am@SD" tvg-logo="" tvg-type="live" group-title="🇦🇲 Armênia | Filmes",Armenia Premium [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/123/index.m3u8
-#EXTINF:-1 tvg-id="Armenia1.am@SD" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia 1
+#EXTINF:-1 tvg-id="Armenia1.am@SD" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia 1 [FHD]
 https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
-#EXTINF:-1 tvg-id="Armenia1.am@America" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia 1 America
+#EXTINF:-1 tvg-id="Armenia1.am@America" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia 1 America [FHD]
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
-#EXTINF:-1 tvg-id="Armenia1.am@Sattelite" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia 1 Sattelite
+#EXTINF:-1 tvg-id="Armenia1.am@Sattelite" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia 1 Sattelite [FHD]
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="Armenia2.am@SD" tvg-logo="https://i.imgur.com/AXmXw9X.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia 2
+#EXTINF:-1 tvg-id="Armenia2.am@SD" tvg-logo="https://i.imgur.com/AXmXw9X.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia 2 [FHD]
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaTVSatellite.am@SD" tvg-logo="https://i.imgur.com/UnoI5uM.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia TV Satellite
+#EXTINF:-1 tvg-id="ArmeniaTVSatellite.am@SD" tvg-logo="https://i.imgur.com/UnoI5uM.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Armenia TV Satellite [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/175/index.m3u8
-#EXTINF:-1 tvg-id="ARTNTV.us@SD" tvg-logo="" tvg-type="live" group-title="🇦🇲 Armênia | Geral",ARTN TV
+#EXTINF:-1 tvg-id="ARTNTV.us@SD" tvg-logo="" tvg-type="live" group-title="🇦🇲 Armênia | Geral",ARTN TV [FHD]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 tvg-id="ATV.am@SD" tvg-logo="https://i.imgur.com/xrqFEou.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",ATV
+#EXTINF:-1 tvg-id="ATV.am@SD" tvg-logo="https://i.imgur.com/xrqFEou.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",ATV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/36/index.m3u8
-#EXTINF:-1 tvg-id="KentronTV.am@SD" tvg-logo="https://i.imgur.com/eCaxBFn.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Kentron TV
+#EXTINF:-1 tvg-id="KentronTV.am@SD" tvg-logo="https://i.imgur.com/eCaxBFn.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Kentron TV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/39/index.m3u8
-#EXTINF:-1 tvg-id="ShantTV.am@SD" tvg-logo="https://i.imgur.com/AyitGj7.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Shant TV
+#EXTINF:-1 tvg-id="ShantTV.am@SD" tvg-logo="https://i.imgur.com/AyitGj7.png" tvg-type="live" group-title="🇦🇲 Armênia | Geral",Shant TV [FHD]
 http://stream.mcquack.net/37/index.m3u8
-#EXTINF:-1 tvg-id="FirstChannelNews.am@SD" tvg-logo="https://i.imgur.com/RlYJUH4.png" tvg-type="live" group-title="🇦🇲 Armênia | Notícias",First Channel News
+#EXTINF:-1 tvg-id="FirstChannelNews.am@SD" tvg-logo="https://i.imgur.com/RlYJUH4.png" tvg-type="live" group-title="🇦🇲 Armênia | Notícias",First Channel News [FHD]
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="FirstChannelNews.am@SD" tvg-logo="https://i.imgur.com/RlYJUH4.png" tvg-type="live" group-title="🇦🇲 Armênia | Notícias",First Channel News
+#EXTINF:-1 tvg-id="FirstChannelNews.am@SD" tvg-logo="https://i.imgur.com/RlYJUH4.png" tvg-type="live" group-title="🇦🇲 Armênia | Notícias",First Channel News (fonte 2)
 https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8

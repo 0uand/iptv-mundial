@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" tvg-type="live" group-title="🇴🇲 Omã | Cultura",Oman Althakafia
+#EXTINF:-1 tvg-id="OmanTVCultural.om@SD" tvg-logo="https://i.imgur.com/b38wNPK.png" tvg-type="live" group-title="🇴🇲 Omã | Cultura",Oman Althakafia [FHD]
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" tvg-type="live" group-title="🇴🇲 Omã | Esportes",Oman Sports TV
+#EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" tvg-type="live" group-title="🇴🇲 Omã | Esportes",Oman Sports TV [FHD]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-type="live" group-title="🇴🇲 Omã | Geral",Oman TV
+#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-type="live" group-title="🇴🇲 Omã | Geral",Oman TV [FHD]
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-type="live" group-title="🇴🇲 Omã | Geral",Oman TV
+#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-type="live" group-title="🇴🇲 Omã | Geral",Oman TV [SD] (fonte 2)
 https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-type="live" group-title="🇴🇲 Omã | Geral",Oman TV
+#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-type="live" group-title="🇴🇲 Omã | Geral",Oman TV (fonte 3)
 http://trn03.bozztv.com/gin-omantv/index.m3u8
-#EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-logo="https://i.imgur.com/UkQTR5b.png" tvg-type="live" group-title="🇴🇲 Omã | Notícias",Oman Mubashir
+#EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-logo="https://i.imgur.com/UkQTR5b.png" tvg-type="live" group-title="🇴🇲 Omã | Notícias",Oman Mubashir [FHD]
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8

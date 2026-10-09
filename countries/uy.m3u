@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" tvg-type="live" group-title="🇺🇾 Uruguai | Cultura",UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" tvg-type="live" group-title="🇺🇾 Uruguai | Cultura",UCL
+#EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" tvg-type="live" group-title="🇺🇾 Uruguai | Cultura",UCL [FHD]
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
-#EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" tvg-type="live" group-title="🇺🇾 Uruguai | Geral",Canal 5
+#EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" tvg-type="live" group-title="🇺🇾 Uruguai | Cultura",UCL [HD] (fonte 2)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" tvg-type="live" group-title="🇺🇾 Uruguai | Geral",Canal 5 [HD]
 https://tinyurl.com/canal5uy

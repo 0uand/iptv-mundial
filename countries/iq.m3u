@@ -1,98 +1,98 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" tvg-type="live" group-title="🇮🇶 Iraque | Entretenimento",Kurdsat
+#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" tvg-type="live" group-title="🇮🇶 Iraque | Entretenimento",Kurdsat [FHD]
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" tvg-type="live" group-title="🇮🇶 Iraque | Entretenimento",Kurdsat
+#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" tvg-type="live" group-title="🇮🇶 Iraque | Entretenimento",Kurdsat [SD] (fonte 2)
 http://185.9.2.18/chid_1/index.m3u8
-#EXTINF:-1 tvg-id="IshtarTV.iq@SD" tvg-logo="https://i.imgur.com/qzApokm.png" tvg-type="live" group-title="🇮🇶 Iraque | Cultura",Ishtar TV
+#EXTINF:-1 tvg-id="IshtarTV.iq@SD" tvg-logo="https://i.imgur.com/qzApokm.png" tvg-type="live" group-title="🇮🇶 Iraque | Cultura",Ishtar TV [FHD]
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" tvg-type="live" group-title="🇮🇶 Iraque | Esportes",Al Iraqia Sport
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" tvg-type="live" group-title="🇮🇶 Iraque | Esportes",Al Iraqia Sport [HD]
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
-#EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" tvg-type="live" group-title="🇮🇶 Iraque | Família",EmanTv
+#EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" tvg-type="live" group-title="🇮🇶 Iraque | Família",EmanTv [FHD]
 https://avr.host247.net/live/emantv/playlist.m3u8
-#EXTINF:-1 tvg-id="Mixkurdy.iq@HD" tvg-logo="https://i.imgur.com/WHeH5i7.png" tvg-type="live" group-title="🇮🇶 Iraque | Família",Mixkurdy
+#EXTINF:-1 tvg-id="Mixkurdy.iq@HD" tvg-logo="https://i.imgur.com/WHeH5i7.png" tvg-type="live" group-title="🇮🇶 Iraque | Família",Mixkurdy [FHD]
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-id="AfaqTV.iq@SD" tvg-logo="https://i.imgur.com/t7CaTu3.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Afaq TV
 https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlIraqia.iq@SD" tvg-logo="https://i.imgur.com/8qQouTW.jpg" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Iraqia
+#EXTINF:-1 tvg-id="AlIraqia.iq@SD" tvg-logo="https://i.imgur.com/8qQouTW.jpg" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Iraqia [FHD]
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Iraqia Kurdish
+#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Iraqia Kurdish [HD]
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
-#EXTINF:-1 tvg-id="AlRasheedTV.iq@SD" tvg-logo="https://i.imgur.com/ltyRjPK.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Rasheed TV
+#EXTINF:-1 tvg-id="AlRasheedTV.iq@SD" tvg-logo="https://i.imgur.com/ltyRjPK.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Rasheed TV [FHD]
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Sharqiya
+#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Sharqiya [FHD]
 http://185.9.2.18/chid_144/index.m3u8
-#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Sharqiya
+#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al Sharqiya [FHD] (fonte 2)
 https://indexforce.com/tvhighres/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlNaeemTV.iq@SD" tvg-logo="https://i.imgur.com/JyWjfIB.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al-Naeem TV
 http://37.238.136.61/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al-Sharqiya
+#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Al-Sharqiya [FHD]
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlawlaTV.iq@SD" tvg-logo="https://i.imgur.com/3Kv0t3X.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Alawla TV
 https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Althaqalayn TV
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
-#EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Avar TV
+#EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Avar TV [FHD]
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:-1 tvg-id="IraqFuture.iq@SD" tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Iraq Future
+#EXTINF:-1 tvg-id="IraqFuture.iq@SD" tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Iraq Future [SD]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Kurdistan TV
+#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Kurdistan TV [HD]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ManuChat.iq@SD" tvg-logo="https://i.imgur.com/voyoljW.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Manu Chat
 https://vmi747311.contaboserver.net/hls/livetv.m3u8
-#EXTINF:-1 tvg-id="MBCIraq.iq@SD" tvg-logo="https://i.imgur.com/D0LxiPE.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",MBC Iraq
+#EXTINF:-1 tvg-id="MBCIraq.iq@SD" tvg-logo="https://i.imgur.com/D0LxiPE.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",MBC Iraq [FHD]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-id="SamarraTV.iq@SD" tvg-logo="https://i.imgur.com/7uQoIXi.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Samarra TV
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
-#EXTINF:-1 tvg-id="SamarraTV.iq@SD" tvg-logo="https://i.imgur.com/7uQoIXi.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Samarra TV
+#EXTINF:-1 tvg-id="SamarraTV.iq@SD" tvg-logo="https://i.imgur.com/7uQoIXi.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Samarra TV (fonte 2)
 https://samarra.tv/proxy.php/hls/main3/playlist.m3u8
-#EXTINF:-1 tvg-id="UTV.iq@SD" tvg-logo="https://i.imgur.com/9qFHjnu.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",UTV
+#EXTINF:-1 tvg-id="UTV.iq@SD" tvg-logo="https://i.imgur.com/9qFHjnu.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",UTV [FHD]
 https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
-#EXTINF:-1 tvg-id="WaarTV.iq@SD" tvg-logo="https://i.imgur.com/rK0y02d.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Waar TV
+#EXTINF:-1 tvg-id="WaarTV.iq@SD" tvg-logo="https://i.imgur.com/rK0y02d.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Waar TV [FHD]
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
-#EXTINF:-1 tvg-id="WaarTV.iq@SD" tvg-logo="https://i.imgur.com/rK0y02d.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Waar TV
+#EXTINF:-1 tvg-id="WaarTV.iq@SD" tvg-logo="https://i.imgur.com/rK0y02d.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Waar TV [FHD] (fonte 2)
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Zagros
+#EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Zagros [HD]
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Zagros TV
+#EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Zagros TV [FHD]
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Zarok TV Sorani
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Zarok TV Sorani [HD]
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://afarin.tv/images/baxcha.png" tvg-type="live" group-title="🇮🇶 Iraque | Infantil",Afarin Baxcha
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://afarin.tv/images/baxcha.png" tvg-type="live" group-title="🇮🇶 Iraque | Infantil",Afarin Baxcha [FHD]
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://i.imgur.com/6MnXD7g.png" tvg-type="live" group-title="🇮🇶 Iraque | Infantil",Afarin TV
+#EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://i.imgur.com/6MnXD7g.png" tvg-type="live" group-title="🇮🇶 Iraque | Infantil",Afarin TV [HD]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaNews.iq@SD" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Al Iraqia News
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq@SD" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Al Iraqia News [HD]
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-id="AlJanoubTV.iq@SD" tvg-logo="https://i.imgur.com/rxDh6W1.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Al Janoub TV
 https://live.alissahost.net/hls/test.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Al Sharqiya News
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Al Sharqiya News [FHD]
 https://indexforce.com/newshighres/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Al-Sharqiya News
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" tvg-logo="https://i.imgur.com/PeAcXB9.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Al-Sharqiya News [FHD]
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlghadeerTV.iq@SD" tvg-logo="https://i.imgur.com/YPj6kXq.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Alghadeer TV
+#EXTINF:-1 tvg-id="AlghadeerTV.iq@SD" tvg-logo="https://i.imgur.com/YPj6kXq.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Alghadeer TV [FHD]
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
-#EXTINF:-1 tvg-id="AnwarTV2.iq@SD" tvg-logo="https://i.imgur.com/yHZXPcn.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Anwar TV2
+#EXTINF:-1 tvg-id="AnwarTV2.iq@SD" tvg-logo="https://i.imgur.com/yHZXPcn.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Anwar TV2 [HD]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
-#EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Channel 8 Kurdish
+#EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Channel 8 Kurdish [HD]
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="DijlahTV.iq@SD" tvg-logo="https://i.imgur.com/kyzH3G5.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Dijlah TV
+#EXTINF:-1 tvg-id="DijlahTV.iq@SD" tvg-logo="https://i.imgur.com/kyzH3G5.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Dijlah TV [FHD]
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 tvg-id="INews.iq@SD" tvg-logo="https://i.imgur.com/9lOuzHQ.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",iNEWS TV
+#EXTINF:-1 tvg-id="INews.iq@SD" tvg-logo="https://i.imgur.com/9lOuzHQ.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",iNEWS TV [FHD]
 https://live.i-news.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-logo="https://i.imgur.com/9QWs2ms.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Kurdistan 24
+#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-logo="https://i.imgur.com/9QWs2ms.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Kurdistan 24 [FHD]
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.imgur.com/F3XRwkt.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Kurdsat News
+#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.imgur.com/F3XRwkt.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Kurdsat News [FHD]
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",NRT TV
+#EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",NRT TV [HD]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.imgur.com/qySEibb.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Payam TV
+#EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.imgur.com/qySEibb.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Payam TV [FHD]
 https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
-#EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.imgur.com/qySEibb.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Payam TV
+#EXTINF:-1 tvg-id="PayamTV.iq@SD" tvg-logo="https://i.imgur.com/qySEibb.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Payam TV [HD] (fonte 2)
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Rudaw TV
+#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Rudaw TV [FHD]
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
-#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Rudaw TV
+#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Rudaw TV [FHD] (fonte 2)
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 tvg-id="ShamsTV.iq@SD" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Shams TV
+#EXTINF:-1 tvg-id="ShamsTV.iq@SD" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" tvg-type="live" group-title="🇮🇶 Iraque | Notícias",Shams TV [FHD]
 https://stream.shams.tv/hls/stream.m3u8

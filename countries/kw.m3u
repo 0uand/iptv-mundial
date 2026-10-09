@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="MarinaTV.kw@SD" tvg-logo="https://i.imgur.com/F2PzEaw.png" tvg-type="live" group-title="🇰🇼 Kuwait | Música",Marina TV
+#EXTINF:-1 tvg-id="MarinaTV.kw@SD" tvg-logo="https://i.imgur.com/F2PzEaw.png" tvg-type="live" group-title="🇰🇼 Kuwait | Música",Marina TV [FHD]
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
 #EXTINF:-1 tvg-id="RitmuTV.kw@SD" tvg-logo="https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10" tvg-type="live" group-title="🇰🇼 Kuwait | Entretenimento",Ritmu TV
 https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV2.kw@SD" tvg-logo="https://i.imgur.com/hB57mNh.png" tvg-type="live" group-title="🇰🇼 Kuwait | Cultura",KTV 2
+#EXTINF:-1 tvg-id="KTV2.kw@SD" tvg-logo="https://i.imgur.com/hB57mNh.png" tvg-type="live" group-title="🇰🇼 Kuwait | Cultura",KTV 2 [FHD]
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" tvg-type="live" group-title="🇰🇼 Kuwait | Cultura",KTV Arabe
+#EXTINF:-1 tvg-id="KTVArabe.kw@SD" tvg-logo="https://i.imgur.com/jg3VAxO.png" tvg-type="live" group-title="🇰🇼 Kuwait | Cultura",KTV Arabe [FHD]
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" tvg-type="live" group-title="🇰🇼 Kuwait | Esportes",KTV Sport
+#EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" tvg-type="live" group-title="🇰🇼 Kuwait | Esportes",KTV Sport [FHD]
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" tvg-type="live" group-title="🇰🇼 Kuwait | Esportes",KTV Sport Plus
+#EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" tvg-type="live" group-title="🇰🇼 Kuwait | Esportes",KTV Sport Plus [FHD]
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇰🇼 Kuwait | Geral",Ch4Teen
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇰🇼 Kuwait | Geral",Ch4Teen [FHD]
 #EXTVLCOPT:http-referrer=https://ch14.tv
 https://ch14.tv/live/ch4teenclip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇰🇼 Kuwait | Geral",Ch4Teen (1080i)
 #EXTVLCOPT:http-referrer=http://ch14.tv
 https://ch14.tv/live/ch4teen1/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" tvg-type="live" group-title="🇰🇼 Kuwait | Geral",KTV 1
+#EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" tvg-type="live" group-title="🇰🇼 Kuwait | Geral",KTV 1 [FHD]
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" tvg-type="live" group-title="🇰🇼 Kuwait | Geral",KTV 1
+#EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" tvg-type="live" group-title="🇰🇼 Kuwait | Geral",KTV 1 [SD] (fonte 2)
 https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-logo="https://i.imgur.com/erZ0Ol1.png" tvg-type="live" group-title="🇰🇼 Kuwait | Notícias",KTV News
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-logo="https://i.imgur.com/erZ0Ol1.png" tvg-type="live" group-title="🇰🇼 Kuwait | Notícias",KTV News [FHD]
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-logo="https://i.imgur.com/erZ0Ol1.png" tvg-type="live" group-title="🇰🇼 Kuwait | Notícias",KTV News
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-logo="https://i.imgur.com/erZ0Ol1.png" tvg-type="live" group-title="🇰🇼 Kuwait | Notícias",KTV News [FHD] (fonte 2)
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-logo="https://i.imgur.com/erZ0Ol1.png" tvg-type="live" group-title="🇰🇼 Kuwait | Notícias",KTV News
+#EXTINF:-1 tvg-id="KTVNews.kw@SD" tvg-logo="https://i.imgur.com/erZ0Ol1.png" tvg-type="live" group-title="🇰🇼 Kuwait | Notícias",KTV News [SD] (fonte 3)
 https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8

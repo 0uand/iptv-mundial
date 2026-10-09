@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="981PearlFM.sx@SD" tvg-logo="https://i.imgur.com/GY750xh.jpg" tvg-type="live" group-title="🇸🇽 Sint Maarten | Música",98.1 Pearl FM
+#EXTINF:-1 tvg-id="981PearlFM.sx@SD" tvg-logo="https://i.imgur.com/GY750xh.jpg" tvg-type="live" group-title="🇸🇽 Sint Maarten | Música",98.1 Pearl FM [HD]
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇸🇽 Sint Maarten | Música",TVCARiB Radio
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇸🇽 Sint Maarten | Música",TVCARiB Radio [HD]
 https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8
-#EXTINF:-1 tvg-id="TVCARiB.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Entretenimento",TVCARiB
+#EXTINF:-1 tvg-id="TVCARiB.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Entretenimento",TVCARiB [HD]
 https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
-#EXTINF:-1 tvg-id="TVCARiBLatino.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Entretenimento",TVCARiB Latino
+#EXTINF:-1 tvg-id="TVCARiBLatino.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Entretenimento",TVCARiB Latino [HD]
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
-#EXTINF:-1 tvg-id="TVCARiBCinema.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Filmes",TVCARiB Cinema
+#EXTINF:-1 tvg-id="TVCARiBCinema.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Filmes",TVCARiB Cinema [HD]
 https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇸🇽 Sint Maarten | Geral",Nolan Nanton Productions
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇸🇽 Sint Maarten | Geral",Nolan Nanton Productions [HD]
 https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8
-#EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Infantil",TVCARiB Kids & Teens
+#EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-type="live" group-title="🇸🇽 Sint Maarten | Infantil",TVCARiB Kids & Teens [HD]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8

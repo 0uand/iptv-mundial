@@ -39,6 +39,11 @@ OPEN_FILMS = ["Sita_Sings_the_Blues", "BigBuckBunny_124", "Sintel", "ElephantsDr
               "RipRemixManifesto", "STEAL_THIS_FILM", "StealThisFilmII", "Good_Copy_Bad_Copy-film", "TpbAfkThePirateBayAwayFromKeyboard",
               "KungFury", "EverythingIsARemix1", "zeitgeist_movie", "CopyingIsNotTheft"]
 
+# LGBT — pioneiros e clássicos em domínio público (ids do Internet Archive)
+LGBT_FILMS = ["different-from-the-others-richard-oswald-1919", "salome-1923_202507", "pandoras-box-1929-by-georg-wilhelm-pabst",
+              "diary-of-a-lost-girl-1929-1527085599333", "Lot_in_Sodom_1933", "glen-or-glenda_202204",
+              "rebecca-1940-film-noir-thirller-hitchcock", "monasCandleLightCa1950s"]
+LGBT_RE = re.compile(r"\b(lgbt|lgbtq|gay|lesbian|queer|transgender|homosexual|homosexuality|drag queen|cross-?dressing)\b", re.I)
 # ---------- categorias ----------
 PREMIADOS = re.compile(r"^(?:the )?(metropolis|nosferatu|the cabinet of dr\.? caligari|battleship potemkin|m \(1931\)|m$|the general|safety last|sherlock jr|the kid|the gold rush|the phantom of the opera|steamboat bill|our hospitality|things to come|the 39 steps|the lady vanishes|the man who knew too much|sabotage|jamaica inn|his girl friday|the front page|meet john doe|a star is born|nothing sacred|love affair|penny serenade|made for each other|of mice and men|the little princess|scarlet street|detour|d\.?o\.?a\.?|kansas city confidential|the hitch-hiker|suddenly|beat the devil|the stranger|cyrano de bergerac|charade|night of the living dead|carnival of souls|the little shop of horrors|house on haunted hill|the last man on earth|royal wedding|father's little dividend|life with father|the inspector general|till the clouds roll by|algiers|the jungle book|rain|stage door canteen|dressed to kill|scrooge|a farewell to arms|the outlaw|the scarlet pimpernel|the private life of henry viii|the lost world|the big trail|the great train robbery|intolerance|the birth of a nation|way down east|broken blossoms|the thief of bagdad|the mark of zorro|the hunchback of notre dame|the lodger|blackmail|the iron mask|the black pirate|the wind|sunrise|the last laugh|the passion of joan of arc|un chien andalou|l'age d'or|the blue angel|vampyr|freaks|white zombie|the most dangerous game|the old dark house|king of the zombies|the man with the golden arm|angel and the badman|mclintock|santa fe trail|the inspector general|africa screams|my man godfrey|the lady eve|sullivan's travels|the philadelphia story|it's a wonderful life|the big lift|one-eyed jacks|the terror|dementia 13|plan 9 from outer space|reefer madness|the brain that wouldn't die|horror express|the last time i saw paris|becket|the man who shot|the great dictator|modern times|city lights|a trip to the moon|le voyage dans la lune|the 400 blows|rashomon|seven samurai|ikiru|tokyo story|late spring|bicycle thieves|rome,? open city|la strada|nights of cabiria|the seventh seal|wild strawberries|breathless|hiroshima mon amour|jules and jim|8 1/2|la dolce vita)\b", re.I)
 GENRES = [  # (categoria, regex sobre subject+title+description)
@@ -118,6 +123,9 @@ for q, out, rows, rule in QUERIES:
 for ident in OPEN_FILMS:
     m = item(ident)
     if m.get("identifier"): add(dict(m, identifier=m["identifier"]), "filmes", "open")
+for ident in LGBT_FILMS:
+    m = item(ident)
+    if m.get("identifier"): add(dict(m, identifier=m["identifier"]), "filmes", "lgbt")
 
 cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
 todo = [it for it in items if it[2]["identifier"] not in cache]
@@ -138,6 +146,7 @@ def film_category(d, rule):
     y = year(d)
     if rule == "memoria": return "Movies | 🇧🇷 Nacionais · Memória (cinejornais e registros históricos)"
     if rule == "open": return "Movies | Recentes · cinema aberto (licença livre)"
+    if rule == "lgbt" or LGBT_RE.search(s(d.get("subject"))): return "Movies | LGBT · pioneiros e clássicos"
     if PREMIADOS.search(re.sub(r"\s*\(.*?\)\s*", " ", title).strip()): return "Movies | Premiados e Aclamados"
     for cat, rx in GENRES:
         if re.search(rx, text, re.I): return f"Movies | {cat}"
@@ -165,7 +174,7 @@ for out, rule, d in items:
     elif out == "series": series.append((d, c))
     else: cartoons.append((d, c))
 
-CAT_ORDER = ["Premiados e Aclamados", "Recentes", "Nacionais", "Comédia", "Drama", "Terror", "Ficção Científica", "Faroeste", "Noir e Suspense", "Romance", "Guerra", "Aventura", "Musical", "Família", "Animação", "Documentário", "Cinema Mudo", "Clássicos"]
+CAT_ORDER = ["Premiados e Aclamados", "LGBT", "Recentes", "Nacionais", "Comédia", "Drama", "Terror", "Ficção Científica", "Faroeste", "Noir e Suspense", "Romance", "Guerra", "Aventura", "Musical", "Família", "Animação", "Documentário", "Cinema Mudo", "Clássicos"]
 def cat_key(g):
     for i, k in enumerate(CAT_ORDER):
         if k in g: return (i, g)

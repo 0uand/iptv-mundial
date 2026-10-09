@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Canal TV</title>
+<style>
+  /* Layout: tela cheia, player ocupando tudo, sobreposições (logo, barra) por cima */
+  :root {
+    --bg: #000;
+    --fg: #f2f2f2;
+    --muted: #a9a9a9;
+    --accent: #ff3b3b;
+    --glass: rgba(0,0,0,.55);
+    --font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    color-scheme: dark;
+  }
+  html, body { height: 100%; margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font); overflow: hidden; }
+
+  #tv { position: fixed; inset: 0; background: #000; }
+
+  /* O player é esticado um pouco além da tela para esconder as bordas/UI do YouTube */
+  #player-wrap { position: absolute; inset: 0; overflow: hidden; }
+  #player { position: absolute; top: 50%; left: 50%; width: 100vw; height: 56.25vw; min-height: 100vh; min-width: 177.78vh; transform: translate(-50%, -50%); }
+
+  /* Escudo invisível: bloqueia hover/clique no iframe, assim a interface do YouTube não aparece */
+  #shield { position: absolute; inset: 0; cursor: default; }
+
+  /* Logo no canto */
+  #logo { position: absolute; z-index: 3; pointer-events: none; opacity: .92; filter: drop-shadow(0 2px 8px rgba(0,0,0,.6)); }
+  #logo img { display: block; height: var(--logo-size, 56px); width: auto; max-width: 40vw; }
+  #logo.tr { top: 24px; right: 24px; }  #logo.tl { top: 24px; left: 24px; }
+  #logo.br { bottom: 24px; right: 24px; } #logo.bl { bottom: 24px; left: 24px; }
+  #logo .text { font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: -.02em; font-size: var(--logo-size, 28px); line-height: 1; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); }
+
+  /* Barra "agora / a seguir" — aparece ao mover o mouse e some sozinha */
+  #bar { position: absolute; left: 0; right: 0; bottom: 0; z-index: 3; padding: 18px 24px calc(18px + env(safe-area-inset-bottom, 0px)); background: linear-gradient(transparent, rgba(0,0,0,.85)); display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; opacity: 0; transition: opacity .35s; pointer-events: none; }
+  body.show-ui #bar { opacity: 1; pointer-events: auto; }
+  #bar .info { min-width: 0; }
+  #bar .label { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); font-weight: 700; display: flex; align-items: center; gap: 8px; }
+  #bar .label::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); animation: pulse 1.4s infinite; }
+  #bar .title { font-size: clamp(16px, 2.2vw, 24px); font-weight: 700; margin-top: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #bar .next { font-size: 13px; color: var(--muted); margin-top: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #bar .ctrls { display: flex; gap: 8px; flex-shrink: 0; }
+  button { font: inherit; color: var(--fg); background: var(--glass); border: 1px solid rgba(255,255,255,.2); border-radius: 999px; padding: 10px 16px; cursor: pointer; backdrop-filter: blur(8px); }
+  button:hover { background: rgba(255,255,255,.12); }
+  button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .3 } }
+
+  /* Tela de "ligar" (o navegador exige um clique para tocar com som) */
+  #power { position: absolute; inset: 0; z-index: 10; display: grid; place-items: center; background: radial-gradient(ellipse at center, #1a1a1a, #000 70%); text-align: center; padding: 24px; }
+  #power h1 { margin: 0 0 8px; font-size: clamp(28px, 6vw, 56px); letter-spacing: .12em; text-transform: uppercase; font-weight: 900; }
+  #power p { margin: 0 0 28px; color: var(--muted); }
+  #power button { font-size: 18px; padding: 16px 36px; background: var(--accent); border-color: transparent; font-weight: 700; }
+  #power .scan { position: absolute; inset: 0; pointer-events: none; background: repeating-linear-gradient(0deg, rgba(255,255,255,.025) 0 1px, transparent 1px 3px); }
+  body.on #power { display: none; }
+
+  @media (prefers-reduced-motion: reduce) { #bar .label::before { animation: none } }
+  @media (max-width: 600px) { #logo img { height: calc(var(--logo-size, 56px) * .7); } #bar .ctrls button { padding: 8px 12px; font-size: 13px; } }
+</style>
+</head>
+<body>
+
+<div id="tv">
+  <div id="player-wrap"><div id="player"></div></div>
+  <div id="shield"></div>
+  <div id="logo" class="tr"></div>
+  <div id="bar">
+    <div class="info">
+      <div class="label">No ar</div>
+      <div class="title" id="now">—</div>
+      <div class="next" id="next"></div>
+    </div>
+    <div class="ctrls">
+      <button id="mute">🔇 Mudo</button>
+      <button id="fs">⛶ Tela cheia</button>
+    </div>
+  </div>
+  <div id="power">
+    <div class="scan"></div>
+    <div>
+      <h1 id="power-name">Canal</h1>
+      <p>Programação 24 horas · ao vivo</p>
+      <button id="power-btn">Ligar a TV</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* =====================================================================
+   CONFIGURAÇÃO DO CANAL — edite só este bloco
+   ===================================================================== */
+const CANAL = {
+  nome: "uandtv",
+
+  // Logo: "" = nome do canal em texto (Helvetica Neue Bold). Ou informe um arquivo PNG na mesma pasta.
+  logo: "",
+  logoPosicao: "br",     // tr = cima/direita · tl = cima/esquerda · br = baixo/direita · bl = baixo/esquerda
+  logoTamanho: 28,       // altura em pixels (texto ou imagem)
+
+  /* MODO "grade" (sincronizado por relógio): todo mundo que abrir vê o mesmo trecho no mesmo
+     instante, como TV de verdade. A duração de cada vídeo é descoberta automaticamente na
+     primeira vez que o canal liga (e guardada no navegador); se quiser, informe "duracao" em segundos. */
+  modo: "grade",
+  inicioGrade: "2026-10-09T00:00:00-03:00",   // data-âncora: a grade começa a contar daqui
+  grade: [
+    // { id: "ID_DO_VIDEO" }  — o ID é a parte depois de "watch?v=" ou de "youtu.be/"
+    { id: "-91vymvIH0c" },
+    { id: "DuLS_6BOQls" },
+  ],
+
+  /* MODO "playlist": toca uma playlist do YouTube em loop. Você gerencia a programação direto no
+     YouTube e o canal muda sozinho. A playlist precisa ser pública ou não listada. Troque modo: "playlist". */
+  playlistId: "",        // a parte depois de "list=" na URL da playlist
+  embaralhar: true,
+};
+/* ===================================================================== */
+
+let player, pronto = false, modoAtual = CANAL.modo;
+let tituloTimer, uiTimer;
+
+// Logo
+(function montaLogo(){
+  const el = document.getElementById('logo');
+  el.className = CANAL.logoPosicao || 'tr';
+  el.style.setProperty('--logo-size', (CANAL.logoTamanho || 56) + 'px');
+  if (CANAL.logo) {
+    const img = new Image();
+    img.src = CANAL.logo; img.alt = CANAL.nome;
+    img.onerror = () => { el.innerHTML = `<div class="text">${CANAL.nome}</div>`; };
+    el.appendChild(img);
+  } else {
+    el.innerHTML = `<div class="text">${CANAL.nome}</div>`;
+  }
+  document.getElementById('power-name').textContent = CANAL.nome;
+  document.title = CANAL.nome;
+})();
+
+// Carrega a API do YouTube
+const tag = document.createElement('script');
+tag.src = "https://www.youtube.com/iframe_api";
+document.head.appendChild(tag);
+
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+    playerVars: {
+      autoplay: 0, controls: 0, disablekb: 1, fs: 0, rel: 0, iv_load_policy: 3,
+      modestbranding: 1, playsinline: 1, origin: location.origin
+    },
+    events: { onReady: () => { pronto = true; }, onStateChange, onError }
+  });
+}
+
+// ---------- Ligar ----------
+document.getElementById('power-btn').addEventListener('click', ligar);
+function ligar() {
+  if (!pronto) { setTimeout(ligar, 200); return; }
+  document.body.classList.add('on');
+  player.unMute(); player.setVolume(100);
+  if (modoAtual === 'grade' && CANAL.grade.length) descobrirDuracoes().then(iniciarGrade);
+  else iniciarPlaylist();
+  mostrarUI();
+}
+
+// Descobre duração e título dos vídeos sem duração informada (cueando um a um, ~1 s cada)
+const CACHE_KEY = 'uandtv.meta.v1';
+function lerCache() { try { return JSON.parse(localStorage.getItem(CACHE_KEY)) || {}; } catch(e) { return {}; } }
+function gravarCache(c) { try { localStorage.setItem(CACHE_KEY, JSON.stringify(c)); } catch(e) {} }
+let resolverCue = null;
+async function descobrirDuracoes() {
+  const cache = lerCache();
+  for (const v of CANAL.grade) {
+    if (!v.duracao && cache[v.id]) { v.duracao = cache[v.id].d; v.titulo = v.titulo || cache[v.id].t; }
+    if (v.duracao) continue;
+    document.getElementById('now').textContent = 'Sintonizando…';
+    const meta = await new Promise(res => {
+      resolverCue = res;
+      player.cueVideoById(v.id);
+      setTimeout(() => res(null), 8000);   // não trava se o vídeo não carregar
+    });
+    resolverCue = null;
+    if (meta && meta.d > 0) { v.duracao = meta.d; v.titulo = v.titulo || meta.t; cache[v.id] = meta; gravarCache(cache); }
+    else { v.duracao = 300; v.titulo = v.titulo || v.id; }   // fallback: 5 min; o vídeo real corrige ao terminar
+  }
+}
+
+// ---------- Modo playlist ----------
+function iniciarPlaylist() {
+  player.loadPlaylist({ list: CANAL.playlistId, listType: 'playlist', index: 0 });
+  player.setLoop(true);
+  // setShuffle só funciona depois que a playlist foi carregada
+  if (CANAL.embaralhar) setTimeout(() => { try { player.setShuffle(true); player.nextVideo(); } catch(e){} }, 1500);
+}
+
+// ---------- Modo grade (relógio) ----------
+function posicaoNaGrade() {
+  const total = CANAL.grade.reduce((s, v) => s + v.duracao, 0);
+  const decorrido = ((Date.now() - new Date(CANAL.inicioGrade).getTime()) / 1000) % total;
+  let acc = 0;
+  for (let i = 0; i < CANAL.grade.length; i++) {
+    if (decorrido < acc + CANAL.grade[i].duracao) return { i, offset: decorrido - acc };
+    acc += CANAL.grade[i].duracao;
+  }
+  return { i: 0, offset: 0 };
+}
+function iniciarGrade() {
+  const { i, offset } = posicaoNaGrade();
+  player.loadVideoById({ videoId: CANAL.grade[i].id, startSeconds: Math.floor(offset) });
+  atualizarTitulos(i);
+}
+function proximoDaGrade() {
+  // Ao terminar, recalcula pelo relógio (corrige qualquer drift)
+  iniciarGrade();
+}
+
+// ---------- Eventos ----------
+function onStateChange(e) {
+  if (e.data === YT.PlayerState.CUED && resolverCue) {
+    const d = player.getDuration(), t = (player.getVideoData() || {}).title || '';
+    if (d > 0) resolverCue({ d: Math.round(d), t });
+    return;
+  }
+  if (e.data === YT.PlayerState.ENDED && modoAtual === 'grade') proximoDaGrade();
+  if (e.data === YT.PlayerState.PLAYING) {
+    if (modoAtual === 'playlist') atualizarTitulosPlaylist();
+    else { const { i } = posicaoNaGrade(); const v = CANAL.grade[i]; if (!v.titulo) { v.titulo = (player.getVideoData() || {}).title || v.id; atualizarTitulos(i); } }
+  }
+  // Se pausar por qualquer motivo (ex.: aba voltou), retoma — TV não pausa
+  if (e.data === YT.PlayerState.PAUSED && document.body.classList.contains('on')) {
+    setTimeout(() => player.playVideo(), 800);
+  }
+}
+function onError(e) {
+  // Vídeo removido/privado/sem embed: pula pro próximo
+  console.warn('Erro no vídeo', e.data);
+  if (modoAtual === 'grade') {
+    const { i } = posicaoNaGrade();
+    const prox = CANAL.grade[(i + 1) % CANAL.grade.length];
+    player.loadVideoById(prox.id);
+  } else {
+    player.nextVideo();
+  }
+}
+
+// ---------- Títulos ----------
+function atualizarTitulos(i) {
+  const atual = CANAL.grade[i], prox = CANAL.grade[(i + 1) % CANAL.grade.length];
+  document.getElementById('now').textContent = atual.titulo || atual.id;
+  document.getElementById('next').textContent = 'A seguir: ' + (prox.titulo || prox.id);
+}
+function atualizarTitulosPlaylist() {
+  try {
+    const d = player.getVideoData();
+    document.getElementById('now').textContent = d.title || '';
+    const lista = player.getPlaylist() || [];
+    const idx = player.getPlaylistIndex();
+    document.getElementById('next').textContent = lista.length ? `Vídeo ${idx + 1} de ${lista.length}` : '';
+  } catch (e) {}
+}
+
+// ---------- UI ----------
+function mostrarUI() {
+  document.body.classList.add('show-ui');
+  clearTimeout(uiTimer);
+  uiTimer = setTimeout(() => document.body.classList.remove('show-ui'), 3500);
+}
+['mousemove', 'touchstart', 'keydown'].forEach(ev => document.addEventListener(ev, mostrarUI, { passive: true }));
+
+document.getElementById('mute').addEventListener('click', e => {
+  if (player.isMuted()) { player.unMute(); e.target.textContent = '🔇 Mudo'; }
+  else { player.mute(); e.target.textContent = '🔊 Som'; }
+});
+document.getElementById('fs').addEventListener('click', () => {
+  const el = document.documentElement;
+  if (!document.fullscreenElement) (el.requestFullscreen || el.webkitRequestFullscreen)?.call(el);
+  else (document.exitFullscreen || document.webkitExitFullscreen)?.call(document);
+});
+// Tecla M = mudo, F = tela cheia
+document.addEventListener('keydown', e => {
+  if (e.key === 'm' || e.key === 'M') document.getElementById('mute').click();
+  if (e.key === 'f' || e.key === 'F') document.getElementById('fs').click();
+});
+
+// Mantém a tela acesa quando possível
+navigator.wakeLock?.request?.('screen').catch(() => {});
+</script>
+</body>
+</html>

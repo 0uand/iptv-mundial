@@ -19,6 +19,8 @@ jobs:
       - run: pip install -q yt-dlp
       - name: Resolver lives públicas
         run: python scripts/youtube_resolve.py
+      - name: Resolver programação da uandtv
+        run: python scripts/uandtv_resolve.py || true
       - name: Reanexar YouTube ao index.m3u
         run: |
           python - <<'EOF'
@@ -27,9 +29,12 @@ jobs:
           # remove bloco YouTube antigo (linhas do grupo ▶️ YouTube TV e suas URLs/opções)
           out, skip = [], False
           for ln in idx:
-              if ln.startswith("#EXTINF") : skip = "▶️ YouTube TV" in ln
+              if ln.startswith("#EXTINF") : skip = ("▶️ YouTube TV" in ln) or ("📺 uandtv" in ln)
               if not skip: out.append(ln)
           yt = [l for l in open("youtube.m3u", encoding="utf-8").read().splitlines()[1:] if l and not l.startswith("# ")]
+          import os
+          if os.path.exists("uandtv.m3u"):
+              yt += [l for l in open("uandtv.m3u", encoding="utf-8").read().splitlines()[1:] if l and not l.startswith("# ")]
           # insere o bloco YouTube logo antes do primeiro item de VOD (ou no fim)
           pos = next((i for i, l in enumerate(out) if l.startswith("#EXTINF") and ("🎬 Filmes" in l or "📺 Séries" in l or "🧸 Desenhos" in l)), len(out))
           out[pos:pos] = yt

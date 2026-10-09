@@ -51,6 +51,19 @@ https://raw.githubusercontent.com/0uand/iptv-mundial/main/youtube.m3u
 
 No ar na última verificação (2026-10-09 21:17 UTC): **0** de 46 canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.
 
+## 📺 uandtv
+
+Canal próprio com programação 24 h montada a partir de vídeos públicos do YouTube (lista em [`data/uandtv.txt`](data/uandtv.txt)). Duas formas de assistir:
+
+- **Web (canal contínuo, com logo):** `https://0uand.github.io/iptv-mundial/tv/` — página que toca a grade sincronizada pelo relógio, no navegador, Safari do iPhone ou via AirPlay/Chromecast. Requer o GitHub Pages ligado (Settings → Pages → branch `main`, pasta `/ (root)`).
+- **IPTV (um item por vídeo):** grupo `📺 uandtv` dentro do `index.m3u`, ou separado em
+
+```
+https://raw.githubusercontent.com/0uand/iptv-mundial/main/uandtv.m3u
+```
+
+Apps de IPTV só tocam streams, não páginas web — por isso na lista cada vídeo é um item. As URLs são renovadas a cada 4 h junto com o YouTube TV.
+
 ## 🎬 Filmes, séries, desenhos, shows e festivais (VOD)
 
 Filmes e séries: acervo de **domínio público** do [Internet Archive](https://archive.org) (títulos até 1963 ou com licença livre declarada): clássicos do cinema, ficção/terror, cinema mudo, séries de TV clássicas e animações antigas. Os arquivos ficam hospedados no próprio Archive.

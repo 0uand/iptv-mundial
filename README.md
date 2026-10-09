@@ -1,6 +1,6 @@
 # 📺 IPTV Mundial
 
-**16.052 canais de TV** de **176 países** + **0 lives do YouTube** + **3.599 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
+**16.052 canais de TV** de **176 países** + **0 lives do YouTube** + **2.537 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
 
 _Última atualização: 09/10/2026_
 
@@ -14,8 +14,8 @@ Adicione as três como playlists separadas no seu app (IPTV Smarters, TiviMate, 
 | Divisão | Conteúdo | URL |
 |---|---|---|
 | 📡 **TV ao vivo** | 16.083 canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
-| 🎬 **Filmes** | 2.468 títulos — clássicos em domínio público + shows e festivais | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
-| 📺 **Séries** | 1.131 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
+| 🎬 **Filmes** | 1.989 títulos — clássicos em domínio público + shows e festivais | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
+| 📺 **Séries** | 548 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
 
 Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uand/iptv-mundial/main/index.m3u`
 
@@ -59,10 +59,16 @@ Shows e festivais: vídeos **públicos dos canais oficiais** no YouTube — Coac
 
 | Catálogo | Títulos | Playlist |
 |---|---:|---|
-| 🎬 Filmes clássicos | 2.468 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
+| 🎬 Filmes (por categoria) | 1.989 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
 | 🎤 Shows, festivais e surf | 0 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/shows.m3u` |
-| 📺 Séries (episódios) | 826 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
-| 📺 Desenhos | 305 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/desenhos.m3u` |
+| 📺 Séries (episódios) | 328 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
+| 📺 Desenhos | 220 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/desenhos.m3u` |
+
+**Categorias de filmes:** Premiados e Aclamados · Recentes (cinema aberto: Blender, Nina Paley, Kung Fury, Star Wreck, documentários CC) · 🇧🇷 Nacionais (memória: cinejornais e registros históricos) · Comédia · Drama · Terror · Ficção Científica · Faroeste · Noir e Suspense · Romance · Guerra · Aventura · Musical · Família · Animação · Documentário · Cinema Mudo · Clássicos por década. **Séries:** Comédia · Faroeste · Suspense e Crime · Ficção e Terror · Aventura · Drama · Game Shows e Variedades · Documentário · Desenhos — agrupadas por série, com temporada/episódio.
+
+
+> **Sobre filmes nacionais e recentes:** só entram obras que podem ser distribuídas legalmente — domínio público ou licença livre dada pelo próprio autor. Filmes brasileiros de ficção (Vera Cruz, Embrafilme, Cinema Novo…) e lançamentos recentes de estúdio ainda estão sob direitos autorais, mesmo quando alguém os sobe no Internet Archive com etiqueta "CC"; por isso ficam de fora. O que existe de legal está em Tela Brasil, Globoplay, +SBT etc., com login.
+
 
 > **Por que não tem Tela Brasil, +SBT, Globoplay, Band Play, PlayPlus?** Essas plataformas são gratuitas, mas exigem login (gov.br, conta da emissora) e entregam o vídeo com URL assinada por usuário. Não existe link público para colocar numa lista — e incluir seria burlar o acesso delas. Use os apps oficiais; aqui ficam só os sinais abertos e os canais FAST que as próprias emissoras publicam.
 

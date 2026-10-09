@@ -1,6 +1,6 @@
 # 📺 IPTV Mundial
 
-**16.052 canais de TV** de **176 países** + **0 lives do YouTube** + **2.537 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
+**16.052 canais de TV** de **176 países** + **11 lives do YouTube** + **2.537 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
 
 _Última atualização: 09/10/2026_
 
@@ -13,9 +13,9 @@ Adicione as três como playlists separadas no seu app (IPTV Smarters, TiviMate, 
 
 | Divisão | Conteúdo | URL |
 |---|---|---|
-| 📡 **TV ao vivo** | 16.083 canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
-| 🎬 **Filmes** | 1.989 títulos — clássicos em domínio público + shows e festivais | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
-| 📺 **Séries** | 548 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
+| 📡 **TV ao vivo** | 16.094 canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
+| 🎬 **Filmes** | 1.988 títulos — clássicos em domínio público + shows e festivais | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
+| 📺 **Séries** | 549 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
 
 Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uand/iptv-mundial/main/index.m3u`
 
@@ -49,20 +49,7 @@ Canais que transmitem ao vivo no YouTube (Dia TV, CazéTV, GE TV, CNN Brasil, Jo
 https://raw.githubusercontent.com/0uand/iptv-mundial/main/youtube.m3u
 ```
 
-No ar na última verificação (2026-10-09 21:17 UTC): **0** de 46 canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.
-
-## 📺 uandtv
-
-Canal próprio com programação 24 h montada a partir de vídeos públicos do YouTube (lista em [`data/uandtv.txt`](data/uandtv.txt)). Duas formas de assistir:
-
-- **Web (canal contínuo, com logo):** `https://0uand.github.io/iptv-mundial/tv/` — página que toca a grade sincronizada pelo relógio, no navegador, Safari do iPhone ou via AirPlay/Chromecast. Requer o GitHub Pages ligado (Settings → Pages → branch `main`, pasta `/ (root)`).
-- **IPTV (um item por vídeo):** grupo `📺 uandtv` dentro do `index.m3u`, ou separado em
-
-```
-https://raw.githubusercontent.com/0uand/iptv-mundial/main/uandtv.m3u
-```
-
-Apps de IPTV só tocam streams, não páginas web — por isso na lista cada vídeo é um item. As URLs são renovadas a cada 4 h junto com o YouTube TV.
+No ar na última verificação (2026-10-09 22:19 UTC): **11** de 56 canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.
 
 ## 🎬 Filmes, séries, desenhos, shows e festivais (VOD)
 
@@ -72,9 +59,9 @@ Shows e festivais: vídeos **públicos dos canais oficiais** no YouTube — Coac
 
 | Catálogo | Títulos | Playlist |
 |---|---:|---|
-| 🎬 Filmes (por categoria) | 1.989 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
+| 🎬 Filmes (por categoria) | 1.988 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
 | 🎤 Shows, festivais e surf | 0 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/shows.m3u` |
-| 📺 Séries (episódios) | 328 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
+| 📺 Séries (episódios) | 329 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
 | 📺 Desenhos | 220 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/desenhos.m3u` |
 
 **Categorias de filmes:** Premiados e Aclamados · Recentes (cinema aberto: Blender, Nina Paley, Kung Fury, Star Wreck, documentários CC) · 🇧🇷 Nacionais (memória: cinejornais e registros históricos) · Comédia · Drama · Terror · Ficção Científica · Faroeste · Noir e Suspense · Romance · Guerra · Aventura · Musical · Família · Animação · Documentário · Cinema Mudo · Clássicos por década. **Séries:** Comédia · Faroeste · Suspense e Crime · Ficção e Terror · Aventura · Drama · Game Shows e Variedades · Documentário · Desenhos — agrupadas por série, com temporada/episódio.

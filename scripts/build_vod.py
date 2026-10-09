@@ -136,13 +136,13 @@ json.dump(cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=
 def film_category(d, rule):
     title = s(d.get("title")); text = f"{title} {s(d.get('subject'))} {s(d.get('description'))[:400]}"
     y = year(d)
-    if rule == "memoria": return "VOD Filmes | 🇧🇷 Nacionais · Memória (cinejornais e registros históricos)"
-    if rule == "open": return "VOD Filmes | Recentes · cinema aberto (licença livre)"
-    if PREMIADOS.search(re.sub(r"\s*\(.*?\)\s*", " ", title).strip()): return "VOD Filmes | Premiados e Aclamados"
+    if rule == "memoria": return "Movies | 🇧🇷 Nacionais · Memória (cinejornais e registros históricos)"
+    if rule == "open": return "Movies | Recentes · cinema aberto (licença livre)"
+    if PREMIADOS.search(re.sub(r"\s*\(.*?\)\s*", " ", title).strip()): return "Movies | Premiados e Aclamados"
     for cat, rx in GENRES:
-        if re.search(rx, text, re.I): return f"VOD Filmes | {cat}"
+        if re.search(rx, text, re.I): return f"Movies | {cat}"
     dec = f"Anos {y // 10 * 10}" if y else "Clássicos"
-    return f"VOD Filmes | Clássicos · {dec}"
+    return f"Movies | Clássicos · {dec}"
 def series_genre(show, d):
     text = f"{show} {s(d.get('subject'))} {s(d.get('description'))[:300]}"
     for cat, rx in SERIES_GENRES:

@@ -21,8 +21,8 @@ FLAG = {"br":"🇧🇷","us":"🇺🇸","uk":"🇬🇧","pt":"🇵🇹","de":"�
 def resolve(row):
     url = f"https://www.youtube.com/@{row['handle']}/live"
     import time
-    for attempt in range(4):
-      for client in ("android", "android_vr", "web_embedded", "tv_embedded", "ios"):
+    for attempt in range(int(os.environ.get("YT_ATTEMPTS", "4"))):
+      for client in os.environ.get("YT_CLIENTS", "android,android_vr,web_embedded,tv_embedded,ios").split(","):
         cmd = ["yt-dlp", "-q", "--no-warnings", "--no-playlist",
                "--extractor-args", f"youtube:player_client={client}",
                "-f", "best[protocol^=m3u8]/best", "-g",
@@ -43,7 +43,7 @@ def resolve(row):
     return dict(row, hls=None, reason="bloqueado")
 
 rows = list(csv.DictReader(open(SRC, encoding="utf-8")))
-with ThreadPoolExecutor(max_workers=3) as ex:
+with ThreadPoolExecutor(max_workers=int(os.environ.get("YT_WORKERS", "3"))) as ex:
     results = list(ex.map(resolve, rows))
 
 live = [r for r in results if r.get("hls")]

@@ -1,11 +1,11 @@
 # 📺 IPTV Mundial
 
-**16.052 canais de TV** de **176 países** + **0 lives do YouTube** + **2.537 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
+**16.052 canais de TV** de **176 países** + **2.537 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
 
 _Última atualização: 09/10/2026_
 
 > ### ✅ Isto não é pirataria
-> Todos os canais desta lista são **transmissões públicas e gratuitas disponibilizadas pelas próprias emissoras** na internet (sinal aberto, canais FAST como Pluto TV / Samsung TV Plus / Roku, lives oficiais no YouTube e acervos de domínio público do Internet Archive). Nenhum stream é hospedado ou retransmitido aqui: o repositório apenas organiza links que já são de acesso público, a partir da base aberta do projeto [iptv-org](https://github.com/iptv-org/iptv). Não há canais pagos, nem conteúdo de assinatura (Netflix, Globoplay, HBO etc.). Se você é titular de um canal e quer removê-lo, abra uma *issue*.
+> Todos os canais desta lista são **transmissões públicas e gratuitas disponibilizadas pelas próprias emissoras** na internet (sinal aberto, canais FAST como Pluto TV / Samsung TV Plus / Roku, acervos de domínio público do Internet Archive). Nenhum stream é hospedado ou retransmitido aqui: o repositório apenas organiza links que já são de acesso público, a partir da base aberta do projeto [iptv-org](https://github.com/iptv-org/iptv). Não há canais pagos, nem conteúdo de assinatura (Netflix, Globoplay, HBO etc.). Se você é titular de um canal e quer removê-lo, abra uma *issue*.
 
 ## 🚀 Como usar — 3 listas
 
@@ -13,8 +13,8 @@ Adicione as três como playlists separadas no seu app (IPTV Smarters, TiviMate, 
 
 | Divisão | Conteúdo | URL |
 |---|---|---|
-| 📡 **TV ao vivo** | 16.083 canais — TV Aberta Brasil e Surf no topo, YouTube TV, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
-| 🎬 **Filmes** | 1.988 títulos — clássicos em domínio público + shows e festivais | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
+| 📡 **TV ao vivo** | 16.083 canais — TV Aberta Brasil e Surf no topo, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
+| 🎬 **Filmes** | 1.988 títulos — por categoria (premiados, gêneros, décadas, cinema aberto) | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
 | 📺 **Séries** | 549 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
 
 Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uand/iptv-mundial/main/index.m3u`
@@ -25,8 +25,6 @@ Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uan
 |---|---:|---|
 | ⭐ TV Aberta Brasil (Globo, SBT, Record, Band, RedeTV!, Cultura, TV Brasil, Gazeta, GloboNews, BandNews, Record News, SBT News, CNN Brasil, Jovem Pan…) | 22 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/tv-aberta-brasil.m3u` |
 | 🏄 Surf & Ação (Surf Cinema, SURFER TV, Fuel TV, Red Bull TV, Inside Outside, Outside TV, Nautical Channel, Extreme Sports) | 9 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/surf.m3u` |
-
-No YouTube TV também entram World Surf League e Red Bull quando estão ao vivo; em Filmes há a seção 🏄 Surf com replays e highlights da WSL e do Red Bull Surf.
 
 ## 🎵 Música e Entretenimento (destaque)
 
@@ -41,26 +39,13 @@ No YouTube TV também entram World Surf League e Red Bull quando estão ao vivo;
 
 Dentro de cada país, Música e Entretenimento aparecem sempre como as primeiras categorias.
 
-## ▶️ YouTube TV
-
-Canais que transmitem ao vivo no YouTube (Dia TV, CazéTV, GE TV, CNN Brasil, Jovem Pan News, Lofi Girl, NASA, Sky News, WSL, Coachella…). O YouTube amarra cada URL ao IP de quem resolveu e ela expira em ~6 h — por isso esta parte é renovada por um **resolvedor que roda na rede de casa** (Mac, a cada 4 h): veja [`scripts/home/README.md`](scripts/home/README.md). Só entram canais ao vivo no momento (CazéTV e GE TV, por exemplo, só em jogos e eventos).
-
-```
-https://raw.githubusercontent.com/0uand/iptv-mundial/main/youtube.m3u
-```
-
-No ar na última verificação (2026-10-09 22:19 UTC): **0** de 56 canais monitorados. Lista completa em [`data/youtube.csv`](data/youtube.csv) — sugestões de canais são bem-vindas via *issue*.
-
-## 🎬 Filmes, séries, desenhos, shows e festivais (VOD)
+## 🎬 Filmes, séries e desenhos (VOD)
 
 Filmes e séries: acervo de **domínio público** do [Internet Archive](https://archive.org) (títulos até 1963 ou com licença livre declarada): clássicos do cinema, ficção/terror, cinema mudo, séries de TV clássicas e animações antigas. Os arquivos ficam hospedados no próprio Archive.
-
-Shows e festivais: vídeos **públicos dos canais oficiais** no YouTube — Coachella, BBC Radio 1 (Live Lounge, Big Weekend), BBC Music (Glastonbury, Proms), Capital FM (Summertime Ball, Jingle Bell Ball), Boiler Room, Cercle, Tiny Desk, KEXP — e surf (WSL, Red Bull). Como as URLs do YouTube expiram, esta seção é renovada periodicamente.
 
 | Catálogo | Títulos | Playlist |
 |---|---:|---|
 | 🎬 Filmes (por categoria) | 1.988 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
-| 🎤 Shows, festivais e surf | 0 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/shows.m3u` |
 | 📺 Séries (episódios) | 329 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
 | 📺 Desenhos | 220 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/desenhos.m3u` |
 
@@ -311,7 +296,6 @@ Replay é um recurso do servidor de cada emissora, e pouquíssimos streams públ
 | Workflow | Frequência | O que faz |
 |---|---|---|
 | `update.yml` | semanal (seg) | regenera canais, VOD e sonda replay |
-| `youtube.yml` | a cada 4 h | renova as lives do YouTube (o YouTube costuma bloquear os IPs do GitHub; quando isso acontece a lista anterior é mantida) |
 | `epg.yml` | diário | gera o guia de programação |
 
 ## 📄 Licença

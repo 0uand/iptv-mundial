@@ -20,18 +20,20 @@
   #tv { position: fixed; inset: 0; background: #000; }
 
   /* O player é esticado um pouco além da tela para esconder as bordas/UI do YouTube */
+  /* Quadro 16:9 centralizado, cabendo inteiro na tela (sem corte). Logo e barra ficam DENTRO do quadro. */
+  #frame { container-type: size; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: min(100vw, 177.78vh); height: min(100vh, 56.25vw); aspect-ratio: 16 / 9; overflow: hidden; background: #000; }
   #player-wrap { position: absolute; inset: 0; overflow: hidden; }
-  #player { position: absolute; top: 50%; left: 50%; width: 100vw; height: 56.25vw; min-height: 100vh; min-width: 177.78vh; transform: translate(-50%, -50%); }
+  #player { position: absolute; inset: 0; width: 100%; height: 100%; }
 
   /* Escudo invisível: bloqueia hover/clique no iframe, assim a interface do YouTube não aparece */
   #shield { position: absolute; inset: 0; cursor: default; }
 
   /* Logo no canto */
-  #logo { position: absolute; z-index: 3; pointer-events: none; opacity: .92; filter: drop-shadow(0 2px 8px rgba(0,0,0,.6)); }
-  #logo img { display: block; height: var(--logo-size, 56px); width: auto; max-width: 40vw; }
-  #logo.tr { top: 24px; right: 24px; }  #logo.tl { top: 24px; left: 24px; }
-  #logo.br { bottom: 24px; right: 24px; } #logo.bl { bottom: 24px; left: 24px; }
-  #logo .text { font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: -.02em; font-size: var(--logo-size, 28px); line-height: 1; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); }
+  #logo { position: absolute; z-index: 4; pointer-events: none; opacity: .9; filter: drop-shadow(0 2px 8px rgba(0,0,0,.6)); }
+  #logo img { display: block; height: clamp(22px, 5cqh, 90px); width: auto; max-width: 40vw; }
+  #logo.tr { top: 4%; right: 3%; }  #logo.tl { top: 4%; left: 3%; }
+  #logo.br { bottom: 5%; right: 3%; } #logo.bl { bottom: 5%; left: 3%; }
+  #logo .text { font-size: clamp(16px, 2.6cqw, 40px) !important; font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing: -.02em; font-size: var(--logo-size, 28px); line-height: 1; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); }
 
   /* Barra "agora / a seguir" — aparece ao mover o mouse e some sozinha */
   #bar { position: absolute; left: 0; right: 0; bottom: 0; z-index: 3; padding: 18px 24px calc(18px + env(safe-area-inset-bottom, 0px)); background: linear-gradient(transparent, rgba(0,0,0,.85)); display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; opacity: 0; transition: opacity .35s; pointer-events: none; }
@@ -62,6 +64,7 @@
 <body>
 
 <div id="tv">
+  <div id="frame">
   <div id="player-wrap"><div id="player"></div></div>
   <div id="shield"></div>
   <div id="logo" class="tr"></div>
@@ -76,6 +79,7 @@
       <button id="fs">⛶ Tela cheia</button>
     </div>
   </div>
+  </div><!-- /frame -->
   <div id="power">
     <div class="scan"></div>
     <div>

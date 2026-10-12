@@ -11,6 +11,8 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="⭐ TV Aberta Brasil",Canal Rural [FHD]
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" tvg-type="live" group-title="⭐ TV Aberta Brasil",CNN Brasil [FHD]
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="CulturaFast.br@SD" tvg-logo="https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png" tvg-type="live" group-title="⭐ TV Aberta Brasil",Cultura Fast [HD]
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" tvg-type="live" group-title="⭐ TV Aberta Brasil",GloboNews [FHD]
@@ -25,9 +27,9 @@ http://45.162.64.114/RECORD_NEWS/index.m3u8
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" tvg-type="live" group-title="⭐ TV Aberta Brasil",Rede Globo [FHD]
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-type="live" group-title="⭐ TV Aberta Brasil",Rede TV! [HD]
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="⭐ TV Aberta Brasil",Rede TV! [HD]
 http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-type="live" group-title="⭐ TV Aberta Brasil",Rede TV! SP [HD]
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="⭐ TV Aberta Brasil",Rede TV! SP [HD]
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/sbt_black_1_b78d9ef3d9.png" tvg-type="live" group-title="⭐ TV Aberta Brasil",SBT Nacional [FHD]
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8

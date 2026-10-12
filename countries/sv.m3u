@@ -70,7 +70,5 @@ https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="TribunaTV.sv@SD" tvg-logo="https://i.imgur.com/C5vHpd0.png" tvg-type="live" group-title="🇸🇻 El Salvador | Notícias",TribunaTV [HD]
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
-#EXTINF:-1 tvg-id="TVMElSalvador.sv@SD" tvg-logo="https://i.imgur.com/fyCC8R6.png" tvg-type="live" group-title="🇸🇻 El Salvador | Notícias",TVM El Salvador [HD]
-https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
-#EXTINF:-1 tvg-id="TVMElSalvador.sv@SD" tvg-logo="https://i.imgur.com/fyCC8R6.png" tvg-type="live" group-title="🇸🇻 El Salvador | Notícias",TVM El Salvador (fonte 2)
+#EXTINF:-1 tvg-id="TVMElSalvador.sv@SD" tvg-logo="https://i.imgur.com/fyCC8R6.png" tvg-type="live" group-title="🇸🇻 El Salvador | Notícias",TVM El Salvador
 http://201.247.102.189/tmp_hls/stream/index.m3u8

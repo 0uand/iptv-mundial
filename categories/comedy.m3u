@@ -36,7 +36,9 @@ http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America [FHD] (fonte 3)
 http://181.78.79.131:8000/play/a0mu
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America (fonte 4)
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America [FHD] (fonte 4)
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Latin America (fonte 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://103.111.40.244:9999/play/a0i5/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Central Pluto TV
@@ -369,6 +371,12 @@ http://88.212.15.19/live/tv2_comedy/index.m3u8
 https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" tvg-type="live" group-title="🇷🇴 Romênia | Comédia",Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 tvg-id="InPuiiMei.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/05/07/aUyRzOHx0tkHM6SXjA9K.png" tvg-type="live" group-title="🇷🇴 Romênia | Comédia",In Puii Mei [SD]
+https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
+#EXTINF:-1 tvg-id="iRoast.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/05/07/1CKR5EoJo1qeSZCe9lkT.png" tvg-type="live" group-title="🇷🇴 Romênia | Comédia",iRoast [SD]
+https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+#EXTINF:-1 tvg-id="iUmor.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/05/07/pB32HtJzC1i0xlH75Rb0.png" tvg-type="live" group-title="🇷🇴 Romênia | Comédia",iUmor [SD]
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1 tvg-id="ETVComedy.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",ETV Comedy [FHD]
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇮🇳 Índia | Comédia",Failarmy International
@@ -382,33 +390,23 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",alpha Cinema [FHD]
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-id="Kamedi.ru@HD" tvg-logo="https://i.imgur.com/UU4SGuk.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kamedi HD [FHD]
-http://str2.iptvhd.ru:8080/Kinopokaz_HD2/index.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija [SD]
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija [SD] (fonte 2)
 https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Kinokomedija [SD] (fonte 3)
-http://str2.iptvhd.ru:8080/Komediya_TV/index.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia [SD]
 http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia [SD] (fonte 2)
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komedia [SD] (fonte 3)
-http://str2.iptvhd.ru:8080/russkaya_komedia/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru@HD" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",Komediynoe HD [FHD]
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV [SD]
 http://178.124.179.122:8080/KVN-TV/index.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV [SD] (fonte 2)
 https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",KVN TV [SD] (fonte 3)
-http://str2.iptvhd.ru:8080/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD [FHD]
 http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD [FHD] (fonte 2)
-http://str2.iptvhd.ru:8080/TV1000_Comedy_HD/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",viju+ Comedy HD [FHD] (fonte 3)
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru@SD" tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-type="live" group-title="🇷🇺 Rússia | Comédia",КВН ТВ [SD]
 http://31.148.48.15/KVN_TV/index.m3u8
@@ -416,8 +414,6 @@ http://31.148.48.15/KVN_TV/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="GEMComedy.tr@SD" tvg-logo="https://i.imgur.com/FuscfJW.png" tvg-type="live" group-title="🇹🇷 Turkiye | Comédia",GEM Comedy
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="HOTComedy.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/08/HOTComedyCentral.svg/250px-HOTComedyCentral.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Comédia",HOT Comedy [FHD]
-http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8
 #EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Comédia",Drybar Comedy
 https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Comédia",The Chat Show Channel [FHD]

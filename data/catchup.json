@@ -1,132 +1,188 @@
 {
-"https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6071": {
-"source": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6071&utc={utc}&lutc={lutc}",
+"https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068": {
+"type": "default",
+"source": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068&utc={utc}&lutc={lutc}",
 "days": 1,
 "server": ""
 },
-"https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8": {
-"source": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8?utc={utc}&lutc={lutc}",
+"https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074": {
+"type": "default",
+"source": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6074&utc={utc}&lutc={lutc}",
 "days": 1,
 "server": ""
-},
-"https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8": {
-"source": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": ""
-},
-"https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8": {
-"source": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": ""
-},
-"https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8": {
-"source": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "sdn/1.0"
-},
-"https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8": {
-"source": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx"
-},
-"https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8": {
-"source": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx"
-},
-"https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8": {
-"source": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx"
-},
-"https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8": {
-"source": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx/1.18.0 (ubuntu)"
-},
-"https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8": {
-"source": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx"
-},
-"http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8": {
-"source": "http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "mediacdn"
-},
-"https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8": {
-"source": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "amazons3"
-},
-"https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)": {
-"source": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": ""
-},
-"https://stream-live.lrt.lt/klasika/master.m3u8": {
-"source": "https://stream-live.lrt.lt/klasika/master.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx/1.26.3"
-},
-"https://stream-live.lrt.lt/opus/master.m3u8": {
-"source": "https://stream-live.lrt.lt/opus/master.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx/1.26.3"
-},
-"https://stream-live.lrt.lt/radijas/master.m3u8": {
-"source": "https://stream-live.lrt.lt/radijas/master.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx/1.26.3"
-},
-"https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8": {
-"source": "https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "streamer 24.10"
 },
 "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion": {
+"type": "default",
 "source": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion&utc={utc}&lutc={lutc}",
 "days": 1,
 "server": "nginx/1.28.2"
 },
 "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion": {
+"type": "default",
 "source": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion&utc={utc}&lutc={lutc}",
 "days": 1,
 "server": "nginx/1.28.2"
 },
-"https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion": {
-"source": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion&utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx/1.28.2"
-},
-"https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion": {
-"source": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion&utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx/1.28.2"
-},
-"https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion": {
-"source": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion&utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx/1.28.2"
-},
-"https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8": {
-"source": "https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "bunnycdn-il1-1348"
-},
-"http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8": {
-"source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8?utc={utc}&lutc={lutc}",
+"https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8": {
+"type": "default",
+"source": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
 "server": "nginx"
 },
+"https://www.desde-paraguay.com/pro.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "nginx"
+},
+"https://www.desde-paraguay.com/mega.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "nginx"
+},
+"https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8": {
+"type": "default",
+"source": "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": ""
+},
+"https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8": {
+"type": "default",
+"source": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": ""
+},
+"https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8": {
+"type": "default",
+"source": "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": ""
+},
+"https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8": {
+"type": "default",
+"source": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "sdn/1.0"
+},
+"https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8": {
+"type": "default",
+"source": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "sdn/1.0"
+},
+"https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8": {
+"type": "default",
+"source": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "amazons3"
+},
+"https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)": {
+"type": "default",
+"source": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": ""
+},
+"https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "nginx/1.24.0 (ubuntu)"
+},
 "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8": {
+"type": "default",
 "source": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
 "server": "seaweedfs 30gb 3.73 d7c3564 ( katapy v3."
 },
-"https://cdn.pishow.tv/ott/live/258/master.m3u8": {
-"source": "https://cdn.pishow.tv/ott/live/258/master.m3u8?utc={utc}&lutc={lutc}",
+"https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8": {
+"type": "default",
+"source": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
-"server": "onstream/1.26.2"
+"server": "nginx/1.18.0 (ubuntu)"
+},
+"http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8": {
+"type": "default",
+"source": "http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "mediacdn"
+},
+"http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8": {
+"type": "default",
+"source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "nginx"
+},
+"https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "nginx"
+},
+"http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8": {
+"type": "default",
+"source": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "ersrv"
+},
+"https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "nimble/4.3.3-2"
+},
+"https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "nginx"
+},
+"https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8": {
+"type": "default",
+"source": "https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "bunnycdn-la1-1111"
+},
+"https://stream-live.lrt.lt/opus/master.m3u8": {
+"type": "default",
+"source": "https://stream-live.lrt.lt/opus/master.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "nginx/1.26.3"
+},
+"https://stream-live.lrt.lt/klasika/master.m3u8": {
+"type": "default",
+"source": "https://stream-live.lrt.lt/klasika/master.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "nginx/1.26.3"
+},
+"https://stream-live.lrt.lt/radijas/master.m3u8": {
+"type": "default",
+"source": "https://stream-live.lrt.lt/radijas/master.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "nginx/1.26.3"
+},
+"https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "nimble/4.3.3-2"
+},
+"https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "streamer 25.12.1"
+},
+"http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "streamer 22.01"
+},
+"https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8": {
+"type": "default",
+"source": "https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "streamer 24.10"
 }
 }

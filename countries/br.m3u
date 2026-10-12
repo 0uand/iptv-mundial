@@ -367,6 +367,8 @@ http://168.197.104.22/SONY_MOVIES/index.m3u8
 http://170.83.16.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-logo="https://i.imgur.com/BHYWG0h.png" tvg-type="live" group-title="🇧🇷 Brasil | Filmes",Telecine Action [FHD]
 http://46.151.196.223:14326/
+#EXTINF:-1 tvg-id="PlusMaisUm.br@HD" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",+MaisUm [HD]
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇧🇷 Brasil | Geral",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇧🇷 Brasil | Geral",A Feiticeira
@@ -584,19 +586,19 @@ https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede SPTV [SD]
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD]
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD]
 http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD] (fonte 2)
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD] (fonte 2)
 http://168.197.104.22/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD] (fonte 3)
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD] (fonte 3)
 http://170.83.16.50/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD] (fonte 4)
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD] (fonte 4)
 http://170.83.49.66:8083/REDETVHD/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD] (fonte 5)
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! [HD] (fonte 5)
 http://186.219.52.187/rede_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! SP [HD]
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! SP [HD]
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVParana.br@SD" tvg-logo="https://i.imgur.com/D8R0Af4.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
@@ -987,6 +989,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/play
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD" tvg-logo="https://i.imgur.com/G0x4xqa.png" tvg-type="live" group-title="🇧🇷 Brasil | Notícias",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" tvg-type="live" group-title="🇧🇷 Brasil | Notícias",CNN Brasil [FHD]
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-type="live" group-title="🇧🇷 Brasil | Notícias",Euronews Portuguese [HD]
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" tvg-type="live" group-title="🇧🇷 Brasil | Notícias",GloboNews [FHD]

@@ -69,7 +69,7 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://v2.tustreaming.cl/tevex/index.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl@SD" tvg-logo="https://i.imgur.com/FnInQRd.png" tvg-type="live" group-title="🇨🇱 Chile | Negócios",Tevex [HD] (fonte 2)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="CanalPro.py@SD" tvg-logo="https://i.imgur.com/ah8n7jL.png" tvg-type="live" group-title="🇵🇾 Paraguai | Negócios",Canal Pro
+#EXTINF:-1 tvg-id="CanalPro.py@SD" tvg-logo="https://i.imgur.com/ah8n7jL.png" tvg-type="live" group-title="🇵🇾 Paraguai | Negócios" catchup="flussonic" catchup-days="3",Canal Pro
 #EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
 https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:-1 tvg-id="ZuracaTV.bo@SD" tvg-logo="https://i.imgur.com/NsNytWD.jpeg" tvg-type="live" group-title="🇧🇴 Bolívia | Negócios",Zuraca TV [HD]
@@ -143,8 +143,6 @@ http://stream2.xiancity.cn/xatv3/playlist.m3u8
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-type="live" group-title="🇷🇺 Rússia | Negócios",RBK-TV [SD]
 http://176.118.197.101/RBK/index.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-type="live" group-title="🇷🇺 Rússia | Negócios",RBK-TV [SD] (fonte 2)
-http://str2.iptvhd.ru:8080/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-type="live" group-title="🇷🇺 Rússia | Negócios",RBK-TV SD [SD]
 http://hls127.freeott.top:8080/RBK/video.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-type="live" group-title="🇷🇺 Rússia | Negócios",РБК [SD]
@@ -185,8 +183,6 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
 #EXTINF:-1 tvg-id="QBC.qa@HD" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" tvg-type="live" group-title="🇶🇦 Catar | Negócios",QBC [FHD] (fonte 2)
 https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" tvg-type="live" group-title="🇸🇬 Singapura | Negócios",CNBC Asia [HD]
-http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Negócios",Bloomberg TV Asia [HD]
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Negócios",Bloomberg TV Asia Live Event [HD]

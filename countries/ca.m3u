@@ -68,9 +68,7 @@ https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/sams
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHotCountry.ca@SD" tvg-logo="https://i.imgur.com/PZhxyIT.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray Hot Country [FHD]
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayiConcerts.ca@HD" tvg-logo="https://i.imgur.com/GKc7RFz.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray iConcerts HD [FHD]
-http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8
-#EXTINF:-1 tvg-id="StingrayiConcerts.ca@HD" tvg-logo="https://i.imgur.com/GKc7RFz.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray iConcerts HD (fonte 2)
+#EXTINF:-1 tvg-id="StingrayiConcerts.ca@HD" tvg-logo="https://i.imgur.com/GKc7RFz.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray iConcerts HD
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray Italo Disco [FHD]
 https://lotus.stingray.com/manifest/ose-311ads-montreal/samsungtvplus/master.m3u8
@@ -282,6 +280,8 @@ https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" tvg-type="live" group-title="🇨🇦 Canadá | Esportes",TSN The Ocho [FHD]
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-logo="https://i.imgur.com/qJyAWU8.png" tvg-type="live" group-title="🇨🇦 Canadá | Esportes",TSN4 [HD]
+http://109.104.153.220:80/TSN-4/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" tvg-type="live" group-title="🇨🇦 Canadá | Esportes",Willow Sports [HD]
 https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US" tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-type="live" group-title="🇨🇦 Canadá | Esportes",World Poker Tour

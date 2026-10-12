@@ -101,7 +101,7 @@ https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 #EXTINF:-1 tvg-id="CasaItalia53.it@SD" tvg-logo="https://i.imgur.com/X8BI1Md.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",Casa Italia 53 [HD]
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Juwelo.it@SD" tvg-logo="https://i.imgur.com/T3r1khc.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",Juwelo Italia [SD]
+#EXTINF:-1 tvg-id="Juwelo.it@SD" tvg-logo="https://i.imgur.com/T3r1khc.png" tvg-type="live" group-title="🇮🇹 Itália | Compras" catchup="default" catchup-source="https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",Juwelo Italia [SD]
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-id="QVC.it@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",QVC Italia [SD]
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
@@ -151,8 +151,6 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 tvg-id="HighTV.gr@SD" tvg-logo="https://i.imgur.com/8gHuwt7.png" tvg-type="live" group-title="🇬🇷 Grécia | Compras",High TV [HD]
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-id="PropexTV.in@SD" tvg-logo="https://i.ibb.co/fYTXkfL/unnamed.png" tvg-type="live" group-title="🇮🇳 Índia | Compras",Propex TV [SD]
-http://51.75.127.199:3141/propextv/index.m3u8
 #EXTINF:-1 tvg-id="FengshangShoppingChannel.cn@SD" tvg-logo="https://i.imgur.com/WNhfnUR.png" tvg-type="live" group-title="🇨🇳 China | Compras",风尚购物 [FHD]
 http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 #EXTINF:-1 tvg-id="Leomax24.ru@SD" tvg-logo="https://i.imgur.com/qU9ohQu.png" tvg-type="live" group-title="🇷🇺 Rússia | Compras",Leomax 24 [FHD]

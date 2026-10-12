@@ -15,6 +15,8 @@ https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
 https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8
 #EXTINF:-1 tvg-id="NorCastWeather.us@HD" tvg-logo="https://i.imgur.com/AfjoZgo.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",NorCast Weather [FHD]
 https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us@SD" tvg-logo="https://i.imgur.com/PIaNjfa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",The Weather Channel [FHD]
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://i.imgur.com/XP817GN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",WeatherNation [FHD]
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://i.imgur.com/XP817GN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",WeatherNation [FHD] (fonte 2)

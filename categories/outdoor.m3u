@@ -57,6 +57,8 @@ https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",Outdoor Channel HD [HD] (fonte 2)
 http://107.167.16.138/OutdoorChannel/index.m3u8?token=test
+#EXTINF:-1 tvg-id="OutdoorChannel.us@Vietnam" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",Outdoor Channel Vietnam [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://i.imgur.com/0UMmG41.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",Outside TV [FHD]
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://i.imgur.com/0UMmG41.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",Outside TV [FHD] (fonte 2)
@@ -155,18 +157,14 @@ http://hls127.freeott.top:8080/Dikiy/video.m3u8
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Moya Planeta [FHD]
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Moya Planeta [FHD] (fonte 2)
-http://str2.iptvhd.ru:8080/IQ_HD/index.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Moya Planeta [SD] (fonte 3)
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Moya Planeta [SD] (fonte 2)
 http://stream.mcquack.net/124/index.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Moya Planeta [SD] (fonte 4)
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Moya Planeta [SD] (fonte 3)
 https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Ohotnik i rybolov HD [FHD]
 http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Ohotnik i rybolov HD [FHD] (fonte 2)
-http://str2.iptvhd.ru:8080/Ohotnik_i_Ryibolov_HD/index.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka [SD]
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka (fonte 2)

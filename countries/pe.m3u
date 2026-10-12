@@ -443,7 +443,9 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Willax TV [FHD]
 http://190.93.224.42/WILLAX/index.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Willax TV [HD] (fonte 2)
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Willax TV [FHD] (fonte 2)
+http://170.244.209.30:8000/play/a1id/index.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Willax TV [HD] (fonte 3)
 http://187.102.210.46/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="Wtv.pe@SD" tvg-logo="https://i.imgur.com/V10iVeh.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Wtv [HD]
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
@@ -477,15 +479,19 @@ https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Canal N [FHD]
 http://187.102.208.209:8000/play/a0az/index.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Canal N [SD] (fonte 2)
+#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Canal N [FHD] (fonte 2)
+http://170.244.209.30:8000/play/a1ib/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Canal N [SD] (fonte 3)
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe@SD" tvg-logo="https://i.imgur.com/cfHaLt2.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Conecta2TV [HD]
 https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [FHD]
 http://190.93.224.42/EXITOSA/index.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [HD] (fonte 2)
-https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [FHD] (fonte 2)
+http://170.244.209.30:8000/play/a1ic/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [HD] (fonte 3)
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [HD] (fonte 4)
 http://187.102.210.46/EXITOSA/index.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe@SD" tvg-logo="https://i.imgur.com/1LuNEX4.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",FuegoTV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36

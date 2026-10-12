@@ -22,6 +22,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc4976
 #EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Entretenimento",MBC Persia [HD] (fonte 2)
 https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Animação",Spacetoon Arabic [SD]
+#EXTVLCOPT:http-referrer=https://spacetoon.com
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" tvg-logo="https://i.imgur.com/Hoc3cfO.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Documentários",Al Arabiya Programs [FHD]
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8

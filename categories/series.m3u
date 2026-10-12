@@ -1117,34 +1117,28 @@ https://all3media-homes-under-the-hammer-1-fi.samsung.wurl.tv/playlist.m3u8
 http://92.114.85.87:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="Cops.us@Poland" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",COPS
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
+#EXTINF:-1 tvg-id="PolsatSeriale.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Polsat Seriale [FHD]
+http://57.128.210.196:8080/196/index.m3u8
 #EXTINF:-1 tvg-id="ZNation.us@SD" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-logo="https://i.imgur.com/k0VO0LH.png" tvg-type="live" group-title="🇷🇴 Romênia | Séries",Mireasa [HD]
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-id="5minuttishiny.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" tvg-type="live" group-title="🇷🇺 Rússia | Séries",5 minut tishiny [FHD]
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
-#EXTINF:-1 tvg-id="A2.ru@SD" tvg-logo="https://i.imgur.com/NqHla2V.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",A2 [SD]
-http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8
 #EXTINF:-1 tvg-id="A2.ru@SD" tvg-logo="https://i.imgur.com/NqHla2V.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Amedia 2 [SD]
 http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Balabol [FHD]
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="FoxLife.ru@SD" tvg-logo="https://i.imgur.com/O2miSLA.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Fox Life [SD]
 http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1 tvg-id="FXLife.ru@SD" tvg-logo="https://i.imgur.com/VLv4r50.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",FX Life [SD]
-http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Mir Seriala [SD]
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Nevskiy [FHD]
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",NTV Series [SD]
 http://stream.mcquack.net/301/index.m3u8
-#EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",NTV Series [SD] (fonte 2)
-http://str2.iptvhd.ru:8080/ntvserial/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://i.imgur.com/FfKBvz5.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",NTV-Hit [SD]
 http://178.134.1.158:8081/ntvhit/index.m3u8
-#EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://i.imgur.com/FfKBvz5.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",NTV-Hit [SD] (fonte 2)
-http://str2.iptvhd.ru:8080/ntv_hit/index.m3u8
 #EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Perviy otdel [FHD]
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:-1 tvg-id="Pes.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Pes [FHD]
@@ -1174,8 +1168,6 @@ http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",viju+ Serial HD [FHD]
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",viju+ Serial HD [FHD] (fonte 2)
-http://str2.iptvhd.ru:8080/VIP_Serial_HD/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",viju+ Serial HD [FHD] (fonte 3)
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Мир Сериала [SD]
 http://31.148.48.15/Mir_Seriala/index.m3u8
@@ -1206,8 +1198,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 #EXTINF:-1 tvg-id="HOTDrama.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Séries",HOT Drama [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/381/index.m3u8
-#EXTINF:-1 tvg-id="VivaTelenovelas.il@SD" tvg-logo="https://static.g-cdn.app/streams/viva-il.png" tvg-type="live" group-title="🇮🇱 Israel | Séries",Viva Telenovelas [FHD]
-http://str2.iptvhd.ru:8080/VIVA/index.m3u8
 #EXTINF:-1 tvg-id="YamTichoni.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Séries",Yam Tichoni [FHD]
 http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 tvg-id="DramaChannel.th@SD" tvg-logo="https://i.imgur.com/ill1Ux6.png" tvg-type="live" group-title="🇹🇭 Tailândia | Séries",MV Mall DD [FHD]

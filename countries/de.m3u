@@ -208,6 +208,8 @@ https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-a
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [HD] (fonte 2)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",Da Vinci Asia Vietnam [FHD]
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
 #EXTINF:-1 tvg-id="iSTUFF.de@SD" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",iSTUFF [HD]
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="NRWision.de@SD" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",NRWision [FHD]
@@ -242,6 +244,8 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 tvg-id="DMAX.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Estilo de vida",DMAX [SD]
 http://5.180.164.197:8080/DMAX/index.m3u8
+#EXTINF:-1 tvg-id="TLC.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Estilo de vida",TLC [SD]
+https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="live" group-title="🇩🇪 Alemanha | Família",Rakuten TV Family Movies Germany [FHD]
 https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-id="Moviedome.us@Germany" tvg-logo="https://i.imgur.com/8c54ycg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Filmes",MOVIEDOME [HD]
@@ -560,7 +564,9 @@ https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
 https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben Maxx
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben Maxx [SD]
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben Maxx (fonte 2)
 http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben Maxx HD [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
@@ -765,17 +771,19 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [FHD] (fonte 2)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [HD] (fonte 3)
-http://170.83.16.50/DW/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [FHD] (fonte 3)
+https://freem3u.xyz/api/live/play.m3u8?vid=109
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [HD] (fonte 4)
+http://170.83.16.50/DW/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [HD] (fonte 5)
 https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 5)
-http://stream.mcquack.net/440/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 6)
-https://cdn-7.pishow.tv/live/431/master.m3u8
+http://stream.mcquack.net/440/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 7)
-https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+https://cdn-7.pishow.tv/live/431/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 8)
+https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 9)
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW Espanol [FHD]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8

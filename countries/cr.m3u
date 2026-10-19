@@ -17,7 +17,9 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-id="VintageMusic.cr@SD" tvg-logo="https://i.imgur.com/KImqYnN.jpeg" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",Vintage Music [HD]
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 tvg-id="VMLatino.cr@SD" tvg-logo="https://i.imgur.com/Dvo1b82.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",VM Latino [HD]
+#EXTINF:-1 tvg-id="VMLatino.cr@SD" tvg-logo="https://i.imgur.com/Dvo1b82.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",VM Latino [FHD]
+http://45.163.139.42:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="VMLatino.cr@SD" tvg-logo="https://i.imgur.com/Dvo1b82.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",VM Latino [HD] (fonte 2)
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="VoiceOverRadioTV.cr@SD" tvg-logo="https://i.imgur.com/HzGs1Eh.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",VoiceOver Radio TV [HD]
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
@@ -33,6 +35,8 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="https://i.imgur.com/5Rc8mA5.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",TeleMas [HD]
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="XperTV.cr@SD" tvg-logo="https://i.imgur.com/0Aftiln.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",XperTV [FHD]
+http://45.163.139.42:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="https://i.imgur.com/300c1ZH.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",¡OPA! [HD]
 https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇨🇷 Costa Rica | Animação",Extrema Kids TV

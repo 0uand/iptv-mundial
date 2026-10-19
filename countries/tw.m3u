@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="CTiVariety.tw@SD" tvg-logo="https://i.imgur.com/tqsKObw.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",CTi Variety (中天綜合台) [HD]
 http://23.237.10.66:16372
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",Discovery Asia Taiwan [FHD]
+http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",TVBS Asia [FHD]
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="MOMOTV.tw@SD" tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-type="live" group-title="🇹🇼 Taiwan | Compras",MOMO TV [FHD]

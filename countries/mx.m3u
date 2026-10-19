@@ -224,6 +224,8 @@ https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
 #EXTINF:-1 tvg-id="PXSports.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" tvg-type="live" group-title="🇲🇽 México | Esportes",PX Sports [FHD]
 http://38.252.238.18:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="PXSports.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" tvg-type="live" group-title="🇲🇽 México | Esportes",PX Sports [FHD] (fonte 2)
+http://38.65.175.84:8000/play/a0ku/index.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@ES" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-type="live" group-title="🇲🇽 México | Esportes",Red Bull TV ES [HD]
 https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
 #EXTINF:-1 tvg-id="TVCuatro43.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-type="live" group-title="🇲🇽 México | Esportes",TV Cuatro 4.3 [FHD]
@@ -236,6 +238,8 @@ https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@SD" tvg-logo="https://i.imgur.com/Pvid2iH.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Adrenalina Pura TV [HD]
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-logo="https://i.imgur.com/B5UN7C8.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Az Cinema [FHD]
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" tvg-type="live" group-title="🇲🇽 México | Filmes",CineLatino [HD]
 http://206.135.11.174:8010/play/a0lq/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" tvg-type="live" group-title="🇲🇽 México | Filmes",CineLatino [HD] (fonte 2)
@@ -256,7 +260,9 @@ http://181.119.66.28:8081/DE-PELICULA/index.m3u8
 http://209.14.115.253:8081/DE-PELICULA/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Latin America [FHD] (fonte 4)
 http://190.60.55.141:9083/play/a0nf/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Latin America [HD] (fonte 5)
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Latin America [FHD] (fonte 5)
+http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Latin America [HD] (fonte 6)
 http://181.224.200.5:2277/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx@SD" tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Plus [FHD]
 http://200.115.120.1:8000/play/ca030/index.m3u8
@@ -264,8 +270,12 @@ http://200.115.120.1:8000/play/ca030/index.m3u8
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx@SD" tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Golden Premier [FHD]
 http://200.229.147.210:9999/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx@SD" tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Golden Premier [FHD] (fonte 2)
+http://200.57.28.141:8540/play/a0ln
 #EXTINF:-1 tvg-id="GoldenPremier2.mx@SD" tvg-logo="https://i.imgur.com/GBlvQBI.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Golden Premier 2 [FHD]
 http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier2.mx@SD" tvg-logo="https://i.imgur.com/GBlvQBI.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Golden Premier 2 [FHD] (fonte 2)
+http://200.57.28.141:8540/play/a0lo
 #EXTINF:-1 tvg-id="MultiPremier.mx@SD" tvg-logo="https://i.imgur.com/H3PzGZW.png" tvg-type="live" group-title="🇲🇽 México | Filmes",MultiPremier [FHD]
 http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" tvg-type="live" group-title="🇲🇽 México | Filmes",MyTime Movie Network Mexico [HD]
@@ -437,7 +447,9 @@ http://209.14.115.253:8081/GOLDEN/index.m3u8
 http://181.224.200.5:2277/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-type="live" group-title="🇲🇽 México | Geral",Golden [FHD] (fonte 4)
 http://168.196.127.137:6001/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-type="live" group-title="🇲🇽 México | Geral",Golden [HD] (fonte 5)
+#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-type="live" group-title="🇲🇽 México | Geral",Golden [FHD] (fonte 5)
+http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-type="live" group-title="🇲🇽 México | Geral",Golden [HD] (fonte 6)
 http://138.121.15.230:9002/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" tvg-type="live" group-title="🇲🇽 México | Geral",Golden Edge [FHD]
 http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
@@ -451,6 +463,8 @@ http://181.78.12.119:16123/play/ch47/index.m3u8
 http://181.224.200.5:2277/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" tvg-type="live" group-title="🇲🇽 México | Geral",Golden Edge [FHD] (fonte 6)
 http://168.196.127.137:6001/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" tvg-type="live" group-title="🇲🇽 México | Geral",Golden Edge [FHD] (fonte 7)
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx@SD" tvg-logo="https://i.imgur.com/OOEkyM2.png" tvg-type="live" group-title="🇲🇽 México | Geral",Golden Plus [FHD]
 http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇽 México | Geral",Hechiceras

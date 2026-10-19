@@ -5,13 +5,9 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldoCriador.br@SD" tvg-logo="https://i.imgur.com/k29So6X.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal do Criador [FHD]
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [FHD]
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [FHD] (fonte 2)
-https://cdn2.easy.tv.br/canalrural/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD] (fonte 3)
+#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD]
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD] (fonte 4)
+#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD] (fonte 2)
 http://186.219.52.187/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Fish TV [FHD]
 http://190.128.214.97:64333/play/a006/index.m3u8
@@ -136,10 +132,10 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVEuropean.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-type="live" group-title="🇦🇹 Áustria | Outdoor",Swamiji TV European [FHD]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-type="live" group-title="🇭🇺 Hungria | Outdoor",The Fishing & Hunting Channel
-http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
+http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@HD" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-type="live" group-title="🇭🇺 Hungria | Outdoor",The Fishing & Hunting Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/fishing_hun/index.m3u8
+http://88.212.15.17/live/fishing_hun/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png" tvg-type="live" group-title="🇷🇴 Romênia | Outdoor",Agro TV [SD]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-type="live" group-title="🇮🇳 Índia | Outdoor",Outdoor Channel [FHD]
@@ -169,8 +165,6 @@ http://stream.mcquack.net/194/index.m3u8
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka (fonte 2)
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Rybalkaiokhota.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Rybalka i okhota [SD]
-https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Rybolov.ru@SD" tvg-logo="https://i.imgur.com/wJMTcFS.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Rybolov [SD]
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Моя Планета [HD]

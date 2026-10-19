@@ -84,9 +84,11 @@ http://15.204.246.24:8080/F10HD/index.m3u8
 https://edge.enhdtv.com/faptv/index.m3u8
 #EXTINF:-1 tvg-id="FAPTV.bo@SD" tvg-logo="https://i.imgur.com/jZ7g58e.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",FAP TV [SD] (fonte 2)
 https://nd106.republicaservers.com/hls/c7284/index.m3u8
-#EXTINF:-1 tvg-id="Gigavision.bo@SD" tvg-logo="https://i.imgur.com/fE3BkcT.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Gigavision [HD]
+#EXTINF:-1 tvg-id="Gigavision.bo@SantaCruz" tvg-logo="https://i.imgur.com/fE3BkcT.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Gigavision [FHD]
+http://158.172.155.130:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="Gigavision.bo@SD" tvg-logo="https://i.imgur.com/fE3BkcT.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Gigavision [HD] (fonte 2)
 https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
-#EXTINF:-1 tvg-id="Gigavision.bo@SD" tvg-logo="https://i.imgur.com/fE3BkcT.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Gigavision (fonte 2)
+#EXTINF:-1 tvg-id="Gigavision.bo@SD" tvg-logo="https://i.imgur.com/fE3BkcT.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Gigavision (fonte 3)
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 #EXTINF:-1 tvg-id="ImperialTV.bo@SD" tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Imperial TV [HD]
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
@@ -98,6 +100,8 @@ https://mist01.homestream.fun/hls/interactivotv/index.m3u8
 http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo@SD" tvg-logo="https://i.imgur.com/wAIBvaO.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Palenque TV (fonte 2)
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+#EXTINF:-1 tvg-id="PAT.bo@SantaCruz" tvg-logo="https://i.imgur.com/4A7R2Jt.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",PAT [FHD]
+http://158.172.155.130:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="PATLaPaz.bo@SD" tvg-logo="" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",PAT La Paz [SD]
 http://15.204.246.24:8080/PATSD/index.m3u8
 #EXTINF:-1 tvg-id="PlusTLT.bo@SD" tvg-logo="" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Plus TLT [HD]
@@ -116,17 +120,23 @@ https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 http://15.204.246.24:8080/DTVHD/index.m3u8
 #EXTINF:-1 tvg-id="RedRubi.bo@SD" tvg-logo="https://i.imgur.com/Y4KOypc.jpeg" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Red Rubi [HD]
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="RedUno.bo@SD" tvg-logo="https://i.imgur.com/wfNaEV9.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Red Uno [HD]
-http://190.181.18.82:4111/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz" tvg-logo="https://i.imgur.com/wfNaEV9.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Red Uno [FHD]
+http://190.181.61.93:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo@SD" tvg-logo="https://i.imgur.com/wfNaEV9.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Red Uno [HD] (fonte 2)
+http://190.181.18.82:4111/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SD" tvg-logo="https://i.imgur.com/wfNaEV9.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Red Uno [HD] (fonte 3)
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@LaPaz" tvg-logo="https://i.imgur.com/wfNaEV9.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Red Uno La Paz [FHD]
+http://190.181.61.93:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD" tvg-logo="" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Red Uno Santa Cruz [FHD]
 http://190.181.18.82:4111/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",RTP [SD]
-https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",RTP [FHD]
+http://190.181.61.93:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",RTP [SD] (fonte 2)
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",RTP [SD] (fonte 3)
 https://rtp.noxun.net/hls480/stream2.m3u8
-#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",RTP (fonte 3)
+#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",RTP (fonte 4)
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SolTV.bo@SD" tvg-logo="https://i.imgur.com/2m8PVpA.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Sol TV [HD]
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
@@ -154,6 +164,8 @@ https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 https://master.tucableip.com/tvlatina/index.m3u8
 #EXTINF:-1 tvg-id="TVUSucre.bo@SD" tvg-logo="https://i.imgur.com/7c0b4Y4.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",TVU Sucre [HD]
 https://edge.enhdtv.com/8214/index.m3u8
+#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz" tvg-logo="https://i.imgur.com/B9wg1zj.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Unitel [FHD]
+http://190.181.61.93:8000/play/1909/index.m3u8
 #EXTINF:-1 tvg-id="UnitelCochabamba.bo@SD" tvg-logo="" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Unitel Cochabamba [HD]
 https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
 #EXTINF:-1 tvg-id="UnitelCochabamba.bo@SD" tvg-logo="" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Unitel Cochabamba [HD] (fonte 2)

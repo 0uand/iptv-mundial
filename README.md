@@ -1,8 +1,8 @@
 # 📺 IPTV Mundial
 
-**15.742 canais de TV** de **176 países** + **2.545 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
+**15.920 canais de TV** de **177 países** + **2.545 filmes, séries e desenhos** em domínio público — tudo com guia de programação (EPG) e organizado por país e categoria.
 
-_Última atualização: 12/10/2026_
+_Última atualização: 19/10/2026_
 
 > ### ✅ Isto não é pirataria
 > Todos os canais desta lista são **transmissões públicas e gratuitas disponibilizadas pelas próprias emissoras** na internet (sinal aberto, canais FAST como Pluto TV / Samsung TV Plus / Roku, acervos de domínio público do Internet Archive). Nenhum stream é hospedado ou retransmitido aqui: o repositório apenas organiza links que já são de acesso público, a partir da base aberta do projeto [iptv-org](https://github.com/iptv-org/iptv). Não há canais pagos, nem conteúdo de assinatura (Netflix, Globoplay, HBO etc.). Se você é titular de um canal e quer removê-lo, abra uma *issue*.
@@ -13,9 +13,9 @@ Adicione as três como playlists separadas no seu app (IPTV Smarters, TiviMate, 
 
 | Divisão | Conteúdo | URL |
 |---|---|---|
-| 📡 **TV ao vivo** | 15.774 canais — TV Aberta Brasil e Surf no topo, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
-| 🎬 **Filmes** | 1.997 títulos — por categoria (premiados, gêneros, décadas, cinema aberto) | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
-| 📺 **Séries** | 548 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
+| 📡 **TV ao vivo** | 15.952 canais — TV Aberta Brasil e Surf no topo, depois todos os países | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/tv.m3u` |
+| 🎬 **Filmes** | 1.998 títulos — por categoria (premiados, gêneros, décadas, cinema aberto) | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/filmes.m3u` |
+| 📺 **Séries** | 547 episódios — séries de TV clássicas e desenhos | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/series.m3u` |
 
 Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uand/iptv-mundial/main/index.m3u`
 
@@ -30,10 +30,10 @@ Ou tudo numa lista só (grande, ~15 MB): `https://raw.githubusercontent.com/0uan
 
 | Lista | Canais | Playlist |
 |---|---:|---|
-| 🎵 Música — todos os países | 1172 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/musica-mundial.m3u` |
-| 🎭 Entretenimento — todos os países | 1185 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/entretenimento-mundial.m3u` |
+| 🎵 Música — todos os países | 1177 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/musica-mundial.m3u` |
+| 🎭 Entretenimento — todos os países | 1192 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/entretenimento-mundial.m3u` |
 | 📺 Só canais 4K / UHD | 17 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/4k-uhd.m3u` |
-| 📺 Só canais Full HD (1080p ou mais) | 4731 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/full-hd.m3u` |
+| 📺 Só canais Full HD (1080p ou mais) | 4829 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/full-hd.m3u` |
 | 🎤 Vevo (todos os canais Vevo do mundo) | 50 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/vevo.m3u` |
 | 🇧🇷 Música e Entretenimento — Brasil | 45 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/hubs/musica-e-entretenimento-brasil.m3u` |
 
@@ -45,8 +45,8 @@ Filmes e séries: acervo de **domínio público** do [Internet Archive](https://
 
 | Catálogo | Títulos | Playlist |
 |---|---:|---|
-| 🎬 Filmes (por categoria) | 1.997 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
-| 📺 Séries (episódios) | 328 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
+| 🎬 Filmes (por categoria) | 1.998 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/filmes.m3u` |
+| 📺 Séries (episódios) | 327 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/series.m3u` |
 | 📺 Desenhos | 220 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/vod/desenhos.m3u` |
 
 **Categorias de filmes:** Premiados e Aclamados · LGBT (pioneiros e clássicos: Different from the Others 1919, Salomé 1923, A Caixa de Pandora 1929, Glen or Glenda 1953…) · Recentes (cinema aberto: Blender, Nina Paley, Kung Fury, Star Wreck, documentários CC) · 🇧🇷 Nacionais (memória: cinejornais e registros históricos) · Comédia · Drama · Terror · Ficção Científica · Faroeste · Noir e Suspense · Romance · Guerra · Aventura · Musical · Família · Animação · Documentário · Cinema Mudo · Clássicos por década. **Séries:** Comédia · Faroeste · Suspense e Crime · Ficção e Terror · Aventura · Drama · Game Shows e Variedades · Documentário · Desenhos — agrupadas por série, com temporada/episódio.
@@ -66,128 +66,128 @@ Guia gerado diariamente neste repositório com o [iptv-org/epg](https://github.c
 https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz
 ```
 
-Última geração: 2026-10-12 06:04 UTC — 2.522 canais com programação, 181.170 programas.
+Última geração: 2026-10-19 06:07 UTC — 2.834 canais com programação, 217.892 programas.
 
 ## ⏪ Replay (catchup)
 
-Replay é um recurso do servidor de cada emissora, e pouquíssimos streams públicos oferecem. A cada atualização semanal todos os canais são sondados; os que têm arquivo recebem as tags `catchup` / `catchup-source` / `catchup-days` (compatíveis com TiviMate, IPTV Smarters, OTT Navigator, Kodi). Atualmente: **31 canais com replay**.
+Replay é um recurso do servidor de cada emissora, e pouquíssimos streams públicos oferecem. A cada atualização semanal todos os canais são sondados; os que têm arquivo recebem as tags `catchup` / `catchup-source` / `catchup-days` (compatíveis com TiviMate, IPTV Smarters, OTT Navigator, Kodi). Atualmente: **30 canais com replay**.
 
 ## 🌎 Por país
 
 | País | Canais | Playlist |
 |---|---:|---|
-| 🇧🇷 Brasil | 568 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/br.m3u` |
-| 🇺🇸 Estados Unidos | 2459 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/us.m3u` |
-| 🇬🇧 Reino Unido | 613 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/uk.m3u` |
-| 🇲🇽 México | 411 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/mx.m3u` |
-| 🇦🇷 Argentina | 221 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ar.m3u` |
-| 🇨🇴 Colômbia | 221 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/co.m3u` |
-| 🇨🇱 Chile | 254 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cl.m3u` |
-| 🇵🇪 Peru | 258 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pe.m3u` |
-| 🇻🇪 Venezuela | 80 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ve.m3u` |
-| 🇪🇨 Equador | 97 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ec.m3u` |
+| 🇧🇷 Brasil | 561 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/br.m3u` |
+| 🇺🇸 Estados Unidos | 2476 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/us.m3u` |
+| 🇬🇧 Reino Unido | 617 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/uk.m3u` |
+| 🇲🇽 México | 418 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/mx.m3u` |
+| 🇦🇷 Argentina | 224 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ar.m3u` |
+| 🇨🇴 Colômbia | 234 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/co.m3u` |
+| 🇨🇱 Chile | 256 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cl.m3u` |
+| 🇵🇪 Peru | 259 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pe.m3u` |
+| 🇻🇪 Venezuela | 81 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ve.m3u` |
+| 🇪🇨 Equador | 98 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ec.m3u` |
 | 🇺🇾 Uruguai | 3 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/uy.m3u` |
 | 🇵🇾 Paraguai | 75 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/py.m3u` |
-| 🇧🇴 Bolívia | 95 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/bo.m3u` |
+| 🇧🇴 Bolívia | 101 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/bo.m3u` |
 | 🇩🇴 República Dominicana | 240 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/do.m3u` |
-| 🇨🇷 Costa Rica | 72 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cr.m3u` |
-| 🇵🇦 Panamá | 17 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pa.m3u` |
+| 🇨🇷 Costa Rica | 74 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cr.m3u` |
+| 🇵🇦 Panamá | 18 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pa.m3u` |
 | 🇬🇹 Guatemala | 52 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/gt.m3u` |
-| 🇭🇳 Honduras | 74 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/hn.m3u` |
+| 🇭🇳 Honduras | 75 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/hn.m3u` |
 | 🇸🇻 El Salvador | 36 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/sv.m3u` |
 | 🇳🇮 Nicarágua | 16 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ni.m3u` |
 | 🇨🇺 Cuba | 5 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cu.m3u` |
 | 🇵🇷 Porto Rico | 22 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pr.m3u` |
 | 🇵🇹 Portugal | 45 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pt.m3u` |
-| 🇪🇸 Espanha | 400 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/es.m3u` |
+| 🇪🇸 Espanha | 399 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/es.m3u` |
 | 🇨🇦 Canadá | 344 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ca.m3u` |
-| 🇩🇪 Alemanha | 419 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/de.m3u` |
-| 🇫🇷 França | 459 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/fr.m3u` |
-| 🇮🇹 Itália | 420 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/it.m3u` |
-| 🇯🇵 Japão | 19 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/jp.m3u` |
-| 🇰🇷 Coreia do Sul | 81 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/kr.m3u` |
-| 🇦🇺 Austrália | 118 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/au.m3u` |
-| 🇳🇱 Holanda | 225 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/nl.m3u` |
+| 🇩🇪 Alemanha | 423 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/de.m3u` |
+| 🇫🇷 França | 458 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/fr.m3u` |
+| 🇮🇹 Itália | 422 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/it.m3u` |
+| 🇯🇵 Japão | 20 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/jp.m3u` |
+| 🇰🇷 Coreia do Sul | 80 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/kr.m3u` |
+| 🇦🇺 Austrália | 121 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/au.m3u` |
+| 🇳🇱 Holanda | 227 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/nl.m3u` |
 | 🇨🇭 Suíça | 28 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ch.m3u` |
 | 🇧🇪 Bélgica | 64 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/be.m3u` |
 | 🇸🇪 Suécia | 231 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/se.m3u` |
 | 🇳🇴 Noruega | 196 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/no.m3u` |
 | 🇩🇰 Dinamarca | 250 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/dk.m3u` |
-| 🇫🇮 Finlândia | 51 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/fi.m3u` |
+| 🇫🇮 Finlândia | 50 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/fi.m3u` |
 | 🇮🇪 Irlanda | 10 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ie.m3u` |
 | 🇦🇹 Áustria | 45 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/at.m3u` |
-| 🇵🇱 Polônia | 190 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pl.m3u` |
+| 🇵🇱 Polônia | 267 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pl.m3u` |
 | 🇬🇷 Grécia | 72 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/gr.m3u` |
-| 🇨🇿 República Tcheca | 75 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cz.m3u` |
-| 🇭🇺 Hungria | 145 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/hu.m3u` |
-| 🇷🇴 Romênia | 159 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ro.m3u` |
-| 🇮🇳 Índia | 1206 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/in.m3u` |
+| 🇨🇿 República Tcheca | 86 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cz.m3u` |
+| 🇭🇺 Hungria | 152 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/hu.m3u` |
+| 🇷🇴 Romênia | 175 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ro.m3u` |
+| 🇮🇳 Índia | 1223 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/in.m3u` |
 | 🇨🇳 China | 508 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cn.m3u` |
-| 🇷🇺 Rússia | 1202 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ru.m3u` |
-| 🇹🇷 Turkiye | 224 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/tr.m3u` |
+| 🇷🇺 Rússia | 1167 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ru.m3u` |
+| 🇹🇷 Turkiye | 229 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/tr.m3u` |
 | 🇸🇦 Arábia Saudita | 49 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/sa.m3u` |
 | 🇦🇪 Emirados Árabes | 35 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ae.m3u` |
-| 🇶🇦 Catar | 44 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/qa.m3u` |
+| 🇶🇦 Catar | 53 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/qa.m3u` |
 | 🇮🇱 Israel | 39 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/il.m3u` |
 | 🇿🇦 África do Sul | 12 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/za.m3u` |
 | 🇳🇬 Nigéria | 38 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ng.m3u` |
 | 🇪🇬 Egito | 12 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/eg.m3u` |
-| 🇮🇩 Indonésia | 169 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/id.m3u` |
-| 🇹🇭 Tailândia | 93 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/th.m3u` |
-| 🇻🇳 Vietnã | 91 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/vn.m3u` |
+| 🇮🇩 Indonésia | 171 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/id.m3u` |
+| 🇹🇭 Tailândia | 87 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/th.m3u` |
+| 🇻🇳 Vietnã | 92 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/vn.m3u` |
 | 🇵🇭 Filipinas | 6 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ph.m3u` |
 | 🇲🇾 Malásia | 13 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/my.m3u` |
-| 🇸🇬 Singapura | 18 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/sg.m3u` |
-| 🇭🇰 Hong Kong | 14 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/hk.m3u` |
-| 🇹🇼 Taiwan | 43 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/tw.m3u` |
+| 🇸🇬 Singapura | 21 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/sg.m3u` |
+| 🇭🇰 Hong Kong | 13 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/hk.m3u` |
+| 🇹🇼 Taiwan | 44 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/tw.m3u` |
 | 🇳🇿 Nova Zelândia | 78 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/nz.m3u` |
 | 🇺🇦 Ucrânia | 211 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ua.m3u` |
-| 🇮🇷 Irã | 138 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ir.m3u` |
+| 🇮🇷 Irã | 137 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ir.m3u` |
 | 🇸🇰 Eslováquia | 107 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/sk.m3u` |
 | 🇵🇰 Paquistão | 106 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/pk.m3u` |
 | 🇲🇳 Mongólia | 99 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/mn.m3u` |
 | 🇧🇬 Bulgária | 83 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/bg.m3u` |
 | 🇰🇿 Cazaquistão | 63 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/kz.m3u` |
-| 🇮🇶 Iraque | 47 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/iq.m3u` |
-| 🇷🇸 Sérvia | 47 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/rs.m3u` |
+| 🇮🇶 Iraque | 48 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/iq.m3u` |
+| 🇷🇸 Sérvia | 48 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/rs.m3u` |
 | 🇰🇭 Camboja | 39 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/kh.m3u` |
-| 🇺🇿 Uzbequistão | 37 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/uz.m3u` |
+| 🇺🇿 Uzbequistão | 38 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/uz.m3u` |
 | 🇧🇩 Bangladesh | 34 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/bd.m3u` |
 | 🇧🇾 Belarus | 32 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/by.m3u` |
 | 🇱🇧 Líbano | 27 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/lb.m3u` |
-| 🇲🇩 Moldávia | 27 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/md.m3u` |
+| 🇲🇰 Macedônia do Norte | 26 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/mk.m3u` |
 | 🇬🇪 Geórgia | 25 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ge.m3u` |
+| 🇲🇩 Moldávia | 24 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/md.m3u` |
 | 🇦🇱 Albânia | 23 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/al.m3u` |
-| 🇲🇰 Macedônia do Norte | 23 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/mk.m3u` |
 | 🇭🇷 Croácia | 22 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/hr.m3u` |
+| 🇸🇮 Eslovênia | 22 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/si.m3u` |
 | 🇦🇿 Azerbaijão | 21 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/az.m3u` |
-| 🇸🇮 Eslovênia | 21 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/si.m3u` |
 | 🇵🇸 Palestine | 21 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ps.m3u` |
 | 🇱🇻 Letônia | 20 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/lv.m3u` |
 | 🇳🇵 Nepal | 19 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/np.m3u` |
 | 🇲🇲 Myanmar | 18 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/mm.m3u` |
 | 🇰🇪 Quênia | 18 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ke.m3u` |
+| 🇨🇲 Camarões | 17 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cm.m3u` |
 | 🇪🇪 Estônia | 17 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ee.m3u` |
 | 🇯🇴 Jordânia | 17 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/jo.m3u` |
+| 🇱🇰 Sri Lanka | 17 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/lk.m3u` |
 | 🇹🇯 Tajiquistão | 17 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/tj.m3u` |
 | 🇧🇦 Bósnia | 16 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ba.m3u` |
-| 🇨🇲 Camarões | 16 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cm.m3u` |
-| 🇱🇰 Sri Lanka | 16 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/lk.m3u` |
+| 🇱🇹 Lituânia | 16 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/lt.m3u` |
+| 🇨🇩 RD Congo | 16 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cd.m3u` |
 | 🇹🇲 Turcomenistão | 16 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/tm.m3u` |
 | 🇦🇼 Aruba | 15 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/aw.m3u` |
 | 🇭🇹 Haiti | 15 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ht.m3u` |
-| 🇱🇹 Lituânia | 15 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/lt.m3u` |
-| 🇨🇩 RD Congo | 15 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cd.m3u` |
+| 🇱🇺 Luxemburgo | 15 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/lu.m3u` |
 | 🇸🇾 Síria | 15 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/sy.m3u` |
 | 🇨🇮 Costa do Marfim | 14 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ci.m3u` |
-| 🇱🇺 Luxemburgo | 14 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/lu.m3u` |
 | 🇲🇦 Marrocos | 14 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ma.m3u` |
 | 🇺🇬 Uganda | 14 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ug.m3u` |
 | 🇦🇫 Afeganistão | 13 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/af.m3u` |
+| 🇦🇲 Armênia | 13 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/am.m3u` |
 | 🇨🇾 Chipre | 13 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/cy.m3u` |
 | 🇰🇼 Kuwait | 13 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/kw.m3u` |
 | 🇲🇻 Maldives | 13 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/mv.m3u` |
-| 🇦🇲 Armênia | 12 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/am.m3u` |
 | 🇽🇰 Kosovo | 11 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/xk.m3u` |
 | 🇰🇬 Quirguistão | 11 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/kg.m3u` |
 | 🇸🇳 Senegal | 11 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/sn.m3u` |
@@ -231,6 +231,7 @@ Replay é um recurso do servidor de cada emissora, e pouquíssimos streams públ
 | 🇪🇭 Western Sahara | 3 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/eh.m3u` |
 | 🇦🇴 Angola | 2 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/ao.m3u` |
 | 🇧🇳 Brunei | 2 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/bn.m3u` |
+| 🇧🇮 Burundi | 2 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/bi.m3u` |
 | 🇹🇩 Chad | 2 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/td.m3u` |
 | 🇬🇶 Equatorial Guinea | 2 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/gq.m3u` |
 | 🇳🇦 Namíbia | 2 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/countries/na.m3u` |
@@ -257,33 +258,33 @@ Replay é um recurso do servidor de cada emissora, e pouquíssimos streams públ
 
 | Categoria | Canais | Playlist |
 |---|---:|---|
-| Música | 1172 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/music.m3u` |
-| Entretenimento | 1185 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/entertainment.m3u` |
-| Animação | 194 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/animation.m3u` |
-| Automotivo | 34 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/auto.m3u` |
-| Ciência | 26 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/science.m3u` |
-| Clima | 21 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/weather.m3u` |
+| Música | 1177 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/music.m3u` |
+| Entretenimento | 1192 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/entertainment.m3u` |
+| Animação | 199 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/animation.m3u` |
+| Automotivo | 37 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/auto.m3u` |
+| Ciência | 28 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/science.m3u` |
+| Clima | 22 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/weather.m3u` |
 | Clássicos | 71 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/classic.m3u` |
 | Compras | 89 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/shop.m3u` |
-| Comédia | 211 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/comedy.m3u` |
-| Culinária | 77 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/cooking.m3u` |
+| Comédia | 208 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/comedy.m3u` |
+| Culinária | 80 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/cooking.m3u` |
 | Cultura | 196 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/culture.m3u` |
-| Documentários | 338 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/documentary.m3u` |
-| Educação | 217 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/education.m3u` |
-| Esportes | 659 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/sports.m3u` |
-| Estilo de vida | 152 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/lifestyle.m3u` |
-| Família | 71 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/family.m3u` |
-| Filmes | 936 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/movies.m3u` |
-| Geral | 6852 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/general.m3u` |
-| Infantil | 454 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/kids.m3u` |
+| Documentários | 348 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/documentary.m3u` |
+| Educação | 218 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/education.m3u` |
+| Esportes | 688 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/sports.m3u` |
+| Estilo de vida | 159 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/lifestyle.m3u` |
+| Família | 73 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/family.m3u` |
+| Filmes | 951 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/movies.m3u` |
+| Geral | 6904 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/general.m3u` |
+| Infantil | 471 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/kids.m3u` |
 | Legislativo | 200 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/legislative.m3u` |
-| Negócios | 105 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/business.m3u` |
-| Notícias | 1680 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/news.m3u` |
-| Outdoor | 96 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/outdoor.m3u` |
+| Negócios | 108 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/business.m3u` |
+| Notícias | 1690 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/news.m3u` |
+| Outdoor | 93 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/outdoor.m3u` |
 | Pública | 6 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/public.m3u` |
 | Relax | 16 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/relax.m3u` |
-| Séries | 624 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/series.m3u` |
-| Viagem | 60 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/travel.m3u` |
+| Séries | 634 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/series.m3u` |
+| Viagem | 62 | `https://raw.githubusercontent.com/0uand/iptv-mundial/main/categories/travel.m3u` |
 
 ## ⚠️ Avisos
 

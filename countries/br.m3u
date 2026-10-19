@@ -125,6 +125,8 @@ https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDesenhosClassicos.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png" tvg-type="live" group-title="🇧🇷 Brasil | Clássicos",Pluto TV Desenhos Clássicos
 https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br@SD" tvg-logo="https://i.imgur.com/hIlEfhl.png" tvg-type="live" group-title="🇧🇷 Brasil | Clássicos",Retro Cartoon [HD]
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-type="live" group-title="🇧🇷 Brasil | Compras",1001 Noites [HD]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",Comedy Central Brasil [SD]
@@ -281,8 +283,6 @@ https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-type="live" group-title="🇧🇷 Brasil | Esportes",Red Bull TV BR [HD]
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
-#EXTINF:-1 tvg-id="SporTV.br@SD" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" tvg-type="live" group-title="🇧🇷 Brasil | Esportes",SporTV [FHD]
-http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 tvg-id="SporTV2.br@SD" tvg-logo="https://i.imgur.com/pBiUnb2.png" tvg-type="live" group-title="🇧🇷 Brasil | Esportes",SporTV 2 [FHD]
 http://195.178.110.110/sportv2/index.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-logo="https://i.imgur.com/mWOR8pi.png" tvg-type="live" group-title="🇧🇷 Brasil | Esportes",SporTV 3 [FHD]
@@ -656,7 +656,7 @@ https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
 https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 #EXTINF:-1 tvg-id="TOPBarca.pl@SD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Top Barça [HD]
 https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
-#EXTINF:-1 tvg-id="TV3Curitiba.br@SD" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV 3 Curitiba
+#EXTINF:-1 tvg-id="TV3Curitiba.br@SD" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV 3 Curitiba [HD]
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br@SD" tvg-logo="https://i.imgur.com/j51rBro.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
@@ -703,10 +703,6 @@ http://168.197.104.22/CANCAO_NOVA/index.m3u8
 http://170.83.16.50/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Cancao Nova [HD] (fonte 4)
 http://186.219.52.187/cancao_nova/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Cancao Nova [HD] (fonte 5)
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Cancao Nova [SD] (fonte 6)
-https://cdn-5.nxplay.com.br/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCarioca.br@SD" tvg-logo="https://i.imgur.com/mVWydMw.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Carioca [HD]
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br@SD" tvg-logo="https://i.imgur.com/xUs8gHV.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Cidade de Petrópolis [FHD]
@@ -755,16 +751,10 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="TVFuturo.br@SD" tvg-logo="https://i.imgur.com/xonrNBf.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Futuro [FHD]
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazeta [HD]
-http://45.162.64.114/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazeta [HD] (fonte 2)
 http://45.162.64.114/TV_GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazeta [HD] (fonte 3)
-http://168.197.104.22/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazeta [HD] (fonte 4)
-http://170.84.165.204/Gazeta_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazeta [HD] (fonte 5)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazeta [HD] (fonte 2)
 http://186.219.52.187/gazeta/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazeta [HD] (fonte 6)
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazeta [HD] (fonte 3)
 https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
 #EXTINF:-1 tvg-id="TVGazin.br@SD" tvg-logo="https://tvgazin.com.br/wp-content/uploads/2024/03/logo.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",TV Gazin [HD]
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8
@@ -1057,13 +1047,9 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldoCriador.br@SD" tvg-logo="https://i.imgur.com/k29So6X.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal do Criador [FHD]
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [FHD]
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [FHD] (fonte 2)
-https://cdn2.easy.tv.br/canalrural/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD] (fonte 3)
+#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD]
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD] (fonte 4)
+#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD] (fonte 2)
 http://186.219.52.187/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Fish TV [FHD]
 http://190.128.214.97:64333/play/a006/index.m3u8

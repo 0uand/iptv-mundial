@@ -19,12 +19,14 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 tvg-id="JOJGDTV.jp@SD" tvg-logo="" tvg-type="live" group-title="🇯🇵 Japão | Geral",JOJG-DTV [FHD]
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp@SD" tvg-logo="" tvg-type="live" group-title="🇯🇵 Japão | Geral",JORX-DTV
-https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="JOTXDTV.jp@SD" tvg-logo="" tvg-type="live" group-title="🇯🇵 Japão | Geral",JOTX-DTV
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp@SD" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-type="live" group-title="🇯🇵 Japão | Geral",NHK General TV [HD]
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="TBSTV.jp@JORXDTV" tvg-logo="https://i.imgur.com/dUn2GRn.png" tvg-type="live" group-title="🇯🇵 Japão | Geral",TBS TV [SD]
+#EXTVLCOPT:http-referrer=https://mov3.co/tbs.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan [FHD]
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan [HD] (fonte 2)
@@ -35,5 +37,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://cdn-7.pishow.tv/live/455/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan [SD] (fonte 5)
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan HD [HD]
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan HD [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan HD [HD] (fonte 2)
 http://170.83.16.50/NHK_WORLD/index.m3u8

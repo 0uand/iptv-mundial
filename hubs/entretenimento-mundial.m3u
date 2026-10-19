@@ -85,7 +85,7 @@ http://79.127.238.228:14551
 https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AceTV.us@SD" tvg-logo="https://i.imgur.com/KtXQeeZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Ace TV [SD]
 https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento" catchup="default" catchup-source="https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068&utc={utc}&lutc={lutc}" catchup-days="1",AfroLand Comedy [FHD]
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",AfroLand Comedy [FHD]
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068
 #EXTINF:-1 tvg-id="AfroLandTV.us@SD" tvg-logo="https://i.imgur.com/jvnkrEF.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",AfroLandTV [FHD]
 https://alt-al.otteravision.com/alt/al/al.m3u8
@@ -116,7 +116,7 @@ http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
 http://85.14.32.26:8800/udp/239.100.10.18:5000
 #EXTINF:-1 tvg-id="AXNWhite.us@CzechRepublic" tvg-logo="https://i.imgur.com/47IKxmt.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",AXN White CzechRepublic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_white/playlist.m3u8
+http://88.212.15.17/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Poland" tvg-logo="https://i.imgur.com/47IKxmt.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",AXN White Poland [SD]
 http://185.227.34.179:8080/axn-white/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Portugal" tvg-logo="https://i.imgur.com/47IKxmt.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",AXN White Portugal [SD]
@@ -254,8 +254,9 @@ http://38.252.238.18:8000/play/a01c/index.m3u8
 http://168.196.127.137:6001/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",FX Latin America [FHD] (fonte 6)
 https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",FX Latin America South [HD]
-http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",FX Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8
 #EXTINF:-1 tvg-id="GalxyTV.us@SD" tvg-logo="https://i.imgur.com/7gZlQDn.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Galxy TV [HD]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2230
 #EXTINF:-1 tvg-id="GameShowCentral.us@SD" tvg-logo="https://i.imgur.com/Uuc5h1s.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Game Show Central [HD]
@@ -316,8 +317,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-id="LifetimeAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Lifetime Asia [FHD]
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Lifetime Asia [HD] (fonte 2)
-http://58.8.186.128:10006/bysid/2615
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Lifetime Latin America [FHD]
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Lifetime Latin America [FHD] (fonte 2)
@@ -358,8 +357,6 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-logo="https://i.imgur.com/5iT7hEa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",NBC LX Home [FHD]
 https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",NBC Universo West [HD]
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-logo="https://i.imgur.com/5iT7hEa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",NBCLX [FHD]
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="NingTV.la@SD" tvg-logo="https://i.imgur.com/ANnEPnK.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Ning TV [HD]
@@ -376,6 +373,9 @@ http://190.93.224.42/PASIONES/index.m3u8
 http://190.60.55.141:9083/play/a0ni/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/VGnbWjO.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Pasiones Latin America [FHD] (fonte 5)
 http://45.173.231.22:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/VGnbWjO.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Pasiones Latin America (fonte 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones/chunks.m3u8
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" tvg-logo="https://i.imgur.com/MsIx7Ax.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",People Are Awesome [FHD]
 https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us@US" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Entretenimento",Pluto TV Adventure
@@ -472,17 +472,19 @@ https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
 #EXTINF:-1 tvg-id="BBCBrit.uk@Poland" tvg-logo="https://i.imgur.com/i4remZo.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",BBC Brit [FHD]
 http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-id="BBCFirst.uk@Poland" tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",BBC First [FHD]
+http://57.128.231.171:8080/306/index.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Romania" tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",BBC First Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",BBC First Turkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.29/live/bbc_first/index.m3u8
+http://88.212.15.17/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-id="BestofDrPhil.us@SD" tvg-logo="https://i.imgur.com/Jj0wTFQ.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Best of Dr. Phil
 https://jmp2.uk/plu-65a7b01907e03a0008913e8f.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Crime + Investigation CEE
-http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
+http://88.212.15.17/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="E4.uk@SD" tvg-logo="https://i.imgur.com/22MfjF4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",E4 [SD]
 https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",ENT Channel [HD]
@@ -647,11 +649,14 @@ http://45.224.96.220:18000/play/a098/index.m3u8
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [FHD] (fonte 2)
 https://stream1.bitred.cl/rcn-novelas/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [HD] (fonte 3)
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [FHD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [HD] (fonte 4)
 http://170.238.200.199/rcn-novelas/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [SD] (fonte 4)
-http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [SD] (fonte 5)
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [SD] (fonte 6)
 http://181.65.191.173:8069/play/a061
 #EXTINF:-1 tvg-id="TeveColombia.co@SD" tvg-logo="https://i.imgur.com/vPwiJTw.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",TeveColombia [HD]
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
@@ -677,8 +682,6 @@ https://v1.tustreaming.cl/melinkana/index.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NadaEsImposibleTV.cl@SD" tvg-logo="https://i.imgur.com/cGNgvOD.png" tvg-type="live" group-title="🇨🇱 Chile | Entretenimento",Nada Es Imposible TV
 https://vdochile.com:3194/live/mvqutymylive.m3u8
-#EXTINF:-1 tvg-id="PRIDEtvLATAM.cl@HD" tvg-logo="" tvg-type="live" group-title="🇨🇱 Chile | Entretenimento",PRIDEtv LATAM [FHD]
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="ZonaPlayTV.cl@SD" tvg-logo="https://i.imgur.com/GewcpHv.png" tvg-type="live" group-title="🇨🇱 Chile | Entretenimento",Zona Play TV [HD]
 https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe@SD" tvg-logo="https://i.imgur.com/05gwtk2.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Antares Television
@@ -693,9 +696,11 @@ https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 http://190.93.224.42/LA-TELE/index.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",La Tele [FHD] (fonte 2)
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [SD]
-http://45.4.1.201:8000/play/a19y/index.m3u8
+#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [FHD]
+http://200.62.239.170:830/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [SD] (fonte 2)
+http://45.4.1.201:8000/play/a19y/index.m3u8
+#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [SD] (fonte 3)
 http://190.108.91.206:9050/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="NeoTV.pe@SD" tvg-logo="https://i.imgur.com/bS5JtYX.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Neo TV [HD]
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
@@ -826,6 +831,8 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="https://i.imgur.com/5Rc8mA5.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",TeleMas [HD]
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="XperTV.cr@SD" tvg-logo="https://i.imgur.com/0Aftiln.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",XperTV [FHD]
+http://45.163.139.42:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="https://i.imgur.com/300c1ZH.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",¡OPA! [HD]
 https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMax.pa@SD" tvg-logo="https://i.imgur.com/XcrkfGh.png" tvg-type="live" group-title="🇵🇦 Panamá | Entretenimento",TVMAX [HD]
@@ -1014,7 +1021,7 @@ https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTelerealiteFrance.de@FR" tvg-logo="https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png" tvg-type="live" group-title="🇫🇷 França | Entretenimento",Pluto TV Téléréalité France
 https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" tvg-type="live" group-title="🇫🇷 França | Entretenimento",RMC Life [FHD]
-http://145.239.5.177/333/index.m3u8
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-id="SciFi.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg" tvg-type="live" group-title="🇫🇷 França | Entretenimento",SciFi [HD]
 http://41.205.93.154/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="TeenMom.de@FR" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" tvg-type="live" group-title="🇫🇷 França | Entretenimento",Teen Mom [HD]
@@ -1363,10 +1370,16 @@ https://grupaatmrr.org.pl:8888/fallback/index.m3u8
 https://bsmbialogard.pl/live/index.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" tvg-type="live" group-title="🇵🇱 Polônia | Entretenimento",Crime + Investigation Polsat [FHD]
 http://57.128.231.171:8080/285/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" tvg-type="live" group-title="🇵🇱 Polônia | Entretenimento",Crime + Investigation Polsat (576i)
+http://92.114.85.87:8015/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Entretenimento",Discovery Channel [FHD]
+http://57.128.231.171:8080/282/index.m3u8
 #EXTINF:-1 tvg-id="E.pl@SD" tvg-logo="https://i.imgur.com/TWFDkap.png" tvg-type="live" group-title="🇵🇱 Polônia | Entretenimento",E! [FHD]
 http://57.128.231.171:8080/273/index.m3u8
 #EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" tvg-type="live" group-title="🇵🇱 Polônia | Entretenimento",Fox [FHD]
 http://57.128.231.171:8080/249/index.m3u8
+#EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" tvg-type="live" group-title="🇵🇱 Polônia | Entretenimento",Fox (576i)
+http://92.114.85.87:8015/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="LoneStar.us@Poland" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png" tvg-type="live" group-title="🇵🇱 Polônia | Entretenimento",Lone Star [HD]
 https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Entretenimento",MTV [FHD]
@@ -1390,9 +1403,9 @@ http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-logo="https://i.imgur.com/6NUpxhr.png" tvg-type="live" group-title="🇬🇷 Grécia | Entretenimento",STAR International [HD]
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="PrimaShow.cz@SD" tvg-logo="https://i.imgur.com/XbwAwkp.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Entretenimento",Prima Show [FHD]
-http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+http://88.212.15.17/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="SpektrumHome.cz@SD" tvg-logo="https://i.imgur.com/VaVi65F.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Entretenimento",Spektrum Home
-http://88.212.15.19/live/test_home_hevc/playlist.m3u8
+http://88.212.15.17/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="AlfoldTV.hu@SD" tvg-logo="https://i.imgur.com/W6jg8iM.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",Alföld TV [FHD]
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNSpin.hu@SD" tvg-logo="https://i.imgur.com/uVFenKm.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",AXN Spin
@@ -1407,30 +1420,30 @@ https://polska.hach.workers.dev/14847.m3u8
 http://88.212.15.17/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-id="FEM3.hu@SD" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",FEM3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
+http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="IzauraTV.hu@SD" tvg-logo="https://i.imgur.com/p9YFnpw.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",Izaura TV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/izaura/index.m3u8
+http://88.212.15.17/live/izaura/index.m3u8
 #EXTINF:-1 tvg-id="JockyTV.hu@SD" tvg-logo="https://i.imgur.com/wLawFVP.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",Jocky TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/jocky/index.m3u8
+http://88.212.15.17/live/jocky/index.m3u8
 #EXTINF:-1 tvg-id="LifeTV.hu@SD" tvg-logo="https://i.imgur.com/3znYv1N.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",Life TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/lifetv/index.m3u8
+http://88.212.15.17/live/lifetv/index.m3u8
 #EXTINF:-1 tvg-id="M2.hu@SD" tvg-logo="https://i.imgur.com/B0nYT0l.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",M2 [FHD]
-http://88.212.15.19/live/m2_hun/index.m3u8
+http://88.212.15.17/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-id="Moziklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",Moziklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/moziklub_atk/index.m3u8
+http://88.212.15.17/live/moziklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="RTLOtthon.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",RTL Otthon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
+http://88.212.15.17/live/rtl_otthon_atk/index.m3u8
 #EXTINF:-1 tvg-id="Sorozatklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",Sorozatklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/sorozatklub_atk/index.m3u8
+http://88.212.15.17/live/sorozatklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="SpektrumHome.hu@SD" tvg-logo="https://i.imgur.com/VaVi65F.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",Spektrum Home
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/spektrum_home_hun/index.m3u8
+http://88.212.15.17/live/spektrum_home_hun/index.m3u8
 #EXTINF:-1 tvg-id="ZugloTV.hu@SD" tvg-logo="https://i.imgur.com/wPqCtwR.png" tvg-type="live" group-title="🇭🇺 Hungria | Entretenimento",Zuglo TV [SD]
 https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Acasa.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png" tvg-type="live" group-title="🇷🇴 Romênia | Entretenimento",Acasa [FHD]
@@ -1535,6 +1548,10 @@ https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8
 https://cdn.pishow.tv/ott/live/11/master.m3u8
 #EXTINF:-1 tvg-id="DesiChannel.in@SD" tvg-logo="https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Desi Channel [HD]
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Discovery Channel [HD]
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Discovery Channel HD [HD]
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="E24.in@SD" tvg-logo="https://i.imgur.com/vCaPNTe.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",E 24 [SD]
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143018_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Enterr 10 Bangla [HD]
@@ -1778,7 +1795,9 @@ http://38.96.178.205/SONYHD/index.m3u8
 http://107.167.16.138/sonymarathi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Sony Pal [SD]
 http://59.103.38.46:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/70954ffc9bae055e09e48393b47570ea.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Sony SAB [SD]
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/70954ffc9bae055e09e48393b47570ea.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Sony SAB [HD]
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/70954ffc9bae055e09e48393b47570ea.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Sony SAB [SD] (fonte 2)
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 #EXTINF:-1 tvg-id="Spondon.in@SD" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Spondon [FHD]
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
@@ -1808,8 +1827,10 @@ https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="SubinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Subin TV [FHD]
 https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SunSurya.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Sun Surya HD [FHD]
+https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Sun TV HD [FHD]
-http://103.151.60.162:2122/play/a02a/index.m3u8?hls
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Suriya TV [FHD]
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Tarang TV [HD]
@@ -1864,7 +1885,9 @@ https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZeeMarathi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Zee Marathi HD [HD]
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Zee Tamil HD [HD]
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Zee Tamil HD [FHD]
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Zee Tamil HD [HD] (fonte 2)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Entretenimento",Zee Telugu HD [HD]
 https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
@@ -1942,16 +1965,10 @@ https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kluch.ru@SD" tvg-logo="https://i.imgur.com/WA9TOPi.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Kluch [SD]
 http://hls127.freeott.top:8080/Kluch/video.m3u8
-#EXTINF:-1 tvg-id="Oruzhie.ru@SD" tvg-logo="https://i.imgur.com/lfJQJqa.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Oruzhie [SD]
-https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="PeretzInternational.ru@SD" tvg-logo="https://i.imgur.com/On6ggLe.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Peretz International [SD]
 http://stream.mcquack.net/121/index.m3u8
-#EXTINF:-1 tvg-id="PeretzInternational.ru@SD" tvg-logo="https://i.imgur.com/On6ggLe.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Peretz International [SD] (fonte 2)
-https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Poehali! [SD]
-https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Poehali! [SD] (fonte 2)
-http://88.212.15.19/live/test_poehali/playlist.m3u8
+http://88.212.15.17/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" tvg-logo="https://i.imgur.com/NEcqFse.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Smotrim 100% Prazdnik [HD]
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Subbota! [FHD]
@@ -2074,8 +2091,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="NOWTV.tr@SD" tvg-logo="https://i.imgur.com/5EYjWK7.png" tvg-type="live" group-title="🇹🇷 Turkiye | Entretenimento",NOW TV [HD]
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="NOWTV.tr@SD" tvg-logo="https://i.imgur.com/5EYjWK7.png" tvg-type="live" group-title="🇹🇷 Turkiye | Entretenimento",NOW TV (fonte 2)
-http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr@SD" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-type="live" group-title="🇹🇷 Turkiye | Entretenimento",Show Turk [FHD]
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
 #EXTINF:-1 tvg-id="FujairahTV.ae@SD" tvg-logo="https://i.imgur.com/D2tOhbE.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Entretenimento",Fujairah TV [HD]
@@ -2141,12 +2156,12 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Entretenimento",Jade [FHD]
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Entretenimento",KIX
-https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
-#EXTINF:-1 tvg-id="tvNAsia.hk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Entretenimento",tvN Asia HD [HD]
-http://58.8.186.128:10005/bysid/2518
+#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Entretenimento",KIX [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-id="CTiVariety.tw@SD" tvg-logo="https://i.imgur.com/tqsKObw.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",CTi Variety (中天綜合台) [HD]
 http://23.237.10.66:16372
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",Discovery Asia Taiwan [FHD]
+http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-type="live" group-title="🇹🇼 Taiwan | Entretenimento",TVBS Asia [FHD]
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel200.nz@SD" tvg-logo="https://i.imgur.com/gAebu4q.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Entretenimento",Channel 200 [SD]
@@ -2350,14 +2365,14 @@ https://mmtvs.exliatycl.online/mchannel/stream.m3u8
 https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 #EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" tvg-type="live" group-title="🇲🇲 Myanmar | Entretenimento",MWD Variety [HD]
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-id="ETVPlus.ee@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" tvg-type="live" group-title="🇪🇪 Estônia | Entretenimento",ETV+ [HD]
-https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 tvg-id="OTV.ee@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg" tvg-type="live" group-title="🇪🇪 Estônia | Entretenimento",OTV
-http://88.212.15.19/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-id="PLEXTV.cm@SD" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" tvg-type="live" group-title="🇨🇲 Camarões | Entretenimento",PLEX TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm@SD" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" tvg-type="live" group-title="🇨🇲 Camarões | Entretenimento",TR24 [HD]
 https://stream.it-innov.com/tr24/index.m3u8
+#EXTINF:-1 tvg-id="ETVPlus.ee@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" tvg-type="live" group-title="🇪🇪 Estônia | Entretenimento",ETV+ [HD]
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-id="OTV.ee@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg" tvg-type="live" group-title="🇪🇪 Estônia | Entretenimento",OTV
+http://88.212.15.17/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Entretenimento",Asia TV [HD]
 https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-id="HiruTV.lk@SD" tvg-logo="https://i.imgur.com/M66UqPB.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Entretenimento",Hiru TV [SD]
@@ -2366,6 +2381,10 @@ https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVLANKA.lk@SD" tvg-logo="https://i.imgur.com/5cyTVRJ.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Entretenimento",NDTV LANKA [FHD]
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt@SD" tvg-logo="https://i.imgur.com/5wpxVI0.png" tvg-type="live" group-title="🇱🇹 Lituânia | Entretenimento",Lietuvos Rytas TV [FHD]
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTINF:-1 tvg-id="EVITV.cd@SD" tvg-logo="https://i.imgur.com/fBc9JSM.png" tvg-type="live" group-title="🇨🇩 RD Congo | Entretenimento",EVI TV [HD]
+https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 #EXTINF:-1 tvg-id="ArubaTVPlus.aw@SD" tvg-logo="https://i.imgur.com/9s6LZJZ.png" tvg-type="live" group-title="🇦🇼 Aruba | Entretenimento",ArubaTV +
 https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NosIslaTV.aw@SD" tvg-logo="https://i.imgur.com/sH7ZkPx.png" tvg-type="live" group-title="🇦🇼 Aruba | Entretenimento",Nos Isla TV [FHD]
@@ -2375,10 +2394,6 @@ https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist
 https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMIX.us@SD" tvg-logo="https://i.ibb.co/HpX99Ks/unnamed.jpg" tvg-type="live" group-title="🇭🇹 Haiti | Entretenimento",TeleMIX [HD]
 https://haititivi.com/haiti/telemix1/index.m3u8
-#EXTINF:-1 tvg-id="LietuvosRytasTV.lt@SD" tvg-logo="https://i.imgur.com/5wpxVI0.png" tvg-type="live" group-title="🇱🇹 Lituânia | Entretenimento",Lietuvos Rytas TV [FHD]
-https://live.lietuvosryto.tv/live/hls/eteris.m3u8
-#EXTINF:-1 tvg-id="EVITV.cd@SD" tvg-logo="https://i.imgur.com/fBc9JSM.png" tvg-type="live" group-title="🇨🇩 RD Congo | Entretenimento",EVI TV [HD]
-https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 #EXTINF:-1 tvg-id="eldoTV.lu@SD" tvg-logo="https://i.imgur.com/vCMQLlt.png" tvg-type="live" group-title="🇱🇺 Luxemburgo | Entretenimento",eldo.TV [FHD]
 https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" tvg-type="live" group-title="🇱🇺 Luxemburgo | Entretenimento",RTL9 [HD]
@@ -2439,5 +2454,7 @@ https://seswa.bonce.tv/hls/bonceswa.m3u8
 https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 tvg-id="TalTV.ne@SD" tvg-logo="https://i.imgur.com/KWMP0t1.png" tvg-type="live" group-title="🇳🇪 Niger | Entretenimento",Tal TV [FHD]
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi@SD" tvg-logo="https://i.imgur.com/vNCVLuO.png" tvg-type="live" group-title="🇧🇮 Burundi | Entretenimento",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-id="SolTV.gq@SD" tvg-logo="https://i.imgur.com/TJHk6Va.png" tvg-type="live" group-title="🇬🇶 Equatorial Guinea | Entretenimento",SolTV [HD]
 https://stream.solmediaeg.com/soltv/soltv.m3u8

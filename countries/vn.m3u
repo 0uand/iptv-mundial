@@ -19,13 +19,15 @@ https://dethich.pw/thvl4/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="HTV4.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-type="live" group-title="🇻🇳 Vietnã | Educação",HTV4 [HD] (fonte 2)
 https://dethich.pw/htv4/index.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" tvg-type="live" group-title="🇻🇳 Vietnã | Esportes",Dong Nai TV 2 [HD]
+#EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" tvg-type="live" group-title="🇻🇳 Vietnã | Esportes",Dong Nai TV 2 [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+#EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" tvg-type="live" group-title="🇻🇳 Vietnã | Esportes",Dong Nai TV 2 [HD] (fonte 2)
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" tvg-type="live" group-title="🇻🇳 Vietnã | Esportes",HTV Sports
 https://dethich.pw/htvthethao/index.m3u8
-#EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" tvg-type="live" group-title="🇻🇳 Vietnã | Esportes",VTV6 [FHD]
+#EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Esportes",VTV6 [FHD]
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" tvg-type="live" group-title="🇻🇳 Vietnã | Esportes",VTV6 [HD] (fonte 2)
+#EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Esportes",VTV6 [HD] (fonte 2)
 https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-logo="https://i.ibb.co/XxtcgQQv/IMG-2513.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Estilo de vida",ON Life [HD]
 https://freem3u.xyz/api/live/play.m3u8?vid=188
@@ -33,6 +35,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="VinhLongTV3.vn@SD" tvg-logo="https://i.imgur.com/OQXEhqu.png" tvg-type="live" group-title="🇻🇳 Vietnã | Filmes",Vinh Long TV 3 [HD]
 https://dethich.pw/thvl3/index.m3u8
+#EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",An Ninh TV HD [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",ANTV [FHD]
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-logo="https://i.imgur.com/dGonewm.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Cao Bằng TV [HD]
@@ -45,6 +49,10 @@ https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV3.vn@SD" tvg-logo="https://i.imgur.com/6P39BiA.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Dong Nai TV 3 [HD]
 https://dethich.pw/dongnai3/index.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV3.vn@SD" tvg-logo="https://i.imgur.com/6P39BiA.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Dong Nai TV 3 [HD] (fonte 2)
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
+#EXTINF:-1 tvg-id="GiaLaiTV.vn@SD" tvg-logo="https://i.imgur.com/oUSJX0X.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Gia Lai TV [HD]
+http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 #EXTINF:-1 tvg-id="HaTinhTV.vn@SD" tvg-logo="https://i.imgur.com/4yIgKKx.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Ha Tinh TV [HD]
 https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 #EXTINF:-1 tvg-id="HanoiTV1.vn@SD" tvg-logo="https://i.imgur.com/Je3K25E.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",HanoiTV1 [HD]
@@ -53,20 +61,20 @@ https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
 https://dethich.pw/htv1/index.m3u8
 #EXTINF:-1 tvg-id="HTV7.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",HTV7 [HD]
 https://dethich.pw/htv7/index.m3u8
-#EXTINF:-1 tvg-id="KhanhHoaTV.vn@SD" tvg-logo="https://i.imgur.com/qLMcGPT.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Khanh Hoa TV [FHD]
-https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
+#EXTINF:-1 tvg-id="HungYenTV.vn@SD" tvg-logo="https://i.imgur.com/TH1DWdm.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Hung Yen TV [SD]
+https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoCaiTV.vn@HD" tvg-logo="https://i.imgur.com/TLvrDHa.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Lào Cai TV [FHD]
 https://live.baolaocai.vn/channel2/stream.m3u8
-#EXTINF:-1 tvg-id="LamDongTV.vn@SD" tvg-logo="https://i.imgur.com/lSMoGlv.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Lâm Đồng TV [SD]
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="NgheAnTV.vn@SD" tvg-logo="https://i.imgur.com/d9YEEwC.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Nghe An TV [HD]
+https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
 #EXTINF:-1 tvg-id="NgheAnTV.vn@HD" tvg-logo="https://i.imgur.com/d9YEEwC.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Nghệ An TV [FHD]
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
-#EXTINF:-1 tvg-id="NinhThuanTV.vn@SD" tvg-logo="https://i.imgur.com/HIyUzLM.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Ninh Thuan TV [FHD]
-https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
 #EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",QPVN HD [FHD]
 https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",QPVN HD [FHD] (fonte 2)
 https://qpvn.vn/live/qpvn/master.m3u8
+#EXTINF:-1 tvg-id="QuangNamTV.vn@SD" tvg-logo="https://i.imgur.com/uWiOoVg.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Quang Nam TV
+https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn@HD" tvg-logo="https://i.imgur.com/QckiN3H.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Quảng Ngãi TV1 [FHD]
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCTV11.vn@SD" tvg-logo="https://i.imgur.com/ZmFfy9o.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV11 [HD]
@@ -84,8 +92,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
 #EXTINF:-1 tvg-id="SCTV19.vn@SD" tvg-logo="https://i.imgur.com/yBAFZRs.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV19 [HD]
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV2 [HD]
-https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
-#EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV2 [HD] (fonte 2)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 #EXTINF:-1 tvg-id="SCTV20.vn@SD" tvg-logo="https://i.imgur.com/7ABZhfZ.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV20 [HD]
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
@@ -95,8 +101,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manife
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 #EXTINF:-1 tvg-id="SCTV4K.vn@UHD" tvg-logo="https://i.imgur.com/eQVMAur.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV4K [4K]
 https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
-#EXTINF:-1 tvg-id="SCTV5.vn@HD" tvg-logo="https://i.imgur.com/FYLs4yu.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV5 [HD]
-https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV
 #EXTINF:-1 tvg-id="SCTV6.vn@SD" tvg-logo="https://i.imgur.com/2oOVS42.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV6 [HD]
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 #EXTINF:-1 tvg-id="SCTV7.vn@SD" tvg-logo="https://i.imgur.com/xbIUZYd.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",SCTV7 [HD]
@@ -139,12 +143,8 @@ https://dethich.pw/vtv4/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV5 HD [HD] (fonte 2)
 https://dethich.pw/vtv5/index.m3u8
-#EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV5 Tay Nam Bo HD [HD]
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV5 Tay Nguyen HD [FHD]
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV5 Tay Nguyen HD [HD] (fonte 2)
-https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.ibb.co/Q3twkrbY/IMG-2681.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV7 HD [FHD]
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.ibb.co/Q3twkrbY/IMG-2681.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV7 HD [HD] (fonte 2)
@@ -169,7 +169,9 @@ https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Infantil",ON Kids [HD]
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" tvg-type="live" group-title="🇻🇳 Vietnã | Notícias",Dong Nai TV 1 [HD]
+#EXTINF:-1 tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" tvg-type="live" group-title="🇻🇳 Vietnã | Notícias",Dong Nai TV 1 [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 tvg-id="DongNaiTV1.vn@SD" tvg-logo="https://i.imgur.com/oQyioVa.png" tvg-type="live" group-title="🇻🇳 Vietnã | Notícias",Dong Nai TV 1 [HD] (fonte 2)
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Notícias",HTV9 [HD]
 https://dethich.pw/htv9/index.m3u8

@@ -76,7 +76,7 @@ http://stream.mcquack.net/303/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muzyka Pervogo [SD]
 http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muzyka Pervogo [SD] (fonte 2)
-http://88.212.15.19/live/test_muzyka_pervogo/playlist.m3u8
+http://88.212.15.17/live/test_muzyka_pervogo/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muzyka Pervogo (fonte 3)
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RadioRossii.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Radio Rossii [HD]
@@ -84,22 +84,20 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://rutv.by/wp-content/uploads/2020/09/logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",RU.TV [FHD]
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://rutv.by/wp-content/uploads/2020/09/logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",RU.TV [SD] (fonte 2)
-https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://rutv.by/wp-content/uploads/2020/09/logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",RU.TV [SD] (fonte 3)
 http://31.148.48.15/RU_TV/index.m3u8
-#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://rutv.by/wp-content/uploads/2020/09/logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",RU.TV (fonte 4)
+#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://rutv.by/wp-content/uploads/2020/09/logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",RU.TV (fonte 3)
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://rutv.by/wp-content/uploads/2020/09/logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",RU.TV SD [SD]
 http://stream.mcquack.net/109/index.m3u8
 #EXTINF:-1 tvg-id="RussianMusicBox.ru@SD" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Russian MusicBox [SD]
 http://stream.mcquack.net/319/index.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Shanson TV [SD]
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Shanson TV [SD]
 http://catchup.videoline.ru/shanson/index.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Shanson TV [SD] (fonte 2)
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Shanson TV [SD] (fonte 2)
 http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Shanson TV [SD] (fonte 3)
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Shanson TV [SD] (fonte 3)
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Shanson TV [SD] (fonte 4)
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Shanson TV [SD] (fonte 4)
 http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
@@ -133,7 +131,7 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru@SD" tvg-logo="https://i.imgur.com/WsPlKJJ.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Страна ФМ
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Шансон ТВ
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="black.ru@SD" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",.black [SD]
 http://stream.mcquack.net/263/index.m3u8
@@ -185,16 +183,10 @@ https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kluch.ru@SD" tvg-logo="https://i.imgur.com/WA9TOPi.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Kluch [SD]
 http://hls127.freeott.top:8080/Kluch/video.m3u8
-#EXTINF:-1 tvg-id="Oruzhie.ru@SD" tvg-logo="https://i.imgur.com/lfJQJqa.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Oruzhie [SD]
-https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="PeretzInternational.ru@SD" tvg-logo="https://i.imgur.com/On6ggLe.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Peretz International [SD]
 http://stream.mcquack.net/121/index.m3u8
-#EXTINF:-1 tvg-id="PeretzInternational.ru@SD" tvg-logo="https://i.imgur.com/On6ggLe.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Peretz International [SD] (fonte 2)
-https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Poehali! [SD]
-https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Poehali! [SD] (fonte 2)
-http://88.212.15.19/live/test_poehali/playlist.m3u8
+http://88.212.15.17/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" tvg-logo="https://i.imgur.com/NEcqFse.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Smotrim 100% Prazdnik [HD]
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png" tvg-type="live" group-title="🇷🇺 Rússia | Entretenimento",Subbota! [FHD]
@@ -305,10 +297,6 @@ http://stream.mcquack.net/118/index.m3u8
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooku.ru@SD" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Animação",Tooku [FHD]
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 tvg-id="Multimania.ru@SD" tvg-logo="https://i.imgur.com/abh8ZBA.png" tvg-type="live" group-title="🇷🇺 Rússia | Animação",Мультимания [SD]
-https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Multimania.ru@SD" tvg-logo="https://i.imgur.com/abh8ZBA.png" tvg-type="live" group-title="🇷🇺 Rússia | Animação",Мультимания ТВ [SD]
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" tvg-type="live" group-title="🇷🇺 Rússia | Animação",Солнце [SD]
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru@SD" tvg-logo="https://i.imgur.com/sVc8cFt.png" tvg-type="live" group-title="🇷🇺 Rússia | Automotivo",Auto Plus
@@ -338,8 +326,6 @@ http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Nostalgia [SD]
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Nostalgia [SD] (fonte 2)
-https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Nostalgia [SD] (fonte 3)
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Retro [SD]
 http://stream.mcquack.net/191/index.m3u8
@@ -406,7 +392,7 @@ http://stream.mcquack.net/314/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [SD] (fonte 2)
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [SD] (fonte 3)
-http://88.212.15.19/live/test_telecafe_tv/playlist.m3u8
+http://88.212.15.17/live/test_telecafe_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe (fonte 4)
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru@HD" tvg-logo="https://i.imgur.com/wR0pvRc.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Сити Эдем Рецепты Гурмана
@@ -419,15 +405,11 @@ http://89.104.114.24:8080/art/index.m3u8
 http://185.23.80.23:8080/ART/index.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",NTV Mir [SD]
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",NTV Mir [SD] (fonte 2)
-https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Russia-K [SD]
 http://stream.mcquack.net/229/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Russia-K [SD] (fonte 2)
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Russia-K [SD] (fonte 3)
-https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Russia-K [SD] (fonte 4)
 http://31.148.5.241/kanal_6/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@Plus2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Russia-K +2 [FHD]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
@@ -439,8 +421,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Russia-K HD [FHD] (fonte 2)
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Russia-K HD [FHD] (fonte 3)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru@SD" tvg-logo="https://i.imgur.com/nc2ijCH.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Teatr [SD]
 http://hls127.freeott.top:8080/Teatr/video.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",НТВ Мир
@@ -495,8 +475,6 @@ http://45.145.32.13:20440/nauka/index.m3u8?token=test
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",RT Documentary Russian (fonte 2)
 https://streaming.thestream.cyou/live/554.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",RTД
-https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Smotrim 100% Fakty [HD]
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Terra [SD]
@@ -613,21 +591,15 @@ http://45.145.32.13:20440/mmatv/index.m3u8?token=test
 https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",MMA-TV.com (fonte 3)
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Okko Futbol [FHD]
-http://stream.mcquack.net/491/index.m3u8
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Okko Futbol [SD] (fonte 2)
+#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Okko Futbol [SD]
 http://178.124.179.122:8080/Setanta1/index.m3u8
 #EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" tvg-logo="https://i.imgur.com/kQq5DMU.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Okko Prajm Sport [FHD]
 http://stream.mcquack.net/493/index.m3u8
-#EXTINF:-1 tvg-id="OkkoSport.ru@SD" tvg-logo="https://i.imgur.com/SYOaOQc.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Okko Sport [FHD]
-http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 tvg-id="RussianExtremeUltra.ru@SD" tvg-logo="https://i.imgur.com/Dk8VbAc.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Russian Extreme Ultra [FHD]
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1.ru@SD" tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Setanta Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 tvg-id="SetantaSports1.ru@HD" tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Setanta Sports 1 HD
-https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="SetantaSports2.ru@SD" tvg-logo="https://i.imgur.com/NOBACb6.png" tvg-type="live" group-title="🇷🇺 Rússia | Esportes",Setanta Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
@@ -726,11 +698,7 @@ http://31.148.5.241/kanal_13/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@HD" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-type="live" group-title="🇷🇺 Rússia | Família",STS HD [FHD]
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png" tvg-type="live" group-title="🇷🇺 Rússia | Família",STS Love [SD]
-http://hls127.freeott.top:8080/CTC-LOVE/video.m3u8
-#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png" tvg-type="live" group-title="🇷🇺 Rússia | Família",STS Love [SD] (fonte 2)
 http://stream.mcquack.net/183/index.m3u8
-#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png" tvg-type="live" group-title="🇷🇺 Rússia | Família",STS Love [SD] (fonte 3)
-https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-type="live" group-title="🇷🇺 Rússia | Família",STS SD [SD]
 http://45.153.24.78/STS/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-type="live" group-title="🇷🇺 Rússia | Família",СТС
@@ -766,13 +734,13 @@ https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino [SD]
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino [SD] (fonte 2)
-http://88.212.15.19/live/test_dom_kino/playlist.m3u8
+http://88.212.15.17/live/test_dom_kino/playlist.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino (fonte 3)
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino International [SD]
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@SD" tvg-logo="https://i.imgur.com/rJpQtvK.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino Premium [SD]
-http://88.212.15.19/live/test_dom_kino_premium/playlist.m3u8
+http://88.212.15.17/live/test_dom_kino_premium/playlist.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://i.imgur.com/rJpQtvK.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino Premium HD [FHD]
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://i.imgur.com/rJpQtvK.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino Premium HD [FHD] (fonte 2)
@@ -882,11 +850,7 @@ http://stream.mcquack.net/217/index.m3u8
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-logo="https://i.imgur.com/QRWKpmb.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe muzhskoe HD [FHD]
 http://stream.mcquack.net/362/index.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino [FHD]
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino [SD] (fonte 2)
-https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino (fonte 3)
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-logo="https://i.imgur.com/NwQ7GBy.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Ostrosyuzhetnoye HD [FHD]
 http://stream.mcquack.net/214/index.m3u8
@@ -894,20 +858,16 @@ http://stream.mcquack.net/214/index.m3u8
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Premialnoe.ru@HD" tvg-logo="https://i.imgur.com/ck4aLBP.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Premialnoe HD [FHD]
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 tvg-id="Pro100TV.ru@SD" tvg-logo="https://i.imgur.com/YfQEflM.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Pro100TV [SD]
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="Quadro.ru@4K" tvg-logo="https://i.imgur.com/P4c53HA.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Quadro [4K]
+http://57.128.231.171:8080/316/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Rodnoe Kino [SD]
 http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Rodnoe Kino [SD] (fonte 2)
-https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Rodnoe Kino (fonte 3)
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Rodnoe Kino (fonte 2)
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy Bestseller [SD]
 http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-logo="https://i.imgur.com/H3qhN8S.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy Detektiv [SD]
 http://stream.mcquack.net/204/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyIllusion.ru@SD" tvg-logo="https://i.imgur.com/RlsqFN8.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy Illusion [SD]
-https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy roman [SD]
 http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy roman [SD] (fonte 2)
@@ -926,8 +886,6 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://i.imgur.com/4bACa7x.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",START Air [SD] (fonte 2)
 http://stream.mcquack.net/128/index.m3u8
-#EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://i.imgur.com/4bACa7x.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",START Air [SD] (fonte 3)
-https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="STARTWorld.ru@SD" tvg-logo="https://i.imgur.com/TXtY5eM.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",START World [SD]
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TV21.ru@SD" tvg-logo="https://i.imgur.com/nSmSnH6.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",TV 21 [SD]
@@ -1006,10 +964,6 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",КИНОТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-id="NovyiRusskii.ru@HD" tvg-logo="https://i.imgur.com/iuRSScH.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Новый Русский [HD]
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Патриот (576i)
-http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Родное Кино [SD]
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Русский Бестселлер [SD]
@@ -1071,7 +1025,7 @@ https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Bober.ru@SD" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Bober [SD]
 https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Bober.ru@SD" tvg-logo="https://i.imgur.com/clWWhB8.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Bober [SD] (fonte 2)
-http://88.212.15.19/live/test_bober/playlist.m3u8
+http://88.212.15.17/live/test_bober/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel10.ru@SD" tvg-logo="https://i.imgur.com/k8JjFDw.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Channel 10 (576i)
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://i.imgur.com/PQhMXOZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Channel 5 [SD]
@@ -1189,10 +1143,6 @@ http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 http://flussonic.linkintel.ru/otr/index.m3u8
 #EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://i.imgur.com/VaWlnjZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",OTR [SD] (fonte 2)
 http://31.148.5.241/kanal_9/index.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Pobeda [FHD]
-http://94.155.93.182/POBEDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Pobeda [SD] (fonte 2)
-https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Priklyucheniya [SD]
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@HD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Priklyucheniya HD [FHD]
@@ -1217,14 +1167,10 @@ http://flussonic.linkintel.ru/ren_tv/index.m3u8
 http://31.148.5.241/kanal_11/index.m3u8
 #EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://i.imgur.com/gBjk9oF.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",REN TV International [SD]
 http://178.134.1.158:8081/RENTV/index.m3u8
-#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://i.imgur.com/gBjk9oF.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",REN TV International [SD] (fonte 2)
-https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-logo="https://i.imgur.com/GnbNG0r.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Rossiya 1 Vainah (576i)
 #EXTVLCOPT:http-referrer=https://gtrkvainah.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" tvg-logo="https://i.imgur.com/0YEahxs.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",RTR-Planeta [SD]
-https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-logo="https://i.imgur.com/1AEhXyS.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",RTVi [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/RTVi/index.m3u8
@@ -1260,8 +1206,6 @@ http://109.207.243.18/2/index.m3u8
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Sarafan [SD]
 http://stream.mcquack.net/81/index.m3u8
-#EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Sarafan [SD] (fonte 2)
-https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="SochiLive.ru@HD" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Sochi Live HD [HD]
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Solovyov Live [FHD]
@@ -1273,7 +1217,7 @@ http://178.124.179.122:8080/TRO/index.m3u8
 #EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://i.imgur.com/mwiC0RG.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",STS International [SD]
 http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="Svoboda.ru@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/db23090472360f39401398f924a47461.svg" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Svoboda
-http://88.212.15.19/live/svoboda/index.m3u8
+http://88.212.15.17/live/svoboda/index.m3u8
 #EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",T24 [SD]
 http://178.134.1.158:8081/t24/index.m3u8
 #EXTINF:-1 tvg-id="T24.ru@SD" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",T24 [SD] (fonte 2)
@@ -1347,7 +1291,7 @@ http://stream.mcquack.net/237/index.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://i.imgur.com/jZlj3ga.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Vremya [SD] (fonte 2)
 https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-logo="https://i.imgur.com/jZlj3ga.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Vremya [SD] (fonte 3)
-http://88.212.15.19/live/test_vremya/playlist.m3u8
+http://88.212.15.17/live/test_vremya/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Zagorodnaya Zhizn [SD]
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Zagorodnaya Zhizn (fonte 2)
@@ -1520,14 +1464,10 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru@SD" tvg-logo="https://i.imgur.com/N0Zn4zU.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Осетия Ирыстон [FHD]
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
-#EXTINF:-1 tvg-id="OSN.ru@SD" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral" catchup="default" catchup-source="http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",ОСН
+#EXTINF:-1 tvg-id="OSN.ru@SD" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://i.imgur.com/VaWlnjZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",ОТР [SD]
 http://31.148.48.15/OTR/index.m3u8
-#EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://i.imgur.com/VaWlnjZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",ОТР (fonte 2)
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/12.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Первый канал [FHD]
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Первый канал (fonte 2)
@@ -1544,12 +1484,6 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 tvg-id="Prima.ru@SD" tvg-logo="https://i.imgur.com/33XGMch.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Прима [FHD]
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://i.imgur.com/KlsnfG9.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Продвижение [SD]
-https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-logo="https://iks-online.net/storage/2018/07/REN-TV-HD.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Рен ТВ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Россия 1 [FHD]
 http://31.148.48.15/Rossiya_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Россия 1 (fonte 2)
@@ -1891,8 +1825,6 @@ http://31.148.48.15/Zdorovie/index.m3u8
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1 tvg-id="Ural24.ru@SD" tvg-logo="https://i.imgur.com/eoI4KuB.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Урал 24 (Челябинск) [FHD]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1 tvg-id="ShayanTV.ru@SD" tvg-logo="https://i.imgur.com/CvFwczN.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Шаян ТВ (Татарстан) [FHD]
-https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru@SD" tvg-logo="https://i.imgur.com/0us6l04.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Щёлковское ТВ [SD]
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="UgraTV.ru@SD" tvg-logo="https://i.imgur.com/561FRwI.png" tvg-type="live" group-title="🇷🇺 Rússia | Geral",Югра [FHD]
@@ -1918,7 +1850,7 @@ https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Carousel [SD] (fonte 4)
 http://flussonic.linkintel.ru/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Carousel [SD] (fonte 5)
-http://88.212.15.19/live/test_karusel/playlist.m3u8
+http://88.212.15.17/live/test_karusel/playlist.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://i.imgur.com/4wmnx1W.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Carousel [SD] (fonte 6)
 http://31.148.5.241/kanal_8/index.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-logo="https://i.imgur.com/DnlngRZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Carousel International [SD]
@@ -1973,8 +1905,8 @@ http://stream.mcquack.net/443/index.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="O.ru@SD" tvg-logo="https://i.imgur.com/pDc665V.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",O! [SD]
 http://stream.mcquack.net/60/index.m3u8
-#EXTINF:-1 tvg-id="O.ru@International" tvg-logo="https://i.imgur.com/pDc665V.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",O! International [SD]
-https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="O.ru@International" tvg-logo="https://i.imgur.com/pDc665V.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",O! International [HD]
+http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
 #EXTINF:-1 tvg-id="RadostMoya.ru@SD" tvg-logo="https://i.imgur.com/B5FA62o.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Radost Moya [SD]
 http://31.148.48.15/Radost_moya/index.m3u8
 #EXTINF:-1 tvg-id="RadostMoya.ru@SD" tvg-logo="https://i.imgur.com/B5FA62o.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",Radost Moya [SD] (fonte 2)
@@ -1997,8 +1929,6 @@ http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru@HD" tvg-logo="https://i.imgur.com/o9kLpAL.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",STS kids HD [FHD]
 http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="STSkids.ru@International" tvg-logo="https://i.imgur.com/o9kLpAL.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",STS kids International [SD]
-https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="SuperGeroi.ru@SD" tvg-logo="https://i.imgur.com/c0zZUR1.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",SuperGeroi [FHD]
 http://31.148.48.15/Malish_TV/index.m3u8
 #EXTINF:-1 tvg-id="SuperGeroi.ru@SD" tvg-logo="https://i.imgur.com/c0zZUR1.png" tvg-type="live" group-title="🇷🇺 Rússia | Infantil",SuperGeroi [SD] (fonte 2)
@@ -2111,14 +2041,12 @@ https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 [HD]
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 [SD] (fonte 2)
-https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 [SD] (fonte 3)
 http://176.118.197.101/Rossiya24/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 [SD] (fonte 4)
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 [SD] (fonte 3)
 http://31.148.5.241/kanal_7/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 (fonte 5)
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 (fonte 4)
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 (fonte 6)
+#EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 (fonte 5)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Notícias",Russia-24 HD [FHD]
 http://77.232.131.211/Rossiya24/index.m3u8
@@ -2358,8 +2286,6 @@ http://stream.mcquack.net/194/index.m3u8
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka (fonte 2)
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Rybalkaiokhota.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Rybalka i okhota [SD]
-https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Rybolov.ru@SD" tvg-logo="https://i.imgur.com/wJMTcFS.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Rybolov [SD]
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Моя Планета [HD]

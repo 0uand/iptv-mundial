@@ -213,8 +213,6 @@ https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
 http://138.59.177.78:9999/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us@SD" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Novelisima (fonte 2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Paramount Network [SD]
-http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",PBS Antiques Roadshow [HD]
 https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-logo="https://i.imgur.com/Brry7cZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",PBS Nature [FHD]
@@ -281,12 +279,22 @@ https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas [FHD]
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas [FHD] (fonte 2)
+http://158.172.155.130:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntnovelas.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas Brazil [HD]
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas Brazil [HD] (fonte 2)
 http://168.197.104.22/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas Colombia [FHD]
+http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Series Latin America [FHD]
 http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Series Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Tosh0.us@SD" tvg-logo="https://i.imgur.com/sXkluxg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Tosh.0
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-logo="https://i.imgur.com/OwSlGMu.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Universal Crime [FHD]
@@ -415,7 +423,9 @@ http://92.114.85.72:8000/play/a0bi
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
+http://88.212.15.17/live/test_epic_drama_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Poland [FHD]
+http://92.114.85.87:8001/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1113,12 +1123,24 @@ https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" tvg-logo="https://i.imgur.com/P5Haaln.png" tvg-type="live" group-title="🇫🇮 Finlândia | Séries",Homes Under The Hammer [HD]
 https://all3media-homes-under-the-hammer-1-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.pl@SD" tvg-logo="https://i.imgur.com/Nqvx6nz.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",AXN Black (576i)
+http://92.114.85.87:8014/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="AXNSpin.pl@SD" tvg-logo="https://i.imgur.com/LGEbwnT.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",AXN Spin
 http://92.114.85.87:8010/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pl@SD" tvg-logo="https://i.imgur.com/DaAyLE7.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",AXN White (576i)
+http://92.114.85.87:8014/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl@SD" tvg-logo="https://i.imgur.com/B55Rl3T.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Canal+ Seriale (576i)
+http://57.128.210.196:8080/294/index.m3u8
 #EXTINF:-1 tvg-id="Cops.us@Poland" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",COPS
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Paramount Network [FHD]
+http://57.128.210.196:8080/212/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Polsat Seriale [FHD]
 http://57.128.210.196:8080/196/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSeriale.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Polsat Seriale HD (1080i)
+http://92.114.85.87:8014/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="TVPSeriale.pl@SD" tvg-logo="https://i.imgur.com/MuRtvXk.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",TVP Seriale [FHD]
+http://92.114.85.87:8019/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ZNation.us@SD" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-logo="https://i.imgur.com/k0VO0LH.png" tvg-type="live" group-title="🇷🇴 Romênia | Séries",Mireasa [HD]

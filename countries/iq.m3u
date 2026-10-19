@@ -31,6 +31,8 @@ https://live.alawla.tv/hls/stream.m3u8
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 #EXTINF:-1 tvg-id="AVAMedia.iq@HD" tvg-logo="https://github.com/user-attachments/assets/a9259f18-b9f2-4aa0-86f0-8fba1f343e69" tvg-type="live" group-title="🇮🇶 Iraque | Geral",AVA Media [FHD]
 https://ava002.xyz/upload/images/1080.m3u8
+#EXTINF:-1 tvg-id="AVAMedia.iq@HD" tvg-logo="https://github.com/user-attachments/assets/a9259f18-b9f2-4aa0-86f0-8fba1f343e69" tvg-type="live" group-title="🇮🇶 Iraque | Geral",AVA Media [FHD] (fonte 2)
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Avar TV [FHD]
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="IraqFuture.iq@SD" tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-type="live" group-title="🇮🇶 Iraque | Geral",Iraq Future [SD]

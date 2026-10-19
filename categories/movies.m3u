@@ -107,7 +107,7 @@ http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 http://85.14.32.26:8800/udp/239.100.10.17:5000
 #EXTINF:-1 tvg-id="AXNBlack.us@CzechRepublic" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Black Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_black/playlist.m3u8
+http://88.212.15.17/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Hungary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Black Hungary [SD]
 http://141.94.193.53:80/axn_black/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Poland" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Black Poland [SD]
@@ -155,17 +155,13 @@ https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 #EXTINF:-1 tvg-id="CineFamiliar.us@SD" tvg-logo="https://i.imgur.com/ZgP2hE3.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Familiar [FHD]
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CineFamiliar.us@SD" tvg-logo="https://i.imgur.com/ZgP2hE3.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Familiar (fonte 2)
-http://177.234.218.66:8084/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="CineHispano.us@SD" tvg-logo="https://i.imgur.com/tfgyfrw.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Hispano [FHD]
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us@SD" tvg-logo="https://i.imgur.com/PdhWTO6.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us@SD" tvg-logo="https://i.imgur.com/tC3jGd4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Premium [FHD]
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CinePremium.us@SD" tvg-logo="https://i.imgur.com/tC3jGd4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Premium [FHD] (fonte 2)
-http://45.167.1.138:8000/play/a06s
-#EXTINF:-1 tvg-id="CinePremium.us@SD" tvg-logo="https://i.imgur.com/tC3jGd4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Premium (fonte 3)
+#EXTINF:-1 tvg-id="CinePremium.us@SD" tvg-logo="https://i.imgur.com/tC3jGd4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Premium (fonte 2)
 http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-logo="https://i.imgur.com/FUrrDrb.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Romantico [HD]
 https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
@@ -232,14 +228,19 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 #EXTINF:-1 tvg-id="HBO.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",HBO [HD]
 http://tvsen7.aynascope.net/hbo/index.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",HBO 2 Latin America [SD]
-http://38.65.175.84:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",HBO 2 Latin America HD [FHD]
 http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",HBO 2 Latin America HD (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",HBO Hits [HD]
 http://tvsen7.aynascope.net/hbo2/index.m3u8
-#EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",HBO Movies [HD]
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",HBO Mundi Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",HBO Xtreme Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 #EXTINF:-1 tvg-id="IFC.us@East" tvg-logo="https://i.imgur.com/bQdkyF9.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",IFC [FHD]
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Lifetime Movies [FHD]
@@ -339,6 +340,9 @@ http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Star Channel Latin America (1080i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Star Channel Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us@SD" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us@SD" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Star Trek: The Next Generation
@@ -401,10 +405,12 @@ http://212.70.131.37:8000/play/a05k
 http://213.91.179.28:8000/play/a0by
 #EXTINF:-1 tvg-id="AMCEurope.uk@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_amc_25p/playlist.m3u8
+http://88.212.15.17/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Hungary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/amc_hun/index.m3u8
+http://88.212.15.17/live/amc_hun/index.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Poland (576i)
+http://57.128.231.171:8080/318/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -457,6 +463,8 @@ https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@SD" tvg-logo="https://i.imgur.com/Pvid2iH.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Adrenalina Pura TV [HD]
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-logo="https://i.imgur.com/B5UN7C8.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Az Cinema [FHD]
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" tvg-type="live" group-title="🇲🇽 México | Filmes",CineLatino [HD]
 http://206.135.11.174:8010/play/a0lq/index.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" tvg-type="live" group-title="🇲🇽 México | Filmes",CineLatino [HD] (fonte 2)
@@ -477,7 +485,9 @@ http://181.119.66.28:8081/DE-PELICULA/index.m3u8
 http://209.14.115.253:8081/DE-PELICULA/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Latin America [FHD] (fonte 4)
 http://190.60.55.141:9083/play/a0nf/index.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Latin America [HD] (fonte 5)
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Latin America [FHD] (fonte 5)
+http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Latin America [HD] (fonte 6)
 http://181.224.200.5:2277/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx@SD" tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-type="live" group-title="🇲🇽 México | Filmes",De Pelicula Plus [FHD]
 http://200.115.120.1:8000/play/ca030/index.m3u8
@@ -485,8 +495,12 @@ http://200.115.120.1:8000/play/ca030/index.m3u8
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx@SD" tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Golden Premier [FHD]
 http://200.229.147.210:9999/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx@SD" tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Golden Premier [FHD] (fonte 2)
+http://200.57.28.141:8540/play/a0ln
 #EXTINF:-1 tvg-id="GoldenPremier2.mx@SD" tvg-logo="https://i.imgur.com/GBlvQBI.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Golden Premier 2 [FHD]
 http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier2.mx@SD" tvg-logo="https://i.imgur.com/GBlvQBI.png" tvg-type="live" group-title="🇲🇽 México | Filmes",Golden Premier 2 [FHD] (fonte 2)
+http://200.57.28.141:8540/play/a0lo
 #EXTINF:-1 tvg-id="MultiPremier.mx@SD" tvg-logo="https://i.imgur.com/H3PzGZW.png" tvg-type="live" group-title="🇲🇽 México | Filmes",MultiPremier [FHD]
 http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" tvg-type="live" group-title="🇲🇽 México | Filmes",MyTime Movie Network Mexico [HD]
@@ -546,6 +560,8 @@ https://video.ejeserver.com/live/mcitelevision.m3u8
 http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="OrbitaChileTV.cl@HD" tvg-logo="https://i.imgur.com/gbNh79Z.png" tvg-type="live" group-title="🇨🇱 Chile | Filmes",Orbita Chile TV [FHD]
 https://orbitachiletv.org/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl@SD" tvg-logo="https://i.imgur.com/i0rZsgG.png" tvg-type="live" group-title="🇨🇱 Chile | Filmes",Retro Plus 3 [FHD]
+http://181.119.97.124:8080/play/retroplus_3/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇨🇱 Chile | Filmes",Star Channel [HD]
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="PantallaClasicaEC.ec@SD" tvg-logo="https://i.imgur.com/mhbERF9.jpg" tvg-type="live" group-title="🇪🇨 Equador | Filmes",Pantalla Clásica EC [SD]
@@ -569,16 +585,14 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Filmes",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/foxm.m3u8
-#EXTINF:-1 tvg-id="AXN.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN [FHD]
-http://193.254.245.162/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/axn_hun/index.m3u8
+http://88.212.15.17/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN CEE Bulgary
 http://85.11.144.9:4222/AXN
 #EXTINF:-1 tvg-id="AXNCEE.es@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN CEE Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_axn/playlist.m3u8
+http://88.212.15.17/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN CEE Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -803,6 +817,8 @@ https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
 https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWestern.de@IT" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Pluto TV Western
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it@HD" tvg-logo="https://i.imgur.com/0FjxXU9.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Rai Movie HD [FHD]
+http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Rakuten TV Action Movies Italy [FHD]
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Rakuten TV Comedy Movies Italy [FHD]
@@ -842,10 +858,10 @@ http://86.87.15.10:8008/play/a01m/index.m3u8
 http://86.87.15.10:8008/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@Czechia" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Comedy Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+http://88.212.15.17/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Comedy Magyar [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+http://88.212.15.17/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Adria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Emotion Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
@@ -854,10 +870,10 @@ https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
 http://213.91.179.28:8000/play/a04r
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Czechia" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Emotion Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+http://88.212.15.17/live/test_film_boxextra_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Hungary" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Emotion Hungary [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl@SD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Festival
 https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Adria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Hits Adria
@@ -865,10 +881,10 @@ https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Czechia" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Hits Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+http://88.212.15.17/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Czechia" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Love & Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Adria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ Love & Crime Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
@@ -880,7 +896,7 @@ http://213.91.179.28:8000/play/a066
 http://213.91.179.28:8000/play/a06i
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Czechia" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ One Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_filmbox/playlist.m3u8
+http://88.212.15.17/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Nederland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",FILMBOX+ One Nederland
 http://46.149.191.219:9100/play/a015
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" tvg-logo="https://i.imgur.com/jz0d8tH.png" tvg-type="live" group-title="🇨🇭 Suíça | Filmes",My Cinema Europe
@@ -1017,8 +1033,18 @@ https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/
 https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Austria" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="live" group-title="🇦🇹 Áustria | Filmes",Rakuten TV Drama Movies Austria [HD]
 https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNPoland.pl@SD" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",AXN Poland [FHD]
+http://92.114.85.87:8015/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl@SD" tvg-logo="https://i.imgur.com/2yMtcJw.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",Canal+ Film (576i)
+http://57.128.210.196:8080/296/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl@HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Action [HD]
+http://92.114.85.87:8008/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@Poland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Comedy [HD]
+http://92.114.85.87:8008/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Comedy Romania
 https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Poland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Emotion [HD]
+http://92.114.85.87:8008/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Emotion Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1030,9 +1056,11 @@ https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
 https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl@Poland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Festival Poland
 http://92.114.85.87:8018/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Poland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Hits (576i)
+http://92.114.85.87:8008/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Hungary" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Hits Hungary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+http://88.212.15.17/live/fb_premium_hungary/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Hits Romania [SD]
 https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Hits Romania (fonte 2)
@@ -1041,6 +1069,9 @@ https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Love & Crime Bulgaria [HD]
 http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Love & Crime Magyar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Poland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ One [FHD]
@@ -1048,8 +1079,7 @@ http://57.128.231.171:8080/236/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ One Bulgaria [SD]
 http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ One Magyar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+http://88.212.15.17/live/filmbox_hungary/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",FILMBOX+ One Romania [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
@@ -1057,10 +1087,18 @@ https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+#EXTINF:-1 tvg-id="HBO.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",HBO (576i)
+http://57.128.231.171:8080/243/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.pl@SD" tvg-logo="https://i.imgur.com/2e3muOJ.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",HBO 2 (576i)
+http://57.128.231.171:8080/246/index.m3u8
 #EXTINF:-1 tvg-id="KinoPolska.pl@SD" tvg-logo="https://i.imgur.com/lbl8K23.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",Kino Polska [FHD]
 http://57.128.231.171:8080/238/index.m3u8
+#EXTINF:-1 tvg-id="PolsatFilm.pl@SD" tvg-logo="https://i.imgur.com/wGH6shZ.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",Polsat Film [FHD]
+http://57.128.210.196:8080/205/index.m3u8
 #EXTINF:-1 tvg-id="PolsatFilm.pl@HD" tvg-logo="https://i.imgur.com/wGH6shZ.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",Polsat Film HD
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+#EXTINF:-1 tvg-id="SundanceTV.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",Sundance TV (576i)
+http://92.114.85.87:8003/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Action24.gr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" tvg-type="live" group-title="🇬🇷 Grécia | Filmes",Action 24 [FHD]
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="GroovyTV.gr@SD" tvg-logo="https://i.imgur.com/ZYNQuf1.png" tvg-type="live" group-title="🇬🇷 Grécia | Filmes",Groovy TV [SD]
@@ -1071,38 +1109,52 @@ http://88.212.15.17/live/test_cinemax_hd_hevc/playlist.m3u8
 http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz@SD" tvg-logo="https://i.imgur.com/OBYuY3S.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Filmes",Film+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924" tvg-type="live" group-title="🇨🇿 República Tcheca | Filmes",HBO
+http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" tvg-type="live" group-title="🇨🇿 República Tcheca | Filmes",HBO 2
+http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO3.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" tvg-type="live" group-title="🇨🇿 República Tcheca | Filmes",HBO 3
+http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoBarrandov.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Filmes",Kino Barrandov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+http://88.212.15.17/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400" tvg-type="live" group-title="🇨🇿 República Tcheca | Filmes",Warner TV
+http://88.212.15.17/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="AXNCrime.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/viasat_film/index.m3u8
+http://88.212.15.17/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Cinemax 2 Central Europe Poland [FHD]
+http://57.128.231.171:8080/288/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxCentralEurope.hu@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Cinemax Central Europe Poland [FHD]
+http://57.128.231.171:8080/287/index.m3u8
 #EXTINF:-1 tvg-id="FilmCafe.hu@Hungary" tvg-logo="https://i.imgur.com/jaKRnzU.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Film Cafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/film_cafe/index.m3u8
+http://88.212.15.17/live/film_cafe/index.m3u8
 #EXTINF:-1 tvg-id="FilmCafe.hu@Romania" tvg-logo="https://i.imgur.com/jaKRnzU.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Film Cafe Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.hu@SD" tvg-logo="https://i.imgur.com/OWqzJyy.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Film+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+http://88.212.15.17/live/film_plus_hun_atk/index.m3u8
 #EXTINF:-1 tvg-id="Film4.hu@SD" tvg-logo="https://i.imgur.com/X5N8CHf.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Film4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/film4_hun/index.m3u8
+http://88.212.15.17/live/film4_hun/index.m3u8
 #EXTINF:-1 tvg-id="MagyarMoziTV.hu@SD" tvg-logo="https://i.imgur.com/cXajs8V.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Magyar Mozi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/mozi/index.m3u8
+http://88.212.15.17/live/mozi/index.m3u8
 #EXTINF:-1 tvg-id="MAX4.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",MAX4 [FHD]
 http://141.94.193.53:80/MAX4_HD/index.m3u8
 #EXTINF:-1 tvg-id="MoziPlus.hu@SD" tvg-logo="https://i.imgur.com/LtCnPFJ.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Mozi+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/mozi_plusz/index.m3u8
+http://88.212.15.17/live/mozi_plusz/index.m3u8
 #EXTINF:-1 tvg-id="Moziverzum.hu@SD" tvg-logo="https://i.imgur.com/NMifecQ.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Moziverzum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/moziverzum/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood Classic Romania
+http://88.212.15.17/live/moziverzum/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood Classic Romania [SD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood Classic Romania (fonte 2)
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
@@ -1114,6 +1166,8 @@ http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro@HD" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Cinemaraton Plus (1080i)
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1 tvg-id="CineWow.ro@SD" tvg-logo="https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",CineWow [SD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-aleph-news/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="FilmNow.ro@SD" tvg-logo="https://i.imgur.com/sSoRvGz.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Film Now
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1283,6 +1337,8 @@ https://cdn.pishow.tv/ott/live/337/master.m3u8
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Shubh Cinema TV [SD] (fonte 2)
 https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Sony Max 1
+http://27.116.22.53:5001/live/3418.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Sony Max 2 [SD]
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Sony Max HD [FHD]
@@ -1305,8 +1361,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 http://103.185.24.134:3001/Star-Movies/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Star Movies HD [FHD] (fonte 2)
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Star Movies Select HD [FHD]
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Studio One + [HD]
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Studio One + [SD] (fonte 2)
@@ -1392,13 +1446,13 @@ https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino [SD]
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino [SD] (fonte 2)
-http://88.212.15.19/live/test_dom_kino/playlist.m3u8
+http://88.212.15.17/live/test_dom_kino/playlist.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino (fonte 3)
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino International [SD]
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@SD" tvg-logo="https://i.imgur.com/rJpQtvK.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino Premium [SD]
-http://88.212.15.19/live/test_dom_kino_premium/playlist.m3u8
+http://88.212.15.17/live/test_dom_kino_premium/playlist.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://i.imgur.com/rJpQtvK.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino Premium HD [FHD]
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://i.imgur.com/rJpQtvK.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Dom kino Premium HD [FHD] (fonte 2)
@@ -1508,11 +1562,7 @@ http://stream.mcquack.net/217/index.m3u8
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-logo="https://i.imgur.com/QRWKpmb.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe muzhskoe HD [FHD]
 http://stream.mcquack.net/362/index.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino [FHD]
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino [SD] (fonte 2)
-https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino (fonte 3)
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-logo="https://i.imgur.com/NwQ7GBy.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Ostrosyuzhetnoye HD [FHD]
 http://stream.mcquack.net/214/index.m3u8
@@ -1520,20 +1570,16 @@ http://stream.mcquack.net/214/index.m3u8
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Premialnoe.ru@HD" tvg-logo="https://i.imgur.com/ck4aLBP.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Premialnoe HD [FHD]
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 tvg-id="Pro100TV.ru@SD" tvg-logo="https://i.imgur.com/YfQEflM.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Pro100TV [SD]
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="Quadro.ru@4K" tvg-logo="https://i.imgur.com/P4c53HA.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Quadro [4K]
+http://57.128.231.171:8080/316/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Rodnoe Kino [SD]
 http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Rodnoe Kino [SD] (fonte 2)
-https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Rodnoe Kino (fonte 3)
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Rodnoe Kino (fonte 2)
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy Bestseller [SD]
 http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-logo="https://i.imgur.com/H3qhN8S.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy Detektiv [SD]
 http://stream.mcquack.net/204/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyIllusion.ru@SD" tvg-logo="https://i.imgur.com/RlsqFN8.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy Illusion [SD]
-https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy roman [SD]
 http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Russkiy roman [SD] (fonte 2)
@@ -1552,8 +1598,6 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://i.imgur.com/4bACa7x.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",START Air [SD] (fonte 2)
 http://stream.mcquack.net/128/index.m3u8
-#EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://i.imgur.com/4bACa7x.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",START Air [SD] (fonte 3)
-https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="STARTWorld.ru@SD" tvg-logo="https://i.imgur.com/TXtY5eM.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",START World [SD]
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="TV21.ru@SD" tvg-logo="https://i.imgur.com/nSmSnH6.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",TV 21 [SD]
@@ -1632,10 +1676,6 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",КИНОТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-id="NovyiRusskii.ru@HD" tvg-logo="https://i.imgur.com/iuRSScH.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Новый Русский [HD]
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Патриот (576i)
-http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Родное Кино [SD]
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Русский Бестселлер [SD]
@@ -1732,16 +1772,6 @@ http://stream.mcquack.net/380/index.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" tvg-type="live" group-title="🇪🇬 Egito | Filmes",Mix Hollywood [FHD]
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 tvg-id="TrueFilm1.th@SD" tvg-logo="https://i.imgur.com/z9XvYLe.png" tvg-type="live" group-title="🇹🇭 Tailândia | Filmes",True Film 1 [HD]
-http://58.8.186.128:10004/bysid/2415
-#EXTINF:-1 tvg-id="TrueFilm2.th@SD" tvg-logo="https://i.imgur.com/4K1HbOB.png" tvg-type="live" group-title="🇹🇭 Tailândia | Filmes",True Film 2 [HD]
-http://58.8.186.128:10004/bysid/2432
-#EXTINF:-1 tvg-id="TrueFilmAsia.th@SD" tvg-logo="https://i.imgur.com/Ci872im.png" tvg-type="live" group-title="🇹🇭 Tailândia | Filmes",True Film Asia [HD]
-http://58.8.186.128:10004/bysid/2416
-#EXTINF:-1 tvg-id="TrueMovieHits.th@SD" tvg-logo="https://i.imgur.com/65kk1R3.png" tvg-type="live" group-title="🇹🇭 Tailândia | Filmes",True Movie Hits [HD]
-http://58.8.186.128:10003/bysid/2325
-#EXTINF:-1 tvg-id="TrueThaiFilm.th@SD" tvg-logo="https://i.imgur.com/MfLY3LF.png" tvg-type="live" group-title="🇹🇭 Tailândia | Filmes",True Thai Film [HD]
-http://58.8.186.128:10003/bysid/2326
 #EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Filmes",ON Movies [HD]
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="VinhLongTV3.vn@SD" tvg-logo="https://i.imgur.com/OQXEhqu.png" tvg-type="live" group-title="🇻🇳 Vietnã | Filmes",Vinh Long TV 3 [HD]
@@ -1756,8 +1786,12 @@ https://hls.maahtv.live/hls/stream.m3u8
 https://2x2.me/5aE8sA
 #EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",AXN Asia Taiwan [FHD]
 http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",Cinemax Asia HD [FHD]
+http://125.227.210.55:1001/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HBOAsia.sg@HD" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HBO Asia HD [FHD]
 https://2x2.me/yTKXaE
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HBO Asia Taiwan [FHD]
+http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@HD" tvg-logo="https://i.ibb.co/Mkzs7g3J/IMG-2195.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HBO Hits Asia HD [FHD]
 https://2x2.me/BbwzPx
 #EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-logo="https://i.imgur.com/kyE3vXf.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HITS Movies [SD]

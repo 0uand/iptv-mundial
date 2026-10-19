@@ -60,9 +60,9 @@ https://stream.fs1.tv/hls/webstream.m3u8
 #EXTINF:-1 tvg-id="LandleTV.at@SD" tvg-logo="https://i.imgur.com/omLVQ4r.png" tvg-type="live" group-title="🇦🇹 Áustria | Geral",Ländle TV [FHD]
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-id="ORF1.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg" tvg-type="live" group-title="🇦🇹 Áustria | Geral",ORF 1
-http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF2.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" tvg-type="live" group-title="🇦🇹 Áustria | Geral",ORF 2 [HD]
-http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8
+http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF2.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" tvg-type="live" group-title="🇦🇹 Áustria | Geral",ORF 2 [HD] (fonte 2)
 https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
 #EXTINF:-1 tvg-id="P3tv.at@SD" tvg-logo="https://i.imgur.com/qUOFiEe.png" tvg-type="live" group-title="🇦🇹 Áustria | Geral",P3tv [HD]

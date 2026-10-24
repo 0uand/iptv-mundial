@@ -1173,6 +1173,7 @@
   <channel site="sky.com" lang="en" xmltv_id="UtsavPlus.uk@SD" site_id="GB#1771">Utsav Plus</channel>
   <channel site="watch.whaletvplus.com" lang="en" xmltv_id="WaterBear.ch@SD" site_id="879572040829901641">WaterBear</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="SolMusica.es@SD" site_id="171">Buen viaje</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="ETB2On.es@HD" site_id="ETB">etb2ON</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="Enelpuntodemira.us@Spain" site_id="PlutoTV/es#61922be835f3910007fc58f6">En el punto de mira</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Historia.es@HD" site_id="148">Historia</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="LoneStar.us@SD" site_id="Plex/au#697140a85d851f5e69414688-6196c9241d310bf925e02616">Lone Star</channel>
@@ -1186,6 +1187,7 @@
   <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVSnooker900.de@ES" site_id="PlutoTV/es#69148c470155f9b136b5d856">Pluto TV Snooker 900</channel>
   <channel site="vidio.com" lang="id" xmltv_id="RealMadridTVEnglish.es@SD" site_id="19538">Real Madrid TV</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Teledeporte.es@SD" site_id="9">Teledeporte</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="AXNMovies.es@SD" site_id="SET">AXN Movies</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="CineFriki.es@SD" site_id="Plex/es#643054b1fc3be59477853717-6490e17c18a55242eea95991">Cine Friki</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="CineWestern.es@SD" site_id="Plex/es#643054b1fc3be59477853717-66ea174c9502c5778b828d47">Cine Western</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="MyTimeMovieNetwork.es@SD" site_id="Plex/es#643054b1fc3be59477853717-64487696af92c31f4a190bc4">MyTime Movie Network</channel>
@@ -1221,7 +1223,7 @@
   <channel site="i.mjh.nz" lang="es" xmltv_id="TodoNovelas.es@SD" site_id="Plex/es#643054b1fc3be59477853717-6490e59918a55242eea95995">Todo Novelas</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Antena3.es@National" site_id="2">Antena 3</channel>
   <channel site="directv.com.uy" lang="es" xmltv_id="Antena3Internacional.es@SD" site_id="762#ANT3">Antena 3 Internacional</channel>
-  <channel site="sky.com" lang="de" xmltv_id="AragonTVInternacional.es@SD" site_id="DE#205">ARAGON TV INT</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="AragonTVInternacional.es@SD" site_id="ARAGON">Aragón TV Int</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="ArchivosForenses.us@Spain" site_id="PlutoTV/es#5f984f4a09e92d0007d74647">Archivos Forenses</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="CMMTV.es@HD" site_id="296">Castilla - La Mancha TV</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="CanalParlamento.es@SD" site_id="604">Canal Parlamento</channel>
@@ -1230,8 +1232,10 @@
   <channel site="watch.whaletvplus.com" lang="fr" xmltv_id="CapTerre.es@FR" site_id="999420644834214648">Cap Terre</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="CazadordeHomicidas.us@Spain" site_id="PlutoTV/es#60ed5fb9c4716d0007d180c5">Cazador de Homicidas</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Clan.es@SD" site_id="505">Clan TVE</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="ClanInternacional.es@SD" site_id="CLANTV">Clan TVE</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="ComediaalobestiadePlutoTV.de@ES" site_id="PlutoTV/es#68de3db35fc0afe85de0b843">Comedia a lo bestia de Pluto TV</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="CrimenHistoria.es@SD" site_id="Plex/es#643054b1fc3be59477853717-67200026769d5ec4bf51d63e">Crimen Y Historia</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="ETB1On.es@HD" site_id="ETB3">etb1ON</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="ElMueble.es@SD" site_id="Plex/es#643054b1fc3be59477853717-693cb1af58076a970420f591">El Mueble</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="ElToroTV.es@SD" site_id="516">El Toro TV</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="GaliciaTVEuropa.es@SD" site_id="37">Galicia TV</channel>
@@ -1241,7 +1245,7 @@
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="La2.es@SD" site_id="4">La 2</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="MrBeanAnimated.uk@ES" site_id="Plex/mx#608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d">Mr. Bean</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="NatureTime.ca@ES" site_id="PlutoTV/es#60dd6b1da79e4d0007309455">Nature Time</channel>
-  <channel site="watch.whaletvplus.com" lang="es" xmltv_id="NegociosTV.es@SD" site_id="879542015640474462">NEGOCIOS TV</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="NegociosTV.es@SD" site_id="NEGOTV">Negocios TV</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="OnePiece.us@Spain" site_id="PlutoTV/us#5f7790b3ed0c88000720b241">One Piece</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="ParamountNetworkdePlutoTV.de@ES" site_id="PlutoTV/es#68d566603d3a9580eb461251">Paramount Network de Pluto TV</channel>
   <channel site="i.mjh.nz" lang="es" xmltv_id="PlutoTVAnimales.de@ES" site_id="PlutoTV/es#600ae6a78d801e0007117d21">Pluto TV Animales</channel>
@@ -1931,6 +1935,8 @@
   <channel site="epg.iptvx.one" lang="ru" xmltv_id="Music.kg@SD" site_id="ktrk-muzyka">КТРК Музыка</channel>
   <channel site="programetv.ro" lang="ro" xmltv_id="MusicChannel.ro@SD" site_id="music-channel">Music Channel</channel>
   <channel site="dishtv.in" lang="en" xmltv_id="MusicIndia.in@SD" site_id="143563">Music India</channel>
+  <channel site="mic-indo.com" lang="id" xmltv_id="MusicInformationChannel.id@SD" site_id="#">Music
+    Information Channel (720p)</channel>
   <channel site="epg.iptvx.one" lang="ru" xmltv_id="MuzTV.ru@SD" site_id="muztv">Муз-ТВ</channel>
   <channel site="epg.iptvx.one" lang="ru" xmltv_id="MuzsikaTV.hu@SD" site_id="muzsika-tv">Muzsika TV</channel>
   <channel site="epg.iptvx.one" lang="ru" xmltv_id="Muzvar.ua@SD" site_id="muzwar">Музвар</channel>
@@ -3995,9 +4001,4 @@
   <channel site="chaines-tv.orange.fr" lang="fr" xmltv_id="Rai3.it@HD" site_id="155">RAI 3</channel>
   <channel site="cubmu.com" lang="id" xmltv_id="RajawaliTV.id@SD" site_id="246">Rtv</channel>
   <channel site="airtelxstream.in" lang="en" xmltv_id="Ramdhenu.in@SD" site_id="LIVETV_LIVETVCHANNEL_RAMDHENU">Ramdhenu</channel>
-  <channel site="airtelxstream.in" lang="en" xmltv_id="Rang.in@SD" site_id="LIVETV_LIVETVCHANNEL_RANG">Rang</channel>
-  <channel site="tv.lv" lang="lv" xmltv_id="ReTV.lv@SD" site_id="retv">ReTV</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="RealWild.uk@SD" site_id="Plex/au#697140a85d851f5e69414688-63584a0cf8e2be1350f802a4">Real Wild</channel>
-  <channel site="programetv.ro" lang="ro" xmltv_id="RealitateaPlus.ro@SD" site_id="realitatea-plus">Realitatea Plus</channel>
-  <channel site="epg.iptvx.one" lang="ru" xmltv_id="RedLine.ru@SD" site_id="krasnaya-linia">Красная линия</channel>
 </channels>

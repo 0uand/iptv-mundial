@@ -138,16 +138,12 @@ https://servilive.com:3199/live/amazoniatvlive.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonicaTV.pe@SD" tvg-logo="https://i.imgur.com/22ebHAX.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",Amazonica TV (fonte 2)
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD]
-http://45.171.108.253:8888/AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD] (fonte 2)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Am%C3%A9rica_HD.svg/960px-Am%C3%A9rica_HD.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD]
 http://190.93.224.42/AMERICA-TV/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD] (fonte 3)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Am%C3%A9rica_HD.svg/960px-Am%C3%A9rica_HD.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD] (fonte 4)
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [HD] (fonte 5)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Am%C3%A9rica_HD.svg/960px-Am%C3%A9rica_HD.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [HD] (fonte 3)
 http://187.102.210.46/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="Antena1.pe@SD" tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",Antena 1 [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -402,11 +398,9 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 http://190.93.224.42/VIVA-TV/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [FHD] (fonte 5)
 http://181.224.200.5:2277/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [FHD] (fonte 6)
-http://187.102.208.209:8000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [HD] (fonte 7)
+#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [HD] (fonte 6)
 http://187.102.210.46/TVPERU/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru (fonte 8)
+#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru (fonte 7)
 https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusChincha.pe@SD" tvg-logo="https://i.imgur.com/bjQpQsu.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV+ Chincha [HD]
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8

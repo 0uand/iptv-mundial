@@ -9,6 +9,8 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-id="IndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/vmk4F9u.png" tvg-type="live" group-title="🇹🇼 Taiwan | Cultura",Indigenous TV [HD]
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw@SD" tvg-logo="https://i.imgur.com/oUhYdea.png" tvg-type="live" group-title="🇹🇼 Taiwan | Filmes",EBC Foreign Movie
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",DaAi 2 [FHD]
 http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 #EXTINF:-1 tvg-id="DaAi1.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",DaAi1 (大愛1) [HD]
@@ -75,6 +77,10 @@ https://live.streamingfast.net/osmflivech6.m3u8
 https://live.streamingfast.net/osmflivech7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",GOOD TV CH9 愛+好醫生 短版 [HD]
 https://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 tvg-id="PTS3.tw@SD" tvg-logo="https://i.imgur.com/I6sVDDt.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",PTS 3
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="SJTV.tw@SD" tvg-logo="https://i.imgur.com/PTsFn9B.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",SJTV
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/QqIdVqz.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",Taiwan Indigenous TV [HD]
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-type="live" group-title="🇹🇼 Taiwan | Geral",Taiwan Plus TV [FHD]

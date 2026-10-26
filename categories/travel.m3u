@@ -62,7 +62,7 @@ https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Viagem",Teletur [HD]
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TurismoRDTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Viagem",Turismo RDTV [HD]
-https://streamunoapp.com:3086/live/telemileniolive.m3u8
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-type="live" group-title="🇫🇷 França | Viagem",Voyages & Saveurs [HD]
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png" tvg-type="live" group-title="🇫🇮 Finlândia | Viagem",InTravel [FHD]
@@ -73,6 +73,8 @@ https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.s
 http://92.114.85.87:8011/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="TravelMix.ro@SD" tvg-logo="https://i.imgur.com/4dMeEQO.png" tvg-type="live" group-title="🇷🇴 Romênia | Viagem",Travel Mix [SD]
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="TravelMix.ro@SD" tvg-logo="https://i.imgur.com/4dMeEQO.png" tvg-type="live" group-title="🇷🇴 Romênia | Viagem",Travel Mix (fonte 2)
+https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-type="live" group-title="🇮🇳 Índia | Viagem",Travelxp HD [FHD]
 http://103.151.60.162:2122/play/a01s/index.m3u8?hls
 #EXTINF:-1 tvg-id="Travelxp.in@Russia" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-type="live" group-title="🇮🇳 Índia | Viagem",Travelxp Russia [FHD]
@@ -94,8 +96,6 @@ http://stream.mcquack.net/164/index.m3u8
 http://46.53.200.153:7777/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure [FHD]
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
-#EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure [SD] (fonte 2)
-http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure HD [FHD]
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure HD [FHD] (fonte 2)

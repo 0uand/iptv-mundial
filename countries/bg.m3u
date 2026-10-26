@@ -173,6 +173,8 @@ http://213.91.179.28:8000/play/a053
 #EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a059
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Disney Channel (576i)
+http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="EKids.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",EKids [SD]
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon [SD]
@@ -180,6 +182,8 @@ http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a056
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",Nickelodeon (fonte 3)
+http://87.120.179.187:8000/play/a00x
 #EXTINF:-1 tvg-id="RING.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Infantil",RING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a06e

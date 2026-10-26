@@ -280,7 +280,7 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen4.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 4 [FHD]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-type="live" group-title="🇫🇷 França | Legislativo",LCP [SD]
+#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-type="live" group-title="🇫🇷 França | Legislativo" catchup="default" catchup-source="https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LCP [SD]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-logo="https://i.imgur.com/hv4zi9N.png" tvg-type="live" group-title="🇮🇹 Itália | Legislativo",Camera dei Deputati (via RR) [SD]
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8

@@ -27,9 +27,7 @@ http://186.219.52.187/futura/index.m3u8
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br@SD" tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Canal Saúde [HD]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Futura.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Futura [HD]
-http://168.197.104.22/FUTURA/index.m3u8
-#EXTINF:-1 tvg-id="Futura.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Futura [HD] (fonte 2)
+#EXTINF:-1 tvg-id="Futura.br@SD" tvg-logo="https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Futura [HD]
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",ISTV [HD]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
@@ -119,6 +117,8 @@ https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-logo="https://i.imgur.com/fg8c9WK.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids [HD]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-logo="https://i.imgur.com/fg8c9WK.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids [HD] (fonte 2)
+https://tvsen7.aynascope.net/pbskids/index.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Alaska [FHD]
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Eastern/Central [HD]
@@ -157,8 +157,6 @@ https://world.lls.pbs.org/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk@SD" tvg-logo="https://i.imgur.com/UjOxwdd.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",Alhiwar TV [FHD]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EnglishClubGlobal.uk@SD" tvg-logo="https://img.apk.watch/pics:bz1kZmQ3bjImbD0zZmkmaD1wbmcmZj1HbGk5MCZpPTU" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",English Club Global
-https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",English Club TV (576i)
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-type="live" group-title="🇲🇽 México | Educação",Canal 15 ILCE Summa Sabres [HD]
@@ -266,10 +264,8 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCEntertains.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-type="live" group-title="🇦🇺 Austrália | Educação",ABC Entertains [HD]
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇵🇱 Polônia | Educação",Da Vinci [FHD]
-http://57.128.231.171:8080/284/index.m3u8
 #EXTINF:-1 tvg-id="M5.hu@SD" tvg-logo="https://i.imgur.com/y21wFd0.png" tvg-type="live" group-title="🇭🇺 Hungria | Educação",M5 [FHD]
-http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8
+http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="DeParintiro.ro@SD" tvg-logo="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" tvg-type="live" group-title="🇷🇴 Romênia | Educação",DeParinti.ro [SD]
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="BVG.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",BVG [SD]
@@ -435,6 +431,8 @@ https://alpha.tv.online.tm/hls/ch002.m3u8
 https://alpha.tv.online.tm/legacyhls/ch002.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.af@SD" tvg-logo="https://i.imgur.com/Lsy31iZ.jpeg" tvg-type="live" group-title="🇦🇫 Afeganistão | Educação",Shams TV
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
+#EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" tvg-type="live" group-title="🇰🇬 Quirguistão | Educação",Manas TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="A2iNaija.sn@SD" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" tvg-type="live" group-title="🇸🇳 Senegal | Educação",A2i Naija [HD]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" tvg-logo="https://i.imgur.com/1BHJjY4.png" tvg-type="live" group-title="🇰🇵 Coreia do Norte | Educação",Ryongnamsan Television SD [HD]

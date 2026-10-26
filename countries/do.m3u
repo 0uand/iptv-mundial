@@ -126,7 +126,7 @@ https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 #EXTINF:-1 tvg-id="CamuTV.do@SD" tvg-logo="https://i.imgur.com/3d8cLm9.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Camu TV [SD]
 https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaTVDigital.do@SD" tvg-logo="https://i.imgur.com/k8jxt12.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Cana TV Digital [HD]
-https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do@SD" tvg-logo="https://i.imgur.com/3AqCAji.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Canal 4 RD [FHD]
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal70.do@HD" tvg-logo="https://imgur.com/LfcHA2d.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Canal 70 [HD]
@@ -201,8 +201,8 @@ https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
 https://soportedvb.click:3442/live/entunotvlive.m3u8
 #EXTINF:-1 tvg-id="Extra86TV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Extra 86 TV [HD]
 https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
-#EXTINF:-1 tvg-id="Farovision.do@SD" tvg-logo="https://i.imgur.com/YtdOXWb.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Farovisión [HD]
-https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Farovision.do@SD" tvg-logo="https://i.imgur.com/YtdOXWb.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Farovision [HD]
+https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8
 #EXTINF:-1 tvg-id="FemeninaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Femenina TV
 https://streamunoapp.com:3511/live/femeninatvlive.m3u8
 #EXTINF:-1 tvg-id="FRATATV.do@SD" tvg-logo="https://i.imgur.com/VxeTREd.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",FRATA TV [FHD]
@@ -214,7 +214,7 @@ https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.do@SD" tvg-logo="https://i.imgur.com/1rQaROm.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Global TV [HD]
-https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
+https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="HainaVision.do@SD" tvg-logo="https://i.imgur.com/eoodUNJ.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Haina Vision [HD]
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-id="HilandoFinoTV.do@SD" tvg-logo="https://i.imgur.com/E7ta6g8.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Hilando Fino TV [FHD]
@@ -237,8 +237,8 @@ https://streamunoapp.com:3983/live/larutatvlive.m3u8
 https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Laguna TV [FHD]
 https://cnn.hostlagarto.com/lagutv/playlist.m3u8
-#EXTINF:-1 tvg-id="LarivisionTV.do@HD" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Larivision TV
-https://live.larimartv.net/livelan/stream.m3u8
+#EXTINF:-1 tvg-id="LarivisionTV.do@HD" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Larivision TV [HD]
+https://live.larivision.net/livelan/live.m3u8
 #EXTINF:-1 tvg-id="LarivisionTV.do@HD" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Larivision TV (fonte 2)
 https://cloud5.larivision.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="LatinaTVInternacional.do@SD" tvg-logo="https://i.imgur.com/UAfyeYT.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Latina TV Internacional [HD]
@@ -252,7 +252,7 @@ https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
 #EXTINF:-1 tvg-id="ManaclarTelevision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Manaclar Television
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="ManielTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4060-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Maniel TV [HD]
-https://mp.panelchs.com/hls/8024/8024.m3u8
+https://5790d294af2dc.streamlock.net/manieltv/manieltv/playlist.m3u8
 #EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Marka TV [HD]
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MarlaVision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Marla Vision [SD]
@@ -332,7 +332,7 @@ http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.do@SD" tvg-logo="https://i.imgur.com/AZBamNi.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Super Canal [FHD]
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperDigitalTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Super Digital TV [FHD]
-https://mp.panelchs.com/hls/8032/8032.m3u8
+https://cdn.streamrd.cloud/live/ch_kb5qe1zr.m3u8
 #EXTINF:-1 tvg-id="Supremateve.do@HD" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/supremateve.jpeg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Supremateve [HD]
 https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
 #EXTINF:-1 tvg-id="SurTV.do@SD" tvg-logo="https://i.imgur.com/oAyvK0N.jpeg" tvg-type="live" group-title="🇩🇴 República Dominicana | Geral",Sur TV [HD]
@@ -502,4 +502,4 @@ https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Viagem",Teletur [HD]
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TurismoRDTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Viagem",Turismo RDTV [HD]
-https://streamunoapp.com:3086/live/telemileniolive.m3u8
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8

@@ -59,25 +59,25 @@ https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="5USA.uk@SD" tvg-logo="https://i.imgur.com/Pi7so2l.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",5USA [SD]
 https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
+#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="https://i.imgur.com/LEVEhTH.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Aathavan TV [HD]
+https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd
+#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="https://i.imgur.com/LEVEhTH.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Aathavan TV [SD] (fonte 2)
+https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",AMC Reality [FHD]
 https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="AuctionHunters.de@GB" tvg-logo="https://i.imgur.com/4SPOVN7.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Auction Hunters
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
-#EXTINF:-1 tvg-id="BBCBrit.uk@Poland" tvg-logo="https://i.imgur.com/i4remZo.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",BBC Brit [FHD]
-http://57.128.231.171:8080/309/index.m3u8
-#EXTINF:-1 tvg-id="BBCFirst.uk@Poland" tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",BBC First [FHD]
-http://57.128.231.171:8080/306/index.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Romania" tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",BBC First Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",BBC First Turkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/bbc_first/index.m3u8
+http://88.212.7.14/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-id="BestofDrPhil.us@SD" tvg-logo="https://i.imgur.com/Jj0wTFQ.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Best of Dr. Phil
 https://jmp2.uk/plu-65a7b01907e03a0008913e8f.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Crime + Investigation CEE
-http://88.212.15.17/live/test_cai_hevc/playlist.m3u8
+http://88.212.7.14/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="E4.uk@SD" tvg-logo="https://i.imgur.com/22MfjF4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",E4 [SD]
 https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",ENT Channel [HD]
@@ -102,8 +102,6 @@ http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk@SD" tvg-logo="https://i.imgur.com/n2BoU7Q.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",MTV Global (fonte 3)
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8
-#EXTINF:-1 tvg-id="MTVGlobal.uk@SD" tvg-logo="https://i.imgur.com/n2BoU7Q.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",MTV Global (fonte 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.67:5000
 #EXTINF:-1 tvg-id="MysteryTV.us@UK" tvg-logo="https://i.imgur.com/K4gwstM.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Mystery TV [FHD]
@@ -116,7 +114,7 @@ https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
 https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedyMovies.de@GB" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Pluto TV Comedy Movies
 https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
-#EXTINF:-1 tvg-id="PlutoTVReality.de@GB" tvg-logo="https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Pluto TV Reality
+#EXTINF:-1 tvg-id="PlutoTVReality.de@GB" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Pluto TV Reality
 https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Rakuten TV Reality UK [FHD]
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
@@ -143,10 +141,8 @@ https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/720
 #EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Entretenimento",Zee One [HD] (fonte 2)
 https://536ec699.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZC0xX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",Cartoon Network CEE Czech Republic
-http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",Cartoon Network CEE Poland [FHD]
-http://57.128.231.171:8080/293/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",Cartoon Network CEE Poland (fonte 2)
+http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",Cartoon Network CEE Poland
 http://92.114.85.87:8007/play/a009
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",Cartoon Network CEE Ukraine [SD]
 http://45.132.87.69:8080/cartoon_network/index.m3u8
@@ -158,10 +154,6 @@ https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg0
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-id="SouthPark.de@GB" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Ciência",Discovery Science Europe Poland [FHD]
-http://57.128.231.171:8080/279/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVScience.de@GB" tvg-logo="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Ciência",Pluto TV Science
-https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk@SD" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Ciência",Wonder [HD]
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" tvg-type="live" group-title="🇬🇧 Reino Unido | Clima",Sky News Weather [HD]
@@ -220,13 +212,11 @@ https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
 https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",Autentic History [HD]
 https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth [FHD]
-http://57.128.231.171:8080/307/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth Czechia
-http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Hungary" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth Hungary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/bbce_hun/index.m3u8
+http://88.212.7.14/live/bbce_hun/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Romania" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -284,8 +274,6 @@ https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk@SD" tvg-logo="https://i.imgur.com/UjOxwdd.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",Alhiwar TV [FHD]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="EnglishClubGlobal.uk@SD" tvg-logo="https://img.apk.watch/pics:bz1kZmQ3bjImbD0zZmkmaD1wbmcmZj1HbGk5MCZpPTU" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",English Club Global
-https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",English Club TV (576i)
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",FIFA+ [HD]
@@ -318,8 +306,6 @@ https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGc
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" tvg-logo="https://i.imgur.com/J0TY9dG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",PGA TOUR [HD] (fonte 2)
 https://jmp2.uk/plu-66d885aef0f17500084b6750.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de@GB" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",Pluto TV Snooker 900 [HD]
-https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",Rally TV [HD]
 https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@UK" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",Red Bull TV [FHD]
@@ -329,9 +315,6 @@ https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="SetantaSports.uk@SD" tvg-logo="https://scontent.flwo7-1.fna.fbcdn.net/v/t39.30808-6/364716463_853281776306116_3365262792418742642_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=109&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=cdryMbRE2MwQ7kNvwFeyihF&_nc_oc=Adqncj9xKrtg2aNKgZmuX6LGZlSfpAmh_HQEEkBciEg1tXwQqFuMtohNjM8-Z8hU_Ho&_nc_zt=23&_nc_ht=scontent.flwo7-1.fna&_nc_gid=nGCZSHk6GKFYzjwKY-aGWw&_nc_ss=7b289&oh=00_AQFswjCYfEBKcXRO2DpTL1Dz7arAN-82K47gi8qtwljzrw&oe=6A862750" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",Setanta Sports [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/313/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSports.uk@HD" tvg-logo="https://scontent.flwo7-1.fna.fbcdn.net/v/t39.30808-6/364716463_853281776306116_3365262792418742642_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=109&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=cdryMbRE2MwQ7kNvwFeyihF&_nc_oc=Adqncj9xKrtg2aNKgZmuX6LGZlSfpAmh_HQEEkBciEg1tXwQqFuMtohNjM8-Z8hU_Ho&_nc_zt=23&_nc_ht=scontent.flwo7-1.fna&_nc_gid=nGCZSHk6GKFYzjwKY-aGWw&_nc_ss=7b289&oh=00_AQFswjCYfEBKcXRO2DpTL1Dz7arAN-82K47gi8qtwljzrw&oe=6A862750" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",Setanta Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch@SD" tvg-logo="https://i.imgur.com/S6qgwLG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",SKI TV [FHD]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Esportes",Sky Sports F1 [HD]
@@ -368,8 +351,6 @@ https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8
 https://jmp2.uk/plu-66f135b45e4a6e0008b80606.m3u8
 #EXTINF:-1 tvg-id="AutenticTravel.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Estilo de vida",Autentic Travel [HD]
 https://autentic-autentictravel-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland" tvg-logo="https://i.imgur.com/9mzJJ3y.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Estilo de vida",BBC Lifestyle Poland [FHD]
-http://57.128.231.171:8080/305/index.m3u8
 #EXTINF:-1 tvg-id="HobbyMaker.uk@SD" tvg-logo="https://i.imgur.com/VWHp5Tl.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Estilo de vida",Hobby Maker [HD]
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Estilo de vida",INFAST [FHD]
@@ -398,12 +379,10 @@ http://212.70.131.37:8000/play/a05k
 http://213.91.179.28:8000/play/a0by
 #EXTINF:-1 tvg-id="AMCEurope.uk@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_amc_25p/playlist.m3u8
+http://88.212.7.14/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Hungary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/amc_hun/index.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Poland (576i)
-http://57.128.231.171:8080/318/index.m3u8
+http://88.212.7.14/live/amc_hun/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -440,10 +419,6 @@ https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
 https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMovies.de@GB" tvg-logo="https://i.imgur.com/XzAbXAn.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",Pluto TV Movies
 https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de@GB" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",Pluto TV Paranormal
-https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.de@GB" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",Pluto TV Thrillers
-https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.de@GB" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",Pluto TV Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",Rakuten Top Movies UK [FHD]
@@ -784,6 +759,16 @@ https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
 https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.de@GB" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Geral",Pluto TV Kids
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
+#EXTINF:-1 tvg-id="PlutoTVParanormal.de@GB" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Geral",Pluto TV Paranormal
+https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.de@GB" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Geral",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
+#EXTINF:-1 tvg-id="PlutoTVScience.de@GB" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Geral",Pluto TV Science
+https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSnooker900.de@GB" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Geral",Pluto TV Snooker 900 [HD]
+https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
+#EXTINF:-1 tvg-id="PlutoTVThrillers.de@GB" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Geral",Pluto TV Thrillers
+https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Geral",Pocoyo [FHD]
 https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇬🇧 Reino Unido | Geral",Pointless UK [FHD]
@@ -962,8 +947,6 @@ https://jmp2.uk/plu-677fb0b33a225c2d0d8a17be.m3u8
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",Baby Shark TV [HD]
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk@UK" tvg-logo="https://i.imgur.com/4BDJ5FT.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",BabyTV [FHD]
-http://57.128.231.171:8080/310/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-logo="https://i.imgur.com/4BDJ5FT.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",BabyTV Latin America [FHD]
 http://38.44.109.41:8003/play/a0eh
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-logo="https://i.imgur.com/4BDJ5FT.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",BabyTV Latin America [HD] (fonte 2)
@@ -973,10 +956,8 @@ http://181.78.12.119:16123/play/ch01/index.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",BBC Four/CBeebies [HD]
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Czechia" tvg-logo="https://i.imgur.com/9MrzLb1.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",Cartoonito CEE Czechia
-http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
+http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland" tvg-logo="https://i.imgur.com/9MrzLb1.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",Cartoonito CEE Poland [FHD]
-http://57.128.231.171:8080/303/index.m3u8
-#EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland" tvg-logo="https://i.imgur.com/9MrzLb1.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",Cartoonito CEE Poland [FHD] (fonte 2)
 http://92.114.85.87:8007/play/a008
 #EXTINF:-1 tvg-id="CBBC.uk@HD" tvg-logo="https://i.imgur.com/tk8G4CU.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Infantil",CBBC HD
 https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
@@ -1030,8 +1011,6 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Negócios",Bloomberg TV+ [HD] (fonte 2)
 https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8
-#EXTINF:-1 tvg-id="CNBCEurope.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Negócios",CNBC Europe [FHD]
-http://57.128.231.171:8080/234/index.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" tvg-logo="https://i.imgur.com/r8MmFRX.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Notícias",Afghanistan International [HD]
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇬🇧 Reino Unido | Notícias",Al Jazeera [FHD]
@@ -1059,8 +1038,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇬🇧 Reino Unido | Notícias",BBC News (HEVC) [FHD]
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇬🇧 Reino Unido | Notícias",BBC News Asia Pacific [SD]
-https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇬🇧 Reino Unido | Notícias",BBC News Asia Pacific [SD] (fonte 2)
 http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇬🇧 Reino Unido | Notícias",BBC News Europe [SD]
 http://46.32.176.50/bbcworld/index.m3u8
@@ -1219,8 +1196,6 @@ https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
 https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
 #EXTINF:-1 tvg-id="PlutoTVInvestigation.de@GB" tvg-logo="https://i.imgur.com/8LdACfR.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Pluto TV Investigation
 https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de@GB" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScifiSeries.de@GB" tvg-logo="https://i.imgur.com/Ubj8sEU.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.de@GB" tvg-logo="https://i.imgur.com/YzrUL8P.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Pluto TV Sitcoms
@@ -1247,7 +1222,7 @@ http://92.114.85.72:8000/play/a0bi
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_epic_drama_atk_tv/playlist.m3u8
+http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Poland [FHD]
 http://92.114.85.87:8001/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Romania

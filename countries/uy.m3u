@@ -1,7 +1,17 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="LaElegidaTelevision.uy@SD" tvg-logo="https://i.imgur.com/zdrbjDc.png" tvg-type="live" group-title="🇺🇾 Uruguai | Música",La Elegida Television
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DesdeElSurTV.uy@SD" tvg-logo="https://i.imgur.com/y3vNkEU.jpeg" tvg-type="live" group-title="🇺🇾 Uruguai | Entretenimento",Desde El Sur TV
+https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
 #EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" tvg-type="live" group-title="🇺🇾 Uruguai | Cultura",UCL [FHD]
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
 #EXTINF:-1 tvg-id="UCL.uy@SD" tvg-logo="https://i.imgur.com/BzQphbw.png" tvg-type="live" group-title="🇺🇾 Uruguai | Cultura",UCL [HD] (fonte 2)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="Canal5.uy@SD" tvg-logo="https://i.imgur.com/IpYxSr1.png" tvg-type="live" group-title="🇺🇾 Uruguai | Geral",Canal 5 [HD]
 https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-id="CanalALMA.uy@SD" tvg-logo="https://i.imgur.com/rB7iFUF.jpg" tvg-type="live" group-title="🇺🇾 Uruguai | Geral",Canal ALMA
+#EXTVLCOPT:http-referrer=https://canalalma.tv
+https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalOncePlus.uy@SD" tvg-logo="https://i.imgur.com/TYiMGUD.png" tvg-type="live" group-title="🇺🇾 Uruguai | Geral",Canal Once Plus
+#EXTVLCOPT:http-referrer=https://canal11.uy
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8

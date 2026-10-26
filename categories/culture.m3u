@@ -217,7 +217,7 @@ http://92.114.85.87:8016/play/a003/index.m3u8
 https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu@SD" tvg-logo="https://i.imgur.com/aAcORTL.png" tvg-type="live" group-title="🇭🇺 Hungria | Cultura",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/dikh/index.m3u8
+http://88.212.7.14/live/dikh/index.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu@SD" tvg-logo="https://i.imgur.com/Hf122ZD.png" tvg-type="live" group-title="🇭🇺 Hungria | Cultura",Liceum TV [SD]
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro@SD" tvg-logo="https://i.imgur.com/U9i70C9.png" tvg-type="live" group-title="🇷🇴 Romênia | Cultura",TVR Cultural
@@ -250,6 +250,8 @@ http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 tvg-id="ART.ru@SD" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",ART [SD] (fonte 2)
 http://185.23.80.23:8080/ART/index.m3u8
+#EXTINF:-1 tvg-id="Ministerstvoidey.ru@SD" tvg-logo="https://i.imgur.com/3P0uvHD.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Ministerstvo idey [FHD]
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-logo="https://i.imgur.com/pUcV46F.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",NTV Mir [SD]
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Russia-K [SD]
@@ -356,16 +358,16 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="MedeniyyetTV.az@SD" tvg-logo="https://i.imgur.com/PlvaDIa.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Cultura",Medeniyyet TV [FHD]
 https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-id="LRTPlius.lt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" tvg-type="live" group-title="🇱🇹 Lituânia | Cultura",LRT Plius [FHD]
+http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Cultura",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Cultura",Imai TV [FHD]
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="KemetTV.cm@SD" tvg-logo="https://i.imgur.com/NZ0YqOb.jpeg" tvg-type="live" group-title="🇨🇲 Camarões | Cultura",Kemet TV
 https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
 #EXTINF:-1 tvg-id="KemetTV.cm@SD" tvg-logo="https://i.imgur.com/NZ0YqOb.jpeg" tvg-type="live" group-title="🇨🇲 Camarões | Cultura",Kemet TV (fonte 2)
 https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Cultura",Imai TV [FHD]
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="LRTPlius.lt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" tvg-type="live" group-title="🇱🇹 Lituânia | Cultura",LRT Plius [FHD]
-http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="Miras.tm@SD" tvg-logo="https://i.imgur.com/pWbJzr9.png" tvg-type="live" group-title="🇹🇲 Turcomenistão | Cultura",Miras [SD]
 https://alpha.tv.online.tm/hls/ch003.m3u8
 #EXTINF:-1 tvg-id="Miras.tm@SD" tvg-logo="https://i.imgur.com/pWbJzr9.png" tvg-type="live" group-title="🇹🇲 Turcomenistão | Cultura",Miras [SD] (fonte 2)

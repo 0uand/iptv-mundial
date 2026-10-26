@@ -54,7 +54,7 @@ https://hls.tvabierta.net/hls/boliviatv.m3u8
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-logo="https://i.imgur.com/U98Z5zn.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Bolivision [FHD] (fonte 2)
 https://d135ohnuotzzyo.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="BolivisionSantaCruz.bo@SD" tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Bolivision Santa Cruz [HD]
+#EXTINF:-1 tvg-id="BolivisionSantaCruz.bo@SD" tvg-logo="" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Bolivision Santa Cruz [HD]
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="CadenaA.bo@SD" tvg-logo="https://i.imgur.com/BxQPPAA.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Cadena A [HD]
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="TVUFOP.br@HD" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-type="live" group-title="🇧🇷 Brasil | Pública",TV UFOP [FHD]
 https://app.tvufop.com.br/hls/tvufop.m3u8
-#EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-type="live" group-title="🇪🇸 Espanha | Pública",3Cat Càmeres del temps [FHD]
+#EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-type="live" group-title="🇪🇸 Espanha | Pública" catchup="default" catchup-source="https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",3Cat Càmeres del temps [FHD]
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="Esport3.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Pública",Esport3 [FHD]
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8

@@ -67,6 +67,8 @@ https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",AMC Series Latin America [FHD]
 http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",AMC Series Latin America [FHD] (fonte 2)
+https://streaming.onnethn.com/AMC/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Antiques Roadshow PBS [FHD]
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" tvg-logo="https://i.imgur.com/rKWLv48.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Antiques Roadshow UK [FHD]
@@ -286,8 +288,6 @@ http://158.172.155.130:8000/play/a0at/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntnovelas.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas Brazil [HD]
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas Brazil [HD] (fonte 2)
-http://168.197.104.22/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas Colombia [FHD]
 http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Series Latin America [FHD]
@@ -395,8 +395,6 @@ https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
 https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
 #EXTINF:-1 tvg-id="PlutoTVInvestigation.de@GB" tvg-logo="https://i.imgur.com/8LdACfR.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Pluto TV Investigation
 https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de@GB" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScifiSeries.de@GB" tvg-logo="https://i.imgur.com/Ubj8sEU.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.de@GB" tvg-logo="https://i.imgur.com/YzrUL8P.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Pluto TV Sitcoms
@@ -423,7 +421,7 @@ http://92.114.85.72:8000/play/a0bi
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_epic_drama_atk_tv/playlist.m3u8
+http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Poland [FHD]
 http://92.114.85.87:8001/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Viasat Epic Drama Romania
@@ -564,18 +562,10 @@ https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKDrama.de@ES" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV K-Drama
 https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de@ES" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeries.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Series
-https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriescriminales.de@ES" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Series criminales
 https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.de@ES" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Series Sci-Fi
-https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTelenovelasClasicas.de@ES" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Telenovelas Clásicas
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de@ES" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV True Crime
-https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@SD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",TVE Star [SD]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",TVE Star HD [FHD]
@@ -706,14 +696,10 @@ https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPolizeiserien.de@DACH" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Polizeiserien
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de@DACH" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerie.de@DACH" tvg-logo="https://i.imgur.com/u3c80e8.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Serie
 https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.de@DACH" tvg-logo="https://i.imgur.com/YzrUL8P.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de@DACH" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV True Crime
-https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesternSerien.de@DACH" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 tvg-id="TheLWordWennFrauenlieben.de@DACH" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",The L Word – Wenn Frauen lieben
@@ -787,14 +773,10 @@ https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
 https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
 #EXTINF:-1 tvg-id="LesorelleMcLeod.us@Italy" tvg-logo="https://i.imgur.com/OkGiH9a.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Le sorelle McLeod
 https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de@IT" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerie.de@IT" tvg-logo="https://i.imgur.com/u3c80e8.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Pluto TV Serie
 https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerieCrime.de@IT" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Pluto TV Serie Crime
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de@IT" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Pluto TV True Crime
-https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSanctuary.us@SD" tvg-logo="https://i.imgur.com/Fu2jn2t.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 #EXTINF:-1 tvg-id="TheAsylum.us@US" tvg-logo="https://i.imgur.com/dx9tt1B.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",The Asylum
@@ -1129,12 +1111,8 @@ http://92.114.85.87:8014/play/a00h/index.m3u8
 http://92.114.85.87:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.pl@SD" tvg-logo="https://i.imgur.com/DaAyLE7.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",AXN White (576i)
 http://92.114.85.87:8014/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSeriale.pl@SD" tvg-logo="https://i.imgur.com/B55Rl3T.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Canal+ Seriale (576i)
-http://57.128.210.196:8080/294/index.m3u8
 #EXTINF:-1 tvg-id="Cops.us@Poland" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",COPS
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Paramount Network [FHD]
-http://57.128.210.196:8080/212/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Polsat Seriale [FHD]
 http://57.128.210.196:8080/196/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Polsat Seriale HD (1080i)
@@ -1226,6 +1204,10 @@ http://stream.mcquack.net/46/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 #EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTV3 [HD]
 https://dethich.pw/htv3/index.m3u8
+#EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTVC Movies [HD]
+https://dethich.pw/htvcphim/index.m3u8
+#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1 tvg-id="Baywatch.us@US" tvg-logo="https://i.imgur.com/c2esKHg.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Séries",Baywatch [FHD]
 https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Séries",Deal or No Deal [FHD]

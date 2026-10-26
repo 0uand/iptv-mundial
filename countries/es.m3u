@@ -127,8 +127,6 @@ https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-id="ArchivosForenses.us@Spain" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" tvg-type="live" group-title="🇪🇸 Espanha | Documentários",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:-1 tvg-id="CapTerre.es@FR" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/capterre_white.png" tvg-type="live" group-title="🇪🇸 Espanha | Documentários",Cap Terre [FHD]
-http://145.239.5.177/359a/index.m3u8
 #EXTINF:-1 tvg-id="CazadordeHomicidas.us@Spain" tvg-logo="https://i.imgur.com/hy6FJLe.png" tvg-type="live" group-title="🇪🇸 Espanha | Documentários",Cazador de Homicidas
 https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
 #EXTINF:-1 tvg-id="CrimenHistoria.es@SD" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Documentários",Crimen & Historia [HD]
@@ -151,14 +149,12 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-type="live" group-title="🇪🇸 Espanha | Esportes",FIFA+ [HD]
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de@ES" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-type="live" group-title="🇪🇸 Espanha | Esportes",Pluto TV Snooker 900 [HD]
-https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" tvg-type="live" group-title="🇪🇸 Espanha | Esportes",Rally TV [HD]
 https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-type="live" group-title="🇪🇸 Espanha | Esportes",Real Madrid TV [HD]
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-type="live" group-title="🇪🇸 Espanha | Esportes",Real Madrid TV English
-http://88.212.15.17/live/real_madrid_tv/index.m3u8
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" tvg-type="live" group-title="🇪🇸 Espanha | Esportes",Teledeporte
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US" tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-type="live" group-title="🇪🇸 Espanha | Esportes",World Poker Tour
@@ -175,12 +171,12 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/axn_hun/index.m3u8
+http://88.212.15.50/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN CEE Bulgary
 http://85.11.144.9:4222/AXN
 #EXTINF:-1 tvg-id="AXNCEE.es@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN CEE Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_axn/playlist.m3u8
+http://88.212.15.50/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",AXN CEE Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -201,12 +197,8 @@ https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVInvasionAlien.de@ES" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",Pluto TV Invasión Alien
 https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de@ES" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",Pluto TV Paranormal
-https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPsycho.de@ES" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",Pluto TV Psycho
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",Pluto TV Thrillers
-https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWestern.de@ES" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",Pluto TV Western
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Filmes",Pluto TV Zombies
@@ -248,6 +240,18 @@ https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
 https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD" tvg-logo="https://i.imgur.com/ILfXDRs.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",7 TeleValencia [SD]
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Andalucia" tvg-logo="https://i.imgur.com/rnzMR9R.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",7TV
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Cordoba" tvg-logo="https://i.imgur.com/rnzMR9R.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",7TV (fonte 2)
+https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Jaen" tvg-logo="https://i.imgur.com/rnzMR9R.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",7TV (fonte 3)
+https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Jerez" tvg-logo="https://i.imgur.com/rnzMR9R.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",7TV (fonte 4)
+https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Malaga" tvg-logo="https://i.imgur.com/rnzMR9R.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",7TV (fonte 5)
+https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Sevilla" tvg-logo="https://i.imgur.com/rnzMR9R.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",7TV (fonte 6)
+https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es@SD" tvg-logo="https://i.imgur.com/BTJvvBK.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",8 La Marina TV [SD]
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="APunt.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",A Punt [HD]
@@ -335,8 +339,6 @@ https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
 https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSierradeCadiz.es@SD" tvg-logo="https://i.imgur.com/94rn7pb.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Canal Sierra de Cádiz [FHD]
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
-#EXTINF:-1 tvg-id="CanalSur.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Canal Sur
-https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-logo="https://i.imgur.com/lznnA4v.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Canal Sur Andalucia [FHD]
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-logo="https://i.imgur.com/lznnA4v.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Canal Sur Andalucia [HD] (fonte 2)
@@ -544,6 +546,20 @@ https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.de@ES" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Pluto TV Kids Spain [HD]
 https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVParanormal.de@ES" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Pluto TV Paranormal
+https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.de@ES" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeries.de@ES" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Pluto TV Series
+https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.de@ES" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Pluto TV Series Sci-Fi
+https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSnooker900.de@ES" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Pluto TV Snooker 900 [HD]
+https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
+#EXTINF:-1 tvg-id="PlutoTVThrillers.de@ES" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Pluto TV Thrillers
+https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de@ES" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Pluto TV True Crime
+https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Poirot & Miss Marple
 https://jmp2.uk/plu-6304f530440dc90007f514d3.m3u8
 #EXTINF:-1 tvg-id="PopularTVMelilla.es@SD" tvg-logo="https://i.imgur.com/TbevWX4.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",Popular TV Melilla [FHD]
@@ -708,6 +724,8 @@ https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
 https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
 #EXTINF:-1 tvg-id="BobEsponja.de@ES" tvg-logo="https://i.imgur.com/nmZ2nId.png" tvg-type="live" group-title="🇪🇸 Espanha | Infantil",Bob Esponja [HD]
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1 tvg-id="Boing.es@SD" tvg-logo="https://i.imgur.com/nUYuCAP.png" tvg-type="live" group-title="🇪🇸 Espanha | Infantil",Boing
+http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 #EXTINF:-1 tvg-id="Clan.es@SD" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" tvg-type="live" group-title="🇪🇸 Espanha | Infantil",Clan [FHD]
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es@SD" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" tvg-type="live" group-title="🇪🇸 Espanha | Infantil",Clan Internacional [FHD]
@@ -746,7 +764,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-type="live" group-title="🇪🇸 Espanha | Notícias",24 Horas Canarias [FHD]
 http://185.47.212.25:8080/24h_HD/index.m3u8
-#EXTINF:-1 tvg-id="3CatInfo.es@SD" tvg-logo="https://statics.3cat.cat/img/logos/3CatInfo_negre.svg" tvg-type="live" group-title="🇪🇸 Espanha | Notícias",3CatInfo [FHD]
+#EXTINF:-1 tvg-id="3CatInfo.es@SD" tvg-logo="https://statics.3cat.cat/img/logos/3CatInfo_negre.svg" tvg-type="live" group-title="🇪🇸 Espanha | Notícias" catchup="default" catchup-source="https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",3CatInfo [FHD]
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es@SD" tvg-logo="https://i.imgur.com/3YeTu0n.png" tvg-type="live" group-title="🇪🇸 Espanha | Notícias",Actualidad 360
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
@@ -771,7 +789,7 @@ https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 tvg-id="MirameTV.es@SD" tvg-logo="https://i.imgur.com/LK4pLgT.png" tvg-type="live" group-title="🇪🇸 Espanha | Notícias",Mírame TV [SD]
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-type="live" group-title="🇪🇸 Espanha | Pública",3Cat Càmeres del temps [FHD]
+#EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-type="live" group-title="🇪🇸 Espanha | Pública" catchup="default" catchup-source="https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",3Cat Càmeres del temps [FHD]
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="Esport3.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" tvg-type="live" group-title="🇪🇸 Espanha | Pública",Esport3 [FHD]
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
@@ -809,18 +827,10 @@ https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKDrama.de@ES" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV K-Drama
 https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de@ES" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeries.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Series
-https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriescriminales.de@ES" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Series criminales
 https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.de@ES" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Series Sci-Fi
-https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTelenovelasClasicas.de@ES" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV Telenovelas Clásicas
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de@ES" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",Pluto TV True Crime
-https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@SD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",TVE Star [SD]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-type="live" group-title="🇪🇸 Espanha | Séries",TVE Star HD [FHD]

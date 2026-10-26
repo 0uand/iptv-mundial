@@ -38,6 +38,8 @@ http://103.250.28.74:8000/play/a00t/index.m3u8
 http://103.250.28.74:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="SABTV.pk@SD" tvg-logo="https://i.imgur.com/hC7Sidr.png" tvg-type="live" group-title="🇵🇰 Paquistão | Entretenimento",SAB TV [FHD]
 https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇵🇰 Paquistão | Animação",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Culinária",Masala TV [SD]
 http://103.250.28.74:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Culinária",Masala TV (fonte 2)

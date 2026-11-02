@@ -29,6 +29,8 @@ http://tvsen7.aynascope.net/hgtv/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="HGTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",HGTV Latin America [FHD]
 http://38.87.224.19:2220/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",HGTV Latin America [HD] (fonte 2)
+https://streaming.onnethn.com/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="KaloopyTV.us@SD" tvg-logo="https://i.imgur.com/XPyOTZF.jpeg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",Kaloopy TV [FHD]
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 #EXTINF:-1 tvg-id="SmartLifeStyleTV.us@SD" tvg-logo="https://i.imgur.com/kHFlTEy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",Lighting Lives Blessing Nations Smart Life Style TV (LLBN) [HD]
@@ -89,6 +91,8 @@ https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD" tvg-logo="https://i.imgur.com/4v93XUB.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Estilo de vida",The Jamie Oliver Channel [FHD]
 https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" tvg-type="live" group-title="🇲🇽 México | Estilo de vida",Discovery Home & Health Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="PlutoTVEstilodeVida.us@LatAm" tvg-logo="https://i.imgur.com/SNfys9r.png" tvg-type="live" group-title="🇲🇽 México | Estilo de vida",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 tvg-id="HogarTV.co@SD" tvg-logo="https://i.imgur.com/zqovMhf.png" tvg-type="live" group-title="🇨🇴 Colômbia | Estilo de vida",Hogar TV [FHD]
@@ -185,8 +189,6 @@ http://88.212.7.14/live/tlc_hungary/index.m3u8
 http://88.212.7.14/live/parpika_hun/index.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" tvg-type="live" group-title="🇷🇴 Romênia | Estilo de vida",Antena Monden [HD]
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1 tvg-id="BeautyON.ro@SD" tvg-logo="https://static.cinemagia.ro/img/tv_station/beauty-on.jpg" tvg-type="live" group-title="🇷🇴 Romênia | Estilo de vida",Beauty ON [SD]
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="MediCOOLTV.ro@SD" tvg-logo="https://i.imgur.com/Xe7x1k2.png" tvg-type="live" group-title="🇷🇴 Romênia | Estilo de vida",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.ro@SD" tvg-logo="https://i.imgur.com/3fuXBHT.png" tvg-type="live" group-title="🇷🇴 Romênia | Estilo de vida",TV Paprika
@@ -204,18 +206,31 @@ https://cdn.pishow.tv/ott/live/221/master.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-logo="https://i.imgur.com/bCyW32I.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",CVR Health [SD]
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-logo="https://i.imgur.com/bCyW32I.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",CVR Health [SD] (fonte 2)
+https://mumt04.tangotv.in/m18aqlK4CVRHEALTH/index.m3u8
+#EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-logo="https://i.imgur.com/bCyW32I.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",CVR Health [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/395/master.m3u8
 #EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143029_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",ETV Life [FHD]
 https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
+#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/144/144_0.m3u8
+#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/332/master.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://i.imgur.com/e9qTjgB.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",Kappa TV [SD]
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://i.imgur.com/e9qTjgB.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",Kappa TV [SD] (fonte 2)
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://i.imgur.com/e9qTjgB.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",Kappa TV [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/247/master.m3u8
+#EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://i.imgur.com/e9qTjgB.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",Kappa TV [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/1123/master.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="https://i.imgur.com/7cruYvo.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",NDTV Good Times [FHD]
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="https://i.imgur.com/7cruYvo.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",NDTV Good Times [SD] (fonte 2)
+https://cdn.pishow.tv/ott/live/1285/master.m3u8
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="https://i.imgur.com/7cruYvo.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",NDTV Good Times [SD] (fonte 3)
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
 #EXTINF:-1 tvg-id="TLC.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",TLC [HD]
 https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
@@ -257,8 +272,6 @@ http://31.148.48.15/Fashion_One_HD/index.m3u8
 http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Estilo de vida",FashionTV [FHD]
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-logo="https://i.imgur.com/rX6K6qT.png" tvg-type="live" group-title="🇷🇺 Rússia | Estilo de vida",NTV Style [SD]
-http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
 #EXTINF:-1 tvg-id="TLC.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Estilo de vida",TLC [FHD]
 http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD" tvg-logo="https://i.imgur.com/jedtE5l.png" tvg-type="live" group-title="🇷🇺 Rússia | Estilo de vida",Zdorovoe TV [SD]
@@ -300,6 +313,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-logo="https://i.ibb.co/JFw65Mtk/IMG-2529.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Estilo de vida",ON Style TV [FHD]
 https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-id="HGTV.nz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Estilo de vida",HGTV [FHD]
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Estilo de vida",INFAST [FHD]
 https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD" tvg-logo="https://i.imgur.com/kkm7VqV.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Estilo de vida",PBS Antiques Road Trip [FHD]

@@ -684,6 +684,10 @@ https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
 https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8
 #EXTINF:-1 tvg-id="TVCentroAndalucia.es@SD" tvg-logo="https://i.imgur.com/xQAzYOD.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",TVCentro Andalucía [HD]
 https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",TVE Internacional America
+http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",TVE Internacional Asia-Oceania
+http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" tvg-type="live" group-title="🇪🇸 Espanha | Geral",TVE Internacional Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0

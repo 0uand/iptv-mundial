@@ -45,6 +45,8 @@ https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy Dynamics [HD] (fonte 4)
 https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD" tvg-logo="https://i.imgur.com/KLfXnba.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Comedy.TV [HD]
+https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Dry Bar Comedy [HD]
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",FailArmy
@@ -52,8 +54,6 @@ https://jmp2.uk/plu-554158e864526b29254ff105.m3u8
 #EXTINF:-1 tvg-id="FunnyAF.us@SD" tvg-logo="https://i.imgur.com/UCwjdtQ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Funny AF
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 #EXTINF:-1 tvg-id="Gagsnetwork.us@SD" tvg-logo="https://i.imgur.com/ENj5GIp.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Gagsnetwork [SD]
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-#EXTINF:-1 tvg-id="Gagsnetwork.us@SD" tvg-logo="https://i.imgur.com/ENj5GIp.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Gagsnetwork [SD] (fonte 2)
 http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 tvg-id="HumorMill.us@SD" tvg-logo="https://i.imgur.com/e5W91v2.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Comédia",Humor Mill [FHD]
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
@@ -186,6 +186,8 @@ https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 #EXTINF:-1 tvg-id="FrasierBeruhmteGaste.de@DACH" tvg-logo="https://images.pluto.tv/channels/6790fa9e1cfc4aa96dfadcef/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Frasier: Berühmte Gäste
 https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@SD" tvg-logo="https://i.imgur.com/lf34V3Y.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Nick/Comedy Central +1
+http://90.183.52.46:4000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedyTherapie.de@DACH" tvg-logo="https://images.pluto.tv/channels/69b968ba255fecb01f602257/colorLogoPNG_1777380677093.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Pluto TV Comedy Therapie
 https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDeutscheComedy.de@DACH" tvg-logo="https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Pluto TV Deutsche Comedy

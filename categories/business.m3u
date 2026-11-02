@@ -67,6 +67,8 @@ https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8
 https://v2.tustreaming.cl/tevex/index.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl@SD" tvg-logo="https://i.imgur.com/FnInQRd.png" tvg-type="live" group-title="🇨🇱 Chile | Negócios",Tevex [HD] (fonte 2)
 https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="5DiasTV.py@SD" tvg-logo="https://i.imgur.com/AX25tmv.png" tvg-type="live" group-title="🇵🇾 Paraguai | Negócios",5Dias TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
 #EXTINF:-1 tvg-id="CanalPro.py@SD" tvg-logo="https://i.imgur.com/ah8n7jL.png" tvg-type="live" group-title="🇵🇾 Paraguai | Negócios" catchup="flussonic" catchup-days="3",Canal Pro
 #EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
 https://www.desde-paraguay.com/pro.m3u8
@@ -107,6 +109,8 @@ https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro@SD" tvg-logo="https://i.imgur.com/UzcZNe3.png" tvg-type="live" group-title="🇷🇴 Romênia | Negócios",JOB TV [FHD]
 https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro@SD" tvg-logo="https://i.imgur.com/UzcZNe3.png" tvg-type="live" group-title="🇷🇴 Romênia | Negócios",JOB TV (1080i)
+https://jobtvserver.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="CNBCAwaaz.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png" tvg-type="live" group-title="🇮🇳 Índia | Negócios",CNBC Awaaz [FHD]
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CNBCBajar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png" tvg-type="live" group-title="🇮🇳 Índia | Negócios",CNBC Bajar [FHD]

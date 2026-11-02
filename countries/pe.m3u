@@ -45,6 +45,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTV.pe@SD" tvg-logo="https://i.imgur.com/tiNvihZ.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Top FM TV [SD]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe@SD" tvg-logo="https://i.imgur.com/VRl8nPZ.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe@SD" tvg-logo="https://i.imgur.com/AsdBQa3.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Turbo Mix Radio TV [HD]
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe@SD" tvg-logo="https://i.imgur.com/AsdBQa3.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Turbo Mix Radio TV [SD] (fonte 2)
@@ -65,11 +67,9 @@ https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 http://190.93.224.42/LA-TELE/index.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",La Tele [FHD] (fonte 2)
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [FHD]
-http://200.62.239.170:830/play/a08z/index.m3u8
-#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [SD] (fonte 2)
+#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [SD]
 http://45.4.1.201:8000/play/a19y/index.m3u8
-#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [SD] (fonte 3)
+#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Movistar Plus [SD] (fonte 2)
 http://190.108.91.206:9050/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="NeoTV.pe@SD" tvg-logo="https://i.imgur.com/bS5JtYX.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Entretenimento",Neo TV [HD]
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
@@ -103,10 +103,8 @@ https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Movistar Deportes [FHD]
-http://45.4.1.201:8000/play/a13e/index.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Movistar Deportes [FHD] (fonte 2)
 http://195.178.110.110/movistar/index.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Movistar Deportes [FHD] (fonte 3)
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Movistar Deportes [FHD] (fonte 2)
 http://170.244.209.30:8000/play/a1i8/index.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://i.imgur.com/7Xndgxk.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Ovacion TV [HD]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -333,6 +331,8 @@ https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 #EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Rumbo Minero TV [FHD]
 http://45.70.201.81:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Rumbo Minero TV [HD] (fonte 2)
+https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe@SD" tvg-logo="https://i.imgur.com/1q0R6R9.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Señal Perú TV [SD]
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SiscomTV.pe@SD" tvg-logo="https://i.imgur.com/0JUlFZ4.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Siscom TV

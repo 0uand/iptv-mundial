@@ -79,16 +79,20 @@ https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 http://45.171.64.30:6060/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="HTV.us@SD" tvg-logo="https://i.imgur.com/NlKFNHS.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",HTV [HD] (fonte 2)
 https://streaming.onnethn.com/HTV/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV.us@Argentina" tvg-logo="https://i.imgur.com/NlKFNHS.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",HTV Argentina [HD]
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us@SD" tvg-logo="https://iili.io/JysD2a4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us@SD" tvg-logo="https://i.imgur.com/KFzEoed.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",LiveXLive [FHD]
 https://livestream.liveone.com/lc1/p1.m3u8
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us@SD" tvg-logo="https://i.imgur.com/j6IiysJ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",MCN6 Music Channel [FHD]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 tvg-id="MelodyFM.jo@SD" tvg-logo="https://i.imgur.com/J8omcNz.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",Melody FM Jordan [HD]
+#EXTINF:-1 tvg-id="MelodyFM.jo@SD" tvg-logo="https://i.imgur.com/J8omcNz.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música" catchup="default" catchup-source="https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",Melody FM Jordan [HD]
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MetaleitorTV.us@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_14_1752798826.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
+#EXTINF:-1 tvg-id="MiMusicaHits.us@SD" tvg-logo="https://i.imgur.com/z9MlLFL.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",Mi Musica Hits [HD]
+http://38.188.186.47:4000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaReggaeton.us@SD" tvg-logo="https://i.imgur.com/MMb9u4u.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",Mi Musica Reggaeton [FHD]
 http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD" tvg-logo="https://i.imgur.com/eIaRv0U.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Música",Mi Musica Romantica [FHD]
@@ -325,7 +329,9 @@ https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-type="live" group-title="🇲🇽 México | Música",TeleHit [FHD]
 http://190.61.47.54:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-type="live" group-title="🇲🇽 México | Música",TeleHit [SD] (fonte 2)
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-type="live" group-title="🇲🇽 México | Música",TeleHit [FHD] (fonte 2)
+http://186.148.196.100:8000/play/a01s
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-type="live" group-title="🇲🇽 México | Música",TeleHit [SD] (fonte 3)
 http://200.115.120.1:8000/play/ca048/index.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD" tvg-logo="https://i.imgur.com/CofYjWh.png" tvg-type="live" group-title="🇲🇽 México | Música",Telehit Musica
 http://190.61.55.34:2401/play/a06t/index.m3u8
@@ -413,8 +419,14 @@ http://158.172.217.18:8000/play/a01k/index.m3u8
 http://181.78.12.119:16123/play/ch15/index.m3u8
 #EXTINF:-1 tvg-id="Reyali.co@SD" tvg-logo="https://i.imgur.com/YmFjnsF.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Reyali [SD]
 https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV [FHD]
 http://186.148.196.100:8000/play/a02h
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV [FHD] (fonte 2)
+http://190.61.47.54:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV [FHD] (fonte 3)
+http://138.94.3.106:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV [FHD] (fonte 4)
+http://38.134.250.110:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Salsa Gorda Television [FHD]
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="SinLimites.co@SD" tvg-logo="https://i.imgur.com/wrFfgzC.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Sin Limites [FHD]
@@ -427,24 +439,14 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ChocolateFM.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/382_ChocolateFM.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Chocolate FM [HD]
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadanoRadio.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Ciudadano Radio [HD]
-https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceFM.cl@SD" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Dance FM [HD]
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1 tvg-id="DiferenciaRadioTV.cl@SD" tvg-logo="https://i.imgur.com/hJCGWKr.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Diferencia Radio TV
-https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
 #EXTINF:-1 tvg-id="FMPlusTV.cl@SD" tvg-logo="https://i.imgur.com/1UokOyN.png" tvg-type="live" group-title="🇨🇱 Chile | Música",FM Plus TV [HD]
 https://v2.tustreaming.cl/fmplus/index.m3u8
 #EXTINF:-1 tvg-id="GenialTV.cl@SD" tvg-logo="https://i.imgur.com/uBC8e96.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Genial TV [HD]
 https://v1.tustreaming.cl/genialtv/index.m3u8
-#EXTINF:-1 tvg-id="InterradioTV.cl@SD" tvg-logo="https://i.imgur.com/3875n4G.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Interradio TV
-https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="LaClave.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png" tvg-type="live" group-title="🇨🇱 Chile | Música",La Clave [HD]
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LaGranjaTV.cl@SD" tvg-logo="https://i.imgur.com/90luGab.png" tvg-type="live" group-title="🇨🇱 Chile | Música",La Granja TV
-https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
-#EXTINF:-1 tvg-id="MaquiTV.cl@SD" tvg-logo="https://i.imgur.com/U849xvX.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Maqui TV
-https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MiRadioTV.cl@SD" tvg-logo="https://i.imgur.com/XEpLWJw.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Mi Radio TV
 https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PatagoniaRadioTV.cl@SD" tvg-logo="https://i.imgur.com/oFuWBZO.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Patagonia Radio TV [HD]
@@ -467,14 +469,10 @@ https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 https://vmix.dyndns.biz/Edelweiss/index.m3u8
 #EXTINF:-1 tvg-id="RadioFantasiaTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Fantasia TV [HD]
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
-#EXTINF:-1 tvg-id="RadioFiessta.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/401_Radio_Fiessta.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Fiessta [HD]
-https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
 #EXTINF:-1 tvg-id="RadioFrecuenciaUno.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Frecuencia Uno [HD]
 https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 #EXTINF:-1 tvg-id="RadioLaSerenaTV.cl@SD" tvg-logo="https://i.imgur.com/65ftM3v.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio La Serena TV [HD]
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioLasNieves.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Las Nieves [HD]
-https://v2.tustreaming.cl/rln/index.m3u8
 #EXTINF:-1 tvg-id="RadioNuble.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/870_Radio_Nuble.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Nuble [HD]
 https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:-1 tvg-id="RadioPanoramica.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Panoramica [HD]
@@ -485,8 +483,6 @@ https://tv.arkeo.cl:19360/8052/8052.m3u8
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRancaguaFM.cl@SD" tvg-logo="https://i.imgur.com/ZzUc6je.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Rancagua FM [HD]
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioUC.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1467_Radio_UC.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio UC [HD]
-https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUNIACC.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1744_Radio_UNIACC.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio UNIACC [HD]
 https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUniversal.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Universal [HD]
@@ -499,13 +495,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
 https://v2.tustreaming.cl/radiovidacurico/index.m3u8
 #EXTINF:-1 tvg-id="RadioZona903.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Radio Zona 90.3 [HD]
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus.cl@SD" tvg-logo="https://i.imgur.com/fkCasXI.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Retro Plus [FHD]
-http://181.119.97.124:8080/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus2.cl@SD" tvg-logo="https://i.imgur.com/5G5kian.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Retro Plus 2 [FHD]
-http://181.119.97.124:8080/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus2.cl@SD" tvg-logo="https://i.imgur.com/5G5kian.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Retro Plus 2 [HD] (fonte 2)
-#EXTVLCOPT:http-referrer=https://retroplustv.com/
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RetromusicaTelevision.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Retromusica Television [HD]
 https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="RewindTV.cl@SD" tvg-logo="https://i.imgur.com/OG0RC2e.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Rewind TV [FHD]
@@ -524,7 +513,9 @@ https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleangolRadio.cl@SD" tvg-logo="https://i.imgur.com/nhPFGs8.png" tvg-type="live" group-title="🇨🇱 Chile | Música",Teleangol Radio [HD]
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VClassicTV.cl@SD" tvg-logo="https://i.imgur.com/WIACJSy.png" tvg-type="live" group-title="🇨🇱 Chile | Música",V Classic TV [HD]
+#EXTINF:-1 tvg-id="VClassicTV.cl@SD" tvg-logo="https://i.imgur.com/WIACJSy.png" tvg-type="live" group-title="🇨🇱 Chile | Música",V Classic TV [FHD]
+http://186.148.196.100:8000/play/a02z
+#EXTINF:-1 tvg-id="VClassicTV.cl@SD" tvg-logo="https://i.imgur.com/WIACJSy.png" tvg-type="live" group-title="🇨🇱 Chile | Música",V Classic TV [HD] (fonte 2)
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="AndinaRTV.pe@SD" tvg-logo="https://i.imgur.com/KoQPpVh.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Música",Andina RTV [HD]
 https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8
@@ -572,6 +563,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTV.pe@SD" tvg-logo="https://i.imgur.com/tiNvihZ.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Top FM TV [SD]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe@SD" tvg-logo="https://i.imgur.com/VRl8nPZ.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe@SD" tvg-logo="https://i.imgur.com/AsdBQa3.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Turbo Mix Radio TV [HD]
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe@SD" tvg-logo="https://i.imgur.com/AsdBQa3.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Turbo Mix Radio TV [SD] (fonte 2)
@@ -644,6 +637,8 @@ https://tvdatta.com:3041/live/colmenarlive.m3u8
 https://tvdatta.com:3991/live/guairatvlive.m3u8
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py@SD" tvg-logo="https://i.imgur.com/zaJhBdj.png" tvg-type="live" group-title="🇵🇾 Paraguai | Música",Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
+#EXTINF:-1 tvg-id="Tropicalia939FM.py@SD" tvg-logo="https://i.imgur.com/oMML5Ue.png" tvg-type="live" group-title="🇵🇾 Paraguai | Música",Tropicalia 93.9 FM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 #EXTINF:-1 tvg-id="VenusMedia.py@SD" tvg-logo="https://i.imgur.com/XwmUbfp.png" tvg-type="live" group-title="🇵🇾 Paraguai | Música",Venus Media [FHD]
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="VillaElisaRadioTV.py@SD" tvg-logo="https://i.imgur.com/ryzCsvy.jpg" tvg-type="live" group-title="🇵🇾 Paraguai | Música",Villa Elisa Radio TV [FHD]
@@ -1371,17 +1366,12 @@ http://92.114.85.87:8018/play/a00k/index.m3u8
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",4 Fun TV (fonte 2)
 https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
-#EXTINF:-1 tvg-id="BTBMusic.pl@SD" tvg-logo="https://btb.j00r.us/images/logo_BTBMusic.webp" tvg-type="live" group-title="🇵🇱 Polônia | Música",BTB Music [FHD]
-https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl@SD" tvg-logo="https://i.imgur.com/ZZbuTv7.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Disco Polo Music [FHD]
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl@SD" tvg-logo="https://i.imgur.com/ZZbuTv7.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Disco Polo Music [FHD] (fonte 2)
 http://92.114.85.87:8014/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="EskaRockTV.pl@SD" tvg-logo="https://i.imgur.com/o0Fg19Q.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Eska Rock TV [FHD]
 http://92.114.85.87:8016/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="EskaRockTV.pl@SD" tvg-logo="https://i.imgur.com/o0Fg19Q.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Eska Rock TV (fonte 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="EskaTV.pl@SD" tvg-logo="https://i.imgur.com/N0eH0Cg.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Eska TV [FHD]
 http://92.114.85.87:8018/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="EskaTVExtra.pl@SD" tvg-logo="https://i.imgur.com/pZAFshQ.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Eska TV Extra [FHD]
@@ -1398,8 +1388,6 @@ https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk@Poland" tvg-logo="https://i.imgur.com/GuM4GnX.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",NOW Rock [FHD]
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="NutaTV.pl@SD" tvg-logo="https://i.imgur.com/JHFUxDu.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Nuta TV
-http://92.114.85.87:8010/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="PolsatMusic.pl@SD" tvg-logo="https://i.imgur.com/uXygf1l.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Polsat Music [FHD]
 http://92.114.85.87:8001/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@Poland" tvg-logo="https://i.imgur.com/IRyFTWq.png" tvg-type="live" group-title="🇵🇱 Polônia | Música",Qello Concerts by Stingray [FHD]
@@ -1483,8 +1471,6 @@ https://tvboom.ro/live-tv/live.m3u8
 https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-logo="https://i.imgur.com/B5zssCz.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",EMI TV (576i)
 https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="FavoritTV2.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305" tvg-type="live" group-title="🇷🇴 Romênia | Música",Favorit TV2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-logo="https://tvimpact.ro/impact-logo.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Impact TV [FHD]
 #EXTVLCOPT:http-referrer=https://tvimpact.ro/
 https://live.tvimpact.ro:8088/hevc/index.m3u8
@@ -1500,16 +1486,6 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Magic TV [HD]
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:-1 tvg-id="MoozDance.ro@SD" tvg-logo="https://i.imgur.com/aX70RD2.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Mooz Dance
-https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-id="MoozHits.ro@SD" tvg-logo="https://i.imgur.com/GwATd3Y.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Mooz Hits
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
-#EXTINF:-1 tvg-id="MoozLove.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Mooz_Love_2026.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Mooz Love [SD]
-https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
-#EXTINF:-1 tvg-id="MoozRetro.ro@SD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0c/Mooz_Retro_%282026-.n.v.%29.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Mooz Retro [SD]
-https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
-#EXTINF:-1 tvg-id="MoozRo.ro@SD" tvg-logo="https://i.imgur.com/Ft24x5T.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Mooz Ro!
-https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
 #EXTINF:-1 tvg-id="OrizontTV.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954" tvg-type="live" group-title="🇷🇴 Romênia | Música",Orizont TV (576i)
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="PartyMix.ro@HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj" tvg-type="live" group-title="🇷🇴 Romênia | Música",Party Mix HD [FHD]
@@ -1519,7 +1495,7 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro@SD" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Radio Romania 3Net [SD]
 https://media.3netmedia.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro@720p" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" tvg-type="live" group-title="🇷🇴 Romênia | Música",Radio Romania Antena Satelor [HD]
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaIasi.ro@SD" tvg-logo="https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg" tvg-type="live" group-title="🇷🇴 Romênia | Música",Radio Romania Iasi (576i)
 https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Radio Romania Oltenia-Craiova [SD]
@@ -1528,8 +1504,12 @@ https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro@SD" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" tvg-type="live" group-title="🇷🇴 Romênia | Música",Radio Romania Targu Mures [SD]
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-id="RadioZU.ro@720p" tvg-logo="https://radiozu.ro/img/logo-zu.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Radio ZU [HD]
+https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Rock TV [HD]
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RomanticFM.ro@SD" tvg-logo="https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Romantic FM (576i)
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTINF:-1 tvg-id="SmartRadio.ro@SD" tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Smart Radio [SD]
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-logo="https://i.imgur.com/pzxUE0O.png" tvg-type="live" group-title="🇷🇴 Romênia | Música",Super TV [SD]
@@ -1550,6 +1530,9 @@ https://cdn.pishow.tv/ott/live/1257/master.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-type="live" group-title="🇮🇳 Índia | Música",7S Music [SD] (fonte 2)
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-type="live" group-title="🇮🇳 Índia | Música",7S Music [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/771/master.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-type="live" group-title="🇮🇳 Índia | Música",7S Music [SD] (fonte 4)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="7XMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" tvg-type="live" group-title="🇮🇳 Índia | Música",7X Music [SD]
 https://cdn2.in/7xPunjabihls/live.m3u8
@@ -1557,6 +1540,11 @@ https://cdn2.in/7xPunjabihls/live.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://i.imgur.com/qubgOi5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Jalwa [SD] (fonte 2)
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://i.imgur.com/qubgOi5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Jalwa [SD] (fonte 3)
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://i.imgur.com/qubgOi5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Jalwa [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/161/master.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Jhakaas [FHD]
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Jhakaas [FHD] (fonte 2)
@@ -1564,6 +1552,8 @@ https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Jhakaas [SD] (fonte 3)
 https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Jhakaas [SD] (fonte 4)
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Jhakaas [SD] (fonte 5)
 https://cdn.pishow.tv/ott/live/6/master.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Tashan [FHD]
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
@@ -1575,7 +1565,14 @@ https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
 https://streams.tangotv.in/9XTASHAN/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Tashan [SD] (fonte 5)
 https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Tashan (fonte 6)
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Tashan [SD] (fonte 6)
+http://107.167.16.138/9xtashan/index.m3u8?token=test
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Tashan [SD] (fonte 7)
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Tashan [SD] (fonte 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/178/master.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9X Tashan (fonte 9)
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9XM [FHD]
 https://9xjio.wiseplayout.com/9XM/master.m3u8
@@ -1585,6 +1582,15 @@ https://epiconvh.akamaized.net/live/9XM/master.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9XM [SD] (fonte 4)
 https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9XM [SD] (fonte 5)
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9XM [SD] (fonte 6)
+https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9XM [SD] (fonte 7)
+https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",9XM [SD] (fonte 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/155/master.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Aaryaa TV [FHD]
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",B4U Music [FHD]
@@ -1603,11 +1609,19 @@ https://mumbai-edge.smartplaytv.in/B4uMusic/index.m3u8
 http://66.102.126.10:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",B4U Music [SD] (fonte 8)
 https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Balle Balle [SD]
-https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",B4U Music [SD] (fonte 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/157/master.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Balle Balle [FHD]
+https://mcncdndigital.com/worldpunjabitv/index.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Balle Balle [SD] (fonte 2)
+https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Balle Balle [SD] (fonte 3)
 https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Balle Balle (fonte 3)
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Balle Balle [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/365/master.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Balle Balle (fonte 5)
 https://cdn.pishow.tv/ott/live/987/master.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in@HD" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Balle Balle HD [HD]
 https://mcncdndigital.com/balleballetv/index.m3u8
@@ -1617,16 +1631,25 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playli
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-id="DhoolTV.in@SD" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Dhool TV [SD]
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+#EXTINF:-1 tvg-id="DhoolTV.in@SD" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Dhool TV [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/631/master.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Dhoom Music [HD]
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
 #EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Dhoom Music [SD] (fonte 2)
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Dhoom Music [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/378/master.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Epic Music [SD]
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Epic Music [SD] (fonte 2)
 https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Epic Music [SD] (fonte 3)
 http://66.102.126.10:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Epic Music [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/469/master.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in@Digital" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Epic Music Digital [FHD]
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/etvimages/etvbeats/LG/Logowithtransparentbackground400%C3%97200.png" tvg-type="live" group-title="🇮🇳 Índia | Música",ETV Beats [FHD]
@@ -1644,6 +1667,9 @@ https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 #EXTINF:-1 tvg-id="Insync.in@SD" tvg-logo="https://i.imgur.com/fAJdazJ.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Insync [SD] (fonte 2)
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
+#EXTINF:-1 tvg-id="Insync.in@SD" tvg-logo="https://i.imgur.com/fAJdazJ.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Insync [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/160/master.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Isai Aruvi [SD]
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in@SD" tvg-logo="https://i.imgur.com/XWXFoJA.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Kalika TV [SD]
@@ -1658,6 +1684,9 @@ https://cdn.pishow.tv/ott/live/226/master.m3u8
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Music India [SD] (fonte 3)
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Music India [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/158/master.m3u8
 #EXTINF:-1 tvg-id="NHBollyRaga.in@HD" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" tvg-type="live" group-title="🇮🇳 Índia | Música",NH BollyRaga [FHD]
 https://jmp2.uk/stvp-IN460001373
 #EXTINF:-1 tvg-id="OrangeBanglaTV.in@SD" tvg-logo="https://i.imgur.com/wjSaHj5.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Orange Bangla TV [HD]
@@ -1674,11 +1703,17 @@ https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8
 https://cdn.pishow.tv/ott/live/449/master.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",PTC Chakde [SD] (fonte 2)
 https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",PTC Chakde [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/180/master.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",PTC Music [HD]
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",PTC Music [SD] (fonte 2)
 https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",PTC Music (fonte 3)
+#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",PTC Music [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/181/master.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",PTC Music (fonte 4)
 https://cdn.pishow.tv/ott/live/1501/master.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Public Music [HD]
 https://cdn.pishow.tv/ott/live/441/master.m3u8
@@ -1686,10 +1721,19 @@ https://cdn.pishow.tv/ott/live/441/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Public Music [SD] (fonte 3)
 https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Public Music [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/240/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in@HD" tvg-logo="https://i.imgur.com/1Za9gNQ.jpg" tvg-type="live" group-title="🇮🇳 Índia | Música",Punjabi Beats HD [HD]
 https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiBeatsHD.in@HD" tvg-logo="https://i.imgur.com/1Za9gNQ.jpg" tvg-type="live" group-title="🇮🇳 Índia | Música",Punjabi Beats HD [SD] (fonte 2)
+https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Punjabi Hits [FHD]
 https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Punjabi Hits [FHD] (fonte 2)
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Punjabi Hits [FHD] (fonte 3)
+https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiMusicHD.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Punjabi_Music_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Punjabi Music HD [HD]
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143705_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Raj Musix Kannada [SD]
@@ -1714,14 +1758,23 @@ https://cdn.pishow.tv/ott/live/1143/master.m3u8
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Sangeet Bangla [SD] (fonte 3)
 http://103.165.93.31:8095/sangeetBangla/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Sangeet Bangla [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/379/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Sangeet Bhojpuri [SD]
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Sangeet Bhojpuri [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/349/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Sangeet Bhojpuri [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Sangeet Marathi [HD]
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Sangeet Marathi [SD] (fonte 2)
 https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
+#EXTINF:-1 tvg-id="SangeetMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Sangeet Marathi [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/712/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" tvg-logo="https://i.imgur.com/2yOij1b.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Shemaroo Filmi Gaane [FHD]
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Songdew TV [SD]
@@ -1730,10 +1783,17 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tabbar Hits [FHD]
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
-#EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tabbar Hits [SD] (fonte 2)
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tabbar Hits [FHD] (fonte 2)
+https://server.thelegitpro.in/tabbarhits/tabbarhits/index.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tabbar Hits [FHD] (fonte 3)
+https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tabbar Hits [SD] (fonte 4)
 https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tabbar Hits [SD] (fonte 3)
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tabbar Hits [SD] (fonte 5)
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tabbar Hits [SD] (fonte 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/179/master.m3u8
 #EXTINF:-1 tvg-id="TarangMusic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Tarang Music [HD]
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://i.imgur.com/VUzMQ9S.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Tunes 6 [HD]
@@ -1748,8 +1808,10 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
 #EXTINF:-1 tvg-id="VijayTakkar.in@APAC" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Música",Vijay Takkar APAC [FHD]
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
-#EXTINF:-1 tvg-id="YETMax.in@HD" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11847.png" tvg-type="live" group-title="🇮🇳 Índia | Música",YET Max [HD]
-https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
+#EXTINF:-1 tvg-id="VisionBeats.in@SD" tvg-logo="https://i.imgur.com/xx5RQdi.png" tvg-type="live" group-title="🇮🇳 Índia | Música",Vision Beats [HD]
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+#EXTINF:-1 tvg-id="WahPunjabi.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Wah-Punjabi_TV.jpg" tvg-type="live" group-title="🇮🇳 Índia | Música",Wah Punjabi [HD]
+https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://i.imgur.com/mxx05Z9.png" tvg-type="live" group-title="🇮🇳 Índia | Música",YRF Music [FHD]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://i.imgur.com/mxx05Z9.png" tvg-type="live" group-title="🇮🇳 Índia | Música",YRF Music [FHD] (fonte 2)
@@ -1812,22 +1874,18 @@ https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru@SD" tvg-logo="https://i.imgur.com/GLc4qrc.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Europa Plus TV SD [SD]
 http://stream.mcquack.net/184/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇷🇺 Rússia | Música",Fon Music [FHD]
-http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇷🇺 Rússia | Música",FON Music [FHD] (fonte 2)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇷🇺 Rússia | Música",FON Music [FHD]
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇷🇺 Rússia | Música",FON Music [FHD] (fonte 3)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇷🇺 Rússia | Música",FON Music [FHD] (fonte 2)
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇷🇺 Rússia | Música",Fon Music [SD] (fonte 4)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇷🇺 Rússia | Música",Fon Music [SD] (fonte 3)
 http://stream.mcquack.net/317/index.m3u8
-#EXTINF:-1 tvg-id="FONMusic.ru@SD" tvg-logo="https://i.imgur.com/tXABQDE.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",FON Music [SD] (fonte 5)
+#EXTINF:-1 tvg-id="FONMusic.ru@SD" tvg-logo="https://i.imgur.com/tXABQDE.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",FON Music [SD] (fonte 4)
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LiveMusicChannel.ru@HD" tvg-logo="https://i.imgur.com/9qJkxV9.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Live Music Channel HD [FHD]
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru@SD" tvg-logo="https://i.imgur.com/C8CCjZK.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Maidan [HD]
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Maidan.ru@SD" tvg-logo="https://i.imgur.com/C8CCjZK.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Maidan [SD] (fonte 2)
-http://hls127.freeott.top:8080/Maydan/video.m3u8
 #EXTINF:-1 tvg-id="MCMTop.ru@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",MCM Top [SD]
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV [SD]
@@ -1835,14 +1893,12 @@ http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV [SD] (fonte 2)
 http://185.71.81.6:8080/20/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV [SD] (fonte 3)
-http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV [SD] (fonte 4)
 http://stream.mcquack.net/86/index.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV [SD] (fonte 5)
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV [SD] (fonte 4)
 https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV [SD] (fonte 6)
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV [SD] (fonte 5)
 http://31.148.5.241/kanal_20/index.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV (fonte 7)
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muz-TV (fonte 6)
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzykaLive.ru@SD" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/LOGO_MUSIC_LIVE.png" tvg-type="live" group-title="🇷🇺 Rússia | Música",Muzyka Live [SD]
 http://stream.mcquack.net/303/index.m3u8
@@ -2143,10 +2199,8 @@ https://stream8.cinerama.uz/1018/playlist.m3u8
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" tvg-type="live" group-title="🇧🇩 Bangladesh | Música",ATN Music [SD]
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-type="live" group-title="🇧🇾 Belarus | Música",First Music Channel [FHD]
-http://hls127.freeott.top:8080/1mus_HD/video.m3u8
-#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png" tvg-type="live" group-title="🇧🇾 Belarus | Música",First Music Channel Russia [FHD]
-http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+#EXTINF:-1 tvg-id="DMusic.kh@SD" tvg-logo="" tvg-type="live" group-title="🇰🇭 Camboja | Música",D Music [FHD]
+http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" tvg-type="live" group-title="🇧🇾 Belarus | Música",Radio Mir [HD]
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-type="live" group-title="🇧🇾 Belarus | Música",Первый Музыкальный Канал [SD]
@@ -2161,8 +2215,6 @@ http://rtmp.one.by:1200
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png" tvg-type="live" group-title="🇧🇾 Belarus | Música",Первый Музыкальный Канал Россия HD [FHD]
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="DMusic.kh@SD" tvg-logo="" tvg-type="live" group-title="🇰🇭 Camboja | Música",D Music [FHD]
-http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-id="AghaniAghaniTV.lb@SD" tvg-logo="https://i.imgur.com/o6HSfNg.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",Aghani Aghani TV [FHD]
 https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 #EXTINF:-1 tvg-id="ArabicaTV.lb@SD" tvg-logo="https://i.imgur.com/sTOoDy1.png" tvg-type="live" group-title="🇱🇧 Líbano | Música",Arabica TV [HD]
@@ -2315,6 +2367,12 @@ https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTelevisionShilo.ht@SD" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/98960.v3.png" tvg-type="live" group-title="🇭🇹 Haiti | Música",Radio Télévision Shilo [HD]
 https://watch.haitilive.net/freehb/rtvs/index.m3u8
+#EXTINF:-1 tvg-id="AMC.af@SD" tvg-logo="https://i.imgur.com/yj8RNnG.png" tvg-type="live" group-title="🇦🇫 Afeganistão | Música",AMC [FHD]
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KayhanTV.af@SD" tvg-logo="https://i.imgur.com/2MDjU7x.png" tvg-type="live" group-title="🇦🇫 Afeganistão | Música",Kayhan TV [HD]
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SharqRadioTV.af@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/960px-Sharq_TV_Logo_2020.jpg" tvg-type="live" group-title="🇦🇫 Afeganistão | Música",Sharq Radio TV [FHD]
+https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="IvoireChannel.ci@SD" tvg-logo="https://i.imgur.com/gKbNqQv.png" tvg-type="live" group-title="🇨🇮 Costa do Marfim | Música",Ivoire Channel [HD]
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLGold.lu@SD" tvg-logo="https://i.imgur.com/LzHQoUv.png" tvg-type="live" group-title="🇱🇺 Luxemburgo | Música",RTL Gold [FHD]
@@ -2326,12 +2384,6 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyTV.ug@SD" tvg-logo="https://i.imgur.com/P5OABe5.png" tvg-type="live" group-title="🇺🇬 Uganda | Música",Galaxy TV [HD]
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_43351ad0f3b411ed81c78fcc31887c54
 https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="AMC.af@SD" tvg-logo="https://i.imgur.com/yj8RNnG.png" tvg-type="live" group-title="🇦🇫 Afeganistão | Música",AMC [FHD]
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KayhanTV.af@SD" tvg-logo="https://i.imgur.com/2MDjU7x.png" tvg-type="live" group-title="🇦🇫 Afeganistão | Música",Kayhan TV [HD]
-https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="SharqRadioTV.af@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/960px-Sharq_TV_Logo_2020.jpg" tvg-type="live" group-title="🇦🇫 Afeganistão | Música",Sharq Radio TV [FHD]
-https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MarinaTV.kw@SD" tvg-logo="https://i.imgur.com/F2PzEaw.png" tvg-type="live" group-title="🇰🇼 Kuwait | Música",Marina TV [FHD]
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
 #EXTINF:-1 tvg-id="Music.kg@SD" tvg-logo="https://www.utrk.kg/img/stream/45.png" tvg-type="live" group-title="🇰🇬 Quirguistão | Música",УТРК Музыка [SD]
@@ -2356,8 +2408,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8
 https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSMusika.us@SD" tvg-logo="https://i.imgur.com/lSpplhD.png" tvg-type="live" group-title="🇪🇹 Etiópia | Música",EBS Musika [HD]
 https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
-#EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" tvg-type="live" group-title="🇮🇸 Islândia | Música",K100 [FHD]
-https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-id="MosaiqueFM.tn@SD" tvg-logo="https://i.imgur.com/GDUykah.png" tvg-type="live" group-title="🇹🇳 Tunísia | Música",Mosaique FM [FHD]
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="MadrasFMTV.gp@SD" tvg-logo="https://i.imgur.com/spGg1CZ.png" tvg-type="live" group-title="🇬🇵 Guadeloupe | Música",Madras FM TV [FHD]
@@ -2380,6 +2430,8 @@ https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
 #EXTINF:-1 tvg-id="VAMTV.cw@SD" tvg-logo="https://i.imgur.com/CD1PffA.png" tvg-type="live" group-title="🇨🇼 Curacao | Música",VAM Vid's & More [HD]
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
+#EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" tvg-type="live" group-title="🇮🇸 Islândia | Música",K100 [FHD]
+https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me@SD" tvg-logo="https://i.imgur.com/vTZjEC5.png" tvg-type="live" group-title="🇲🇪 Montenegro | Música",Radio televizija Rožaje [SD]
 https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 #EXTINF:-1 tvg-id="MTVGuyana.gy@SD" tvg-logo="https://i.imgur.com/Ky70brA.png" tvg-type="live" group-title="🇬🇾 Guyana | Música",MTV Guyana [FHD]

@@ -106,9 +106,7 @@ http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",National Geographic Wild [HD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://46.32.176.50/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-logo="https://i.imgur.com/39qZ68J.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",Viasat History [FHD]
-http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-logo="https://i.imgur.com/39qZ68J.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",Viasat History (fonte 2)
+#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-logo="https://i.imgur.com/39qZ68J.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",Viasat History
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
@@ -130,6 +128,8 @@ http://stream.mcquack.net/485/index.m3u8
 http://stream.mcquack.net/487/index.m3u8
 #EXTINF:-1 tvg-id="MaincastSport.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",Maincast Sport [FHD]
 http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1 tvg-id="MEGOGOSport.ua@SD" tvg-logo="https://i.imgur.com/5JmT4mW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",MEGOGO Sport [FHD]
+http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",Setanta Sports+ Ukraine [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
@@ -218,8 +218,6 @@ http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
-#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Bulgaria [FHD]
-http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Comedy
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -351,8 +349,6 @@ http://stream.mcquack.net/398/index.m3u8
 http://stream.mcquack.net/156/index.m3u8
 #EXTINF:-1 tvg-id="SuperPlus.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Super%2B_UA_%282024%29.svg/960px-Super%2B_UA_%282024%29.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Super+ [SD]
 http://dtv.vol.net.ua/super_plus/index.m3u8
-#EXTINF:-1 tvg-id="SuspilneDonbas.ua@SD" tvg-logo="https://i.imgur.com/GPXrpJC.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Suspilne. Donbas [SD]
-http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
 #EXTINF:-1 tvg-id="SuspilneKrym.ua@SD" tvg-logo="https://i.imgur.com/m7znCes.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Suspilne. Krym [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/436/index.m3u8

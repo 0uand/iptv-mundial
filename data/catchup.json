@@ -1,13 +1,13 @@
 {
-"https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068": {
+"https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8": {
 "type": "default",
-"source": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6068&utc={utc}&lutc={lutc}",
+"source": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
-"server": ""
+"server": "cloudfront"
 },
-"https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6071": {
+"https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8": {
 "type": "default",
-"source": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=6071&utc={utc}&lutc={lutc}",
+"source": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
 "server": ""
 },
@@ -29,12 +29,6 @@
 "days": 1,
 "server": "nginx/1.28.2"
 },
-"https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8": {
-"type": "default",
-"source": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx"
-},
 "https://www.desde-paraguay.com/pro.m3u8": {
 "type": "flussonic",
 "source": "",
@@ -46,6 +40,18 @@
 "source": "",
 "days": 3,
 "server": "nginx"
+},
+"https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8": {
+"type": "default",
+"source": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "nginx"
+},
+"https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion": {
+"type": "default",
+"source": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion&utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "nginx/1.28.2"
 },
 "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8": {
 "type": "default",
@@ -77,6 +83,18 @@
 "days": 1,
 "server": ""
 },
+"https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8": {
+"type": "default",
+"source": "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": ""
+},
+"https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8": {
+"type": "default",
+"source": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": ""
+},
 "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8": {
 "type": "default",
 "source": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8?utc={utc}&lutc={lutc}",
@@ -89,29 +107,23 @@
 "days": 1,
 "server": "nginx"
 },
-"https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8": {
-"type": "default",
-"source": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": ""
-},
 "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8": {
 "type": "default",
 "source": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
 "server": "sdn/1.0"
 },
-"https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)": {
-"type": "default",
-"source": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": ""
-},
 "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8": {
 "type": "default",
 "source": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
 "server": "amazons3"
+},
+"https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)": {
+"type": "default",
+"source": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": ""
 },
 "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8": {
 "type": "flussonic",
@@ -143,12 +155,6 @@
 "days": 1,
 "server": "nginx"
 },
-"https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8": {
-"type": "default",
-"source": "https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": ""
-},
 "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8": {
 "type": "default",
 "source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8?utc={utc}&lutc={lutc}",
@@ -167,21 +173,15 @@
 "days": 3,
 "server": "nimble/4.3.4-1"
 },
-"https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8": {
-"type": "flussonic",
-"source": "",
-"days": 3,
-"server": "nginx"
+"https://stream-live.lrt.lt/opus/master.m3u8": {
+"type": "default",
+"source": "https://stream-live.lrt.lt/opus/master.m3u8?utc={utc}&lutc={lutc}",
+"days": 1,
+"server": "nginx/1.26.3"
 },
 "https://stream-live.lrt.lt/klasika/master.m3u8": {
 "type": "default",
 "source": "https://stream-live.lrt.lt/klasika/master.m3u8?utc={utc}&lutc={lutc}",
-"days": 1,
-"server": "nginx/1.26.3"
-},
-"https://stream-live.lrt.lt/opus/master.m3u8": {
-"type": "default",
-"source": "https://stream-live.lrt.lt/opus/master.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
 "server": "nginx/1.26.3"
 },
@@ -195,19 +195,19 @@
 "type": "default",
 "source": "https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8?utc={utc}&lutc={lutc}",
 "days": 1,
-"server": "bunnycdn-il1-718"
-},
-"https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8": {
-"type": "flussonic",
-"source": "",
-"days": 3,
-"server": "streamer 25.12.1"
+"server": "bunnycdn-mi1-976"
 },
 "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8": {
 "type": "flussonic",
 "source": "",
 "days": 3,
 "server": "nimble/4.3.4-1"
+},
+"https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8": {
+"type": "flussonic",
+"source": "",
+"days": 3,
+"server": "streamer 25.12.1"
 },
 "http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8": {
 "type": "flussonic",

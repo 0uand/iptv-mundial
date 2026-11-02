@@ -76,6 +76,10 @@ http://88.212.7.14/live/ngw_hun/index.m3u8
 #EXTINF:-1 tvg-id="Spektrum.hu@SD" tvg-logo="https://i.imgur.com/GmFRQ82.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",Spektrum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.hu@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",Viasat History
+http://193.33.39.108:9007/play/a00p
+#EXTINF:-1 tvg-id="ViasatNature.hu@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",Viasat Nature
+http://193.33.39.108:9000/play/a05r
 #EXTINF:-1 tvg-id="M5.hu@SD" tvg-logo="https://i.imgur.com/y21wFd0.png" tvg-type="live" group-title="🇭🇺 Hungria | Educação",M5 [FHD]
 http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena4.hu@SD" tvg-logo="https://i.imgur.com/uAaQDr6.png" tvg-type="live" group-title="🇭🇺 Hungria | Esportes",Arena4
@@ -113,6 +117,10 @@ http://88.212.7.14/live/parpika_hun/index.m3u8
 #EXTINF:-1 tvg-id="AXNCrime.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Cinemax 2 Central Europe
+http://193.33.39.108:9009/play/a024
+#EXTINF:-1 tvg-id="CinemaxCentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Cinemax Central Europe
+http://193.33.39.108:9023/play/a01b
 #EXTINF:-1 tvg-id="FilmCafe.hu@Hungary" tvg-logo="https://i.imgur.com/jaKRnzU.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Film Cafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/film_cafe/index.m3u8
@@ -258,10 +266,10 @@ http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="SorozatPlus.hu@SD" tvg-logo="https://i.imgur.com/KsxWZIw.png" tvg-type="live" group-title="🇭🇺 Hungria | Geral",Sorozat+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Story4.hu@SD" tvg-logo="https://i.imgur.com/pJsLyiv.png" tvg-type="live" group-title="🇭🇺 Hungria | Geral",Story4
+#EXTINF:-1 tvg-id="Story4.hu@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Story4_CZ_2026.svg/revision/latest?cb=20260905012248" tvg-type="live" group-title="🇭🇺 Hungria | Geral",Story4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_story_4_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Story4.hu@Czechia" tvg-logo="https://i.imgur.com/pJsLyiv.png" tvg-type="live" group-title="🇭🇺 Hungria | Geral",Story4 Czechia
+#EXTINF:-1 tvg-id="Story4.hu@Czechia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Story4_CZ_2026.svg/revision/latest?cb=20260905012248" tvg-type="live" group-title="🇭🇺 Hungria | Geral",Story4 Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="SuperTV2.hu@SD" tvg-logo="https://i.imgur.com/JCu1u2v.png" tvg-type="live" group-title="🇭🇺 Hungria | Geral",Super TV2
@@ -327,6 +335,8 @@ http://stream.nmih.hu:7980/live.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu@SD" tvg-logo="https://i.imgur.com/aOa73uT.png" tvg-type="live" group-title="🇭🇺 Hungria | Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.hu@SD" tvg-logo="https://i.imgur.com/aOa73uT.png" tvg-type="live" group-title="🇭🇺 Hungria | Infantil",Disney Channel (fonte 2)
+http://193.33.39.108:9019/play/a00n
 #EXTINF:-1 tvg-id="JimJam.hu@SD" tvg-logo="https://i.imgur.com/ODhkYyx.png" tvg-type="live" group-title="🇭🇺 Hungria | Infantil",JimJam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/jim_jam_hun/index.m3u8

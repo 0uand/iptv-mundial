@@ -86,7 +86,9 @@ http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn@HD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-16 [FHD]
 http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-5+ [FHD]
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-5+ (fonte 2)
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://i.imgur.com/WK3keM9.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-Billiards [FHD]
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -994,6 +996,8 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 #EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+#EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Jingmen Comprehensive News Channel
+https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 #EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" tvg-type="live" group-title="🇨🇳 China | Notícias",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",QTV-1

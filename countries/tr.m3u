@@ -67,6 +67,8 @@ https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr@SD" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-type="live" group-title="🇹🇷 Turkiye | Entretenimento",Show Turk [FHD]
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Animação",Cartoon Network
+http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="SpacetoonTurkey.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" tvg-type="live" group-title="🇹🇷 Turkiye | Animação",Spacetoon Turkey [HD]
 #EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
@@ -92,9 +94,7 @@ https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",TRT Belgesel [FHD]
-http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",TRT Belgesel [HD] (fonte 2)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",TRT Belgesel [HD]
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.tr@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",Viasat History [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -109,18 +109,6 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-logo="https://i.imgur.com/ZhkZzLf.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",A Spor [FHD]
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",beIN Sports 1 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="beINSports2Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/BeinSports2.svg/revision/latest?cb=20230910185720" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",beIN Sports 2 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="beINSports3Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/BeIN_Sports_3_2017_Rectangle.png/revision/latest/scale-to-width-down/1000?cb=20251213114000" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",beIN Sports 3 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="beINSports4Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Logo_bein_sports_4.png/revision/latest/scale-to-width-down/1000?cb=20251213115820" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",beIN Sports 4 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="beINSports5Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/BeIN%2Bsports%2B5.png/revision/latest/scale-to-width-down/1000?cb=20251214104942" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",beIN Sports 5 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-id="beINSportsHaber.tr@SD" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",beIN Sports Haber
-https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-logo="https://i.imgur.com/qBVqtYd.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMFit.tr@SD" tvg-logo="https://i.imgur.com/7FQxaII.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",GEM Fit
@@ -129,11 +117,7 @@ https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr@SD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",HTSpor TV [FHD]
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-id="SSport.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",S Sport [HD]
-https://corestream.siteyaptim.live/s-sport/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",S Sport 2 [HD]
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",S Sport 2 (fonte 2)
+#EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr@SD" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-type="live" group-title="🇹🇷 Turkiye | Esportes",TJK TV [FHD]
 https://tjktv-live.tjk.org/tjktv.m3u8
@@ -147,21 +131,6 @@ https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMLife.tr@SD" tvg-logo="https://i.imgur.com/gI8qePa.png" tvg-type="live" group-title="🇹🇷 Turkiye | Estilo de vida",GEM Life
 https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr@SD" tvg-logo="https://i.imgur.com/MGrJFVN.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Box Office 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box1/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice2.tr@SD" tvg-logo="https://i.imgur.com/Kg7oOcO.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Box Office 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box2/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice3.tr@SD" tvg-logo="https://i.imgur.com/5NZur1S.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Box Office 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box3/index.m3u8
-#EXTINF:-1 tvg-id="beINMoviesStars.tr@SD" tvg-logo="https://i.imgur.com/eryPkrT.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Movies Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr@SD" tvg-logo="https://i.imgur.com/nw8Sa2z.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Movies Turk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="EkranMovies.ir@SD" tvg-logo="https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMBollywood.tr@SD" tvg-logo="https://i.imgur.com/2XASeBk.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",GEM Bollywood
@@ -465,6 +434,9 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Notícias",TRT World [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/266/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Notícias",TRT World [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/416/master.m3u8
 #EXTINF:-1 tvg-id="24TV.tr@SD" tvg-logo="https://i.imgur.com/8FO41es.png" tvg-type="live" group-title="🇹🇷 Turkiye | Notícias",TV 24 [HD]
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr@SD" tvg-logo="https://i.imgur.com/2AcRKdL.png" tvg-type="live" group-title="🇹🇷 Turkiye | Notícias",TürkHaber [HD]

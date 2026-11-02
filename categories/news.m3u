@@ -250,8 +250,6 @@ https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us@SD" tvg-logo="https://i.imgur.com/3SeAyBS.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",Didgah TV [SD]
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-#EXTINF:-1 tvg-id="DNews.us@SD" tvg-logo="https://i.imgur.com/jF2BabI.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",DNews [HD]
-http://38.19.16.151:8000/play/a0a3
 #EXTINF:-1 tvg-id="EntertainmentTonight.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",Entertainment Tonight [FHD]
 https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png?t=1" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",Estrella News [FHD]
@@ -292,6 +290,8 @@ https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD" tvg-logo="https://i.imgur.com/Qq6heRq.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",Free Speech TV [HD]
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",GB News [HD]
+https://a-cdn.klowdtv.com/live3/gbnews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.us@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/HLN_2023.webp/960px-HLN_2023.webp" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",HLN [HD]
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us@KPVMLD" tvg-logo="https://i.imgur.com/iE1izWq.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",KPVM Newsmax 2
@@ -428,6 +428,8 @@ https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/maste
 https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 #EXTINF:-1 tvg-id="TopStoriesbyNewsy.us@SD" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",Top Stories by Newsy [HD]
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw@SD" tvg-logo="https://i.imgur.com/AfkK0gv.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us@SD" tvg-logo="https://i.imgur.com/UcAwBep.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",UN Web TV [SD]
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="USATODAY.us@SD" tvg-logo="https://i.imgur.com/37K0AZX.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Notícias",USA Today [FHD]
@@ -608,16 +610,12 @@ http://181.78.8.199:8000/play/a0a6/index.m3u8
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AtacamaNoticias.cl@SD" tvg-logo="https://i.imgur.com/Avx4Ecf.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",Atacama Noticias [HD]
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-id="CNNChile.cl@SD" tvg-logo="https://i.imgur.com/t4EXijz.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",CNN Chile [FHD]
-http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl@SD" tvg-logo="https://i.imgur.com/Lz2OlKf.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",Contivision [HD]
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElCentroTV.cl@SD" tvg-logo="https://i.imgur.com/2KqGHvA.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",El Centro TV [HD]
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
 #EXTINF:-1 tvg-id="ElPinguinoTV.cl@SD" tvg-logo="https://i.imgur.com/ikEs9b8.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",El Pinguino TV [HD]
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElPinguinoTV.cl@SD" tvg-logo="https://i.imgur.com/ikEs9b8.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",El Pinguino TV (fonte 2)
-https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasAhora.cl@SD" tvg-logo="https://i.imgur.com/JCVEqTc.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",Meganoticias Ahora [FHD]
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-id="NCTV.cl@SD" tvg-logo="https://i.imgur.com/oo5vDBv.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",NCTV [FHD]
@@ -632,8 +630,6 @@ https://redirector.dps.live/hls/t13/playlist.m3u8
 http://45.232.210.1:8029/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Telecanal.cl@SD" tvg-logo="https://i.imgur.com/3g6SbSt.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",Telecanal [SD] (fonte 2)
 https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="TelecanalSantaCruz.cl@SD" tvg-logo="https://i.imgur.com/5byPkd7.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",Telecanal Santa Cruz [HD]
-https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCauquenes.cl@SD" tvg-logo="https://i.imgur.com/cNYDqhp.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",TeleCauquenes [HD]
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 #EXTINF:-1 tvg-id="Turno.cl@SD" tvg-logo="https://i.imgur.com/XuSeHBt.png" tvg-type="live" group-title="🇨🇱 Chile | Notícias",Turno [HD]
@@ -726,18 +722,18 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",4DmásNoticias TV [FHD]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD" tvg-logo="https://i.imgur.com/OqfBMGy.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",ABC-TV Paraguay [FHD]
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD" tvg-logo="https://i.imgur.com/OqfBMGy.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",ABC-TV Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 #EXTINF:-1 tvg-id="C9N.py@SD" tvg-logo="https://i.imgur.com/iXkwP31.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",C9N [HD]
 https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py@SD" tvg-logo="https://i.imgur.com/CaA7l86.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias" catchup="flussonic" catchup-days="3",Mega TV [FHD]
 https://www.desde-paraguay.com/mega.m3u8
-#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.imgur.com/vnIkhRO.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",Nanduti [FHD]
+#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.imgur.com/AsuVsLa.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",Nanduti [FHD]
 #EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
 https://nanduti.b-cdn.net/Source.m3u8
-#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.imgur.com/vnIkhRO.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",Nanduti [FHD] (fonte 2)
+#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.imgur.com/AsuVsLa.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",Nanduti [FHD] (fonte 2)
 http://190.128.214.97:64333/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.imgur.com/vnIkhRO.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",Nanduti [HD] (fonte 3)
+#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.imgur.com/AsuVsLa.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",Nanduti [HD] (fonte 3)
 https://nanduti.b-cdn.net/720p.m3u8
 #EXTINF:-1 tvg-id="NPY.py@SD" tvg-logo="https://i.imgur.com/pUEkaiW.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",NPY [FHD]
 #EXTVLCOPT:http-referrer=https://www.npy.com.py/
@@ -745,7 +741,7 @@ https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="SucesoTV.py@SD" tvg-logo="https://i.imgur.com/BwRNes1.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",Suceso TV [HD]
 https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://i.imgur.com/cgTD2TW.png" tvg-type="live" group-title="🇵🇾 Paraguai | Notícias",Unicanal
-http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo@SD" tvg-logo="https://i.imgur.com/hutdRfk.png" tvg-type="live" group-title="🇧🇴 Bolívia | Notícias",CEACOM TV [FHD]
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" tvg-type="live" group-title="🇧🇴 Bolívia | Notícias",UMSA TVU LP [HD]
@@ -804,6 +800,8 @@ https://servilive.com:3508/stream/play.m3u8
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",HCH [HD]
 https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",HCH [HD] (fonte 2)
+http://45.228.234.9:8000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="ICNDigital.hn@SD" tvg-logo="https://i.imgur.com/UCZVQgj.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn@SD" tvg-logo="https://i.imgur.com/fc5IHSy.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",Lenca Television Canal 40 [HD]
@@ -912,6 +910,9 @@ https://cdn-7.pishow.tv/live/431/master.m3u8
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 9)
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/116/116_0.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW Espanol [FHD]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW Espanol [FHD] (fonte 2)
@@ -1113,8 +1114,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇫🇷 França | Notícias",France 24 Spanish [HD] (fonte 2)
 http://138.121.15.230:9002/FRANCE-24/index.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-type="live" group-title="🇫🇷 França | Notícias",Franceinfo [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+http://149.62.177.107:9999/franceinfo:/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@SD" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-type="live" group-title="🇫🇷 França | Notícias",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@HD" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-type="live" group-title="🇫🇷 França | Notícias",LCI HD [FHD]
@@ -1175,6 +1175,9 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan [SD] (fonte 5)
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan [SD] (fonte 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/417/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan HD [FHD]
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-type="live" group-title="🇯🇵 Japão | Notícias",NHK World-Japan HD [HD] (fonte 2)
@@ -1274,6 +1277,8 @@ https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/
 http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0
 #EXTINF:-1 tvg-id="NewsmaxPolska.pl@SD" tvg-logo="https://i.imgur.com/2NhPCrY.png" tvg-type="live" group-title="🇵🇱 Polônia | Notícias",Newsmax Polska (576i)
 http://92.114.85.87:8014/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="SuperExpressTV.pl@FAST" tvg-logo="https://i.imgur.com/HuIsALV.png" tvg-type="live" group-title="🇵🇱 Polônia | Notícias",Super Express TV [FHD]
+https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="TVPWilno.pl@SD" tvg-logo="https://i.imgur.com/8oORLGF.png" tvg-type="live" group-title="🇵🇱 Polônia | Notícias",TVP Wilno
 http://78.62.9.23:55555/TVP%20Wilno%20HD
 #EXTINF:-1 tvg-id="Wydarzenia24.pl@SD" tvg-logo="https://i.imgur.com/uYpUnHP.png" tvg-type="live" group-title="🇵🇱 Polônia | Notícias",Wydarzenia 24 (576i)
@@ -1318,12 +1323,14 @@ https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Antena 3 CNN [SD] (fonte 2)
 https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
+#EXTINF:-1 tvg-id="Antena3Constanta.ro@SD" tvg-logo="https://antena3constanta.ro/wp-content/uploads/2025/08/ant3-logonn.jpg" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Antena 3 Constanta [SD]
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+#EXTINF:-1 tvg-id="Antena3Suceava.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Antena_3_Suceava_slogan.svg/revision/latest/scale-to-width-down/1000?cb=20240522203102" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Antena 3 Suceava (576i)
+https://livestream.a3sv.ro/master.m3u8
 #EXTINF:-1 tvg-id="B1.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Digi 24 [HD]
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1 tvg-id="Digi24.ro@HD" tvg-logo="https://i.imgur.com/qmRnD0M.png" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Digi 24 HD (1080i)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Dotto TV [FHD]
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro@SD" tvg-logo="https://i.imgur.com/jUOVUXt.png" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Euronews Romania [SD]
@@ -1338,13 +1345,16 @@ https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
-#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",Pro TV News [FHD]
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",PROTV News
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="TVRInfo.ro@SD" tvg-logo="https://i.imgur.com/7oE7ThR.png" tvg-type="live" group-title="🇷🇴 Romênia | Notícias",TVR Info
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",10 TV [HD]
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",10 TV [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/686/master.m3u8
+#EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",10 TV [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/391/master.m3u8
 #EXTINF:-1 tvg-id="22ScopeNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",22Scope News [FHD]
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
@@ -1355,6 +1365,9 @@ https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",4 SiDES TV [FHD]
 https://stream.ottlive.co.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://i.imgur.com/DSAaC2b.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",4TV News [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/647/master.m3u8
+#EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://i.imgur.com/DSAaC2b.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",4TV News [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",6 TV Telugu [SD]
 https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -1372,6 +1385,8 @@ https://live1.ottlive.co.in/aagaaztimes/index.m3u8
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajKiKhabar.in@SD" tvg-logo="https://m.media-amazon.com/images/I/71q8sOMPwHL.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Aaj Ki Khabar [SD] (fonte 2)
 https://mumt04.tangotv.in/m18aqlK4AAJKIKHABAR/index.m3u8
+#EXTINF:-1 tvg-id="AajKiKhabar.in@SD" tvg-logo="https://m.media-amazon.com/images/I/71q8sOMPwHL.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Aaj Ki Khabar [SD] (fonte 3)
+https://indianews-yupp.vgcdn.net/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://i.imgur.com/JYLmXy4.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Aaj Tak [FHD]
 http://103.213.31.109:90/AajtakHD/playlist.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://i.imgur.com/JYLmXy4.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Aaj Tak [HD] (fonte 2)
@@ -1379,6 +1394,9 @@ https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://i.imgur.com/JYLmXy4.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Aaj Tak [HD] (fonte 3)
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://i.imgur.com/JYLmXy4.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Aaj Tak [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/87/87_0.m3u8
+#EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://i.imgur.com/JYLmXy4.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Aaj Tak [SD] (fonte 5)
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@HD" tvg-logo="https://i.imgur.com/JYLmXy4.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Aaj Tak HD [FHD]
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -1387,18 +1405,33 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABN Andhra Jyoti [HD]
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABN Andhra Jyoti [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/687/master.m3u8
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABN Andhra Jyoti [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/407/master.m3u8
 #EXTINF:-1 tvg-id="ABPAnanda.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Ananda [FHD]
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Ananda [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/200/master.m3u8
 #EXTINF:-1 tvg-id="ABPAsmita.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142519_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Asmita [FHD]
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142519_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Asmita [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/192/master.m3u8
 #EXTINF:-1 tvg-id="ABPGanga.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Ganga [FHD]
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="ABPGanga.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Ganga [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/594/master.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Majha [SD]
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Majha [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/471/master.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Majha [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/418/master.m3u8
+#EXTINF:-1 tvg-id="ABPMajha.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Majha [SD] (fonte 4)
 https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP News [FHD]
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
@@ -1410,9 +1443,17 @@ https://mumbai-edge.smartplaytv.in/ABPNews/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP News [SD] (fonte 5)
 https://cdn.pishow.tv/ott/live/1057/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP News [SD] (fonte 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/595/master.m3u8
+#EXTINF:-1 tvg-id="ABPSanjha.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ABP Sanjha [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/641/master.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002EF87T.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",AKD Calcutta News [FHD]
 https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002EF87T.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",AKD Calcutta News [SD] (fonte 2)
+https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002EF87T.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",AKD Calcutta News [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/237/master.m3u8
 #EXTINF:-1 tvg-id="AkhonKolkata.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ekhonkolkata.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Akhon Kolkata [SD]
 https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
@@ -1424,10 +1465,16 @@ https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 #EXTINF:-1 tvg-id="ANBNews.in@SD" tvg-logo="https://i.imgur.com/8LjMtnk.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ANB News [SD] (fonte 2)
 https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in@SD" tvg-logo="https://i.imgur.com/8LjMtnk.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ANB News [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/101/101_0.m3u8
 #EXTINF:-1 tvg-id="APN.in@SD" tvg-logo="https://i.imgur.com/RhkbhZD.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",APN [SD]
 https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
 #EXTINF:-1 tvg-id="APN.in@SD" tvg-logo="https://i.imgur.com/RhkbhZD.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",APN [SD] (fonte 2)
 https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
+#EXTINF:-1 tvg-id="APN.in@SD" tvg-logo="https://i.imgur.com/RhkbhZD.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",APN [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/593/master.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Argus News [SD]
 https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Argus News [SD] (fonte 2)
@@ -1436,6 +1483,9 @@ https://stream.ottlive.co.in/argus/index.m3u8
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asian News [FHD]
 https://stream.ottlive.co.in/asiannews/index.m3u8
+#EXTINF:-1 tvg-id="AsianNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asian News [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/449/master.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asianet News [FHD]
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asianet News [FHD] (fonte 2)
@@ -1445,9 +1495,15 @@ https://streams.tangotv.in/ASIANETNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asianet News [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/1297/master.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asianet News [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/699/master.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asianet News [SD] (fonte 6)
 https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asianet Suvarna News [FHD]
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asianet Suvarna News [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/692/master.m3u8
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Asom Live 24 [SD]
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Assam Talks [SD]
@@ -1456,6 +1512,9 @@ http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Assam Talks [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Assam Talks [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/675/master.m3u8
 #EXTINF:-1 tvg-id="ATNSamachar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ATN_Samachar.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",ATN Samachar [FHD]
 https://newsliveindia.com:4433/atn/index.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Awaaz India TV [HD]
@@ -1477,16 +1536,22 @@ https://live.ekamraott.com/4tv/bharata2z/index.m3u8
 #EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Express [SD]
 https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
 #EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Express [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/736/master.m3u8
+#EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Express [SD] (fonte 3)
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
-#EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Express (fonte 3)
+#EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Express (fonte 4)
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Samachar [SD]
 https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Samachar [SD] (fonte 2)
 https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Samachar [SD] (fonte 3)
-https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/97/97_0.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Samachar [SD] (fonte 4)
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Samachar [SD] (fonte 5)
 https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
 #EXTINF:-1 tvg-id="BharatUpdate.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Update.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat Update [SD]
 https://cdn.pishow.tv/ott/live/339/master.m3u8
@@ -1496,13 +1561,18 @@ https://cdn.ottlive.co.in/bharat24/index.m3u8
 https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Bharat24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat24 [SD] (fonte 3)
 https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8
+#EXTINF:-1 tvg-id="Bharat24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Bharat24 [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/104/104_0.m3u8
 #EXTINF:-1 tvg-id="BHIChannel.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHI.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BHI Channel [HD]
 https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
-#EXTINF:-1 tvg-id="BIGTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BIG TV [HD]
+#EXTINF:-1 tvg-id="BIGTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BIG TV [FHD]
+https://stream.ottlive.co.in/bigtv/index.m3u8
+#EXTINF:-1 tvg-id="BIGTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BIG TV [HD] (fonte 2)
 https://cdn.pishow.tv/ott/live/1059/master.m3u8
-#EXTINF:-1 tvg-id="BIGTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BIG TV [SD] (fonte 2)
-https://mumbai-edge.smartplaytv.in/BIGTV/index.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BIG TV [SD] (fonte 3)
+https://mumbai-edge.smartplaytv.in/BIGTV/index.m3u8
+#EXTINF:-1 tvg-id="BIGTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BIG TV [SD] (fonte 4)
 https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="BigTV24x7.in@SD" tvg-logo="https://yt3.googleusercontent.com/blnfLkIGphkSPHfWy4SVOVyHlrWSAEn2pArAS5wdH7tYmXAFD4dVMGLtSmZr5R5CNl1d2cUuDw=s512-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Big TV 24x7 [FHD]
 https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
@@ -1515,9 +1585,13 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 #EXTINF:-1 tvg-id="BRKNews.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BRK News [SD] (fonte 2)
 https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="BRKNews.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BRK News [SD] (fonte 3)
+https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
+#EXTINF:-1 tvg-id="BRKNews.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BRK News [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/1037/master.m3u8
 #EXTINF:-1 tvg-id="BSTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BSTV [HD]
 https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="BSTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BSTV [SD] (fonte 2)
+https://mumt07.tangotv.in/zHjX9OFlBSTV/index.m3u8
 #EXTINF:-1 tvg-id="BTTV.in@SD" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",BT TV [HD]
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in@SD" tvg-logo="https://i.imgur.com/NXD8CPq.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Chardikla Gurbaani TV [FHD]
@@ -1528,7 +1602,10 @@ https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playl
 https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Chardikla Time TV [SD] (fonte 3)
 https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Chardikla Time TV (fonte 4)
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Chardikla Time TV [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/645/master.m3u8
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Chardikla Time TV (fonte 5)
 https://cdn.pishow.tv/ott/live/1627/master.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" tvg-logo="https://i.imgur.com/IUeMFey.jpg" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Chardikla Time TV North America [FHD]
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
@@ -1540,26 +1617,46 @@ https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CTVN AKD Plus [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/448/master.m3u8
+#EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CTVN AKD Plus [SD] (fonte 3)
+https://mumt03.tangotv.in/Dsly5z3HCTVNAKDPLUS/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-logo="https://i.imgur.com/k0WTQKi.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CVR English [HD]
 https://cdn.pishow.tv/ott/live/425/master.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-logo="https://i.imgur.com/k0WTQKi.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CVR English [SD] (fonte 2)
 https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-logo="https://i.imgur.com/k0WTQKi.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CVR English [SD] (fonte 3)
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
+#EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-logo="https://i.imgur.com/k0WTQKi.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CVR English [SD] (fonte 4)
+https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8
+#EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-logo="https://i.imgur.com/k0WTQKi.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CVR English [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/701/master.m3u8
 #EXTINF:-1 tvg-id="CVRNews.in@SD" tvg-logo="https://i.imgur.com/UVLWX8B.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CVR News [SD]
 https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
+#EXTINF:-1 tvg-id="CVRNews.in@SD" tvg-logo="https://i.imgur.com/UVLWX8B.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",CVR News [SD] (fonte 2)
+https://mumt04.tangotv.in/m18aqlK4CVRNEWS/index.m3u8
 #EXTINF:-1 tvg-id="DailyPostTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Daily_post.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Daily Post TV [FHD]
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
 #EXTINF:-1 tvg-id="DailyPostTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/Daily_post.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Daily Post TV [SD] (fonte 2)
 https://streams.tangotv.in/DAILYPOST/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-logo="https://i.imgur.com/I5zT1DG.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DD Mizoram [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/381/master.m3u8
+#EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-logo="https://i.imgur.com/I5zT1DG.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DD Mizoram [SD] (fonte 2)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DD News [FHD]
 https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DD News [SD] (fonte 2)
 https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DD News HD [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/117/117_0.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DD News HD [FHD] (fonte 2)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="DNN.in@SD" tvg-logo="https://i.imgur.com/H5Kd0k6.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DNN [SD]
+https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="DNN.in@SD" tvg-logo="https://i.imgur.com/H5Kd0k6.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DNN [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/592/master.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",DY 365 [SD]
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-id="EkamraBharatOdia.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Ekamra Bharat Odia [SD]
@@ -1577,6 +1674,9 @@ https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
 #EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" tvg-logo="https://i.imgur.com/MUTe7cu.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",First India News [SD]
 https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
 #EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" tvg-logo="https://i.imgur.com/MUTe7cu.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",First India News [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/596/master.m3u8
+#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" tvg-logo="https://i.imgur.com/MUTe7cu.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",First India News [SD] (fonte 3)
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="GlobalIndia.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Global_India.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Global India [HD]
 https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8
@@ -1588,13 +1688,18 @@ https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143090_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Good News Today [HD] (fonte 2)
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodNewsToday.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143090_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Good News Today [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/89/89_0.m3u8
 #EXTINF:-1 tvg-id="GSTV.in@SD" tvg-logo="https://i.imgur.com/VCKeGFj.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",GS TV [SD]
 https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8
 #EXTINF:-1 tvg-id="GSTV.in@SD" tvg-logo="https://i.imgur.com/VCKeGFj.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",GS TV [SD] (fonte 2)
 https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8
 #EXTINF:-1 tvg-id="GTCNews.in@SD" tvg-logo="https://www.thegtcnetwork.com/gtc-news.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",GTC News [FHD]
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
-#EXTINF:-1 tvg-id="GTCNews.in@SD" tvg-logo="https://www.thegtcnetwork.com/gtc-news.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",GTC News [SD] (fonte 2)
+#EXTINF:-1 tvg-id="GTCNews.in@SD" tvg-logo="https://www.thegtcnetwork.com/gtc-news.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",GTC News [FHD] (fonte 2)
+https://gtc.ottlive.co.in/gtcnews/index.m3u8
+#EXTINF:-1 tvg-id="GTCNews.in@SD" tvg-logo="https://www.thegtcnetwork.com/gtc-news.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",GTC News [SD] (fonte 3)
 https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8
 #EXTINF:-1 tvg-id="GuaranteeNews.in@SD" tvg-logo="https://media.licdn.com/dms/image/v2/D560BAQHYZzbGJ7ViZA/company-logo_200_200/company-logo_200_200/0/1728031377890?e=2147483647&v=beta&t=bIsZgNUCcg0M_-Zqeu5wKYgBt_1-pI798X9lP5CxhTM" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Guarantee News [FHD]
 https://guaranteenews.in:8443/live/gnews/index.m3u8
@@ -1604,6 +1709,12 @@ https://mumt03.tangotv.in/Dsly5z3HGAURANTEENEWS/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
 #EXTINF:-1 tvg-id="GujaratFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Gujarat First [SD] (fonte 2)
 https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="GujaratFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Gujarat First [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/655/master.m3u8
+#EXTINF:-1 tvg-id="GulistanNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Gulistan News [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/427/master.m3u8
 #EXTINF:-1 tvg-id="HamdardTV.ca@SD" tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hamdard TV [FHD]
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-id="HeadlinesTripura.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Headlines_Tripura.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Headlines Tripura [HD]
@@ -1615,8 +1726,11 @@ https://stream.ottlive.co.in/hindikhabar/index.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-logo="https://i.imgur.com/iuz6K6i.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hindi Khabar [SD] (fonte 2)
 https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-logo="https://i.imgur.com/iuz6K6i.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hindi Khabar [SD] (fonte 3)
-https://cdn.pishow.tv/ott/live/1041/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/96/96_0.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-logo="https://i.imgur.com/iuz6K6i.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hindi Khabar [SD] (fonte 4)
+https://cdn.pishow.tv/ott/live/1041/master.m3u8
+#EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-logo="https://i.imgur.com/iuz6K6i.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hindi Khabar [SD] (fonte 5)
 https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
 #EXTINF:-1 tvg-id="HMTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",HMTV [HD]
 https://cdn.pishow.tv/ott/live/280/master.m3u8
@@ -1629,19 +1743,63 @@ https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://i.imgur.com/7Y4vQnG.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hornbill TV [SD]
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://i.imgur.com/7Y4vQnG.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hornbill TV [SD] (fonte 2)
-https://cdn.pishow.tv/ott/live/1463/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/710/master.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://i.imgur.com/7Y4vQnG.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hornbill TV [SD] (fonte 3)
+https://cdn.pishow.tv/ott/live/1463/master.m3u8
+#EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://i.imgur.com/7Y4vQnG.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Hornbill TV [SD] (fonte 4)
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 #EXTINF:-1 tvg-id="IBC24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",IBC 24 [SD]
 https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
 #EXTINF:-1 tvg-id="IBC24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",IBC 24 [SD] (fonte 2)
 https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",IBC 24 [SD] (fonte 3)
+https://ott-prasar.ibc24.in/livestream.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",IBC 24 [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/309/master.m3u8
+#EXTINF:-1 tvg-id="Ind24.in@SD" tvg-logo="https://i.imgur.com/exRpVmL.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Ind 24 [HD]
+https://livestream.jswk.online/ind24/live/index.m3u8
+#EXTINF:-1 tvg-id="Ind24.in@SD" tvg-logo="https://i.imgur.com/exRpVmL.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Ind 24 [SD] (fonte 2)
+https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
+#EXTINF:-1 tvg-id="Ind24.in@SD" tvg-logo="https://i.imgur.com/exRpVmL.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Ind 24 [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/98/98_0.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in@SD" tvg-logo="https://i.imgur.com/hBkTmf9.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Ahead [SD]
 https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in@SD" tvg-logo="https://i.imgur.com/hBkTmf9.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Ahead [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/269/master.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Daily Live [FHD]
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Daily Live [SD] (fonte 2)
+https://cdn.ottlive.co.in/indiadailylive/index.m3u8
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Daily Live [SD] (fonte 3)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8
+#EXTINF:-1 tvg-id="IndiaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143190_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News [SD]
+https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="IndiaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143190_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/297/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsGujarati.in@SD" tvg-logo="https://i.imgur.com/3atyWZ2.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News Gujarati [SD]
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/653/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsHaryana.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143192_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News Haryana [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/590/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/3IoC5QR.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News Madhya Pradesh/Chhattisgarh [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/600/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in@SD" tvg-logo="https://i.imgur.com/Mu1MPvt.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News Punjab/Himachal [SD]
+https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in@SD" tvg-logo="https://i.imgur.com/Mu1MPvt.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News Punjab/Himachal [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/642/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsRajasthan.in@SD" tvg-logo="https://i.imgur.com/i16786i.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News Rajasthan [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/601/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in@SD" tvg-logo="https://i.imgur.com/nMsMlig.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India News Uttar Pradesh [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/304/master.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Today [HD]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Today [HD] (fonte 2)
@@ -1652,6 +1810,11 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrch
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143199_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India TV [SD] (fonte 2)
 https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143199_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India TV [SD] (fonte 3)
+https://cdn.pishow.tv/ott/live/1043/master.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143199_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India TV [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/586/master.m3u8
 #EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India TV Speed News [FHD]
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
 #EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India TV Speed News [FHD] (fonte 2)
@@ -1660,6 +1823,9 @@ https://cc-lyf4c0hwzg5dd.akamaized.net/v1/vglive-sk-479089/main.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaVoice.in@SD" tvg-logo="https://i.imgur.com/CwDznyQ.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Voice [SD] (fonte 2)
 https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
+#EXTINF:-1 tvg-id="IndiaVoice.in@SD" tvg-logo="https://i.imgur.com/CwDznyQ.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",India Voice [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/94/94_0.m3u8
 #EXTINF:-1 tvg-id="INews.in@SD" tvg-logo="https://i.imgur.com/IV1O11i.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",INews [HD]
 https://cdn.pishow.tv/ott/live/411/master.m3u8
 #EXTINF:-1 tvg-id="INews.in@SD" tvg-logo="https://i.imgur.com/IV1O11i.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",INews [SD] (fonte 2)
@@ -1669,8 +1835,11 @@ https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8
 #EXTINF:-1 tvg-id="INews.in@SD" tvg-logo="https://i.imgur.com/IV1O11i.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",INews [SD] (fonte 4)
 https://mumbai-edge.smartplaytv.in/INews/index.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://i.imgur.com/Es3QiVx.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",INH 24x7 [SD]
-https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/99/99_0.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://i.imgur.com/Es3QiVx.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",INH 24x7 [SD] (fonte 2)
+https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
+#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://i.imgur.com/Es3QiVx.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",INH 24x7 [SD] (fonte 3)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JaiMaharashtra.in@SD" tvg-logo="https://i.imgur.com/nAv3icS.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Jai Maharashtra [SD]
 https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
@@ -1680,6 +1849,9 @@ https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JantaTV.in@SD" tvg-logo="https://i.imgur.com/0nKfwhV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Janta TV [FHD]
 https://live.jswk.online/IK_RTPM/live/index.m3u8
+#EXTINF:-1 tvg-id="JantaTV.in@SD" tvg-logo="https://i.imgur.com/0nKfwhV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Janta TV [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/106/106_0.m3u8
 #EXTINF:-1 tvg-id="JantantraTV.in@SD" tvg-logo="https://i.imgur.com/IneOiic.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Jantantra TV [SD]
 https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8
 #EXTINF:-1 tvg-id="JantantraTV.in@SD" tvg-logo="https://i.imgur.com/IneOiic.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Jantantra TV [SD] (fonte 2)
@@ -1688,6 +1860,9 @@ https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8
 https://legitpro.co.in/knews/index.m3u8
 #EXTINF:-1 tvg-id="KNewsIndia.in@SD" tvg-logo="https://i.imgur.com/LeBL7ML.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",K News India [SD] (fonte 2)
 https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8
+#EXTINF:-1 tvg-id="KNewsIndia.in@SD" tvg-logo="https://i.imgur.com/LeBL7ML.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",K News India [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/100/100_0.m3u8
 #EXTINF:-1 tvg-id="Kadak.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kadak.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kadak [FHD]
 https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kairali News [HD]
@@ -1696,31 +1871,50 @@ https://cdn.pishow.tv/ott/live/1469/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143769_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kalaignar Seithigal [SD]
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143769_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kalaignar Seithigal [SD] (fonte 2)
+https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143250_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kalinga TV [HD]
 https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143250_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kalinga TV [SD] (fonte 2)
 https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143250_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kalinga TV [SD] (fonte 3)
 https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
-#EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143250_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kalinga TV (fonte 4)
+#EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143250_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kalinga TV [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/386/master.m3u8
+#EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143250_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kalinga TV (fonte 5)
 https://cdn.pishow.tv/ott/live/1470/master.m3u8
 #EXTINF:-1 tvg-id="KanakNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143252_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kanak News [SD]
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+#EXTINF:-1 tvg-id="KanakNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143252_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kanak News [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/669/master.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in@SD" tvg-logo="https://i.imgur.com/qfINs2r.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kashish News [HD]
 https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in@SD" tvg-logo="https://i.imgur.com/qfINs2r.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kashish News [SD] (fonte 2)
 https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in@SD" tvg-logo="https://i.imgur.com/qfINs2r.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kashish News [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/1471/master.m3u8
+#EXTINF:-1 tvg-id="KashishNews.in@SD" tvg-logo="https://i.imgur.com/qfINs2r.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kashish News [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/597/master.m3u8
 #EXTINF:-1 tvg-id="KBCNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",KBC News [FHD]
 https://stream.ottlive.co.in/kbcnews/index.m3u8
 #EXTINF:-1 tvg-id="KBPTimes.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KBPTimes.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",KBP Times [FHD]
 https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8
 #EXTINF:-1 tvg-id="KhabarFast.in@SD" tvg-logo="https://i.imgur.com/l5Li5Pd.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Khabar Fast [SD]
 https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
+#EXTINF:-1 tvg-id="KhabarFast.in@SD" tvg-logo="https://i.imgur.com/l5Li5Pd.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Khabar Fast [SD] (fonte 2)
+https://samitaorigin.tangotv.in/KHABARFAST/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="KhabarFast.in@SD" tvg-logo="https://i.imgur.com/l5Li5Pd.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Khabar Fast [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/740/master.m3u8
 #EXTINF:-1 tvg-id="KhabrainAbhiTak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Khabrain Abhi Tak [SD]
 https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
 #EXTINF:-1 tvg-id="KhabrainAbhiTak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Khabrain Abhi Tak [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/308/master.m3u8
+#EXTINF:-1 tvg-id="KhabrainAbhiTak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Khabrain Abhi Tak [SD] (fonte 3)
 https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Kolkata TV [FHD]
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
@@ -1736,9 +1930,11 @@ https://stream.ottlive.co.in/livetimetv/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3LIVETIMES/index.m3u8
 #EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NYXN8.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Living India News [FHD]
 https://stream.ottlive.co.in/livingindia/index.m3u8
-#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NYXN8.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Living India News [SD] (fonte 2)
-https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NYXN8.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Living India News [FHD] (fonte 2)
+https://livingindiaottlive.akamaized.net/livingindia/index.m3u8
 #EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NYXN8.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Living India News [SD] (fonte 3)
+https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NYXN8.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Living India News [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/324/master.m3u8
 #EXTINF:-1 tvg-id="LokshahiNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Lokshahi News [SD]
 https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
@@ -1749,6 +1945,9 @@ https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in@SD" tvg-logo="https://i.imgur.com/YKCo0hU.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Madhimugam TV [SD] (fonte 2)
 https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="MadhimugamTV.in@SD" tvg-logo="https://i.imgur.com/YKCo0hU.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Madhimugam TV [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/711/master.m3u8
+#EXTINF:-1 tvg-id="MadhimugamTV.in@SD" tvg-logo="https://i.imgur.com/YKCo0hU.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Madhimugam TV [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/1476/master.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-logo="https://i.imgur.com/buT76vR.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mahaa News [FHD]
 https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
@@ -1756,7 +1955,10 @@ https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-logo="https://i.imgur.com/buT76vR.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mahaa News [SD] (fonte 3)
 https://yuppnimrestreammum.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-logo="https://i.imgur.com/buT76vR.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mahaa News (fonte 4)
+#EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-logo="https://i.imgur.com/buT76vR.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mahaa News [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/689/master.m3u8
+#EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-logo="https://i.imgur.com/buT76vR.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mahaa News (fonte 5)
 https://cdn.pishow.tv/ott/live/401/master.m3u8
 #EXTINF:-1 tvg-id="MahuaKhabar.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mahuakhabar.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mahua Khabar [FHD]
 https://cdn.ottlive.co.in/mahuakhabar/index.m3u8
@@ -1766,16 +1968,34 @@ https://cdn.pishow.tv/ott/live/1606/master.m3u8
 https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143297_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Malai Murasu TV [SD] (fonte 3)
 https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143297_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Malai Murasu TV [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/690/master.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Manorama News [FHD]
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Manorama News [SD] (fonte 2)
-https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Manorama News [FHD] (fonte 2)
+https://mmtvlive3.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign3/index.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Manorama News [SD] (fonte 3)
+https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Manorama News [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/463/master.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Manorama News [SD] (fonte 5)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Manorama News [SD] (fonte 6)
+https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Manorama News [SD] (fonte 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/55/55_0.m3u8
 #EXTINF:-1 tvg-id="MantavyaNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mantavya News [SD]
 https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
 #EXTINF:-1 tvg-id="MantavyaNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mantavya News [SD] (fonte 2)
 https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
+#EXTINF:-1 tvg-id="MantavyaNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mantavya News [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/656/master.m3u8
+#EXTINF:-1 tvg-id="MantavyaNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mantavya News [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/657/master.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143309_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mathrubhumi News [SD]
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143309_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mathrubhumi News [SD] (fonte 2)
@@ -1786,6 +2006,8 @@ https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="MediaOne.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143345_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Media One [SD] (fonte 2)
 https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143345_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Media One [SD] (fonte 3)
+https://livegeoroueu.akamaized.net/120723/smil:mediaone3.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mh 1 News [SD]
 https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mh 1 News [SD] (fonte 2)
@@ -1793,6 +2015,9 @@ https://livestream.jswk.online/mhonenews/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mh 1 News [SD] (fonte 3)
 https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mh 1 News [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/643/master.m3u8
+#EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mh 1 News [SD] (fonte 5)
 https://livestream.jswk.online/mhonenews/live/index.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143543_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Mirror Now [HD]
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
@@ -1805,16 +2030,31 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Moon TV [SD]
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
-#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Moon TV (fonte 2)
+#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Moon TV [SD] (fonte 2)
+https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Moon TV (fonte 3)
 https://cdn.pishow.tv/ott/live/1121/master.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-logo="https://i.imgur.com/FQLqnE8.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Munsif TV [SD]
 https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-logo="https://i.imgur.com/FQLqnE8.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Munsif TV [SD] (fonte 2)
 https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8
+#EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-logo="https://i.imgur.com/FQLqnE8.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Munsif TV [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/598/master.m3u8
 #EXTINF:-1 tvg-id="NagalandTV.in@SD" tvg-logo="https://i.imgur.com/EBEIpPo.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Nagaland TV [SD]
 https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 #EXTINF:-1 tvg-id="NationNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Nation News [HD]
 https://server.playontv.in/nationnews/index.m3u8
+#EXTINF:-1 tvg-id="NaxatraNews.in@SD" tvg-logo="https://i.imgur.com/IGduUk4.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Naxatra News [SD]
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/668/master.m3u8
+#EXTINF:-1 tvg-id="NaxatraNewsHindi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Naxatra News Hindi [SD]
+https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="NDTV.in@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV [SD]
+https://cdn.pishow.tv/ott/live/315/master.m3u8
+#EXTINF:-1 tvg-id="NDTV.in@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/107/107_0.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV 24x7 [HD]
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV 24X7 [SD] (fonte 2)
@@ -1826,31 +2066,48 @@ https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157588_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV India [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/299/master.m3u8
 #EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157588_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV India [SD] (fonte 4)
+https://mumt03.tangotv.in/Dsly5z3HNDTVINDIA/index.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157588_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV India [SD] (fonte 5)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158324_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Madhya Pradesh Chhattisgarh [FHD]
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
 #EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158324_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Madhya Pradesh Chhattisgarh [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/1488/master.m3u8
+#EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158324_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Madhya Pradesh Chhattisgarh [SD] (fonte 3)
+https://mumt06.tangotv.in/qYyB8fXVNDTVMPCG/index.m3u8
 #EXTINF:-1 tvg-id="NDTVMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s166276_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Marathi [FHD]
 #EXTVLCOPT:http-referrer=https://marathi.ndtv.com/
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 #EXTINF:-1 tvg-id="NDTVRajasthan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158325_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Rajasthan [FHD]
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
-#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158325_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Rajasthan [SD] (fonte 2)
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158325_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Rajasthan [HD] (fonte 2)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46b5543f-e66f-40c7-a687-1ce4e7ecb4f4/main.m3u8
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158325_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Rajasthan [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/1489/master.m3u8
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158325_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NDTV Rajasthan [SD] (fonte 4)
+https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8
 #EXTINF:-1 tvg-id="NENews.in@SD" tvg-logo="https://i.imgur.com/L5GeJFb.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NE News [SD]
 https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
+#EXTINF:-1 tvg-id="NENews.in@SD" tvg-logo="https://i.imgur.com/L5GeJFb.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NE News [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/681/master.m3u8
 #EXTINF:-1 tvg-id="News1India.in@SD" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 1 India [SD]
 https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
 #EXTINF:-1 tvg-id="News1India.in@SD" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 1 India [SD] (fonte 2)
 https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
 #EXTINF:-1 tvg-id="News1India.in@SD" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 1 India [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/102/102_0.m3u8
+#EXTINF:-1 tvg-id="News1India.in@SD" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 1 India [SD] (fonte 4)
 https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 #EXTINF:-1 tvg-id="News1st.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143587_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 1st [SD]
 https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
 #EXTINF:-1 tvg-id="News1st.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143587_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 1st [SD] (fonte 2)
 https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
 #EXTINF:-1 tvg-id="News1st.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143587_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 1st [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/691/master.m3u8
+#EXTINF:-1 tvg-id="News1st.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143587_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 1st [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/268/master.m3u8
 #EXTINF:-1 tvg-id="News24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 24 [HD]
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
@@ -1864,8 +2121,14 @@ https://tvsen5.aynaott.com/News24/index.m3u8
 https://streams.tangotv.in/NEWS24/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="News24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 24 [SD] (fonte 6)
 https://cdn.pishow.tv/ott/live/253/master.m3u8
+#EXTINF:-1 tvg-id="News24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 24 [SD] (fonte 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/95/95_0.m3u8
 #EXTINF:-1 tvg-id="News24MPChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/EN45UFX.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 24 MP & Chhattisgarh [SD]
 https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8
+#EXTINF:-1 tvg-id="News24MPChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/EN45UFX.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 24 MP & Chhattisgarh [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/303/master.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://i.imgur.com/UjlbR4o.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 7 Tamil [SD]
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://i.imgur.com/UjlbR4o.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News 7 Tamil [SD] (fonte 2)
@@ -1879,8 +2142,18 @@ https://newscapital.com/hls/main4/stream.m3u8
 #EXTINF:-1 tvg-id="NewsDaily24.in@SD" tvg-logo="https://i.imgur.com/lT8rihP.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Daily 24 [SD]
 https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8
 #EXTINF:-1 tvg-id="NewsDaily24.in@SD" tvg-logo="https://i.imgur.com/lT8rihP.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Daily 24 [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/316/master.m3u8
+#EXTINF:-1 tvg-id="NewsDaily24.in@SD" tvg-logo="https://i.imgur.com/lT8rihP.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Daily 24 [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/10009/master.m3u8
-#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News India 24x7
+#EXTINF:-1 tvg-id="NewsHour.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b83af98cdfd7d995b46178788a835bff.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Hour [SD]
+https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8
+#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News India 24x7 [SD]
+https://samitaorigin.tangotv.in/NEWSINDIA24X7/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News India 24x7 [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/453/master.m3u8
+#EXTINF:-1 tvg-id="NewsIndia24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News India 24x7 (fonte 3)
 https://cdn.pishow.tv/ott/live/273/master.m3u8
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://i.imgur.com/RqeF8RR.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News J [HD]
 https://cdn.pishow.tv/ott/live/1279/master.m3u8
@@ -1889,6 +2162,8 @@ https://stream.ottlive.co.in/newsleader/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143595_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Live [SD]
 https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
 #EXTINF:-1 tvg-id="NewsLive.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143595_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Live [SD] (fonte 2)
+https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8
+#EXTINF:-1 tvg-id="NewsLive.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143595_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Live [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/10011/master.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in@SD" tvg-logo="https://papaji.freetvindia.com/media/News_Live_Bangla.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Live Bangla [SD]
 https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
@@ -1896,22 +2171,46 @@ https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 https://cdn.pishow.tv/ott/live/10003/master.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in@SD" tvg-logo="https://papaji.freetvindia.com/media/News_Live_Bangla.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Live Bangla [SD] (fonte 3)
 https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVEBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Malayalam 24x7 [SD]
+https://cdn.pishow.tv/ott/live/1629/master.m3u8
 #EXTINF:-1 tvg-id="NewsMarathi24x7.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cb84d7f7e19bcbfb9b6d664e7fb2adee.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Marathi 24x7 [HD]
 https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation [FHD]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation [SD] (fonte 2)
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation [FHD] (fonte 2)
+https://nn-nextg.originein.in/nntv/national/master_nnna_nextg.m3u8
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation [FHD] (fonte 3)
+https://janya-newsnation.vgcdn.net/ptnr-yupptv/title-NewsNation/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22ee70b6-57e0-4e80-8e18-4737adf55e8a/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation [FHD] (fonte 4)
+https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation [SD] (fonte 5)
 https://streams.tangotv.in/NEWSNATION/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation (fonte 3)
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation [SD] (fonte 6)
+https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation [SD] (fonte 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/93/93_0.m3u8
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation (fonte 8)
 https://cdn.pishow.tv/ott/live/1493/master.m3u8
 #EXTINF:-1 tvg-id="NewsNation81.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Nation 81 [FHD]
 https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
 #EXTINF:-1 tvg-id="NewsStateMPCHG.in@SD" tvg-logo="https://i.imgur.com/KS5xcx2.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News State MP & CHG [FHD]
 https://jmp2.uk/stvp-IN4000012ML
+#EXTINF:-1 tvg-id="NewsStateMPCHG.in@SD" tvg-logo="https://i.imgur.com/KS5xcx2.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News State MP & CHG [SD] (fonte 2)
+https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8
+#EXTINF:-1 tvg-id="NewsStateMPCHG.in@SD" tvg-logo="https://i.imgur.com/KS5xcx2.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News State MP & CHG [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/305/master.m3u8
 #EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in@SD" tvg-logo="" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News State Punjab Haryana Himachal [FHD]
 https://jmp2.uk/stvp-IN300083R1
+#EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in@SD" tvg-logo="" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News State Punjab Haryana Himachal [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/732/master.m3u8
 #EXTINF:-1 tvg-id="NewsStateUPUK.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143601_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News State UP & UK [FHD]
 https://jmp2.uk/stvp-IN3000846P
+#EXTINF:-1 tvg-id="NewsStateUPUK.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143601_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News State UP & UK [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/302/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143623_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Tamil 24x7 [SD]
 https://cdn.pishow.tv/ott/live/1433/master.m3u8
 #EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143623_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News Tamil 24x7 [SD] (fonte 2)
@@ -1956,11 +2255,15 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [FHD]
 https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
-#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [HD] (fonte 2)
+#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [FHD] (fonte 2)
+https://bharatvarshnews9.akamaized.net/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [FHD] (fonte 3)
+https://d2s9bukq38y039.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/news9_live/amg01106c3/hls.m3u8
+#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [HD] (fonte 4)
 https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
-#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [HD] (fonte 3)
+#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [HD] (fonte 5)
 https://mumt01.tangotv.in/O5aw8Zn3NEWS9/index.m3u8
-#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [SD] (fonte 4)
+#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",News9Live [SD] (fonte 6)
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
 #EXTINF:-1 tvg-id="NewsX.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NewsX [HD]
 https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
@@ -1968,12 +2271,22 @@ https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 #EXTINF:-1 tvg-id="NewsX.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NewsX [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/1765/master.m3u8
+#EXTINF:-1 tvg-id="NewsX.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NewsX [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/603/master.m3u8
 #EXTINF:-1 tvg-id="NewsXWorld.in@HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NewsX%20World_Transparent_f60e2692-58f4-43f7-b254-4a64c64cc253.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NewsX World [SD]
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 #EXTINF:-1 tvg-id="NewsXWorld.in@HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NewsX%20World_Transparent_f60e2692-58f4-43f7-b254-4a64c64cc253.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NewsX World [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/1049/master.m3u8
+#EXTINF:-1 tvg-id="NewsXWorld.in@HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NewsX%20World_Transparent_f60e2692-58f4-43f7-b254-4a64c64cc253.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NewsX World [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/610/master.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in@SD" tvg-logo="https://i.imgur.com/xMJ2bv9.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NK TV 24x7 [FHD]
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+#EXTINF:-1 tvg-id="NKTV24x7.in@SD" tvg-logo="https://i.imgur.com/xMJ2bv9.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NK TV 24x7 [SD] (fonte 2)
+https://mumt05.tangotv.in/87NeALx2NKTVPLUS/index.m3u8
+#EXTINF:-1 tvg-id="NKTV24x7.in@SD" tvg-logo="https://i.imgur.com/xMJ2bv9.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NK TV 24x7 [SD] (fonte 3)
+https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="NKTVBangla.in@SD" tvg-logo="https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NK TV Bangla [FHD]
 https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="NortheastLive.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Northeast Live [HD]
@@ -1982,13 +2295,18 @@ https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NortheastLive.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Northeast Live [SD] (fonte 2)
 https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
+#EXTINF:-1 tvg-id="NortheastLive.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Northeast Live [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/674/master.m3u8
 #EXTINF:-1 tvg-id="NSC9News.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nsc9.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NSC9 News [FHD]
 https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s154897_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NTV Telugu [FHD]
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s154897_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NTV Telugu [SD] (fonte 2)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s154897_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NTV Telugu (fonte 3)
+#EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s154897_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NTV Telugu [SD] (fonte 3)
+https://yuppnimresmum.akamaized.net/110322/ntv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s154897_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",NTV Telugu (fonte 4)
 https://cdn.pishow.tv/ott/live/383/master.m3u8
 #EXTINF:-1 tvg-id="OnlyBharat.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AMV_NETWORK/images/LOGO_HD/image.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Only Bharat [SD]
 https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
@@ -2015,10 +2333,15 @@ https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Prag News [SD] (fonte 2)
 https://hls.pragnews.com/master.m3u8
+#EXTINF:-1 tvg-id="PragNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Prag News [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/336/master.m3u8
 #EXTINF:-1 tvg-id="PrameyaNews7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Prameya News7 [SD]
 https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD" tvg-logo="https://i.imgur.com/HNsg5Px.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Pratham Khabar 24x7 [SD]
 https://livelegitpro.in/hls2/newstime/index.m3u8
+#EXTINF:-1 tvg-id="PrathamNews.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/Pratham_news.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Pratham News [SD]
+https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Pratidin Time [SD]
 https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Pratidin Time [SD] (fonte 2)
@@ -2027,6 +2350,9 @@ https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="PratidinTime.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Pratidin Time [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/1437/master.m3u8
+#EXTINF:-1 tvg-id="PratidinTime.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Pratidin Time [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/682/master.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in@SD" tvg-logo="https://i.imgur.com/RQoDzpN.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Prime News [FHD]
 https://stream.ottlive.co.in/primenews/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in@SD" tvg-logo="https://i.imgur.com/RQoDzpN.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Prime News [SD] (fonte 2)
@@ -2044,13 +2370,24 @@ https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143683_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",PTC News [SD] (fonte 2)
 https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8
 #EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143683_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",PTC News [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/182/master.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143683_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",PTC News [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/1502/master.m3u8
+#EXTINF:-1 tvg-id="PublicFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Public First [SD]
+https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PublicFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Public First [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/237/master.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143688_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Public TV [HD]
 https://cdn.pishow.tv/ott/live/439/master.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143688_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Public TV [SD] (fonte 2)
 https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143688_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Public TV [SD] (fonte 3)
 https://mumt04.tangotv.in/m18aqlK4PUBLICTV/index.m3u8
+#EXTINF:-1 tvg-id="PublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143688_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Public TV [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/241/master.m3u8
 #EXTINF:-1 tvg-id="PudhariNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158328_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Pudhari News [SD]
 https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/yattyv.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Puthiya Thalaimurai [SD]
@@ -2085,17 +2422,27 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:-1 tvg-id="ReporterTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Reporter TV [SD] (fonte 2)
 https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
-#EXTINF:-1 tvg-id="ReporterTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Reporter TV (fonte 3)
+#EXTINF:-1 tvg-id="ReporterTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Reporter TV [SD] (fonte 3)
+https://yuppnimresmum.akamaized.net/050522/reporter/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="ReporterTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Reporter TV (fonte 4)
 https://cdn.pishow.tv/ott/live/1510/master.m3u8
 #EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bangla [SD]
 https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bangla (fonte 2)
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bangla [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/663/master.m3u8
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bangla (fonte 3)
 https://cdn.pishow.tv/ott/live/270/master.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bharat [FHD]
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bharat [SD] (fonte 2)
 https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bharat (fonte 3)
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bharat [SD] (fonte 3)
+https://mumt06.tangotv.in/qYyB8fXVREPUBLICBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bharat [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/296/master.m3u8
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Bharat (fonte 5)
 https://cdn.pishow.tv/ott/live/1053/master.m3u8
 #EXTINF:-1 tvg-id="RepublicKannada.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142883_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic Kannada [HD]
 https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
@@ -2109,7 +2456,12 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic TV [SD] (fonte 3)
 https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="RepublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic TV (fonte 4)
+#EXTINF:-1 tvg-id="RepublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic TV [SD] (fonte 4)
+https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
+#EXTINF:-1 tvg-id="RepublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic TV [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/115/115_0.m3u8
+#EXTINF:-1 tvg-id="RepublicTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Republic TV (fonte 6)
 https://cdn.pishow.tv/ott/live/271/master.m3u8
 #EXTINF:-1 tvg-id="RozanaSpokesman.in@SD" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Rozana Spokesman [FHD]
 https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
@@ -2123,15 +2475,19 @@ https://sbnews.nexcdn.online/sbnews/live/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
 #EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD" tvg-logo="https://i.imgur.com/h4UehKC.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sadhna Plus News [HD]
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD" tvg-logo="https://i.imgur.com/h4UehKC.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sadhna Plus News [SD] (fonte 2)
+https://mumt03.tangotv.in/Dsly5z3HSADHNAPLUSNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SahanaNews.in@SD" tvg-logo="https://i.imgur.com/3odbJJq.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sahana News [SD]
 https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8
 #EXTINF:-1 tvg-id="SakshiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sakshi TV [SD]
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 #EXTINF:-1 tvg-id="SakshiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sakshi TV [SD] (fonte 2)
 https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
-#EXTINF:-1 tvg-id="SakshiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sakshi TV (fonte 3)
-https://cdn.pishow.tv/ott/live/409/master.m3u8
+#EXTINF:-1 tvg-id="SakshiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sakshi TV [SD] (fonte 3)
+https://yuppnimresmum.akamaized.net/240122/sakshi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="SakshiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sakshi TV (fonte 4)
+https://cdn.pishow.tv/ott/live/409/master.m3u8
+#EXTINF:-1 tvg-id="SakshiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143744_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sakshi TV (fonte 5)
 https://cdn.pishow.tv/ott/live/1607/master.m3u8
 #EXTINF:-1 tvg-id="SalaamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Salaam TV [HD]
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
@@ -2141,6 +2497,9 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b1
 https://mumt07.tangotv.in/zHjX9OFlZEESALAM/index.m3u8
 #EXTINF:-1 tvg-id="SamacharPlus24x7.in@SD" tvg-logo="https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Samachar Plus 24x7 [SD]
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
+#EXTINF:-1 tvg-id="SamacharPlus24x7.in@SD" tvg-logo="https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Samachar Plus 24x7 [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/589/master.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in@SD" tvg-logo="https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Samay Kolkata [FHD]
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in@SD" tvg-logo="https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Samay Kolkata [HD] (fonte 2)
@@ -2149,6 +2508,9 @@ https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SathiyamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143765_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sathiyam TV [SD]
 https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
+#EXTINF:-1 tvg-id="STVHaryanaNews.in@SD" tvg-logo="https://i.imgur.com/TJRZo9e.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",STV Haryana News [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/607/master.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sudarshan News [FHD]
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Sudarshan News [SD] (fonte 2)
@@ -2167,6 +2529,9 @@ https://cdn.pishow.tv/ott/live/445/master.m3u8
 https://cdn.pishow.tv/ott/live/465/master.m3u8
 #EXTINF:-1 tvg-id="SwadeshNews.in@SD" tvg-logo="https://i.imgur.com/iQ2CYsn.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Swadesh News [SD] (fonte 2)
 https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8
+#EXTINF:-1 tvg-id="SwadeshNews.in@SD" tvg-logo="https://i.imgur.com/iQ2CYsn.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Swadesh News [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/588/master.m3u8
 #EXTINF:-1 tvg-id="SwarajExpressSMBC.in@SD" tvg-logo="https://i.imgur.com/vuF6PCJ.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Swaraj Express SMBC [HD]
 https://cdn.pishow.tv/ott/live/477/master.m3u8
 #EXTINF:-1 tvg-id="SwarajExpressSMBC.in@SD" tvg-logo="https://i.imgur.com/vuF6PCJ.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Swaraj Express SMBC [SD] (fonte 2)
@@ -2183,6 +2548,9 @@ https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8
 https://mumbai-edge.smartplaytv.in/TNews/index.m3u8
 #EXTINF:-1 tvg-id="TNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143919_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",T News [SD] (fonte 5)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TNews.m3u8
+#EXTINF:-1 tvg-id="TNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143919_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",T News [SD] (fonte 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/693/master.m3u8
 #EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Tamil Janam [SD]
 https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
 #EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144000_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Thanthi TV [SD]
@@ -2199,6 +2567,11 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Times Now Navbharat [SD] (fonte 3)
 https://streams.tangotv.in/TIMESNOWNAVBHARAT/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Times Now Navbharat [SD] (fonte 4)
+https://mumt03.tangotv.in/Dsly5z3HTIMESNOWNAVBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Times Now Navbharat [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/295/master.m3u8
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Times Now Navbharat HD [FHD]
 https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
 #EXTINF:-1 tvg-id="TNPNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TNP News [FHD]
@@ -2207,6 +2580,8 @@ https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
 #EXTINF:-1 tvg-id="TopNewsMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/topnewsmarathi.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Top News Marathi [FHD]
 https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+#EXTINF:-1 tvg-id="TTN24.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TTN24.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TTN24 [HD]
+https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
 #EXTINF:-1 tvg-id="TV13Gujarati.in@SD" tvg-logo="https://www.tv13gujarati.com/assets/front/img/footer-logo.jpg" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV13 Gujarati [SD]
 https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
 #EXTINF:-1 tvg-id="TV27News.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV27 News [SD]
@@ -2241,16 +2616,25 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/Tv9Bangla/index.m3u8
 #EXTINF:-1 tvg-id="TV9Bangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144026_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Bangla [SD] (fonte 3)
 https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Bangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144026_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Bangla [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/201/master.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Bharatvarsh [HD]
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Bharatvarsh [HD] (fonte 2)
 https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8
 #EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Bharatvarsh [SD] (fonte 3)
 https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Bharatvarsh [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/92/92_0.m3u8
 #EXTINF:-1 tvg-id="TV9Gujarati.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144028_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Gujarati [HD]
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Gujarati.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144028_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Gujarati [SD] (fonte 2)
 https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144028_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Gujarati [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/652/master.m3u8
 #EXTINF:-1 tvg-id="TV9Kannada.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144029_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Kannada [HD]
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Kannada.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144029_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Kannada [SD] (fonte 2)
@@ -2265,6 +2649,9 @@ https://mumbai-edge.smartplaytv.in/TV9Marathi/index.m3u8
 https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TV9Marathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144030_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Marathi [SD] (fonte 4)
 https://cdn.pishow.tv/ott/live/2/master.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144030_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Marathi [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/190/master.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144031_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Telugu [HD]
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144031_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",TV9 Telugu [SD] (fonte 2)
@@ -2281,7 +2668,10 @@ https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=17
 https://mumbai-edge.smartplaytv.in/V6News/index.m3u8
 #EXTINF:-1 tvg-id="V6News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144047_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",V6 News [SD] (fonte 5)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8
-#EXTINF:-1 tvg-id="V6News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144047_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",V6 News (fonte 6)
+#EXTINF:-1 tvg-id="V6News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144047_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",V6 News [SD] (fonte 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/694/master.m3u8
+#EXTINF:-1 tvg-id="V6News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144047_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",V6 News (fonte 7)
 https://cdn.pishow.tv/ott/live/389/master.m3u8
 #EXTINF:-1 tvg-id="VelichamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Velicham_Tv.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Velicham TV [SD]
 https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
@@ -2295,10 +2685,15 @@ https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/
 https://stream.ottlive.co.in/vistaartv/index.m3u8
 #EXTINF:-1 tvg-id="VistaarNews.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENaovfkLYBJSYXeQwImkwXOorLvGyRcF3ZbCQshsWNEshT7aOJlQqEdnqzhjRusmztSo&usqp=CAU" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Vistaar News [SD] (fonte 2)
 https://vistaarnews.com/livetv-stream/test.m3u8
+#EXTINF:-1 tvg-id="VistaarNews.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENaovfkLYBJSYXeQwImkwXOorLvGyRcF3ZbCQshsWNEshT7aOJlQqEdnqzhjRusmztSo&usqp=CAU" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Vistaar News [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/734/master.m3u8
 #EXTINF:-1 tvg-id="VRLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VRLive.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",VR Live [HD]
 https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
 #EXTINF:-1 tvg-id="VTVNews.in@SD" tvg-logo="https://i.imgur.com/Ni8pZLF.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",VTV News [SD]
 https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
+#EXTINF:-1 tvg-id="VTVNews.in@SD" tvg-logo="https://i.imgur.com/Ni8pZLF.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",VTV News [SD] (fonte 2)
+https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8
 #EXTINF:-1 tvg-id="WION.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",WION [FHD]
 http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
 #EXTINF:-1 tvg-id="WION.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",WION [FHD] (fonte 2)
@@ -2317,7 +2712,11 @@ https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",World Punjabi TV [FHD]
 https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
-#EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",World Punjabi TV [SD] (fonte 2)
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",World Punjabi TV [FHD] (fonte 2)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1cd73d38-bbd2-4d81-9ba7-58293f2e65a8/index.m3u8
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",World Punjabi TV [FHD] (fonte 3)
+https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in@SD" tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Notícias",World Punjabi TV [SD] (fonte 4)
 https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee 24 Ghanta [SD]
 https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
@@ -2333,6 +2732,9 @@ https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 tvg-id="ZeeBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee Bharat [SD] (fonte 2)
 https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee Bharat [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/244/master.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee Bihar Jharkhand [HD]
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee Bihar Jharkhand [HD] (fonte 2)
@@ -2351,6 +2753,9 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee News [SD] (fonte 4)
 https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee News [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/294/master.m3u8
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KHKS.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee Punjab Haryana Himachal [HD]
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00231732.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Notícias",Zee Rajasthan [HD]
@@ -2419,6 +2824,8 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 #EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+#EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Jingmen Comprehensive News Channel
+https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 #EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" tvg-type="live" group-title="🇨🇳 China | Notícias",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",QTV-1
@@ -2757,6 +3164,9 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Notícias",TRT World [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/266/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Notícias",TRT World [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/416/master.m3u8
 #EXTINF:-1 tvg-id="24TV.tr@SD" tvg-logo="https://i.imgur.com/8FO41es.png" tvg-type="live" group-title="🇹🇷 Turkiye | Notícias",TV 24 [HD]
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr@SD" tvg-logo="https://i.imgur.com/2AcRKdL.png" tvg-type="live" group-title="🇹🇷 Turkiye | Notícias",TürkHaber [HD]
@@ -2833,7 +3243,10 @@ http://170.83.16.50/ALJAZEERA/index.m3u8
 http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English [SD] (fonte 6)
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English (fonte 7)
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English [SD] (fonte 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/318/master.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English (fonte 8)
 https://cdn-7.pishow.tv/live/429/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@EnglishHD" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English HD [SD]
 http://stream.mcquack.net/131/index.m3u8
@@ -2948,7 +3361,9 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" tvg-type="live" group-title="🇲🇾 Malásia | Notícias",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-type="live" group-title="🇸🇬 Singapura | Notícias",CNA International [SD]
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-type="live" group-title="🇸🇬 Singapura | Notícias",CNA International [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-type="live" group-title="🇸🇬 Singapura | Notícias",CNA International [SD] (fonte 2)
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD" tvg-logo="https://i.imgur.com/mt4h3VO.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Notícias",凤凰资讯 [HD]
 http://php.17186.eu.org/phtv/fhzx.m3u8
@@ -3242,12 +3657,6 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="News21BanglaTV.bd@SD" tvg-logo="https://i.imgur.com/ijuJfmd.png" tvg-type="live" group-title="🇧🇩 Bangladesh | Notícias",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-type="live" group-title="🇧🇾 Belarus | Notícias",Belarus-24 [SD]
-http://ott-7.sevstar.net/belarus24/index.m3u8
-#EXTINF:-1 tvg-id="Belarus24.by@HD" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-type="live" group-title="🇧🇾 Belarus | Notícias",Belarus-24 HD [FHD]
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" tvg-logo="https://i.imgur.com/eIiXRAI.png" tvg-type="live" group-title="🇧🇾 Belarus | Notícias",Perviy Informationniy HD [FHD]
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" tvg-type="live" group-title="🇰🇭 Camboja | Notícias",BTV News [HD]
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://i.imgur.com/sUHiRj3.png" tvg-type="live" group-title="🇰🇭 Camboja | Notícias",BTV News (fonte 2)
@@ -3256,6 +3665,12 @@ https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8
 https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh@SD" tvg-logo="https://i.imgur.com/bV6sawt.png" tvg-type="live" group-title="🇰🇭 Camboja | Notícias",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-type="live" group-title="🇧🇾 Belarus | Notícias",Belarus-24 [SD]
+http://ott-7.sevstar.net/belarus24/index.m3u8
+#EXTINF:-1 tvg-id="Belarus24.by@HD" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-type="live" group-title="🇧🇾 Belarus | Notícias",Belarus-24 HD [FHD]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" tvg-logo="https://i.imgur.com/eIiXRAI.png" tvg-type="live" group-title="🇧🇾 Belarus | Notícias",Perviy Informationniy HD [FHD]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb@SD" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Al Manar [SD]
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" tvg-type="live" group-title="🇱🇧 Líbano | Notícias",Al Mayadeen [SD]
@@ -3390,6 +3805,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="WelatTV.sy@HD" tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" tvg-type="live" group-title="🇸🇾 Síria | Notícias",Welat TV (1080i)
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TOLOnews.af@SD" tvg-logo="https://i.imgur.com/oxaHaTq.png" tvg-type="live" group-title="🇦🇫 Afeganistão | Notícias",TOLOnews [HD]
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
 #EXTINF:-1 tvg-id="7Info.ci@SD" tvg-logo="https://i.imgur.com/jcl1nNR.png" tvg-type="live" group-title="🇨🇮 Costa do Marfim | Notícias",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" tvg-type="live" group-title="🇲🇦 Marrocos | Notícias",Medi 1 TV Arabic [FHD]
@@ -3404,8 +3821,6 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_d
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" tvg-logo="https://i.imgur.com/a20DHnj.png" tvg-type="live" group-title="🇲🇦 Marrocos | Notícias",Medi1TV Afrique (DVR) [FHD]
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TOLOnews.af@SD" tvg-logo="https://i.imgur.com/oxaHaTq.png" tvg-type="live" group-title="🇦🇫 Afeganistão | Notícias",TOLOnews [HD]
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
 #EXTINF:-1 tvg-id="FirstChannelNews.am@SD" tvg-logo="https://i.imgur.com/RlYJUH4.png" tvg-type="live" group-title="🇦🇲 Armênia | Notícias",First Channel News [FHD]
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 #EXTINF:-1 tvg-id="FirstChannelNews.am@SD" tvg-logo="https://i.imgur.com/RlYJUH4.png" tvg-type="live" group-title="🇦🇲 Armênia | Notícias" catchup="flussonic" catchup-days="3",First Channel News (fonte 2)
@@ -3454,8 +3869,6 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_
 https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
 #EXTINF:-1 tvg-id="MerejaTV.et@SD" tvg-logo="https://i.imgur.com/PaAacxF.png" tvg-type="live" group-title="🇪🇹 Etiópia | Notícias",Mereja TV (fonte 2)
 https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Visir.is@SD" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" tvg-type="live" group-title="🇮🇸 Islândia | Notícias",Vísir [FHD]
-https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly@SD" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" tvg-type="live" group-title="🇱🇾 Líbia | Notícias",Al Masar TV [SD]
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-logo="https://i.imgur.com/UkQTR5b.png" tvg-type="live" group-title="🇴🇲 Omã | Notícias",Oman Mubashir [FHD]
@@ -3468,6 +3881,8 @@ https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/in
 https://kali.vdopanel.com:3119/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="EspaceTV.gn@SD" tvg-logo="https://i.imgur.com/R5tbzFI.png" tvg-type="live" group-title="🇬🇳 Guinea | Notícias",Espace TV [FHD]
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1 tvg-id="Visir.is@SD" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" tvg-type="live" group-title="🇮🇸 Islândia | Notícias",Vísir [FHD]
+https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GuardianTalkRadio.bs@SD" tvg-logo="https://i.imgur.com/o3cWUwL.png" tvg-type="live" group-title="🇧🇸 Bahamas | Notícias",Guardian Talk Radio [FHD]
 https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMasirah.ye@SD" tvg-logo="https://i.imgur.com/V055t5e.png" tvg-type="live" group-title="🇾🇪 Iêmen | Notícias",Al Masirah [HD]

@@ -126,8 +126,10 @@ http://31.148.48.15/STS/index.m3u8
 http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae@SD" tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Família",MBC 5 [FHD]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-id="HTVCFamily.vn@SD" tvg-logo="" tvg-type="live" group-title="🇻🇳 Vietnã | Família",HTVC Family [HD]
+#EXTINF:-1 tvg-id="HTVCFamily.vn@SD" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png" tvg-type="live" group-title="🇻🇳 Vietnã | Família",HTVC Family [HD]
 https://dethich.pw/htvcgiadinh/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Família",HBO Family Asia HD [FHD]
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir@SD" tvg-logo="" tvg-type="live" group-title="🇮🇷 Irã | Família",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LTNFamily.pk@SD" tvg-logo="https://i.ibb.co/zhbLf04g/LTN-Family.png" tvg-type="live" group-title="🇵🇰 Paquistão | Família",LTN Family [SD]

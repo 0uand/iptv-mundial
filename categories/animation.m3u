@@ -29,8 +29,6 @@ https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us@SD" tvg-logo="https://i.imgur.com/v0BlxCa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",ANIME x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Cartoon Network [HD]
-http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Cartoon Network [Not 24/7;Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlanticHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Cartoon Network Latin America
@@ -96,9 +94,13 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us@SD" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Tooncast [HD] (fonte 2)
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@Argentina" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Tooncast Argentina [HD]
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us@SouthAmerica" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Tooncast SouthAmerica [SD]
 http://190.61.42.218:9000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us@SouthAmerica" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Tooncast SouthAmerica (fonte 2)
+#EXTINF:-1 tvg-id="Tooncast.us@SouthAmerica" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Tooncast SouthAmerica [SD] (fonte 2)
+http://190.234.82.52:8000/play/a0mo/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@SouthAmerica" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Tooncast SouthAmerica (fonte 3)
 http://45.173.231.22:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us@SD" tvg-logo="https://i.imgur.com/Tl6aW2u.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Yu Gi Oh [FHD]
 https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
@@ -106,6 +108,8 @@ https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us@SD" tvg-logo="https://i.imgur.com/Tl6aW2u.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Animação",Yu-Gi-Oh! (fonte 2)
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",Cartoon Network CEE
+http://193.33.39.108:9007/play/a00l
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",Cartoon Network CEE Czech Republic
 http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Animação",Cartoon Network CEE Poland
@@ -198,6 +202,8 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Animação",MAX Anime [FHD]
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" tvg-type="live" group-title="🇻🇪 Venezuela | Animação",MAX Anime [HD] (fonte 2)
+http://45.228.234.9:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="TigueritoTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Animação",Tiguerito TV [HD]
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇨🇷 Costa Rica | Animação",Extrema Kids TV
@@ -353,10 +359,6 @@ https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Animação",Pogo [SD]
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Animação",Sony Yay! [SD]
-http://103.165.93.31:8095/sonyYay/index.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-logo="https://plain-apac-prod-public.komododecks.com/202609/07/lNjbGo0Rcgz3vhfoyTN7/image.png" tvg-type="live" group-title="🇮🇳 Índia | Animação",Super Hungama [SD]
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="WOWKidz.in@Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" tvg-type="live" group-title="🇮🇳 Índia | Animação",WOW Kidz [HD]
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="WOWKidz.in@Telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" tvg-type="live" group-title="🇮🇳 Índia | Animação",WOW Kidz [HD] (fonte 2)
@@ -393,6 +395,8 @@ https://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" tvg-type="live" group-title="🇷🇺 Rússia | Animação",Солнце [SD]
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Animação",Cartoon Network
+http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="SpacetoonTurkey.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" tvg-type="live" group-title="🇹🇷 Turkiye | Animação",Spacetoon Turkey [HD]
 #EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
@@ -406,9 +410,13 @@ http://125.227.210.55:3056/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Animação",Cartoon Network Asia [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Animação",Cartoon Network Asia (fonte 2)
+http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Animação",Cartoonito Asia [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Animação",Cartoonito Asia (fonte 2)
+http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇵🇰 Paquistão | Animação",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 tvg-id="Pingviins.lv@SD" tvg-logo="https://i.imgur.com/hfXoJIY.png" tvg-type="live" group-title="🇱🇻 Letônia | Animação",Пингвин [HD]

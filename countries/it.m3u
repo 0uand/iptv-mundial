@@ -190,6 +190,8 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.de@IT" tvg-logo="https://i.imgur.com/y22ElOr.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Pluto TV Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+#EXTINF:-1 tvg-id="RadioTVSerieA.it@SD" tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Radio TV Serie A
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 #EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Rally TV
 https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it@SD" tvg-logo="https://i.imgur.com/0CJGGgd.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Sport Italia [FHD]
@@ -758,6 +760,8 @@ http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 https://www.gruppotv7.com:8090/hls/meteo.m3u8
 #EXTINF:-1 tvg-id="TV7Triveneta.it@SD" tvg-logo="https://i.imgur.com/ndFoo4V.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",TV7 Triveneta [SD]
 https://www.gruppotv7.com:8090/hls/ireporter.m3u8
+#EXTINF:-1 tvg-id="TV8.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TV8_logo.svg/500px-TV8_logo.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",TV8 [HD]
+http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 tvg-id="TVAVicenza.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",TVA (Vicenza) [HD]
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVL.it@SD" tvg-logo="https://i.imgur.com/2wkSHNI.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",TVL [HD]
@@ -854,6 +858,8 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="eTvRete7.it@SD" tvg-logo="https://i.imgur.com/xYVI5OC.png" tvg-type="live" group-title="🇮🇹 Itália | Notícias",èTv Rete 7 [HD]
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CacciaePesca.it@SD" tvg-logo="https://i.imgur.com/uZr0cXB.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Caccia e Pesca [HD]
+http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Italian Fishing TV [FHD]
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Peer TV Alto Adige [FHD]
@@ -862,6 +868,8 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-id="PeerTVSudtirol.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Peer TV Südtirol [FHD]
 https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="PescaeCaccia.it@SD" tvg-logo="https://i.imgur.com/nW5dJBl.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Pesca e Caccia [HD]
+http://102.129.186.182:81/pescacaccia/index.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk@SD" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-type="live" group-title="🇮🇹 Itália | Relax",Space Live [HD]
 https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8
 #EXTINF:-1 tvg-id="Andromeda.us@Italy" tvg-logo="https://i.imgur.com/6ot2lmd.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Andromeda Italy [HD]

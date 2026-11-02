@@ -25,7 +25,9 @@ https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-type="live" group-title="🇲🇽 México | Música",TeleHit [FHD]
 http://190.61.47.54:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-type="live" group-title="🇲🇽 México | Música",TeleHit [SD] (fonte 2)
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-type="live" group-title="🇲🇽 México | Música",TeleHit [FHD] (fonte 2)
+http://186.148.196.100:8000/play/a01s
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-type="live" group-title="🇲🇽 México | Música",TeleHit [SD] (fonte 3)
 http://200.115.120.1:8000/play/ca048/index.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD" tvg-logo="https://i.imgur.com/CofYjWh.png" tvg-type="live" group-title="🇲🇽 México | Música",Telehit Musica
 http://190.61.55.34:2401/play/a06t/index.m3u8
@@ -205,7 +207,9 @@ https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-491
 http://168.196.127.137:6001/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-logo="https://i.imgur.com/n0kd17r.png" tvg-type="live" group-title="🇲🇽 México | Esportes",Claro Sports [FHD] (fonte 2)
 http://45.171.64.30:6060/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-logo="https://i.imgur.com/n0kd17r.png" tvg-type="live" group-title="🇲🇽 México | Esportes",Claro Sports [HD] (fonte 3)
+#EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-logo="https://i.imgur.com/n0kd17r.png" tvg-type="live" group-title="🇲🇽 México | Esportes",Claro Sports [FHD] (fonte 3)
+http://45.228.234.9:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-logo="https://i.imgur.com/n0kd17r.png" tvg-type="live" group-title="🇲🇽 México | Esportes",Claro Sports [HD] (fonte 4)
 #EXTVLCOPT:http-referrer=https://www.clarosports.com/
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-type="live" group-title="🇲🇽 México | Esportes",FIFA+
@@ -222,8 +226,12 @@ http://38.252.238.18:8000/play/a02f/index.m3u8
 http://38.65.175.84:8000/play/a0ku/index.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@ES" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-type="live" group-title="🇲🇽 México | Esportes",Red Bull TV ES [HD]
 https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+#EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" tvg-type="live" group-title="🇲🇽 México | Esportes",Sky Sports 1 [FHD]
+http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="TVCuatro43.mx@SD" tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-type="live" group-title="🇲🇽 México | Esportes",TV Cuatro 4.3 [FHD]
 https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" tvg-type="live" group-title="🇲🇽 México | Estilo de vida",Discovery Home & Health Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="PlutoTVEstilodeVida.us@LatAm" tvg-logo="https://i.imgur.com/SNfys9r.png" tvg-type="live" group-title="🇲🇽 México | Estilo de vida",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@US" tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-type="live" group-title="🇲🇽 México | Família",The Pet Collective [HD]
@@ -316,6 +324,8 @@ https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1 tvg-id="AsiSucedeGuanajuato.mx@SD" tvg-logo="https://i.imgur.com/6W7HUtG.png" tvg-type="live" group-title="🇲🇽 México | Geral",Así Sucede Guanajuato [HD]
 https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
+#EXTINF:-1 tvg-id="AzMundo.mx@SD" tvg-logo="https://i.imgur.com/a7Ejid0.png" tvg-type="live" group-title="🇲🇽 México | Geral",Az Mundo [FHD]
+http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" tvg-type="live" group-title="🇲🇽 México | Geral",Azteca 7 [FHD]
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" tvg-type="live" group-title="🇲🇽 México | Geral",Azteca 7 [HD] (fonte 2)
@@ -497,6 +507,8 @@ http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
 http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-type="live" group-title="🇲🇽 México | Geral",Las Estrellas Latin America [FHD] (fonte 4)
 http://38.44.109.41:8003/play/a0he
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-type="live" group-title="🇲🇽 México | Geral",Las Estrellas Latin America (fonte 5)
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇽 México | Geral",Los Padrinos Mágicos
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇲🇽 México | Geral",Los Pitufos

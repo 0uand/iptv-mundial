@@ -127,6 +127,8 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-type="live" group-title="🇧🇷 Brasil | Compras",1001 Noites [HD]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-type="live" group-title="🇧🇷 Brasil | Compras",1001 Noites [SD] (fonte 2)
+https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",Comedy Central Brasil [SD]
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@BR" tvg-logo="https://i.imgur.com/9y6TtjF.png" tvg-type="live" group-title="🇧🇷 Brasil | Comédia",Comedy Central Pluto TV
@@ -411,8 +413,6 @@ http://186.219.52.187/canal_do_boi/index.m3u8
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="CanalLibras.br@SD" tvg-logo="https://i.imgur.com/LnWWKzP.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Canal Libras [HD]
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-#EXTINF:-1 tvg-id="CanalOff.br@SD" tvg-logo="https://i.imgur.com/1biaLgJ.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Canal Off [FHD]
-http://170.82.202.31/OFF/index.m3u8
 #EXTINF:-1 tvg-id="CanalRicos.br@SD" tvg-logo="https://i.imgur.com/hs2YVJ3.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Canal Ricos [SD]
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-logo="https://i.imgur.com/0cq0BPp.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Canal Sete

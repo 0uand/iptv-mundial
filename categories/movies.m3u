@@ -104,9 +104,7 @@ http://45.70.201.81:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="AXNAdria.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://5.57.74.130:8000/play/a0at/index.m3u8
-#EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Black [SD]
-http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
-#EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Black (fonte 2)
+#EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.17:5000
 #EXTINF:-1 tvg-id="AXNBlack.us@CzechRepublic" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Black Czech Republic
@@ -135,8 +133,7 @@ http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",AXN Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 #EXTINF:-1 tvg-id="BattlestarGalactica.us@SD" tvg-logo="https://images.pluto.tv/channels/69d7ebff029c431826bd328e/colorLogoPNG_1776982986391.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 tvg-id="BETCinema.us@SD" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",BET Cinema
@@ -170,6 +167,8 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-id="CineRomantico.us@SD" tvg-logo="https://i.imgur.com/FUrrDrb.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Romantico (fonte 2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Sony [HD]
+http://186.148.196.82:8001/play/a0a4
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine Sony [HD] (fonte 2)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us@US" tvg-logo="https://i.imgur.com/I5XxyLI.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cine terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
@@ -182,8 +181,7 @@ https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cinecanal Pacific [FHD]
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cinecanal South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
 #EXTINF:-1 tvg-id="CinemaxClassics.us@East" tvg-logo="https://i.ibb.co/m5yymtMw/IMG-2478.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cinemax Classics [FHD]
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us@East" tvg-logo="https://i.ibb.co/Kp7m2G19/IMG-2477.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Cinemax Hits [FHD]
@@ -331,6 +329,8 @@ https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us@SD" tvg-logo="" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Sony Movies [HD]
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Sony Movies Latin America [FHD]
 http://38.252.238.18:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Sony Movies Latin America [HD] (fonte 2)
@@ -343,8 +343,7 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Star Channel Latin America South
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us@SD" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us@SD" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Star Trek: The Next Generation
@@ -384,6 +383,8 @@ http://190.197.41.183/USA_NETWORK/index.m3u8
 http://200.32.231.178/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Warner Channel Colombia [FHD]
 http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Warner Channel South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 #EXTINF:-1 tvg-id="WarnerTVAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Filmes",Warner TV Asia [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
@@ -397,12 +398,10 @@ https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",&TV International [FHD]
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Bulgary [SD]
-http://hls127.freeott.top:8080/BG_AMC/video.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Bulgary (fonte 2)
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Bulgary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://212.70.131.37:8000/play/a05k
-#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Bulgary (fonte 3)
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Bulgary (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0by
 #EXTINF:-1 tvg-id="AMCEurope.uk@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Filmes",AMC Europe Czech Republic
@@ -535,6 +534,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" tvg-type="live" group-title="🇦🇷 Argentina | Filmes",Film & Arts [FHD] (fonte 2)
 http://200.115.120.1:8000/play/ca131/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" tvg-type="live" group-title="🇦🇷 Argentina | Filmes",Film & Arts [SD] (fonte 3)
+http://45.228.234.9:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-type="live" group-title="🇦🇷 Argentina | Filmes",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -550,10 +551,6 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇨🇴 Colômbia | Filmes",Star Channel [FHD]
 http://190.61.47.54:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="OrbitaChileTV.cl@HD" tvg-logo="https://i.imgur.com/gbNh79Z.png" tvg-type="live" group-title="🇨🇱 Chile | Filmes",Orbita Chile TV [FHD]
-https://orbitachiletv.org/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="RetroPlus3.cl@SD" tvg-logo="https://i.imgur.com/i0rZsgG.png" tvg-type="live" group-title="🇨🇱 Chile | Filmes",Retro Plus 3 [FHD]
-http://181.119.97.124:8080/play/retroplus_3/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇨🇱 Chile | Filmes",Star Channel [HD]
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="PantallaClasicaEC.ec@SD" tvg-logo="https://i.imgur.com/mhbERF9.jpg" tvg-type="live" group-title="🇪🇨 Equador | Filmes",Pantalla Clásica EC [SD]
@@ -689,8 +686,6 @@ https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de@DACH" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" tvg-type="live" group-title="🇩🇪 Alemanha | Filmes",Star Trek: The Original Series
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
-#EXTINF:-1 tvg-id="CanalPlusCinemas.fr@SD" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" tvg-type="live" group-title="🇫🇷 França | Filmes",Canal+ Cinemas [HD]
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-type="live" group-title="🇫🇷 França | Filmes",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8
@@ -820,6 +815,8 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",Canal+ Action Europe Czechia
 http://46.149.191.219:9106/play/a01g
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Magyar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",Canal+ Action Europe Magyar
+http://193.33.39.108:9016/play/a02n
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Slovakia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",Canal+ Action Europe Slovakia [HD]
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 tvg-id="Film1Action.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png" tvg-type="live" group-title="🇳🇱 Holanda | Filmes",Film1 Action
@@ -1063,6 +1060,8 @@ https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+#EXTINF:-1 tvg-id="HBO2.pl@SD" tvg-logo="https://i.imgur.com/2e3muOJ.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",HBO 2 [FHD]
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 #EXTINF:-1 tvg-id="PolsatFilm.pl@HD" tvg-logo="https://i.imgur.com/wGH6shZ.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",Polsat Film HD
 http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTINF:-1 tvg-id="SundanceTV.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Filmes",Sundance TV (576i)
@@ -1092,6 +1091,10 @@ http://88.212.15.50/live/warner_tv/index.m3u8
 #EXTINF:-1 tvg-id="AXNCrime.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Cinemax 2 Central Europe
+http://193.33.39.108:9009/play/a024
+#EXTINF:-1 tvg-id="CinemaxCentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Cinemax Central Europe
+http://193.33.39.108:9023/play/a01b
 #EXTINF:-1 tvg-id="FilmCafe.hu@Hungary" tvg-logo="https://i.imgur.com/jaKRnzU.png" tvg-type="live" group-title="🇭🇺 Hungria | Filmes",Film Cafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/film_cafe/index.m3u8
@@ -1117,31 +1120,23 @@ http://88.212.7.14/live/mozi_plusz/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/moziverzum/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood Classic Romania [SD]
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood Classic Romania [SD] (fonte 2)
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood Classic Romania (fonte 3)
+#EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood Classic Romania (fonte 2)
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
-#EXTINF:-1 tvg-id="BollywoodFilm.ro@SD" tvg-logo="https://i.imgur.com/bEMUpHZ.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood Film
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood HD [FHD]
 http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Bollywood HD Russia [SD]
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro@HD" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Cinemaraton Plus (1080i)
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
-#EXTINF:-1 tvg-id="CineWow.ro@SD" tvg-logo="https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",CineWow
-https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro@SD" tvg-logo="https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",CineWow (576i)
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro@SD" tvg-logo="https://i.imgur.com/sSoRvGz.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Film Now
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
-#EXTINF:-1 tvg-id="FilmNow.ro@HD" tvg-logo="https://i.imgur.com/sSoRvGz.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Film Now HD (1080i)
-https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
 #EXTINF:-1 tvg-id="HalloweenNonStop.ro@SD" tvg-logo="https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Halloween Non Stop [HD]
 https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 #EXTINF:-1 tvg-id="NostalgiaTV.ro@HD" tvg-logo="https://assets.antenaplay.ro/2026/03/10/fX5tvuPLymvvR8lQmwO7.png" tvg-type="live" group-title="🇷🇴 Romênia | Filmes",Nostalgia TV [FHD]
@@ -1158,6 +1153,9 @@ https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇮🇳 Índia | Filmes",All Time Movies [SD] (fonte 2)
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇮🇳 Índia | Filmes",All Time Movies [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/54/54_0.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7227/1782288617227-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Asianet Movies [SD]
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Bhojpuri [FHD]
@@ -1166,6 +1164,9 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Bhojpuri [SD] (fonte 3)
 https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" tvg-logo="https://i.imgur.com/NwOQUDp.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Bhojpuri [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/174/master.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in@Plus" tvg-logo="https://i.imgur.com/NwOQUDp.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Bhojpuri Plus [FHD]
 https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Kadak [SD]
@@ -1174,15 +1175,21 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Kadak [SD] (fonte 3)
 https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Kadak (fonte 4)
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Kadak [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/44/44_0.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Kadak (fonte 5)
 https://cdn.pishow.tv/ott/live/227/master.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies [SD]
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/BoJB8P0.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies [SD]
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies [SD] (fonte 2)
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/BoJB8P0.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies [SD] (fonte 2)
 http://66.102.126.10:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies [SD] (fonte 3)
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/BoJB8P0.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies [SD] (fonte 3)
 https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies (fonte 4)
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/BoJB8P0.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/43/43_0.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/BoJB8P0.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",B4U Movies (fonte 5)
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Bhojpuri Cinema [HD]
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
@@ -1190,7 +1197,10 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Bhojpuri Cinema [SD] (fonte 3)
 https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Bhojpuri Cinema (fonte 4)
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Bhojpuri Cinema [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/646/master.m3u8
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Bhojpuri Cinema (fonte 5)
 https://cdn.pishow.tv/ott/live/1033/master.m3u8
 #EXTINF:-1 tvg-id="Bollygold.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Bollygold [FHD]
 https://jmp2.uk/stvp-IN4000600Q
@@ -1202,6 +1212,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://103.151.60.162:2122/play/a02s/index.m3u8?hls
 #EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Epic Bhojpuri [SD]
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Epic Bhojpuri [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/467/master.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in@Digital" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Epic Bhojpuri Digital [FHD]
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",ETV Cinema [SD]
@@ -1217,18 +1230,30 @@ https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines [SD] (fonte 3)
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/53/53_0.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines [SD] (fonte 5)
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines 2 [SD]
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines 2 [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/46/46_0.m3u8
 #EXTINF:-1 tvg-id="GoldminesAction.in@SD" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Action [SD]
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesAction.in@SD" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Action [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/584/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Bollywood [SD]
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Bollywood [SD] (fonte 2)
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Bollywood [SD] (fonte 3)
 https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Bollywood (fonte 4)
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Bollywood [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Bollywood (fonte 5)
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Movies [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1240,15 +1265,14 @@ https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Movies [SD] (fonte 4)
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Movies [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/51/51_0.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Goldmines Movies [SD] (fonte 6)
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="IndiaTalkies.in@SD" tvg-logo="https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",India Talkies [SD]
 https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in@SD" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Indywood TV [HD]
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Jalsha Movies HD [FHD]
-http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1445/1782291521445-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Jalsha Movies HD [FHD] (fonte 2)
-http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143248_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Kairali We [SD]
 https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143248_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Kairali We [SD] (fonte 2)
@@ -1256,6 +1280,9 @@ https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143248_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Kairali We [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="MahaMovie.in@SD" tvg-logo="https://i.imgur.com/hpShFDL.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Maha Movie [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/48/48_0.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in@SD" tvg-logo="https://i.imgur.com/hpShFDL.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Maha Movie [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
 #EXTINF:-1 tvg-id="MahuaPlay.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Mahua Play [FHD]
 https://cdn.ottlive.co.in/mahuaplay/index.m3u8
@@ -1265,10 +1292,19 @@ https://cdn.pishow.tv/ott/live/1011/master.m3u8
 https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Manoranjan Grand [SD] (fonte 3)
 https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Manoranjan Grand [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/19/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Manoranjan Movies [SD]
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Manoranjan Movies [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/47/47_0.m3u8
 #EXTINF:-1 tvg-id="MHOneMovies.in@SD" tvg-logo="" tvg-type="live" group-title="🇮🇳 Índia | Filmes",MH One Movies [SD]
 https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+#EXTINF:-1 tvg-id="MHOneMovies.in@SD" tvg-logo="" tvg-type="live" group-title="🇮🇳 Índia | Filmes",MH One Movies [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/639/master.m3u8
 #EXTINF:-1 tvg-id="MoviePunjab.in@SD" tvg-logo="https://papaji.freetvindia.com/media/900_FreeTV_Movie_punjab.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Movie Punjab [HD]
 https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MoviePunjab.in@SD" tvg-logo="https://papaji.freetvindia.com/media/900_FreeTV_Movie_punjab.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Movie Punjab [HD] (fonte 2)
@@ -1285,28 +1321,51 @@ https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn.pishow.tv/ott/live/233/master.m3u8
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143638_ld_h9_ab.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Oscar Movies Bhojpuri [SD] (fonte 2)
 https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [HD]
+#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143638_ld_h9_ab.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Oscar Movies Bhojpuri [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/348/master.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [FHD]
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [FHD] (fonte 2)
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [FHD] (fonte 3)
+https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [HD] (fonte 4)
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [SD] (fonte 2)
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [SD] (fonte 5)
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
-#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [SD] (fonte 3)
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [SD] (fonte 6)
 https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pitaara [SD] (fonte 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/352/master.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Pocket Films
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 #EXTINF:-1 tvg-id="PublicMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143686_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Public Movies [SD]
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="PublicMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143686_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Public Movies [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/239/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in@SD" tvg-logo="https://www.thegtcnetwork.com/punjabi-shorts.jpg" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Punjabi Shorts [FHD]
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiShorts.in@SD" tvg-logo="https://www.thegtcnetwork.com/punjabi-shorts.jpg" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Punjabi Shorts [FHD] (fonte 2)
+https://gtc.ottlive.co.in/punjabshort/index.m3u8
 #EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143704_ld_h15_ab.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Raj Digital Plus [FHD]
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Shemaroo Josh [SD]
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Shemaroo Josh [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/337/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Shemaroo Josh [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/21/master.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Shubh Cinema TV [HD]
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Shubh Cinema TV [SD] (fonte 2)
 https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Shubh Cinema TV [SD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/49/49_0.m3u8
 #EXTINF:-1 tvg-id="SonarBangla.in@SD" tvg-logo="https://papaji.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Sonar Bangla [SD]
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SoneriCinema.in@SD" tvg-logo="https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Soneri Cinema [SD]
@@ -1326,8 +1385,6 @@ http://103.151.60.162:2122/play/a01n/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Star Maa Movies HD [HD]
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Star Movies HD [FHD]
-http://103.185.24.134:3001/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Star Movies HD [FHD] (fonte 2)
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Studio One + [HD]
 https://cdn.pishow.tv/ott/live/276/master.m3u8
@@ -1337,6 +1394,9 @@ https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Studio One + [SD] (fonte 4)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/StudioOnePlus.m3u8
+#EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Studio One + [SD] (fonte 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/213/master.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Suriyan TV [SD]
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Suriyan TV [SD] (fonte 2)
@@ -1347,6 +1407,9 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@Plus2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" tvg-type="live" group-title="🇮🇳 Índia | Filmes",The Movie Club +2 [FHD]
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+#EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Zee Action [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/270/master.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Zee Cinema [SD]
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Filmes",Zee Cinema APAC [HD]
@@ -1397,8 +1460,6 @@ http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood.ru@HD" tvg-logo="https://i.imgur.com/YLQRnXt.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Bollywood HD [SD]
 http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 tvg-id="Bolt.ru@SD" tvg-logo="https://i.imgur.com/YdIHXOR.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Bolt [SD]
-http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Cinema [SD]
 http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Cinema (fonte 2)
@@ -1433,8 +1494,6 @@ http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="Evrokino.ru@HD" tvg-logo="https://i.imgur.com/8LPtPf6.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Evrokino HD [FHD]
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-id="Hit.ru@HD" tvg-logo="https://i.imgur.com/jl3MNPe.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Hit HD [FHD]
-http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 tvg-id="Hit.ru@HD" tvg-logo="https://i.imgur.com/jl3MNPe.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Hit HD [FHD] (fonte 2)
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 tvg-id="Hollywood.ru@SD" tvg-logo="https://i.imgur.com/1j7cT2I.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Hollywood [SD]
 http://31.148.48.15/AMC/index.m3u8
@@ -1476,8 +1535,6 @@ https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinopokaz (fonte 2)
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Kinopokaz.ru@HD" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinopokaz HD [FHD]
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru@SD" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinopremyera [FHD]
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru@SD" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinopremyera (fonte 2)
@@ -1488,9 +1545,7 @@ https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-logo="https://i.imgur.com/4BF5VeK.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinosemja [SD] (fonte 2)
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-logo="https://i.imgur.com/iao7zLZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinoseriya [FHD]
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-logo="https://i.imgur.com/iao7zLZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinoseriya [SD] (fonte 2)
+#EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-logo="https://i.imgur.com/iao7zLZ.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinoseriya [SD]
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Kinosvidanie [SD]
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
@@ -1507,10 +1562,8 @@ https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Mosfilm Gold Collection [SD]
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Mosfilm Gold Collection [SD] (fonte 2)
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Mosfilm Gold Collection [SD] (fonte 3)
 http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Mosfilm Gold Collection [SD] (fonte 4)
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Mosfilm Gold Collection [SD] (fonte 3)
 https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" tvg-logo="https://i.imgur.com/8RN3tQC.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Muzhskoe kino [SD]
 http://stream.mcquack.net/107/index.m3u8
@@ -1520,8 +1573,6 @@ https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-logo="https://i.imgur.com/KO8dhi9.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe HD [SD]
 http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1 tvg-id="NasheLubimoeKino.ru@SD" tvg-logo="https://i.imgur.com/iKPfM5K.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Lubimoe Kino [SD]
-http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-logo="https://i.imgur.com/QRWKpmb.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe muzhskoe HD [FHD]
 http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Nashe Novoe Kino
@@ -1672,21 +1723,6 @@ https://cityeden.catcast.tv/content/41333/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 #EXTINF:-1 tvg-id="FeniksplusKino.ru@SD" tvg-logo="https://i.imgur.com/S9OPMLE.png" tvg-type="live" group-title="🇷🇺 Rússia | Filmes",Феникс плюс Кино [SD]
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr@SD" tvg-logo="https://i.imgur.com/MGrJFVN.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Box Office 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box1/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice2.tr@SD" tvg-logo="https://i.imgur.com/Kg7oOcO.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Box Office 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box2/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice3.tr@SD" tvg-logo="https://i.imgur.com/5NZur1S.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Box Office 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box3/index.m3u8
-#EXTINF:-1 tvg-id="beINMoviesStars.tr@SD" tvg-logo="https://i.imgur.com/eryPkrT.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Movies Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr@SD" tvg-logo="https://i.imgur.com/nw8Sa2z.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",beIN Movies Turk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="EkranMovies.ir@SD" tvg-logo="https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMBollywood.tr@SD" tvg-logo="https://i.imgur.com/2XASeBk.png" tvg-type="live" group-title="🇹🇷 Turkiye | Filmes",GEM Bollywood
@@ -1742,12 +1778,22 @@ http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="MaahTV.my@SD" tvg-logo="https://i.imgur.com/FkyueH6.png" tvg-type="live" group-title="🇲🇾 Malásia | Filmes",Maah TV [HD]
 https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",AXN Asia Indonesia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",AXN Asia Taiwan [FHD]
 http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",Cinemax Asia HD [FHD]
 http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",Cinemax Asia HD [FHD] (fonte 2)
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="HBOAsia.sg@HD" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HBO Asia HD [FHD]
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HBO Asia Taiwan [FHD]
 http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg@HD" tvg-logo="https://i.ibb.co/Mkzs7g3J/IMG-2195.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HBO Hits Asia HD [FHD]
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HBO Signature Asia HD [FHD]
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 #EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-logo="https://i.imgur.com/kyE3vXf.png" tvg-type="live" group-title="🇸🇬 Singapura | Filmes",HITS Movies [SD]
 http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 #EXTINF:-1 tvg-id="CelestialMovies.hk@SD" tvg-logo="https://i.imgur.com/Mb5ssnu.png" tvg-type="live" group-title="🇭🇰 Hong Kong | Filmes",Celestial Movies (576i)
@@ -1824,8 +1870,6 @@ http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
-#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Bulgaria [FHD]
-http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Comedy
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -1926,9 +1970,7 @@ https://shift03.isp.bg/MovieStar/index.m3u8
 #EXTINF:-1 tvg-id="MovieStar.bg@SD" tvg-logo="https://i.imgur.com/DdZH49P.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Movie Star (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.160:5000
-#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Star Channel [HD]
-http://hls127.freeott.top:8080/BG_FOX/video.m3u8
-#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Star Channel (fonte 2)
+#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
 #EXTINF:-1 tvg-id="TV1000.bg@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" tvg-type="live" group-title="🇧🇬 Bulgária | Filmes",TV1000

@@ -234,10 +234,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
 http://181.78.8.199:8000/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-id="TVLegislativa.ec@SD" tvg-logo="https://i.imgur.com/3Y6Lp5l.png" tvg-type="live" group-title="🇪🇨 Equador | Legislativo",TV Legislativa [FHD]
 https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara [FHD]
+#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/8Jl0h8F.jpeg" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara [FHD]
 http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara [FHD] (fonte 2)
+#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/8Jl0h8F.jpeg" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara [FHD] (fonte 2)
 http://158.172.217.18:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/8Jl0h8F.jpeg" tvg-type="live" group-title="🇵🇾 Paraguai | Legislativo",TV Camara (fonte 3)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv@SD" tvg-logo="https://i.imgur.com/OBuiCyb.png" tvg-type="live" group-title="🇸🇻 El Salvador | Legislativo",Legislative Assembly of El Salvador [FHD]
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-type="live" group-title="🇵🇹 Portugal | Legislativo",ARTV Canal Parlamento [HD]
@@ -280,7 +282,7 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen4.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 4 [FHD]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-type="live" group-title="🇫🇷 França | Legislativo" catchup="default" catchup-source="https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LCP [SD]
+#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-type="live" group-title="🇫🇷 França | Legislativo",LCP [SD]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-logo="https://i.imgur.com/hv4zi9N.png" tvg-type="live" group-title="🇮🇹 Itália | Legislativo",Camera dei Deputati (via RR) [SD]
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
@@ -357,6 +359,9 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 #EXTINF:-1 tvg-id="SansadTV1.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Legislativo",Sansad TV 1 HD [FHD] (fonte 2)
 https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
+#EXTINF:-1 tvg-id="SansadTV1.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Legislativo",Sansad TV 1 HD [FHD] (fonte 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/718/master.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Legislativo",Sansad TV 2 [FHD]
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Legislativo",Sansad TV 2 [FHD] (fonte 2)
@@ -364,6 +369,9 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Legislativo",Sansad TV 2 (fonte 3)
 https://cdn.pishow.tv/ott/live/39/master.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Legislativo",Sansad TV 2 HD [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/298/master.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-type="live" group-title="🇷🇺 Rússia | Legislativo",Duma TV [HD]
 http://185.23.80.23:8080/DumaTV/index.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://i.imgur.com/JvlO3PU.png" tvg-type="live" group-title="🇷🇺 Rússia | Legislativo",Дума ТВ [FHD]
@@ -403,7 +411,5 @@ https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 tvg-id="SenatoTV.it@SD" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-type="live" group-title="🇧🇦 Bósnia | Legislativo",Senato TV [FHD]
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-id="Althingi.is@SD" tvg-logo="https://i.imgur.com/tKNPdea.png" tvg-type="live" group-title="🇮🇸 Islândia | Legislativo",Althingi [FHD]
-https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
 #EXTINF:-1 tvg-id="TheParliamentaryChannel.bs@SD" tvg-logo="https://i.imgur.com/ZQagV0x.png" tvg-type="live" group-title="🇧🇸 Bahamas | Legislativo",The Parliamentary Channel [HD]
 https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8

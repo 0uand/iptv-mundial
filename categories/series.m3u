@@ -215,6 +215,8 @@ https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
 http://138.59.177.78:9999/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us@SD" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Novelisima (fonte 2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Paramount Network [FHD]
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",PBS Antiques Roadshow [HD]
 https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-logo="https://i.imgur.com/Brry7cZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",PBS Nature [FHD]
@@ -245,6 +247,8 @@ https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 #EXTINF:-1 tvg-id="Survivor.us@SD" tvg-logo="https://i.imgur.com/Zz9SgY8.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Survivor
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
+#EXTINF:-1 tvg-id="Telecyan.us@HD" tvg-logo="https://i.imgur.com/9BnHCj5.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Telecyan [HD]
+https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us@SD" tvg-logo="https://i.imgur.com/9bPcYIN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Telemundo telenovelas clásicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-id="TheAddamsFamily.us@SD" tvg-logo="https://i.imgur.com/Bl8X7EW.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",The Addams Family
@@ -526,6 +530,8 @@ https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" tvg-type="live" group-title="🇦🇷 Argentina | Séries",Europa Europa [FHD] (fonte 3)
 http://38.252.238.18:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" tvg-type="live" group-title="🇦🇷 Argentina | Séries",Europa Europa [FHD] (fonte 4)
+http://45.228.234.9:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-logo="https://i.imgur.com/csBNi2L.png" tvg-type="live" group-title="🇨🇱 Chile | Séries",13 Teleseries [HD]
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="MegaFiccion.cl@SD" tvg-logo="https://i.imgur.com/aQdhJie.png" tvg-type="live" group-title="🇨🇱 Chile | Séries",Mega Ficcion [FHD]
@@ -1204,10 +1210,12 @@ http://stream.mcquack.net/46/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 #EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTV3 [HD]
 https://dethich.pw/htv3/index.m3u8
-#EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTVC Movies [HD]
+#EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTVC Movies [HD]
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="ONPhimViet.vn@SD" tvg-logo="https://i.ibb.co/Swvp1vwM/IMG-2525.jpg" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",ON Phim Viet [FHD]
+https://vmttv.dpdns.org/tv360/?id=175
 #EXTINF:-1 tvg-id="Baywatch.us@US" tvg-logo="https://i.imgur.com/c2esKHg.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Séries",Baywatch [FHD]
 https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Séries",Deal or No Deal [FHD]
@@ -1241,14 +1249,10 @@ http://stream.mcquack.net/466/index.m3u8
 https://afrashls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-logo="https://i.imgur.com/8AfAfZE.png" tvg-type="live" group-title="🇮🇷 Irã | Séries",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Crime [HD]
-http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
-#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Crime (fonte 2)
+#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cs
-#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Life [HD]
-http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
-#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Life (fonte 2)
+#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cr
 #EXTINF:-1 tvg-id="RTSDrama.rs@SD" tvg-logo="https://i.imgur.com/bsTUhYK.png" tvg-type="live" group-title="🇷🇸 Sérvia | Séries",RTS Drama [SD]

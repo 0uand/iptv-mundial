@@ -41,8 +41,14 @@ http://158.172.217.18:8000/play/a01k/index.m3u8
 http://181.78.12.119:16123/play/ch15/index.m3u8
 #EXTINF:-1 tvg-id="Reyali.co@SD" tvg-logo="https://i.imgur.com/YmFjnsF.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Reyali [SD]
 https://eu1.servers10.com:8081/8090/index.m3u8
-#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV [FHD]
 http://186.148.196.100:8000/play/a02h
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV [FHD] (fonte 2)
+http://190.61.47.54:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV [FHD] (fonte 3)
+http://138.94.3.106:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Rumba TV [FHD] (fonte 4)
+http://38.134.250.110:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Salsa Gorda Television [FHD]
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="SinLimites.co@SD" tvg-logo="https://i.imgur.com/wrFfgzC.png" tvg-type="live" group-title="🇨🇴 Colômbia | Música",Sin Limites [FHD]
@@ -84,6 +90,8 @@ http://170.238.200.199/rcn-novelas/index.m3u8
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [SD] (fonte 6)
 http://181.65.191.173:8069/play/a061
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",RCN Novelas [SD] (fonte 7)
+http://45.171.64.30:8800/play/a01z
 #EXTINF:-1 tvg-id="TeveColombia.co@SD" tvg-logo="https://i.imgur.com/vPwiJTw.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",TeveColombia [HD]
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 #EXTINF:-1 tvg-id="TVGolfoUraba.co@SD" tvg-logo="https://i.imgur.com/Nd5axnS.png" tvg-type="live" group-title="🇨🇴 Colômbia | Entretenimento",TV Golfo Uraba
@@ -92,6 +100,8 @@ https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
 https://eu1.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-id="TeleNostalgia.co@SD" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-type="live" group-title="🇨🇴 Colômbia | Clássicos",TeleNostalgia [FHD]
 http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="TeleNostalgia.co@SD" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-type="live" group-title="🇨🇴 Colômbia | Clássicos",TeleNostalgia [HD] (fonte 2)
+http://190.124.20.69/TeleNostalgia/index.m3u8
 #EXTINF:-1 tvg-id="RaizalTV.co@SD" tvg-logo="https://i.imgur.com/qWNSxq8.png" tvg-type="live" group-title="🇨🇴 Colômbia | Cultura",Raizal TV [FHD]
 http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
 #EXTINF:-1 tvg-id="TeleAmiga.co@SD" tvg-logo="https://i.imgur.com/gBZFZNv.png" tvg-type="live" group-title="🇨🇴 Colômbia | Cultura",Tele Amiga [HD]
@@ -107,6 +117,8 @@ http://138.121.15.230:9002/ZOOM/index.m3u8
 http://190.217.66.92:8000/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom [FHD] (fonte 3)
 http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom (fonte 4)
+http://181.78.79.131:8000/play/a0sg
 #EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports [FHD]
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-type="live" group-title="🇨🇴 Colômbia | Esportes",Win Sports [FHD] (fonte 2)
@@ -310,9 +322,11 @@ http://181.79.87.131:8000/play/a0f0/index.m3u8
 http://200.122.232.149:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 32)
 http://181.78.12.119:16123/play/ch58/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [SD] (fonte 33)
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [FHD] (fonte 33)
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV [SD] (fonte 34)
 http://181.79.86.130:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV (fonte 34)
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Caracol TV (fonte 35)
 http://181.79.86.130:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD" tvg-logo="https://i.imgur.com/h7K9EW9.png" tvg-type="live" group-title="🇨🇴 Colômbia | Geral",Citytv Bogota [FHD]
 http://138.121.15.230:9002/CITY-TV/index.m3u8

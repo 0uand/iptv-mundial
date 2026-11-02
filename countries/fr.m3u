@@ -92,8 +92,8 @@ https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg0
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" tvg-type="live" group-title="🇫🇷 França | Entretenimento",6ter
 http://149.62.177.107:9999/6ter/index.m3u8
-#EXTINF:-1 tvg-id="arte.fr@SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-type="live" group-title="🇫🇷 França | Entretenimento",arte [HD]
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-type="live" group-title="🇫🇷 França | Entretenimento",arte [FHD]
+http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="CStar.fr@SD" tvg-logo="https://i.imgur.com/w4kAX1V.png" tvg-type="live" group-title="🇫🇷 França | Entretenimento",C Star [SD]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-id="M6.fr@HD" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-type="live" group-title="🇫🇷 França | Entretenimento",M6 [FHD]
@@ -197,16 +197,22 @@ https://phd2hls.persiana.live/hls/stream.m3u8
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr@SD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Equidia [FHD]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Germany" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 1 Germany
+http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 1 Hungary
 http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 1 Russia [FHD]
 http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Spain" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 1 Spain [SD]
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Turkiye" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 1 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Hungary" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 2 Hungary
 http://88.212.7.14/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 2 Russia [FHD]
 http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Spain" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 2 Spain [FHD]
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-type="live" group-title="🇫🇷 França | Esportes",Eurosport 2 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-type="live" group-title="🇫🇷 França | Esportes",FIFA+ [HD]
@@ -240,8 +246,6 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" tvg-logo="https://i.imgur.com/cwC7Q2V.png" tvg-type="live" group-title="🇫🇷 França | Estilo de vida",TV5Monde Style (fonte 2)
 http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
-#EXTINF:-1 tvg-id="CanalPlusCinemas.fr@SD" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" tvg-type="live" group-title="🇫🇷 França | Filmes",Canal+ Cinemas [HD]
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-type="live" group-title="🇫🇷 França | Filmes",Cine+ Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147/CineClassic/index.m3u8
@@ -544,6 +548,8 @@ https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8
 http://99.27.51.147:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="T18.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" tvg-type="live" group-title="🇫🇷 França | Geral",T18 [FHD]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-id="TebeoTV.fr@SD" tvg-logo="https://i.imgur.com/WdZWBEd.png" tvg-type="live" group-title="🇫🇷 França | Geral",Tebeo TV (576i)
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="TFX.fr@SD" tvg-logo="https://i.imgur.com/d91GcVf.png" tvg-type="live" group-title="🇫🇷 França | Geral",TFX
 http://149.62.177.107:9999/TFX/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" tvg-type="live" group-title="🇫🇷 França | Geral",TMC [FHD]
@@ -577,14 +583,14 @@ http://103.172.187.30:12000/stream/allchannel/tv5asie
 http://103.190.232.129/stream/tvb/asie/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-logo="https://i.imgur.com/FRsRXRR.png" tvg-type="live" group-title="🇫🇷 França | Geral",TV5Monde Asia (fonte 7)
 http://103.190.232.129/stream/tvb/asie?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-logo="https://i.imgur.com/FRsRXRR.png" tvg-type="live" group-title="🇫🇷 França | Geral",TV5Monde Asia (fonte 8)
+http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-type="live" group-title="🇫🇷 França | Geral",TV5Monde Europe [FHD]
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-type="live" group-title="🇫🇷 França | Geral",TV5Monde Europe [FHD] (fonte 2)
 http://45.14.84.37/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-type="live" group-title="🇫🇷 França | Geral",TV5Monde Europe [FHD] (fonte 3)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-type="live" group-title="🇫🇷 França | Geral",TV5Monde France Belgium Switzerland Monaco
-http://5.78.65.164/TV5Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" tvg-logo="https://i.imgur.com/x8rjGhp.png" tvg-type="live" group-title="🇫🇷 França | Geral",TV5Monde Latin America [HD]
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" tvg-logo="https://i.imgur.com/x8rjGhp.png" tvg-type="live" group-title="🇫🇷 França | Geral",TV5Monde Latin America (fonte 2)
@@ -661,7 +667,7 @@ https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 #EXTINF:-1 tvg-id="TortuesNinjaTV.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" tvg-type="live" group-title="🇫🇷 França | Infantil",Tortues Ninja TV [HD]
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
-#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-type="live" group-title="🇫🇷 França | Legislativo" catchup="default" catchup-source="https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LCP [SD]
+#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-type="live" group-title="🇫🇷 França | Legislativo",LCP [SD]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-logo="https://i.imgur.com/psqIHn4.png" tvg-type="live" group-title="🇫🇷 França | Negócios",BFM Business [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -848,8 +854,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇫🇷 França | Notícias",France 24 Spanish [HD] (fonte 2)
 http://138.121.15.230:9002/FRANCE-24/index.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-type="live" group-title="🇫🇷 França | Notícias",Franceinfo [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+http://149.62.177.107:9999/franceinfo:/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@SD" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-type="live" group-title="🇫🇷 França | Notícias",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@HD" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-type="live" group-title="🇫🇷 França | Notícias",LCI HD [FHD]

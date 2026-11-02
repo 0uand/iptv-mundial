@@ -35,6 +35,8 @@ https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Viagem",Living Asia Channel [FHD]
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="MyDestinationTV.us@SD" tvg-logo="https://i.imgur.com/VJndl0m.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Viagem",MyDestination.TV [HD]
+https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="KNOVCD411.us@HD" tvg-logo="https://i.imgur.com/D7Lzqyl.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Viagem",NOTV New Orleans TV [HD]
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KNOVCD411.us@HD" tvg-logo="https://i.imgur.com/D7Lzqyl.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Viagem",NOTV New Orleans TV [HD] (fonte 2)
@@ -71,9 +73,7 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" tvg-type="live" group-title="🇵🇱 Polônia | Viagem",Travel Channel (576i)
 http://92.114.85.87:8011/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="TravelMix.ro@SD" tvg-logo="https://i.imgur.com/4dMeEQO.png" tvg-type="live" group-title="🇷🇴 Romênia | Viagem",Travel Mix [SD]
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSeconds=0
-#EXTINF:-1 tvg-id="TravelMix.ro@SD" tvg-logo="https://i.imgur.com/4dMeEQO.png" tvg-type="live" group-title="🇷🇴 Romênia | Viagem",Travel Mix (fonte 2)
+#EXTINF:-1 tvg-id="TravelMix.ro@SD" tvg-logo="https://i.imgur.com/4dMeEQO.png" tvg-type="live" group-title="🇷🇴 Romênia | Viagem",Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-type="live" group-title="🇮🇳 Índia | Viagem",Travelxp HD [FHD]
 http://103.151.60.162:2122/play/a01s/index.m3u8?hls

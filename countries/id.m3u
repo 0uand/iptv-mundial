@@ -72,21 +72,11 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id@SD" tvg-logo="https://i.imgur.com/B4JW54M.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Duta TV [SD]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@Asia" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",E International Asia [SD]
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@Asia" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",E International Asia [SD] (fonte 2)
-https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@Europe" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",E International Europe [SD]
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@Europe" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",E International Europe [SD] (fonte 2)
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
 #EXTINF:-1 tvg-id="EfarinaTV.id@SD" tvg-logo="https://i.imgur.com/iYTimXh.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Efarina TV [HD]
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Garuda TV [FHD]
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-id="GrooviaKanal.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Groovia Kanal [SD]
-https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
 #EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://i.imgur.com/jjuKnYs.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",GTV HD [FHD]
 http://202.150.172.59/GTVHD/index.m3u8
 #EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://i.imgur.com/jjuKnYs.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",GTV HD (fonte 2)
@@ -333,8 +323,6 @@ https://play.fsa-stream.my.id/hls/siaran.m3u8
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Biznet Kids [FHD]
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 tvg-id="GrooviaKids.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Groovia Kids [SD]
-https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 #EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="MyKidz.id@SD" tvg-logo="https://i.imgur.com/qzZFU6d.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",My Kidz [HD]

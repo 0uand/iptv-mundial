@@ -5,6 +5,8 @@ https://9090video.mobtada.com/hls/stream.m3u8
 http://149.100.11.235:8080/Mazzika/index.m3u8
 #EXTINF:-1 tvg-id="NogoumFMTV.eg@SD" tvg-logo="https://i.imgur.com/krp3kgv.png" tvg-type="live" group-title="🇪🇬 Egito | Música",NogoumFMTV [SD]
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HyaTV.eg@SD" tvg-logo="https://i.imgur.com/XjBIi0e.png" tvg-type="live" group-title="🇪🇬 Egito | Entretenimento",Hya TV [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-logo="https://i.imgur.com/1ENdbZn.png" tvg-type="live" group-title="🇪🇬 Egito | Filmes",Mix Hollywood [FHD]
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.imgur.com/wTeOM2J.png" tvg-type="live" group-title="🇪🇬 Egito | Geral",Al Masriyah [FHD]

@@ -49,7 +49,9 @@ https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-logo="https://i.imgur.com/N4pFVVF.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Cultura",Costa Rica Channel [SD]
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",FUTV
+#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",FUTV [FHD]
+http://45.228.234.9:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",FUTV (fonte 2)
 http://190.61.90.17:40000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-logo="https://i.imgur.com/2ZcUXbE.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",Radio Turrialba TV Sports [HD]
 #EXTVLCOPT:http-referrer=https://iblups.com/

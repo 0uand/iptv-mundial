@@ -159,6 +159,8 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",English Club TV (576i)
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PBS_America_2022.svg/960px-PBS_America_2022.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",PBS America [SD]
+http://185.19.191.2:8090/PBS/index.m3u8
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-type="live" group-title="🇲🇽 México | Educação",Canal 15 ILCE Summa Sabres [HD]
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisterios.us@LatAm" tvg-logo="https://i.imgur.com/gwxX1Y3.png" tvg-type="live" group-title="🇲🇽 México | Educação",Pluto TV Misterios
@@ -195,6 +197,8 @@ http://138.121.15.230:9002/ZOOM/index.m3u8
 http://190.217.66.92:8000/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom [FHD] (fonte 3)
 http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom (fonte 4)
+http://181.78.79.131:8000/play/a0sg
 #EXTINF:-1 tvg-id="GVision.cl@SD" tvg-logo="https://i.imgur.com/jUPHG21.png" tvg-type="live" group-title="🇨🇱 Chile | Educação",GVision [SD]
 https://videostream.chileservidores.com:8081/tome/index.m3u8
 #EXTINF:-1 tvg-id="TVUsach.cl@SD" tvg-logo="https://i.imgur.com/KDC7IVl.png" tvg-type="live" group-title="🇨🇱 Chile | Educação",TV Usach [HD]
@@ -277,6 +281,9 @@ https://cdn.pishow.tv/ott/live/9/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/223/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [SD] (fonte 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/148/148_0.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [SD] (fonte 5)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
 #EXTINF:-1 tvg-id="EVidya10.in@SD" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",E-Vidya 10 [SD]
 http://103.72.101.252:8080/live/411.m3u8

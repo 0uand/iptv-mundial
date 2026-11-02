@@ -109,8 +109,6 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="ChiloeRed25.cl@SD" tvg-logo="https://i.imgur.com/3tqrImm.png" tvg-type="live" group-title="🇨🇱 Chile | Cultura",Chiloe Red 25 [HD]
 https://v2.tustreaming.cl/chiloered/index.m3u8
-#EXTINF:-1 tvg-id="CulturaOnline.cl@SD" tvg-logo="https://i.imgur.com/w8td5Lq.png" tvg-type="live" group-title="🇨🇱 Chile | Cultura",Cultura Online
-https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl@SD" tvg-logo="https://i.imgur.com/9JKRO3R.png" tvg-type="live" group-title="🇨🇱 Chile | Cultura",Holvoet TV (Copiapó) [HD]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl@SD" tvg-logo="https://i.imgur.com/c1ME00r.png" tvg-type="live" group-title="🇨🇱 Chile | Cultura",Mega 2 [FHD]
@@ -123,8 +121,6 @@ https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8
 #EXTINF:-1 tvg-id="SuyaiTV.cl@HD" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" tvg-type="live" group-title="🇨🇱 Chile | Cultura",Suyai TV [FHD]
 https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
-#EXTINF:-1 tvg-id="SuyaiTV.cl@SD" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" tvg-type="live" group-title="🇨🇱 Chile | Cultura",Suyai TV [HD] (fonte 2)
-https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl@SD" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" tvg-type="live" group-title="🇨🇱 Chile | Cultura",UCV TV [HD]
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VersoTV.cl@SD" tvg-logo="https://i.imgur.com/zdv4IF8.png" tvg-type="live" group-title="🇨🇱 Chile | Cultura",Verso TV
@@ -227,8 +223,14 @@ https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Cultura",DD Bharati [HD]
 https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Cultura",DD Bharati [SD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/335/master.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Cultura",DD Bharati [SD] (fonte 3)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Cultura",DD Punjabi [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/177/master.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Cultura",DD Punjabi [SD] (fonte 2)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
 #EXTINF:-1 tvg-id="JayaPlus.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Cultura",Jaya Plus [SD]
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
@@ -238,6 +240,8 @@ https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 https://streams.tangotv.in/OTVLIVE24X7/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="OdishaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Cultura",Odisha TV (fonte 3)
 https://cdn.pishow.tv/ott/live/1600/master.m3u8
+#EXTINF:-1 tvg-id="ShikshaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shiksha_TV.png" tvg-type="live" group-title="🇮🇳 Índia | Cultura",Shiksha TV [HD]
+http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-logo="https://i.imgur.com/GyHaZ8X.png" tvg-type="live" group-title="🇨🇳 China | Cultura",CCTV-8 [HD]
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" tvg-type="live" group-title="🇨🇳 China | Cultura",Lanzhou Culture & Tourism Channel
@@ -304,6 +308,8 @@ https://live.salira.tv/p/3870/hybrid/play.m3u8
 https://live.salira.tv:3870/stream/play.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id@SD" tvg-logo="https://i.imgur.com/jAAPgpV.png" tvg-type="live" group-title="🇮🇩 Indonésia | Cultura",The Indonesia Channel [FHD]
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-id="HTV5.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" tvg-type="live" group-title="🇻🇳 Vietnã | Cultura",HTV5 [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="TraVinhTV.vn@SD" tvg-logo="https://i.imgur.com/F12VdKO.png" tvg-type="live" group-title="🇻🇳 Vietnã | Cultura",Tra Vinh TV [FHD]
 https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="TraVinhTV.vn@SD" tvg-logo="https://i.imgur.com/F12VdKO.png" tvg-type="live" group-title="🇻🇳 Vietnã | Cultura",Tra Vinh TV [HD] (fonte 2)

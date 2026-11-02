@@ -80,6 +80,8 @@ https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleNostalgia.co@SD" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-type="live" group-title="🇨🇴 Colômbia | Clássicos",TeleNostalgia [FHD]
 http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="TeleNostalgia.co@SD" tvg-logo="https://i.imgur.com/WZeMZNy.png" tvg-type="live" group-title="🇨🇴 Colômbia | Clássicos",TeleNostalgia [HD] (fonte 2)
+http://190.124.20.69/TeleNostalgia/index.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Clássicos",Retrox TV [HD]
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Clássicos",Retrox TV [HD] (fonte 2)
@@ -121,8 +123,6 @@ https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" tvg-logo="https://i.imgur.com/JJTQq81.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",BRIDGE Classic [SD] (fonte 4)
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Nostalgia [SD]
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Nostalgia [SD] (fonte 2)
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Retro [SD]
 http://stream.mcquack.net/191/index.m3u8

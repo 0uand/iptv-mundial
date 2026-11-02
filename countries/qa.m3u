@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="beINSports1.qa@MENA" tvg-logo="https://i.imgur.com/Vtk2cGI.png" tvg-type="live" group-title="🇶🇦 Catar | Esportes",beIN Sports 1 [FHD]
-http://primetv.cc.cd/beinfhd11/tracks-v1a1/mono.tbin.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa@MENA" tvg-logo="https://i.imgur.com/vUJZSvs.png" tvg-type="live" group-title="🇶🇦 Catar | Esportes",beIN Sports 2 [FHD]
-http://primetv.cc.cd/beinfhd22/index.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa@MENA" tvg-logo="https://i.imgur.com/UYSMao3.png" tvg-type="live" group-title="🇶🇦 Catar | Esportes",beIN Sports 3 [FHD]
-http://primetv.cc.cd/beinfhd33/index.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa@MENA" tvg-logo="https://i.imgur.com/vwAgJNi.png" tvg-type="live" group-title="🇶🇦 Catar | Esportes",beIN Sports 4 [FHD]
-http://primetv.cc.cd/beinfhd44/tracks-v1a1/mono.tbin.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa@MENA" tvg-logo="https://i.imgur.com/2Rha5aY.png" tvg-type="live" group-title="🇶🇦 Catar | Esportes",beIN Sports 5 [FHD]
-http://primetv.cc.cd/beinfhd55/tracks-v1a1/mono.tbin.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa@MENA" tvg-logo="https://i.imgur.com/0wBdLYb.png" tvg-type="live" group-title="🇶🇦 Catar | Esportes",beIN Sports 6 [FHD]
-http://primetv.cc.cd/beinfhd66/index.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa@MENA" tvg-logo="https://i.imgur.com/iODFwZi.png" tvg-type="live" group-title="🇶🇦 Catar | Esportes",beIN Sports 7 [FHD]
-http://primetv.cc.cd/beinfhd77/index.m3u8
-#EXTINF:-1 tvg-id="beINSports8.qa@MENA" tvg-logo="https://i.imgur.com/CaFEyVn.png" tvg-type="live" group-title="🇶🇦 Catar | Esportes",beIN Sports 8 [FHD]
-http://primetv.cc.cd/beinfhd88/index.m3u8
 #EXTINF:-1 tvg-id="AlRayyanTV.qa@SD" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-type="live" group-title="🇶🇦 Catar | Geral",Al Rayyan [FHD]
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlRayyanOldTV.qa@SD" tvg-logo="https://i.imgur.com/4qB5iN0.png" tvg-type="live" group-title="🇶🇦 Catar | Geral",Al Rayyan Al Qadeem [FHD]
@@ -23,8 +7,6 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRayyanTV.qa@SD" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-type="live" group-title="🇶🇦 Catar | Geral",Al Rayyan TV [HD]
 https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSports9.qa@MENA" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" tvg-type="live" group-title="🇶🇦 Catar | Geral",beIN Sports 9 [FHD]
-http://primetv.cc.cd/beinfhd99/tracks-v1a1/mono.tbin.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision.qa@SD" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-type="live" group-title="🇶🇦 Catar | Geral",Qatar Television [FHD]
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision.qa@SD" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-type="live" group-title="🇶🇦 Catar | Geral",Qatar Television [FHD] (fonte 2)
@@ -77,7 +59,10 @@ http://170.83.16.50/ALJAZEERA/index.m3u8
 http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English [SD] (fonte 6)
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English (fonte 7)
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English [SD] (fonte 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/318/master.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English (fonte 8)
 https://cdn-7.pishow.tv/live/429/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@EnglishHD" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇶🇦 Catar | Notícias",Al Jazeera English HD [SD]
 http://stream.mcquack.net/131/index.m3u8

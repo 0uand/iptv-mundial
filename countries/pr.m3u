@@ -18,7 +18,7 @@ https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr@HD" tvg-logo="https://i.imgur.com/Crt3P4N.png" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",TeleOnce [FHD]
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WAPATV41.pr@HD" tvg-logo="https://i.imgur.com/kqq7tD9.png" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WAPA-TV 4.1 [FHD]
-https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
+https://wapa.hostless.app/WAPA-TV-4-1.m3u8
 #EXTINF:-1 tvg-id="WDWL581.pr@HD" tvg-logo="" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WDWL-DT1 (Teleadoración/Enlace PR) [HD]
 https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="WIPRTV61.pr@HD" tvg-logo="https://i.imgur.com/MGJaxFO.png" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WIPR [FHD]
@@ -32,6 +32,12 @@ https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WKAQTV22.pr@HD" tvg-logo="https://i.imgur.com/TL6xy4y.png" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WKAQ-TV 2.2 [FHD]
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8
+#EXTINF:-1 tvg-id="WKAQTV22.pr@HD" tvg-logo="https://i.imgur.com/TL6xy4y.png" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WKAQ-TV 2.2 [FHD] (fonte 2)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQTV22.pr@HD" tvg-logo="https://i.imgur.com/TL6xy4y.png" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WKAQ-TV 2.2 [FHD] (fonte 3)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_540.m3u8
+#EXTINF:-1 tvg-id="WKAQTV22.pr@HD" tvg-logo="https://i.imgur.com/TL6xy4y.png" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WKAQ-TV 2.2 [FHD] (fonte 4)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_360.m3u8
 #EXTINF:-1 tvg-id="WRUADT1.pr@SD" tvg-logo="" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WRUA-DT1 (Tiva TV) [HD]
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
 #EXTINF:-1 tvg-id="WRUADT1.pr@SD" tvg-logo="" tvg-type="live" group-title="🇵🇷 Porto Rico | Geral",WRUA-DT1 (Tiva TV) [HD] (fonte 2)

@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="CatveFM.br@SD" tvg-logo="https://i.imgur.com/w89yw36.png" tvg-type="live" group-title="🇧🇷 Brasil | Música",Catve FM [HD]
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" tvg-type="live" group-title="🇧🇷 Brasil | Música",KpopTV Play [SD]
+#EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" tvg-type="live" group-title="🇧🇷 Brasil | Música",KpopTV Play [HD]
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="LamoreRockShowWebTV.br@SD" tvg-logo="https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif" tvg-type="live" group-title="🇧🇷 Brasil | Música",Lamore Rock Show WebTV [HD]
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
@@ -31,14 +31,14 @@ https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-logo="https://i.imgur.com/SnaIMgj.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Chroma TV [SD]
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="ConectaMaisTV.br@SD" tvg-logo="https://i.imgur.com/qHwTWlz.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Conecta Mais TV [HD]
+#EXTINF:-1 tvg-id="ConectaMaisTV.br@SD" tvg-logo="https://i.imgur.com/qHwTWlz.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Conecta Mais TV [FHD]
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
 #EXTINF:-1 tvg-id="ConectaMaisTV.br@SD" tvg-logo="https://i.imgur.com/qHwTWlz.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Conecta+ TV [HD]
 http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="ElementalChannel.br@SD" tvg-logo="https://i.imgur.com/8upyApg.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Elemental Channel [FHD]
-https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
-#EXTINF:-1 tvg-id="ElementalChannel.br@SD" tvg-logo="https://i.imgur.com/8upyApg.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Elemental Channel (fonte 2)
+#EXTINF:-1 tvg-id="ElementalChannel.br@SD" tvg-logo="https://i.imgur.com/8upyApg.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Elemental Channel
 https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
+#EXTINF:-1 tvg-id="ElementalChannel.br@SD" tvg-logo="https://i.imgur.com/8upyApg.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Elemental Channel [FHD] (fonte 2)
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="ElyTV.br@SD" tvg-logo="https://i.imgur.com/1eHNe91.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",ElyTV [SD]
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Loading [HD]
@@ -57,7 +57,7 @@ https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
 #EXTINF:-1 tvg-id="MTVShore.us@BR" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
-#EXTINF:-1 tvg-id="PetloversTV.br@SD" tvg-logo="https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Petlovers TV
+#EXTINF:-1 tvg-id="PetloversTV.br@SD" tvg-logo="https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Petlovers TV [HD]
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCanalUOL.us@BR" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",Pluto TV Canal UOL [HD]
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
@@ -81,7 +81,7 @@ http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-logo="https://i.imgur.com/TZF55f9.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",TV Viçosa [SD]
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-logo="https://i.imgur.com/jCGrjf5.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",TV Zoom [HD]
+#EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-logo="https://i.imgur.com/jCGrjf5.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",TV Zoom [FHD]
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet.br@SD" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" tvg-type="live" group-title="🇧🇷 Brasil | Entretenimento",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8

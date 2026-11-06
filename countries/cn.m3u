@@ -1,7 +1,11 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" tvg-type="live" group-title="🇨🇳 China | Música",CCTV-11 [HD]
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" tvg-type="live" group-title="🇨🇳 China | Música",CCTV-15 [HD]
+#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" tvg-type="live" group-title="🇨🇳 China | Música",CCTV-11 (fonte 2)
+https://xykt-fix.github.io/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" tvg-type="live" group-title="🇨🇳 China | Música",CCTV-15 [FHD]
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" tvg-type="live" group-title="🇨🇳 China | Música",CCTV-15 [HD] (fonte 2)
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD" tvg-logo="https://i.imgur.com/IiiRmrf.png" tvg-type="live" group-title="🇨🇳 China | Música",CCTV-Storm Music [FHD]
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
@@ -49,7 +53,7 @@ https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 http://1.24.190.98:10080/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn@SD" tvg-logo="https://i.imgur.com/kpsjahG.png" tvg-type="live" group-title="🇨🇳 China | Cultura",Nei Monggol TV 2 Mongolian Culture Channel (1080i)
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-type="live" group-title="🇨🇳 China | Documentários",CCTV-9 (576i)
+#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-type="live" group-title="🇨🇳 China | Documentários",CCTV-9 (576i) [FHD]
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" tvg-logo="https://i.imgur.com/QlF96eS.png" tvg-type="live" group-title="🇨🇳 China | Documentários",CCTV-Weapon & Technology [FHD]
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
@@ -59,7 +63,7 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-type="live" group-title="🇨🇳 China | Documentários",CGTN Documentary [FHD] (fonte 3)
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-type="live" group-title="🇨🇳 China | Documentários",CGTN Documentary [SD] (fonte 4)
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-type="live" group-title="🇨🇳 China | Documentários",CGTN Documentary [HD] (fonte 4)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-type="live" group-title="🇨🇳 China | Documentários",China Travel [FHD]
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -69,7 +73,7 @@ https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-type="live" group-title="🇨🇳 China | Educação",CCTV-10 [HD]
 http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-type="live" group-title="🇨🇳 China | Educação",CCTV-10 (576i)
+#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-type="live" group-title="🇨🇳 China | Educação",CCTV-10 (576i) [HD]
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-logo="https://i.imgur.com/CKcPMQC.png" tvg-type="live" group-title="🇨🇳 China | Educação",CCTV-7 [HD]
@@ -86,9 +90,7 @@ http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn@HD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-16 [FHD]
 http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-5+ [FHD]
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-5+ (fonte 2)
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-5+
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://i.imgur.com/WK3keM9.png" tvg-type="live" group-title="🇨🇳 China | Esportes",CCTV-Billiards [FHD]
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -152,7 +154,7 @@ http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index
 http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
 #EXTINF:-1 tvg-id="JiangsuMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsys.jpg" tvg-type="live" group-title="🇨🇳 China | Filmes",江苏影视 [SD] (fonte 2)
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1 tvg-id="AnhuiTV.cn@SD" tvg-logo="https://i.imgur.com/gDn101f.png" tvg-type="live" group-title="🇨🇳 China | Geral",Anhui TV
+#EXTINF:-1 tvg-id="AnhuiTV.cn@SD" tvg-logo="https://i.imgur.com/gDn101f.png" tvg-type="live" group-title="🇨🇳 China | Geral",Anhui TV [FHD]
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:-1 tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" tvg-type="live" group-title="🇨🇳 China | Geral",Bread TV面包台 [HD]
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -160,14 +162,14 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@SD" tvg-logo="https://i.imgur.com/vsktAez.png" tvg-type="live" group-title="🇨🇳 China | Geral",BRTV 北京卫视 (fonte 2)
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-1 [FHD]
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-1 [FHD] (fonte 2)
-http://198.204.240.250:82/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-1 [HD] (fonte 3)
-http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-1 (fonte 4)
+#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-1
 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-1 [FHD] (fonte 2)
+http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-1 [FHD] (fonte 3)
+http://198.204.240.250:82/live/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-1 [HD] (fonte 4)
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-4 America [FHD]
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" tvg-type="live" group-title="🇨🇳 China | Geral",CCTV-4 Asia [HD]
@@ -210,10 +212,8 @@ http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-id="HebeiTV.cn@SD" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" tvg-type="live" group-title="🇨🇳 China | Geral",Hebei TV [4K]
 https://event.pull.hebtv.com/live/live101.m3u8
-#EXTINF:-1 tvg-id="HebeiTV.cn@SD" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" tvg-type="live" group-title="🇨🇳 China | Geral",Hebei TV (fonte 2)
+#EXTINF:-1 tvg-id="HebeiTV.cn@SD" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" tvg-type="live" group-title="🇨🇳 China | Geral",Hebei TV [SD] (fonte 2)
 https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
-#EXTINF:-1 tvg-id="HunanEconomyChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/hnjs.jpg" tvg-type="live" group-title="🇨🇳 China | Geral",Hunan Economy Channel
-https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-type="live" group-title="🇨🇳 China | Geral",Hunan TV [4K]
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="JiangsuPublicNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsgg.jpg" tvg-type="live" group-title="🇨🇳 China | Geral",Jiangsu Public & News Channel
@@ -251,25 +251,19 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV1.cn@SD" tvg-logo="https://i.imgur.com/VLaQYn4.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 1
 https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" tvg-logo="https://i.imgur.com/GXFLqxx.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 2
-http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" tvg-logo="https://i.imgur.com/GXFLqxx.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 2 (fonte 2)
-http://222.80.13.33:4022/udp/238.125.3.175:5140
-#EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" tvg-logo="https://i.imgur.com/GXFLqxx.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 2 (fonte 3)
 https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0
-#EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" tvg-logo="https://i.imgur.com/GXFLqxx.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 2 (fonte 4)
-https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877
+#EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" tvg-logo="https://i.imgur.com/GXFLqxx.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 2 (fonte 2)
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" tvg-logo="https://i.imgur.com/GXFLqxx.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 2 (fonte 3)
+http://222.80.13.33:4022/udp/238.125.3.175:5140
 #EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 3
-http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 3 (fonte 2)
-http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 3 (fonte 3)
-http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
-#EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 3 (fonte 4)
 https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
-#EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 3 (fonte 5)
-http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="XinjiangTV5.cn@SD" tvg-logo="https://i.imgur.com/PARupWK.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 5
-http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 3 (fonte 2)
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 3 (fonte 3)
+http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 3 (fonte 4)
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV8.cn@SD" tvg-logo="https://i.imgur.com/JJw1Ndc.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XizangTVChinese.cn@SD" tvg-logo="https://i.imgur.com/V0v3ST5.png" tvg-type="live" group-title="🇨🇳 China | Geral",Xizang TV Chinese
@@ -961,31 +955,33 @@ https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN [HD] (fonte 4)
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN [HD] (fonte 5)
-https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN [SD] (fonte 6)
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN [SD] (fonte 7)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn@SD" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Arabic [FHD]
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn@SD" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Arabic [SD] (fonte 2)
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN [SD] (fonte 6)
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN [SD] (fonte 7)
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn@SD" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Arabic [HD]
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Español [FHD]
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Español [SD] (fonte 2)
+#EXTINF:-1 tvg-id="CGTNArabic.cn@SD" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Arabic [FHD] (fonte 2)
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Español [HD]
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Français [FHD]
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Français [SD] (fonte 2)
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Español [FHD] (fonte 2)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Français [HD]
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Français [FHD] (fonte 2)
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN French [FHD]
+http://145.239.5.177/214/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Spanish [HD]
 http://45.165.82.19/test/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Spanish [SD] (fonte 2)
 http://45.186.106.147:8880/play/a06f/index.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn@SD" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Русский [FHD]
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn@SD" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Русский [SD] (fonte 2)
+#EXTINF:-1 tvg-id="CGTNRussian.cn@SD" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Русский [HD]
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn@SD" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-type="live" group-title="🇨🇳 China | Notícias",CGTN Русский [FHD] (fonte 2)
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Chifeng Comprehensive News Chanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Chuxiong News Channel
@@ -996,8 +992,6 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 #EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-#EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Jingmen Comprehensive News Channel
-https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 #EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" tvg-type="live" group-title="🇨🇳 China | Notícias",Lanzhou Comprehensive News Channel
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",QTV-1
@@ -1008,8 +1002,6 @@ http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-id="TonghuaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Tonghua TV [FHD] (fonte 2)
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-#EXTINF:-1 tvg-id="TonghuaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" tvg-type="live" group-title="🇨🇳 China | Notícias",Tonghua TV (fonte 3)
-http://139.211.217.79:9004/hls/75/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD" tvg-logo="https://i.imgur.com/mt4h3VO.png" tvg-type="live" group-title="🇨🇳 China | Notícias",凤凰资讯 [HD]
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD" tvg-logo="https://i.imgur.com/mt4h3VO.png" tvg-type="live" group-title="🇨🇳 China | Notícias",凤凰资讯 [SD] (fonte 2)

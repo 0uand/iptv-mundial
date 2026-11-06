@@ -70,9 +70,9 @@ https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa@SD" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Negócios",Asharq News [FHD] (fonte 2)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa@SD" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Negócios",Asharq News [FHD] (fonte 3)
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
-#EXTINF:-1 tvg-id="AsharqNews.sa@SD" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Negócios",Asharq News [FHD] (fonte 4)
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqNews.sa@SD" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Negócios",Asharq News [FHD] (fonte 4)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
 #EXTINF:-1 tvg-id="AsharqRadio.sa@SD" tvg-logo="https://i.imgur.com/M6K8cD3.jpeg" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Negócios",Asharq Radio [FHD]
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAlamAlYawm.sa@SD" tvg-logo="https://i.imgur.com/aAGjAoW.png" tvg-type="live" group-title="🇸🇦 Arábia Saudita | Notícias",Al Alam Al Yawm

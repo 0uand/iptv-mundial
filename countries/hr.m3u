@@ -16,7 +16,7 @@ https://webtvstream.bhtelecom.ba/hrt3.m3u8
 http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="Klasik.hr@SD" tvg-logo="https://i.imgur.com/C90BYlb.png" tvg-type="live" group-title="🇭🇷 Croácia | Filmes",Klasik TV [SD]
 https://178.253.194.105/klasiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiadoraTV.hr@SD" tvg-logo="https://i.imgur.com/qZzsASl.png" tvg-type="live" group-title="🇭🇷 Croácia | Geral",Diadora TV
+#EXTINF:-1 tvg-id="DiadoraTV.hr@SD" tvg-logo="https://i.imgur.com/qZzsASl.png" tvg-type="live" group-title="🇭🇷 Croácia | Geral",Diadora TV [HD]
 https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 tvg-id="HRT1.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-type="live" group-title="🇭🇷 Croácia | Geral",HRT 1 [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36

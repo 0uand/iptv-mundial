@@ -5,7 +5,7 @@ https://jmp2.uk/plu-65788670b9adc40008025500.m3u8
 https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk@SD" tvg-logo="https://i.imgur.com/YyPnMeB.png" tvg-type="live" group-title="🇸🇪 Suécia | Música",Now 80s [FHD]
 https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NOWRock.uk@SD" tvg-logo="https://i.imgur.com/GuM4GnX.png" tvg-type="live" group-title="🇸🇪 Suécia | Música",Now Rock [HD]
+#EXTINF:-1 tvg-id="NOWRock.uk@SD" tvg-logo="https://i.imgur.com/GuM4GnX.png" tvg-type="live" group-title="🇸🇪 Suécia | Música",Now Rock [FHD]
 https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-type="live" group-title="🇸🇪 Suécia | Música",Trace Urban [FHD]
 https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8
@@ -57,7 +57,7 @@ https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
 https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8
 #EXTINF:-1 tvg-id="ParadiseHotel.se@SE" tvg-logo="https://images.pluto.tv/channels/61c19af83fae0a00078c8918/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Entretenimento",Paradise Hotel
 https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8
-#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" tvg-logo="https://i.imgur.com/MsIx7Ax.png" tvg-type="live" group-title="🇸🇪 Suécia | Entretenimento",People are Awesome
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" tvg-logo="https://i.imgur.com/MsIx7Ax.png" tvg-type="live" group-title="🇸🇪 Suécia | Entretenimento",People are Awesome [HD]
 https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PimpMyRide.se@SE" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Entretenimento",Pimp My Ride
 https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
@@ -119,7 +119,7 @@ https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
 https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",FailArmy
 https://jmp2.uk/plu-6178037c35922000072a2ff5.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Failarmy International
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Failarmy International [HD]
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Comédia",Family Ties
 https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
@@ -161,7 +161,13 @@ https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
 https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.se@SE" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Documentários",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-#EXTINF:-1 tvg-id="ATGLive.se@SD" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",ATG Live [HD]
+#EXTINF:-1 tvg-id="ViasatExplore.se@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-type="live" group-title="🇸🇪 Suécia | Documentários",Viasat Explore
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.se@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-type="live" group-title="🇸🇪 Suécia | Documentários",Viasat History
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.se@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-type="live" group-title="🇸🇪 Suécia | Documentários",Viasat Nature
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
+#EXTINF:-1 tvg-id="ATGLive.se@SD" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",ATG Live [FHD]
 https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk@SD" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",DAZN Combat [SD]
 https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
@@ -179,15 +185,17 @@ https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.se@SE" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",Pluto TV Sport
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",Strongman Champions League
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",Strongman Champions League [HD]
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",Tennis Channel [HD]
 https://jmp2.uk/plu-6870c9ca759366af055fe891.m3u8
+#EXTINF:-1 tvg-id="VSportGolf.se@SD" tvg-logo="https://i.imgur.com/r3XbOmM.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",V Sport Golf
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US" tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-type="live" group-title="🇸🇪 Suécia | Esportes",World Poker Tour
 https://jmp2.uk/plu-617805a67267650007573ffd.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD" tvg-logo="https://i.imgur.com/kkm7VqV.png" tvg-type="live" group-title="🇸🇪 Suécia | Estilo de vida",Antiques Road Trip
 https://jmp2.uk/plu-6364f6cd308d210007b5eee9.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us@Sweden" tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-type="live" group-title="🇸🇪 Suécia | Família",The Pet Collective Sweden
+#EXTINF:-1 tvg-id="ThePetCollective.us@Sweden" tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-type="live" group-title="🇸🇪 Suécia | Família",The Pet Collective Sweden [HD]
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="https://i.imgur.com/5pOZQB4.png" tvg-type="live" group-title="🇸🇪 Suécia | Filmes",Artflix Movie Classics [HD]
 https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8

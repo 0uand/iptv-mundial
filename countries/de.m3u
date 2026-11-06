@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="AdriaMusicTelevision.de@SD" tvg-logo="https://i.imgur.com/QoDpnKg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Música",Adria Music Television
 https://adriaapp.b-cdn.net/1080p/index.m3u8
-#EXTINF:-1 tvg-id="BibelTVMusik.de@SD" tvg-logo="https://i.imgur.com/yIqOcP5.png" tvg-type="live" group-title="🇩🇪 Alemanha | Música",Bibel TV Musik [HD]
+#EXTINF:-1 tvg-id="BibelTVMusik.de@SD" tvg-logo="https://i.imgur.com/yIqOcP5.png" tvg-type="live" group-title="🇩🇪 Alemanha | Música",Bibel TV Musik [FHD]
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="DASDING908.de@SD" tvg-logo="https://i.imgur.com/BmklHs8.png" tvg-type="live" group-title="🇩🇪 Alemanha | Música",DASDING 90.8 [HD]
+#EXTINF:-1 tvg-id="DASDING908.de@SD" tvg-logo="https://i.imgur.com/BmklHs8.png" tvg-type="live" group-title="🇩🇪 Alemanha | Música",DASDING 90.8 [FHD]
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-id="DeluxeDance.de@SD" tvg-logo="https://i.imgur.com/Qu7t15Y.png" tvg-type="live" group-title="🇩🇪 Alemanha | Música",Deluxe Dance [FHD]
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -51,10 +51,8 @@ https://stream.rockantenne.de/rockantenne/stream/mp3
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 #EXTINF:-1 tvg-id="SonusFM.de@SD" tvg-logo="https://i.imgur.com/h29rUcG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Música",Sonus FM TV [FHD] (fonte 2)
 https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" tvg-type="live" group-title="🇩🇪 Alemanha | Música",SWR 3 Visual Radio [HD]
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" tvg-type="live" group-title="🇩🇪 Alemanha | Música",SWR 3 Visual Radio [FHD]
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de@HD" tvg-logo="https://radiobozsike.com/img/icons/android-chrome-512x512.png" tvg-type="live" group-title="🇩🇪 Alemanha | Música",TV Bozsike Hamburg HD [FHD]
-https://rtmp.radiobozsike.com/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Música",Vevo Pop Germany [FHD]
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Música",Vevo Schlager Pop [FHD]
@@ -115,8 +113,10 @@ https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" tvg-type="live" group-title="🇩🇪 Alemanha | Automotivo",Motorvision [SD]
 http://hls127.freeott.top:8080/Motorvision/video.m3u8
-#EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" tvg-type="live" group-title="🇩🇪 Alemanha | Automotivo",Motorvision TV [HD]
+#EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" tvg-type="live" group-title="🇩🇪 Alemanha | Automotivo",Motorvision TV [FHD]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="PlutoTVScience.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Ciência",Pluto TV Science
+https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 #EXTINF:-1 tvg-id="123tv.de@SD" tvg-logo="https://i.imgur.com/slSUDNX.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",1-2-3 TV [SD]
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="Handystar.de@SD" tvg-logo="https://i.imgur.com/oMIygVf.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",Handystar [SD]
@@ -129,13 +129,13 @@ https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 tvg-id="Juwelo.de@SD" tvg-logo="https://i.imgur.com/vmX8Qin.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras" catchup="default" catchup-source="https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",Juwelo [HD]
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
-#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" tvg-logo="https://i.imgur.com/CVJWiM0.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",KaufBei TV [SD]
-https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" tvg-logo="https://i.imgur.com/CVJWiM0.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",KaufBei TV (fonte 2)
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" tvg-logo="https://i.imgur.com/CVJWiM0.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",KaufBei TV [HD]
 https://elephant.t62a.com/hls/8103/index.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" tvg-logo="https://i.imgur.com/CVJWiM0.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",KaufBei TV [SD] (fonte 2)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
 #EXTINF:-1 tvg-id="QVCZwei.de@SD" tvg-logo="https://i.imgur.com/f94kPed.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",QVC 2 Germany [SD]
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
-#EXTINF:-1 tvg-id="QVC.de@SD" tvg-logo="https://i.imgur.com/EybRtsI.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",QVC Germany [HD]
+#EXTINF:-1 tvg-id="QVC.de@SD" tvg-logo="https://i.imgur.com/EybRtsI.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",QVC Germany [SD]
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 #EXTINF:-1 tvg-id="QVCStyle.de@SD" tvg-logo="https://i.imgur.com/DwdkHGj.png" tvg-type="live" group-title="🇩🇪 Alemanha | Compras",QVC Style Germany [SD]
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
@@ -151,8 +151,6 @@ https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 #EXTINF:-1 tvg-id="FrasierBeruhmteGaste.de@DACH" tvg-logo="https://images.pluto.tv/channels/6790fa9e1cfc4aa96dfadcef/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Frasier: Berühmte Gäste
 https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
-#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@SD" tvg-logo="https://i.imgur.com/lf34V3Y.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Nick/Comedy Central +1
-http://90.183.52.46:4000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedyTherapie.de@DACH" tvg-logo="https://images.pluto.tv/channels/69b968ba255fecb01f602257/colorLogoPNG_1777380677093.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Pluto TV Comedy Therapie
 https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDeutscheComedy.de@DACH" tvg-logo="https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png" tvg-type="live" group-title="🇩🇪 Alemanha | Comédia",Pluto TV Deutsche Comedy
@@ -182,9 +180,7 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",Dokusat [FHD]
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",kabel eins Doku [HD]
-https://s6.hopslan.com/dokuX/index.m3u8
-#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",kabel eins Doku (fonte 2)
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",kabel eins Doku
 http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
 #EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",N24 Doku
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
@@ -206,12 +202,10 @@ https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de@English" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",Terra Mater WILD English [FHD]
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [HD]
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [HD] (fonte 2)
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [FHD]
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",Da Vinci Asia Vietnam [FHD]
-https://vmttv.dpdns.org/tv360/?id=davinci-hd
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [HD] (fonte 2)
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="iSTUFF.de@SD" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",iSTUFF [HD]
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="NRWision.de@SD" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",NRWision [FHD]
@@ -226,10 +220,15 @@ https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 https://jmp2.uk/plu-660bfc032433010008def35a.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-type="live" group-title="🇩🇪 Alemanha | Esportes",More Than Sports TV [FHD]
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSnooker900.de@DACH" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-type="live" group-title="🇩🇪 Alemanha | Esportes",Pluto TV Snooker 900 [HD]
+https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-type="live" group-title="🇩🇪 Alemanha | Esportes",Red Bull TV DE [FHD]
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-type="live" group-title="🇩🇪 Alemanha | Esportes",Red Bull TV DE [HD] (fonte 2)
 https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de@SD" tvg-logo="https://i.imgur.com/NDbWxqF.png" tvg-type="live" group-title="🇩🇪 Alemanha | Esportes",Sportdigital FUSSBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-type="live" group-title="🇩🇪 Alemanha | Esportes",Strongman Champions League [HD]
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" tvg-type="live" group-title="🇩🇪 Alemanha | Esportes",Tennis Channel
@@ -242,10 +241,6 @@ https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCTravel.us@Germany" tvg-logo="https://i.imgur.com/QiuYWs9.png" tvg-type="live" group-title="🇩🇪 Alemanha | Estilo de vida",BBC Travel
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
-#EXTINF:-1 tvg-id="DMAX.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Estilo de vida",DMAX [SD]
-http://5.180.164.197:8080/DMAX/index.m3u8
-#EXTINF:-1 tvg-id="TLC.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Estilo de vida",TLC [SD]
-https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Germany" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="live" group-title="🇩🇪 Alemanha | Família",Rakuten TV Family Movies Germany [FHD]
 https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-id="Moviedome.us@Germany" tvg-logo="https://i.imgur.com/8c54ycg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Filmes",MOVIEDOME [HD]
@@ -264,6 +259,10 @@ https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
 https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMovies.de@DACH" tvg-logo="https://i.imgur.com/XzAbXAn.png" tvg-type="live" group-title="🇩🇪 Alemanha | Filmes",Pluto TV Movies
 https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVParanormal.de@DACH" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Filmes",Pluto TV Paranormal
+https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRomance.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Filmes",Pluto TV Romance
+https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrek.de@DACH" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Filmes",Pluto TV Star Trek
 https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWeihnachtenimSommer.de@DACH" tvg-logo="https://images.pluto.tv/channels/642ad072283aa4000806148c/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Filmes",Pluto TV Weihnachten im Sommer
@@ -291,9 +290,9 @@ https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
 #EXTINF:-1 tvg-id="AllgauTV.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Allgäu TV [FHD]
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AltenburgTV.de@SD" tvg-logo="https://i.imgur.com/3JriZGR.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Altenburg TV [FHD]
-https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="AltenburgTV.de@SD" tvg-logo="https://i.imgur.com/3JriZGR.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Altenburg TV (fonte 2)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+#EXTINF:-1 tvg-id="AltenburgTV.de@SD" tvg-logo="https://i.imgur.com/3JriZGR.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Altenburg TV [FHD] (fonte 2)
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Amasia [HD]
 https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AristoTV.de@SD" tvg-logo="https://i.imgur.com/DLVjeno.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Aristo TV [SD]
@@ -320,7 +319,7 @@ https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 #EXTINF:-1 tvg-id="BibelTV.de@SD" tvg-logo="https://i.imgur.com/RLwmrk3.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Bibel TV [HD]
 https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BibelTVImpuls.de@SD" tvg-logo="https://i.imgur.com/k4tbW3W.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Bibel TV Impuls [HD]
+#EXTINF:-1 tvg-id="BibelTVImpuls.de@SD" tvg-logo="https://i.imgur.com/k4tbW3W.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Bibel TV Impuls [FHD]
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="BLKRegionalTV.de@SD" tvg-logo="https://i.imgur.com/JLgnPG1.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",BLK Regional TV [FHD]
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
@@ -330,7 +329,7 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/pla
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Blue Mountain State
 https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
-#EXTINF:-1 tvg-id="BRFernsehen.de@Nord" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",BR Fernsehen Nord [HD]
+#EXTINF:-1 tvg-id="BRFernsehen.de@Nord" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",BR Fernsehen Nord [FHD]
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="BRFernsehen.de@Sud" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",BR Fernsehen Sud [FHD]
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
@@ -420,7 +419,7 @@ https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
 https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Hell's Kitchen Germany [FHD]
 https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="hrfernsehen.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",hr-fernsehen [FHD]
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",hr-fernsehen [HD]
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1 tvg-id="iCarly.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",iCarly
 https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
@@ -444,7 +443,7 @@ https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8
 https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",KultKrimi: Küstenwache
 https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8
-#EXTINF:-1 tvg-id="labor14.de@HD" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",labor14 [HD]
+#EXTINF:-1 tvg-id="labor14.de@HD" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",labor14 [SD]
 https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Ladykracher
 https://jmp2.uk/plu-667d3534ca74680008696051.m3u8
@@ -480,21 +479,21 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Naruto Germany [FHD]
 https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Fernsehen International [HD]
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Fernsehen International [FHD]
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Hamburg [HD]
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Hamburg [FHD]
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@MecklenburgVorpommern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Mecklenburg-Vorpommern [HD]
+#EXTINF:-1 tvg-id="NDRFernsehen.de@MecklenburgVorpommern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Mecklenburg-Vorpommern [FHD]
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Niedersachsen [HD]
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Niedersachsen [FHD]
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Schleswig-Holstein [HD]
+#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",NDR Schleswig-Holstein [FHD]
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Nickelodeon Teen [HD]
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 tvg-id="NickelodeonToons.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Nickelodeon Toons [HD]
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTV.de@SD" tvg-logo="https://i.imgur.com/9uaMgTk.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Niederbayern TV [HD]
+#EXTINF:-1 tvg-id="NiederbayernTV.de@SD" tvg-logo="https://i.imgur.com/9uaMgTk.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Niederbayern TV [FHD]
 https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de@SD" tvg-logo="https://i.imgur.com/mAaIh3C.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Niederbayern TV Deggendorf & Straubing [FHD]
 https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
@@ -558,27 +557,13 @@ https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Pluto TV Horror
 https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Pluto TV Paranormal
-https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRomance.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Pluto TV Romance
-https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Pluto TV Sci-Fi
-https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVScience.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Pluto TV Science
-https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Pluto TV Snooker 900 [HD]
-https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de@DACH" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Pluto TV True Crime
-https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben Maxx [SD]
-https://s6.hopslan.com/pro7maxxX/index.m3u8
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben Maxx (fonte 2)
+#EXTINF:-1 tvg-id="ProSieben.de@SD" tvg-logo="https://i.imgur.com/zZOk3nh.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben [SD]
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben Maxx
 http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ProSieben Maxx HD [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de@SD" tvg-logo="https://i.imgur.com/3yamOmw.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",PUNKTum Fernsehen [FHD]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Quantum Leap [HD]
@@ -617,8 +602,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
 #EXTINF:-1 tvg-id="RFO.de@SD" tvg-logo="https://i.imgur.com/902BHGL.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",RFO [FHD]
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RiCtoday.de@HD" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",RiC.today
-http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",RoboCop
 https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8
 #EXTINF:-1 tvg-id="RocklandTV.de@SD" tvg-logo="https://i.imgur.com/6ve1FTN.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Rockland TV [SD]
@@ -630,12 +613,8 @@ https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",RTL Super
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLSuper.de@HD" tvg-logo="https://i.imgur.com/KbdK8t9.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",RTL Super HD [SD]
-https://s6.hopslan.com/superX/index.m3u8
 #EXTINF:-1 tvg-id="RTLZwei.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",RTL Zwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",RTL Zwei HD [SD]
-https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Rules of Engagement
 https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen1.de@SD" tvg-logo="https://i.imgur.com/OodehFV.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Saarland Fernsehen 1 [FHD]
@@ -682,11 +661,9 @@ https://jmp2.uk/plu-691491c6bb69fb3258c3524a.m3u8
 https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-logo="https://i.imgur.com/LH0Gctv.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Tagesschau 24 [HD]
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="TELE5.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",TELE 5 [SD]
-https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 tvg-id="teltOwkanal.de@SD" tvg-logo="https://i.imgur.com/G0cImlU.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",teltOwkanal [FHD]
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Tennis Channel Germany [HD]
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Tennis Channel Germany [FHD]
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",The Librarians
 https://jmp2.uk/plu-6989b64839dd847194cadcd7.m3u8
@@ -729,9 +706,9 @@ https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
 https://jmp2.uk/plu-69b0160da9b840a456a11b4a.m3u8
 #EXTINF:-1 tvg-id="VOX.de@SD" tvg-logo="https://i.imgur.com/QPcmfZb.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",WDR Fernsehen [HD]
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",WDR Fernsehen [FHD]
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" tvg-logo="https://i.imgur.com/DLXssJe.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Welt der Wunder TV [SD]
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" tvg-logo="https://i.imgur.com/DLXssJe.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Welt der Wunder TV [FHD]
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",Wicked Tuna
 https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
@@ -741,20 +718,14 @@ https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-697a0577f9c3aa5a215a4ef8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",X-Factor: Das Unfassbare
 https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
-#EXTINF:-1 tvg-id="YOLTV.de@SD" tvg-logo="https://i.imgur.com/rTBX6lS.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",YOL TV
+#EXTINF:-1 tvg-id="YOLTV.de@SD" tvg-logo="https://i.imgur.com/rTBX6lS.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",YOL TV [HD]
 https://live.yoltv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZDF.de@SD" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de@SD" tvg-logo="https://i.imgur.com/1JIIGgL.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ZDFneo [HD]
-http://5.180.164.197:8080/ZDFNEO/index.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de@SD" tvg-logo="https://i.imgur.com/1JIIGgL.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ZDFneo (fonte 2)
+#EXTINF:-1 tvg-id="ZDFneo.de@SD" tvg-logo="https://i.imgur.com/1JIIGgL.png" tvg-type="live" group-title="🇩🇪 Alemanha | Geral",ZDFneo
 http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass
-#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Disney Channel [SD]
-https://s6.hopslan.com/disneyX/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Disney Channel (fonte 2)
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Disney Channel
 http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
-#EXTINF:-1 tvg-id="DisneyChannel.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Disney Channel HD
-http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
 #EXTINF:-1 tvg-id="DrakeJosh.de@DACH" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 #EXTINF:-1 tvg-id="KiKA.de@SD" tvg-logo="https://i.imgur.com/vZdNp5S.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",KiKA [FHD]
@@ -767,13 +738,11 @@ https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 #EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",RiC [FHD]
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",RiC (fonte 2)
-https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://i.imgur.com/NIsgNvI.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",SpongeBob Schwammkopf [HD]
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Infantil",Totally Turtles [HD]
 https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 1 [FHD]
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 1 [SD]
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen2.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Legislativo",Parlamentsfernsehen 2 [FHD]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
@@ -790,22 +759,17 @@ https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [FHD] (fonte 2)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [FHD] (fonte 3)
-https://freem3u.xyz/api/live/play.m3u8?vid=109
+http://stream.mcquack.net/440/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [HD] (fonte 4)
 http://170.83.16.50/DW/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [HD] (fonte 5)
 https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 6)
-http://stream.mcquack.net/440/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 7)
 https://cdn-7.pishow.tv/live/431/master.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 8)
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 7)
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 9)
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 8)
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW English [SD] (fonte 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/116/116_0.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW Espanol [FHD]
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/MNKkgfa.png" tvg-type="live" group-title="🇩🇪 Alemanha | Notícias",DW Espanol [FHD] (fonte 2)
@@ -857,10 +821,14 @@ https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPolizeiserien.de@DACH" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Polizeiserien
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.de@DACH" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Sci-Fi
+https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerie.de@DACH" tvg-logo="https://i.imgur.com/u3c80e8.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Serie
 https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.de@DACH" tvg-logo="https://i.imgur.com/YzrUL8P.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de@DACH" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV True Crime
+https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesternSerien.de@DACH" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",Pluto TV Western Serien
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 tvg-id="TheLWordWennFrauenlieben.de@DACH" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" tvg-type="live" group-title="🇩🇪 Alemanha | Séries",The L Word – Wenn Frauen lieben

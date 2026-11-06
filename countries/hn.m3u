@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="La981TV.hn@SD" tvg-logo="https://i.imgur.com/7380kTN.png" tvg-type="live" group-title="🇭🇳 Honduras | Música",La 98.1 TV [HD]
 https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
-#EXTINF:-1 tvg-id="LaTop1029.hn@SD" tvg-logo="https://i.imgur.com/ZqwLPag.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Música",La Top 102.9 [HD]
+#EXTINF:-1 tvg-id="LaTop1029.hn@SD" tvg-logo="https://i.imgur.com/ZqwLPag.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Música",La Top 102.9 [FHD]
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-#EXTINF:-1 tvg-id="LaTop1077.hn@SD" tvg-logo="https://i.imgur.com/vgHhh1W.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Música",La Top 107.7 [HD]
+#EXTINF:-1 tvg-id="LaTop1077.hn@SD" tvg-logo="https://i.imgur.com/vgHhh1W.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Música",La Top 107.7 [FHD]
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 tvg-id="PicosaTV.hn@SD" tvg-logo="https://i.imgur.com/AGFeu7r.png" tvg-type="live" group-title="🇭🇳 Honduras | Música",Picosa TV [HD]
 http://45.167.2.101:8000/play/a0sd/index.m3u8
@@ -31,12 +31,12 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD" tvg-logo="https://i.imgur.com/nUsq67m.png" tvg-type="live" group-title="🇭🇳 Honduras | Educação",STVE Telebasica [FHD]
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC [FHD]
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC [HD] (fonte 2)
-http://190.61.101.11:7050/play/a06t/index.m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC (fonte 3)
+#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC [HD]
 https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC [FHD] (fonte 2)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC [HD] (fonte 3)
+http://190.61.101.11:7050/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Tigo Sports [FHD]
 http://168.196.127.137:6001/play/a0ay/index.m3u8
 #EXTINF:-1 tvg-id="TalangaTVCanal39.hn@SD" tvg-logo="https://i.imgur.com/5GiUzHC.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Família",Talanga TV Canal 39 [SD]
@@ -71,10 +71,10 @@ https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8
 https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CVATV.hn@SD" tvg-logo="https://i.imgur.com/R8P5enu.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Geral",CVA TV [SD]
 http://190.124.161.21:8086/cvatv/live.m3u8
-#EXTINF:-1 tvg-id="GloboTV.hn@SD" tvg-logo="https://i.imgur.com/hxGvZ77.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Globo TV [FHD]
-https://panel.dattalive.com/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="GloboTV.hn@SD" tvg-logo="https://i.imgur.com/hxGvZ77.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Globo TV (fonte 2)
+#EXTINF:-1 tvg-id="GloboTV.hn@SD" tvg-logo="https://i.imgur.com/hxGvZ77.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Globo TV [HD]
 https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8
+#EXTINF:-1 tvg-id="GloboTV.hn@SD" tvg-logo="https://i.imgur.com/hxGvZ77.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Globo TV [FHD] (fonte 2)
+https://panel.dattalive.com/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="GuayapeTV.hn@SD" tvg-logo="https://i.imgur.com/cteBdAJ.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Guayape TV
 https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
 #EXTINF:-1 tvg-id="LitoralAtlanticoHD.hn@SD" tvg-logo="https://i.imgur.com/UXsgEPX.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Litoral Atlántico HD [HD]
@@ -95,9 +95,7 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn@SD" tvg-logo="https://i.imgur.com/3gzFNog.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Telecadena 7 y 4 [SD]
 http://45.167.2.101:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-logo="https://i.imgur.com/oPSfsvy.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Teleceiba [FHD]
-http://45.238.141.222:8000/play/a0pf/index.m3u8
-#EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-logo="https://i.imgur.com/oPSfsvy.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Teleceiba [HD] (fonte 2)
+#EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-logo="https://i.imgur.com/oPSfsvy.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Teleceiba [HD]
 https://teleceiba.com/stream/tlcb720.m3u8
 #EXTINF:-1 tvg-id="TeleDanli.hn@SD" tvg-logo="https://i.imgur.com/BACuUSc.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",TeleDanli
 https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
@@ -105,7 +103,7 @@ https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
 https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn@SD" tvg-logo="https://i.imgur.com/eORs1yt.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Telemas [FHD]
 https://s.emisoras.tv:8081/telemas/index.m3u8
-#EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD" tvg-logo="https://i.imgur.com/8LnLEQz.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Television Olanchana [FHD]
+#EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD" tvg-logo="https://i.imgur.com/8LnLEQz.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Television Olanchana [HD]
 https://viewhn.com/canal30/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionComayaguaCanal40.hn@SD" tvg-logo="https://i.imgur.com/uDLhsDM.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Televisión Comayagua Canal 40 [HD]
 https://mediacp.us:8081/8034/index.m3u8
@@ -131,8 +129,6 @@ https://servilive.com:3508/stream/play.m3u8
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",HCH [HD]
 https://live.streamhch.com/live/streams/hch1.m3u8
-#EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",HCH [HD] (fonte 2)
-http://45.228.234.9:8000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="ICNDigital.hn@SD" tvg-logo="https://i.imgur.com/UCZVQgj.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn@SD" tvg-logo="https://i.imgur.com/fc5IHSy.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",Lenca Television Canal 40 [HD]
@@ -143,7 +139,7 @@ https://media.streambrothers.com:19360/8356/8356.m3u8
 https://media.streambrothers.com:19360/8036/8036.m3u8
 #EXTINF:-1 tvg-id="MasNoticiasTelevision.hn@SD" tvg-logo="https://i.imgur.com/FG4nfRX.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",Más Noticias Televisión [HD]
 https://www.amixtv.com:8081/mntvh/index.m3u8
-#EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",RCV TV [SD]
+#EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",RCV TV [FHD]
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="TSi.hn@SD" tvg-logo="https://i.imgur.com/GEyxDnf.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",TSi [HD]
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8

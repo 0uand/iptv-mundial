@@ -70,11 +70,13 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayiConcerts.ca@HD" tvg-logo="https://i.imgur.com/GKc7RFz.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray iConcerts HD
 https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayiConcerts.ca@HD" tvg-logo="https://i.imgur.com/GKc7RFz.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray iConcerts HD [FHD] (fonte 2)
+http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray Italo Disco [FHD]
 https://lotus.stingray.com/manifest/ose-311ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayJukeboxOldies.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray Jukebox Oldies [FHD]
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/9TLTLS3.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray Karaoke [FHD]
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-logo="https://i.imgur.com/9TLTLS3.png" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray Karaoke [HD]
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Música",Stingray le Palmares [FHD]
 https://lotus.stingray.com/manifest/ose-060ads-montreal/samsungtvplus/master.m3u8
@@ -146,7 +148,7 @@ https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
 https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
 #EXTINF:-1 tvg-id="GameShowCentral.us@SD" tvg-logo="https://i.imgur.com/Uuc5h1s.png" tvg-type="live" group-title="🇨🇦 Canadá | Entretenimento",Game Show Central
 https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
-#EXTINF:-1 tvg-id="MHZ.ca@SD" tvg-logo="https://i.imgur.com/a5fw83n.jpg" tvg-type="live" group-title="🇨🇦 Canadá | Entretenimento",MHZ
+#EXTINF:-1 tvg-id="MHZ.ca@SD" tvg-logo="https://i.imgur.com/a5fw83n.jpg" tvg-type="live" group-title="🇨🇦 Canadá | Entretenimento",MHZ [HD]
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVJerseyShore.us@CA" tvg-logo="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png" tvg-type="live" group-title="🇨🇦 Canadá | Entretenimento",MTV Jersey Shore
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
@@ -154,7 +156,7 @@ https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 #EXTINF:-1 tvg-id="MTVRidiculousness.us@CA" tvg-logo="https://i.imgur.com/GIKkbjT.png" tvg-type="live" group-title="🇨🇦 Canadá | Entretenimento",MTV Ridiculousness
 https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
-#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" tvg-logo="https://i.imgur.com/MsIx7Ax.png" tvg-type="live" group-title="🇨🇦 Canadá | Entretenimento",People are Awesome
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" tvg-logo="https://i.imgur.com/MsIx7Ax.png" tvg-type="live" group-title="🇨🇦 Canadá | Entretenimento",People are Awesome [HD]
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us@CA" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" tvg-type="live" group-title="🇨🇦 Canadá | Entretenimento",Pluto TV Adventure
 https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
@@ -220,7 +222,7 @@ https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d.m3u8
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralAnimation.us@SD" tvg-logo="https://i.imgur.com/uENch0P.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
-#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",DryBar Comedy
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",DryBar Comedy [HD]
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇨🇦 Canadá | Comédia",FailArmy
 https://jmp2.uk/plu-62bdb5500c21270007218ce1.m3u8
@@ -242,9 +244,9 @@ https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
 https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca@SD" tvg-logo="https://i.imgur.com/swUX3hQ.png" tvg-type="live" group-title="🇨🇦 Canadá | Culinária",Gusto TV [FHD]
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-logo="https://i.imgur.com/rpg0bQA.png" tvg-type="live" group-title="🇨🇦 Canadá | Cultura",C Malayalam TV [FHD]
+#EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-logo="https://i.imgur.com/rpg0bQA.png" tvg-type="live" group-title="🇨🇦 Canadá | Cultura",C Malayalam TV [HD]
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
-#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.imgur.com/8pR8Q4J.png" tvg-type="live" group-title="🇨🇦 Canadá | Cultura",Doyel TV
+#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.imgur.com/8pR8Q4J.png" tvg-type="live" group-title="🇨🇦 Canadá | Cultura",Doyel TV [FHD]
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-id="DukhNivaran.ca@SD" tvg-logo="https://i.imgur.com/Zh60l1x.png" tvg-type="live" group-title="🇨🇦 Canadá | Cultura",Dukh Nivaran [HD]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
@@ -280,8 +282,6 @@ https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" tvg-type="live" group-title="🇨🇦 Canadá | Esportes",TSN The Ocho [FHD]
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-logo="https://i.imgur.com/qJyAWU8.png" tvg-type="live" group-title="🇨🇦 Canadá | Esportes",TSN4 [HD]
-http://109.104.153.220:80/TSN-4/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" tvg-type="live" group-title="🇨🇦 Canadá | Esportes",Willow Sports [HD]
 https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US" tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-type="live" group-title="🇨🇦 Canadá | Esportes",World Poker Tour
@@ -332,7 +332,7 @@ https://jmp2.uk/plu-66fd394e9269330008413302.m3u8
 https://jmp2.uk/plu-6540fe4bbdf3cf0008aa2cdd.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-type="live" group-title="🇨🇦 Canadá | Geral",Az Star TV [FHD]
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-type="live" group-title="🇨🇦 Canadá | Geral",Az Star TV [SD] (fonte 2)
+#EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-type="live" group-title="🇨🇦 Canadá | Geral",Az Star TV [FHD] (fonte 2)
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",Beyond History
 https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
@@ -348,7 +348,7 @@ https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
 https://jmp2.uk/plu-66a8f01914a2bb00084dd86c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",CBC News Toronto [HD]
 https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",CFJC Kamloops BC [HD]
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",CFJC Kamloops BC [SD]
 #EXTVLCOPT:http-referrer=https://cfjctoday.com/
 https://videostream.jpbgdigital.com/CFJCTV.m3u8
 #EXTINF:-1 tvg-id="CTV.ca@CFTODT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" tvg-type="live" group-title="🇨🇦 Canadá | Geral",CFTO-DT [HD]
@@ -359,7 +359,7 @@ http://185.246.209.113/CHCHHD/index.m3u8
 https://jmp2.uk/plu-6582f7d612d5ee00089a663d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",Christmas 365
 https://jmp2.uk/plu-62fb6d4308f5ec0007453c09.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",CKPG Prince George BC [HD]
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",CKPG Prince George BC [SD]
 #EXTVLCOPT:http-referrer=https://ckpgtoday.ca/
 https://videostream.jpbgdigital.com/CKPGTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",CNN Headlines
@@ -496,7 +496,7 @@ https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇦 Canadá | Geral",Super Channel Hearties [HD]
 https://jmp2.uk/plu-6729d651c7626f0008b5dacf.m3u8
-#EXTINF:-1 tvg-id="TAGTV.ca@SD" tvg-logo="https://i.imgur.com/4PA2adF.png" tvg-type="live" group-title="🇨🇦 Canadá | Geral",TAG TV [FHD]
+#EXTINF:-1 tvg-id="TAGTV.ca@SD" tvg-logo="https://i.imgur.com/4PA2adF.png" tvg-type="live" group-title="🇨🇦 Canadá | Geral",TAG TV [HD]
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TamilVisionTV.ca@SD" tvg-logo="https://i.imgur.com/DodsLuW.png" tvg-type="live" group-title="🇨🇦 Canadá | Geral",TamilVision-TV [FHD]
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
@@ -572,7 +572,7 @@ https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
 http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD" tvg-logo="https://i.imgur.com/xKXs6ER.png" tvg-type="live" group-title="🇨🇦 Canadá | Legislativo",Ontario Parliamentary Network [HD]
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD" tvg-logo="https://i.imgur.com/xKXs6ER.png" tvg-type="live" group-title="🇨🇦 Canadá | Legislativo",Ontario Parliamentary Network (fonte 2)
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD" tvg-logo="https://i.imgur.com/xKXs6ER.png" tvg-type="live" group-title="🇨🇦 Canadá | Legislativo",Ontario Parliamentary Network [HD] (fonte 2)
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-type="live" group-title="🇨🇦 Canadá | Negócios",Bloomberg TV+ [HD]
 https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8
@@ -590,6 +590,8 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 tvg-id="CP24.ca@SD" tvg-logo="https://i.imgur.com/YzjZUEl.png" tvg-type="live" group-title="🇨🇦 Canadá | Notícias",CP24 [SD]
 https://tvsen6.aynaott.com/cp24/index.m3u8
+#EXTINF:-1 tvg-id="CP24.ca@SD" tvg-logo="https://i.imgur.com/YzjZUEl.png" tvg-type="live" group-title="🇨🇦 Canadá | Notícias",CP24 [HD] (fonte 2)
+http://107.167.16.138/cp24/index.m3u8?token=test
 #EXTINF:-1 tvg-id="IciRDI.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" tvg-type="live" group-title="🇨🇦 Canadá | Notícias",ICI RDI [HD]
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.imgur.com/7oTsfQ4.png" tvg-type="live" group-title="🇨🇦 Canadá | Notícias",Probashi TV News [FHD]

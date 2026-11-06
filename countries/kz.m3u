@@ -4,7 +4,7 @@
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:-1 tvg-id="QonaevMedia.kz@SD" tvg-logo="https://i.imgur.com/JLlqgdp.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Entretenimento",Qonaev Media
 https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
-#EXTINF:-1 tvg-id="AbaiTV.kz@SD" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Cultura",Abai TV [HD]
+#EXTINF:-1 tvg-id="AbaiTV.kz@SD" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Cultura",Abai TV [FHD]
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz@SD" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Cultura",Abai TV [SD] (fonte 2)
 https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
@@ -61,10 +61,10 @@ https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/26/index.m3u8
 #EXTINF:-1 tvg-id="KTK.kz@SD" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",KTK [SD] (fonte 2)
 https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="KTK.kz@HD" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",KTK HD [HD]
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-id="KTK.kz@HD" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",KTK HD [HD] (fonte 2)
+#EXTINF:-1 tvg-id="KTK.kz@HD" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",KTK HD [FHD]
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTK.kz@HD" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",KTK HD [HD] (fonte 2)
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 tvg-id="Kokshe.kz@SD" tvg-logo="https://i.imgur.com/pOR3FSR.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Kókshe [HD]
 https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 #EXTINF:-1 tvg-id="Mangystay.kz@SD" tvg-logo="https://i.imgur.com/9JfLseu.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Mańǵystaý [SD]
@@ -75,8 +75,6 @@ https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Novoe televidenie (fonte 2)
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Novoe televidenie (fonte 3)
-http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="NTK.kz@SD" tvg-logo="https://i.imgur.com/hHSCH4L.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",NTK [SD]
 http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 tvg-id="NTK.kz@SD" tvg-logo="https://i.imgur.com/hHSCH4L.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",NTK [SD] (fonte 2)
@@ -89,8 +87,6 @@ https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
 #EXTINF:-1 tvg-id="Qazaqstan.kz@SD" tvg-logo="https://i.imgur.com/oI8g396.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan [SD] (fonte 2)
 https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Qazaqstan.kz@SD" tvg-logo="https://i.imgur.com/oI8g396.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan (fonte 3)
-http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="Qazaqstan.kz@HD" tvg-logo="https://i.imgur.com/oI8g396.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan HD [FHD]
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Qazaqstan.kz@HD" tvg-logo="https://i.imgur.com/oI8g396.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Qazaqstan HD [FHD] (fonte 2)
@@ -103,7 +99,7 @@ https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
 https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
 #EXTINF:-1 tvg-id="Qyzylorda.kz@SD" tvg-logo="https://i.imgur.com/r4BFQpE.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Qyzylorda [HD]
 https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1 tvg-id="RikaTV.kz@SD" tvg-logo="https://i.imgur.com/KJHWZ3B.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Rika TV [SD]
+#EXTINF:-1 tvg-id="RikaTV.kz@SD" tvg-logo="https://i.imgur.com/KJHWZ3B.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Rika TV [HD]
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Saryarqa.kz@SD" tvg-logo="https://i.imgur.com/EIXwi1c.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Saryarqa [HD]
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
@@ -112,11 +108,11 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz@SD" tvg-logo="https://i.imgur.com/SJNDksF.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Silk Way [FHD]
 https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
-#EXTINF:-1 tvg-id="TDK42.kz@SD" tvg-logo="https://i.imgur.com/iVhdcS7.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",TDK 42
+#EXTINF:-1 tvg-id="TDK42.kz@SD" tvg-logo="https://i.imgur.com/iVhdcS7.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",TDK 42 [HD]
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TuranTV.kz@SD" tvg-logo="https://i.imgur.com/VagTPMo.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Turan TV [SD]
 https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Ulytau.kz@SD" tvg-logo="https://i.imgur.com/jTL6TvC.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Ulytau
+#EXTINF:-1 tvg-id="Ulytau.kz@SD" tvg-logo="https://i.imgur.com/jTL6TvC.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",Ulytau [HD]
 https://ulytau.tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="MTRK.kz@SD" tvg-logo="https://i.imgur.com/XMyRwDk.png" tvg-type="live" group-title="🇰🇿 Cazaquistão | Geral",МТРК [SD]
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8

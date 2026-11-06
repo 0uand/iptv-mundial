@@ -37,7 +37,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-sam
 https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk@SD" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Ciência",Wonder [HD]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Comédia",Drybar Comedy
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Comédia",Drybar Comedy [HD]
 https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Comédia",The Chat Show Channel [FHD]
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
@@ -53,31 +53,13 @@ https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00
 https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Racer Network [FHD]
 https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="SkySport1.nz@SD" tvg-logo="https://i.imgur.com/ThJHEuN.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Sky Sport 1
-http://37.49.224.5/stream/44/index.m3u8
-#EXTINF:-1 tvg-id="SkySport2.nz@SD" tvg-logo="https://i.imgur.com/cu8yB69.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Sky Sport 2
-http://37.49.224.5/stream/45/index.m3u8
-#EXTINF:-1 tvg-id="SkySport3.nz@SD" tvg-logo="https://i.imgur.com/XYp3Ua3.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Sky Sport 3
-http://37.49.224.5/stream/46/index.m3u8
-#EXTINF:-1 tvg-id="SkySport4.nz@SD" tvg-logo="https://i.imgur.com/KUXs7SQ.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Sky Sport 4
-http://37.49.224.5/stream/51/index.m3u8
-#EXTINF:-1 tvg-id="SkySport7.nz@SD" tvg-logo="https://i.imgur.com/iuTNWh4.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Sky Sport 7
-http://37.49.224.5/stream/50/index.m3u8
-#EXTINF:-1 tvg-id="SkySport8.nz@SD" tvg-logo="https://i.imgur.com/8YjqlRv.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Sky Sport 8
-http://37.49.224.5/stream/70/index.m3u8
-#EXTINF:-1 tvg-id="SkySport9.nz@SD" tvg-logo="https://i.imgur.com/9fLRHSg.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Sky Sport 9
-http://37.49.224.5/stream/52/index.m3u8
-#EXTINF:-1 tvg-id="SkySportSelect.nz@SD" tvg-logo="https://i.imgur.com/6x2anTA.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Sky Sport Select
-http://37.49.224.5/stream/53/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Esportes",Trace Sports Stars [FHD]
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HGTV.nz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Estilo de vida",HGTV [FHD]
-https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Estilo de vida",INFAST [FHD]
 https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us@SD" tvg-logo="https://i.imgur.com/kkm7VqV.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Estilo de vida",PBS Antiques Road Trip [FHD]
 https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
-#EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-logo="https://i.imgur.com/p16HNIM.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Filmes",Made in Hollywood
+#EXTINF:-1 tvg-id="MadeInHollywood.us@SD" tvg-logo="https://i.imgur.com/p16HNIM.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Filmes",Made in Hollywood [HD]
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@AU" tvg-logo="https://i.imgur.com/0sfk3yp.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Filmes",MovieSphere AU [FHD]
 https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
@@ -99,7 +81,7 @@ https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/play
 https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Inside Outside [HD]
 https://all3media-international-insideoutside-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KordiaTV.nz@SD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Kordia TV [FHD]
+#EXTINF:-1 tvg-id="KordiaTV.nz@SD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Kordia TV [SD]
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Life Downunder [HD]
 https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8
@@ -113,7 +95,7 @@ https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/a
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",RCM [FHD]
 https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Real Crime
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Real Crime [FHD]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-logo="https://i.imgur.com/T9HHmAO.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Real Wild [FHD]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
@@ -124,11 +106,11 @@ https://i.mjh.nz/.r/te-reo.m3u8
 #EXTINF:-1 tvg-id="TrueCrimeNow.us@SD" tvg-logo="https://i.imgur.com/Y6Hix17.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",True Crime Now [FHD]
 https://amg00376-magellan-amg00376c12-samsung-nz-1727.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Wairarapa TV [FHD]
-https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
-#EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Wairarapa TV [FHD] (fonte 2)
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
-#EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Wairarapa TV [SD] (fonte 3)
+#EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Wairarapa TV [SD] (fonte 2)
 https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+#EXTINF:-1 tvg-id="WairarapaTV.nz@SD" tvg-logo="https://i.imgur.com/xm4KBwE.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Wairarapa TV [FHD] (fonte 3)
+https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
 #EXTINF:-1 tvg-id="WhakaataMaori.nz@SD" tvg-logo="https://i.imgur.com/oT3PrHZ.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Geral",Whakaata Maori [FHD]
 https://i.mjh.nz/.r/maori-tv.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" tvg-type="live" group-title="🇳🇿 Nova Zelândia | Infantil",Kartoon Channel [FHD]

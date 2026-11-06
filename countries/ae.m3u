@@ -21,10 +21,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae@SD" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Entretenimento",MBC Persia [HD] (fonte 2)
 https://hls.mbcpersia.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Animação",Cartoon Network Arabic
-http://149.100.11.252:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Animação",Spacetoon Arabic [SD]
-#EXTVLCOPT:http-referrer=https://spacetoon.com
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" tvg-logo="https://i.imgur.com/Hoc3cfO.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Documentários",Al Arabiya Programs [FHD]
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
@@ -32,7 +29,7 @@ https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="OSNMoviesAction.ae@SD" tvg-logo="https://i.imgur.com/uOzyKup.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Filmes",OSN Movies Action [FHD]
 http://116.90.120.151:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Geral",Ajman TV [FHD]
+#EXTINF:-1 tvg-id="AjmanTV.ae@SD" tvg-logo="https://i.imgur.com/hVNIwgE.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Geral",Ajman TV [HD]
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQamarTV.ae@SD" tvg-logo="https://i.imgur.com/zkBT0C8.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Geral",Al Qamar TV [FHD]
 https://streamer3.premio.link/alqamar/playlist.m3u8
@@ -66,7 +63,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3da
 https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Notícias",Sky News Arabia [FHD] (fonte 2)
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Notícias",Sky News Arabia [HD] (fonte 3)
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Notícias",Sky News Arabia [FHD] (fonte 3)
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae@SD" tvg-logo="https://i.imgur.com/FjtzQQs.png" tvg-type="live" group-title="🇦🇪 Emirados Árabes | Notícias",Sky News Arabia (Portrait) [FHD]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8

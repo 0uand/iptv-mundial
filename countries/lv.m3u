@@ -8,10 +8,10 @@ https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
 http://stream.mcquack.net/371/index.m3u8
 #EXTINF:-1 tvg-id="LTV7.lv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png" tvg-type="live" group-title="🇱🇻 Letônia | Entretenimento",LTV7 [FHD] (fonte 2)
 https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="LTV7.lv@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png" tvg-type="live" group-title="🇱🇻 Letônia | Entretenimento",LTV7 [HD] (fonte 3)
-https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="LTV7.lv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png" tvg-type="live" group-title="🇱🇻 Letônia | Entretenimento",LTV7 (fonte 4)
+#EXTINF:-1 tvg-id="LTV7.lv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png" tvg-type="live" group-title="🇱🇻 Letônia | Entretenimento",LTV7 [FHD] (fonte 3)
 http://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png" tvg-type="live" group-title="🇱🇻 Letônia | Entretenimento",LTV7 [HD] (fonte 4)
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Pingviins.lv@SD" tvg-logo="https://i.imgur.com/hfXoJIY.png" tvg-type="live" group-title="🇱🇻 Letônia | Animação",Пингвин [HD]
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
 #EXTINF:-1 tvg-id="TV3Life.lv@SD" tvg-logo="https://i.imgur.com/Tm8hj45.png" tvg-type="live" group-title="🇱🇻 Letônia | Estilo de vida",TV3 Life [FHD]
@@ -20,6 +20,8 @@ http://stream.mcquack.net/373/index.m3u8
 #EXTINF:-1 tvg-id="MovifyKino.lv@SD" tvg-logo="https://i.imgur.com/XIk5EJN.png" tvg-type="live" group-title="🇱🇻 Letônia | Filmes",Movify Kino [SD]
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇱🇻 Letônia | Geral",Duo 6
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/18018/index.m3u8
 #EXTINF:-1 tvg-id="LTV1.lv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/960px-LTV1_%282022%29.svg.png" tvg-type="live" group-title="🇱🇻 Letônia | Geral",LTV1 [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/34/index.m3u8

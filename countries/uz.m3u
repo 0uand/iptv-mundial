@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="BIZMusic.uz@SD" tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Música",BIZ Music [FHD]
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
-#EXTINF:-1 tvg-id="BIZMusic.uz@SD" tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Música",BIZ Music (fonte 2)
+#EXTINF:-1 tvg-id="BIZMusic.uz@SD" tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Música",BIZ Music
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FTV.uz@SD" tvg-logo="https://i.imgur.com/7lpISyN.jpg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Música",FTV [SD]
+#EXTINF:-1 tvg-id="BIZMusic.uz@SD" tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Música",BIZ Music [FHD] (fonte 2)
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF:-1 tvg-id="FTV.uz@SD" tvg-logo="https://i.imgur.com/7lpISyN.jpg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Música",FTV [FHD]
 https://stream8.cinerama.uz/1018/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzTVUzbekistan.uz@SD" tvg-logo="https://s8.vcdn.biz/static/f/6010782281/image.jpg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Música",Muz TV Uzbekistan
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BIZTV.uz@SD" tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Entretenimento",BIZ TV [FHD]
-https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
-#EXTINF:-1 tvg-id="BIZTV.uz@SD" tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Entretenimento",BIZ TV (fonte 2)
+#EXTINF:-1 tvg-id="BIZTV.uz@SD" tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Entretenimento",BIZ TV
 https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BIZTV.uz@SD" tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Entretenimento",BIZ TV [FHD] (fonte 2)
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
 #EXTINF:-1 tvg-id="CheksizTV.uz@SD" tvg-logo="https://i.imgur.com/f7hHmmR.jpeg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Entretenimento",Cheksiz TV
 https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MakonTV.uz@SD" tvg-logo="https://i.imgur.com/vCc0ED1.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Entretenimento",Makon TV (576i)
@@ -27,10 +27,10 @@ http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SevimliTV.uz@SD" tvg-logo="https://i.imgur.com/iMwzRlr.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Família",Sevimli TV [FHD]
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="BIZCinema.uz@SD" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Filmes",BIZ Cinema [FHD]
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-#EXTINF:-1 tvg-id="BIZCinema.uz@SD" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Filmes",BIZ Cinema (fonte 2)
+#EXTINF:-1 tvg-id="BIZCinema.uz@SD" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Filmes",BIZ Cinema
 https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BIZCinema.uz@SD" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Filmes",BIZ Cinema [FHD] (fonte 2)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 tvg-id="Kinoteatr.uz@SD" tvg-logo="https://i.imgur.com/emH1BgC.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Filmes",Kinoteatr [FHD]
 https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="DasturxonTV.uz@SD" tvg-logo="https://i.imgur.com/APM2ej5.jpeg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Geral",Dasturxon TV [SD]
@@ -55,7 +55,7 @@ https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ozbekiston.uz@SD" tvg-logo="https://i.imgur.com/QUIIhTD.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Geral",O'zbekiston [SD]
 https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Qaraqalpaqstan.uz@SD" tvg-logo="https://i.imgur.com/G3qrUJh.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Geral",Qaraqalpaqstan [HD]
+#EXTINF:-1 tvg-id="Qaraqalpaqstan.uz@SD" tvg-logo="https://i.imgur.com/G3qrUJh.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Geral",Qaraqalpaqstan [SD]
 https://stream8.cinerama.uz/1467/playlist.m3u8
 #EXTINF:-1 tvg-id="RenessansTV.uz@SD" tvg-logo="https://i.imgur.com/cVlcqCX.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Geral",Renessans TV [SD]
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
@@ -69,8 +69,6 @@ https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bolajon.uz@SD" tvg-logo="https://i.imgur.com/s7o0ifu.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Infantil",Bolajon [SD]
 https://stream8.cinerama.uz/1007/playlist.m3u8
-#EXTINF:-1 tvg-id="MiMiTV.uz@SD" tvg-logo="https://i.imgur.com/NmQglPa.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Infantil",MiMi TV [HD]
-https://fl.biztv.media/MiMiTV_720/playlist.m3u8
 #EXTINF:-1 tvg-id="Ozbekiston24.uz@SD" tvg-logo="https://i.imgur.com/VRFhKbw.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Notícias",O'zbekiston 24 [FHD]
 https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="UzReportTV.uz@SD" tvg-logo="https://i.imgur.com/Bch2RHc.jpg" tvg-type="live" group-title="🇺🇿 Uzbequistão | Notícias",UzReport TV [FHD]

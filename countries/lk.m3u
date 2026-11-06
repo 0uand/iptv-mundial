@@ -7,19 +7,17 @@ https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVLANKA.lk@SD" tvg-logo="https://i.imgur.com/5cyTVRJ.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Entretenimento",NDTV LANKA [FHD]
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Cultura",Imai TV [FHD]
+#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Cultura",Imai TV [SD]
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="CharanaTV.lk@SD" tvg-logo="" tvg-type="live" group-title="🇱🇰 Sri Lanka | Educação",Charana TV [SD]
 https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
-#EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Esportes",Talent TV [HD]
-http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
-#EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Esportes",Talent TV [SD] (fonte 2)
+#EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Esportes",Talent TV [SD]
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
+#EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Esportes",Talent TV [HD] (fonte 2)
+http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk@SD" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" tvg-type="live" group-title="🇱🇰 Sri Lanka | Filmes",Star Tamil Television [SD]
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
-#EXTINF:-1 tvg-id="Rupavahini.lk@SD" tvg-logo="https://i.imgur.com/vgHTfR0.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Geral",Rupavahini [HD]
-https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8
-#EXTINF:-1 tvg-id="ShakthiTV.lk@SD" tvg-logo="https://i.imgur.com/RX6IwK8.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Geral",Shakthi TV [SD]
+#EXTINF:-1 tvg-id="ShakthiTV.lk@SD" tvg-logo="https://i.imgur.com/RX6IwK8.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Geral",Shakthi TV [HD]
 https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
 #EXTINF:-1 tvg-id="ShraddhaTV.lk@SD" tvg-logo="https://i.imgur.com/sZ3fEMi.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Geral",Shraddha TV [SD]
 https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
@@ -29,7 +27,5 @@ https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 https://teledrama.ebc.lk/TTT/proxy.php
 #EXTINF:-1 tvg-id="TheBuddhist.lk@SD" tvg-logo="https://i.imgur.com/DUzOKWM.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Geral",The Buddhist [SD]
 https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="VerbumTV.lk@SD" tvg-logo="https://i.imgur.com/YEKEaB4.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Geral",Verbum TV [FHD]
-https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
-#EXTINF:-1 tvg-id="VerbumTV.lk@SD" tvg-logo="https://i.imgur.com/YEKEaB4.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Geral",Verbum TV [SD] (fonte 2)
+#EXTINF:-1 tvg-id="VerbumTV.lk@SD" tvg-logo="https://i.imgur.com/YEKEaB4.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Geral",Verbum TV [SD]
 https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8

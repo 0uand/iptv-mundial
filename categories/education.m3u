@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",AgroCanal [HD]
 http://45.162.64.114/AGRO_CANAL/index.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",AgroCanal [HD] (fonte 2)
-http://168.197.104.22/AGRO_CANAL/index.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",AgroCanal [HD] (fonte 3)
-http://170.83.49.66:8083/AGROCANALHD/index.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",AgroCanal [HD] (fonte 4)
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",AgroCanal [SD] (fonte 2)
 http://186.219.52.187/agro_canal/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",AgroCanal [HD] (fonte 3)
+http://168.197.104.22/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",AgroCanal [HD] (fonte 4)
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",AgroCanal (fonte 5)
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Canal Educacao [HD]
@@ -27,7 +27,9 @@ http://186.219.52.187/futura/index.m3u8
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br@SD" tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Canal Saúde [HD]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Futura.br@SD" tvg-logo="https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Futura [HD]
+#EXTINF:-1 tvg-id="Futura.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Futura [HD]
+http://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="Futura.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Futura [HD] (fonte 2)
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",ISTV [HD]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
@@ -45,10 +47,10 @@ https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 #EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us@Brazil" tvg-logo="https://i.imgur.com/0PkyJ3U.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Pronto-socorro: Histórias De Emergência
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
-#EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Rede Minas [FHD]
-https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Rede Minas [HD] (fonte 2)
+#EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Rede Minas [HD]
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Rede Minas [FHD] (fonte 2)
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br@SD" tvg-logo="https://i.imgur.com/KxYsq1d.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Santa Cecilia TV [FHD]
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br@SD" tvg-logo="https://i.imgur.com/KxYsq1d.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",Santa Cecilia TV [FHD] (fonte 2)
@@ -61,13 +63,13 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="UniTVPortoAlegre.br@SD" tvg-logo="https://i.imgur.com/GmA5uuk.png" tvg-type="live" group-title="🇧🇷 Brasil | Educação",UniTV Porto Alegre [SD]
 http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1 tvg-id="BATVEducationalChannel.us@SD" tvg-logo="https://i.imgur.com/eDoJqtg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",BATV Educational Channel
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us@SD" tvg-logo="https://i.imgur.com/eDoJqtg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",BATV Educational Channel [FHD]
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us@SD" tvg-logo="https://i.imgur.com/tUgEAUJ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Bolton Community Voice Channel (CVC) Education (Bolton CT) [SD]
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="BUTV10.us@SD" tvg-logo="https://i.imgur.com/Iv1Fe67.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",BUTV10 (Boston University) [FHD]
+#EXTINF:-1 tvg-id="BUTV10.us@SD" tvg-logo="https://i.imgur.com/Iv1Fe67.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",BUTV10 (Boston University) [HD]
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="CloudflareTV.us@SD" tvg-logo="https://i.imgur.com/l4m0is8.jpeg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Cloudflare TV [HD]
+#EXTINF:-1 tvg-id="CloudflareTV.us@SD" tvg-logo="https://i.imgur.com/l4m0is8.jpeg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Cloudflare TV [FHD]
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="Create.us@SD" tvg-logo="https://i.imgur.com/gJX2K4F.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Create [FHD]
 https://create.lls.pbs.org/index.m3u8
@@ -75,13 +77,13 @@ https://create.lls.pbs.org/index.m3u8
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
 #EXTINF:-1 tvg-id="DKN.us@SD" tvg-logo="https://i.imgur.com/DIau0GB.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",DC.gov DKN (Washington DC) [FHD]
 https://video.oct.dc.gov/out/u/DKN.m3u8
-#EXTINF:-1 tvg-id="DetroitChannel22.us@SD" tvg-logo="https://i.imgur.com/zAdcg9m.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Detroit Channel 22
+#EXTINF:-1 tvg-id="DetroitChannel22.us@SD" tvg-logo="https://i.imgur.com/zAdcg9m.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Detroit Channel 22 [HD]
 https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-id="CMAC2.us@SD" tvg-logo="https://i.imgur.com/O0sYOED.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Fresno CMAC 2 Education Channel [HD]
+#EXTINF:-1 tvg-id="CMAC2.us@SD" tvg-logo="https://i.imgur.com/O0sYOED.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Fresno CMAC 2 Education Channel [FHD]
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Gillette Public Access Television Channel 189
 https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
-#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us@SD" tvg-logo="https://i.imgur.com/bVbpgiD.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",HCTV Educational Access Channel
+#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us@SD" tvg-logo="https://i.imgur.com/bVbpgiD.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",HCTV Educational Access Channel [FHD]
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="KBEV.us@SD" tvg-logo="https://i.imgur.com/YFVrphZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",KBEV Spectrum Channel 6 [Beverly Hills] [FHD]
 https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
@@ -99,9 +101,9 @@ https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us@SD" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Midpen Media Center Youth Education and Sports Channel 28 [HD]
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MCPSSTV.us@SD" tvg-logo="https://i.imgur.com/qo5sk1g.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Mobile County Public Schools TV Network (MCPSS)
+#EXTINF:-1 tvg-id="MCPSSTV.us@SD" tvg-logo="https://i.imgur.com/qo5sk1g.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Mobile County Public Schools TV Network (MCPSS) [HD]
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us@SD" tvg-logo="https://i.imgur.com/gS4x0uX.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Monroe Community Media Education Channel
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us@SD" tvg-logo="https://i.imgur.com/gS4x0uX.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Monroe Community Media Education Channel [FHD]
 https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="NashuaETV.us@SD" tvg-logo="https://i.imgur.com/iv9Vfcb.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Nashua ETV Channel 22 Nashua NH [HD]
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -109,7 +111,7 @@ https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us@SD" tvg-logo="https://i.imgur.com/3YPvfPn.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
-#EXTINF:-1 tvg-id="KOCTChannel19.us@SD" tvg-logo="https://i.imgur.com/6C71KwP.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Oceanside Community Television (KOCT) Education and Government Channel 19 [HD]
+#EXTINF:-1 tvg-id="KOCTChannel19.us@SD" tvg-logo="https://i.imgur.com/6C71KwP.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Oceanside Community Television (KOCT) Education and Government Channel 19 [SD]
 https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-logo="https://i.imgur.com/GYfsHh9.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Payam Javan TV [HD]
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
@@ -117,17 +119,15 @@ https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-logo="https://i.imgur.com/fg8c9WK.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids [HD]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-logo="https://i.imgur.com/fg8c9WK.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids [HD] (fonte 2)
-https://tvsen7.aynascope.net/pbskids/index.m3u8
-#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Alaska [FHD]
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Alaska [HD]
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Eastern/Central [HD]
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Hawaii [HD]
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Mountain [FHD]
+#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Mountain [HD]
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Pacific [FHD]
+#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS Kids Pacific [HD]
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 tvg-id="PBS.us@WNJT" tvg-logo="https://i.imgur.com/O1zzAvh.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",PBS New Jersey NJ (WNJT) [FHD]
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
@@ -135,7 +135,7 @@ https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-id="RedApple21.us@SD" tvg-logo="https://i.imgur.com/ICcQUCH.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Red Apple 21 (Fairfax County Public Schools) [SD]
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
-#EXTINF:-1 tvg-id="SMCTVChannel24.us@SD" tvg-logo="https://i.imgur.com/4Autljp.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Santa Maria Community Television Education Channel [HD]
+#EXTINF:-1 tvg-id="SMCTVChannel24.us@SD" tvg-logo="https://i.imgur.com/4Autljp.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",Santa Maria Community Television Education Channel [FHD]
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="StLuciePublicSchools.us@SD" tvg-logo="https://i.imgur.com/wnB0fWG.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",St Lucie Public Schools
 https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
@@ -149,7 +149,7 @@ https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 #EXTINF:-1 tvg-id="PBS.us@WJXT" tvg-logo="https://i.imgur.com/O1zzAvh.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",WJXT News4JAX (Jacksonville FL) [HD]
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-#EXTINF:-1 tvg-id="Create.us@WMPT" tvg-logo="https://i.imgur.com/gJX2K4F.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",WMPT-DT2 (PBS Create)
+#EXTINF:-1 tvg-id="Create.us@WMPT" tvg-logo="https://i.imgur.com/gJX2K4F.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",WMPT-DT2 (PBS Create) [HD]
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us@SD" tvg-logo="https://i.imgur.com/65dP4BE.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Educação",World Channel [FHD]
 https://world.lls.pbs.org/index.m3u8
@@ -159,8 +159,6 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",English Club TV (576i)
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PBSAmerica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PBS_America_2022.svg/960px-PBS_America_2022.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Educação",PBS America [SD]
-http://185.19.191.2:8090/PBS/index.m3u8
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx@SD" tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-type="live" group-title="🇲🇽 México | Educação",Canal 15 ILCE Summa Sabres [HD]
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisterios.us@LatAm" tvg-logo="https://i.imgur.com/gwxX1Y3.png" tvg-type="live" group-title="🇲🇽 México | Educação",Pluto TV Misterios
@@ -169,7 +167,7 @@ https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
 https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
 #EXTINF:-1 tvg-id="XHUNESTDT.mx@SD" tvg-logo="https://i.imgur.com/LbZkdca.png" tvg-type="live" group-title="🇲🇽 México | Educação",Señal España (XHUNES-TDT) [HD]
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:-1 tvg-id="TeleUV.mx@SD" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" tvg-type="live" group-title="🇲🇽 México | Educação",Tele UV
+#EXTINF:-1 tvg-id="TeleUV.mx@SD" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" tvg-type="live" group-title="🇲🇽 México | Educação",Tele UV [HD]
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBUAP.mx@SD" tvg-logo="https://i.imgur.com/hHrIn0r.png" tvg-type="live" group-title="🇲🇽 México | Educação",TV BUAP [FHD]
 https://tvenvivo.buap.mx/livestream/stream/index.m3u8
@@ -179,7 +177,7 @@ https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
 https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUJAT.mx@SD" tvg-logo="https://i.imgur.com/4demWOi.png" tvg-type="live" group-title="🇲🇽 México | Educação",TV UJAT (XHUJAT-TDT) [HD]
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 tvg-id="UAATV.mx@SD" tvg-logo="https://i.imgur.com/brCSiGh.png" tvg-type="live" group-title="🇲🇽 México | Educação",UAA TV [FHD]
+#EXTINF:-1 tvg-id="UAATV.mx@SD" tvg-logo="https://i.imgur.com/brCSiGh.png" tvg-type="live" group-title="🇲🇽 México | Educação",UAA TV [SD]
 https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 #EXTINF:-1 tvg-id="UACJTV.mx@SD" tvg-logo="https://i.imgur.com/a1WaGTQ.jpeg" tvg-type="live" group-title="🇲🇽 México | Educação",UACJ-TV
 https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
@@ -197,13 +195,11 @@ http://138.121.15.230:9002/ZOOM/index.m3u8
 http://190.217.66.92:8000/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom [FHD] (fonte 3)
 http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8
-#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-type="live" group-title="🇨🇴 Colômbia | Educação",Zoom (fonte 4)
-http://181.78.79.131:8000/play/a0sg
 #EXTINF:-1 tvg-id="GVision.cl@SD" tvg-logo="https://i.imgur.com/jUPHG21.png" tvg-type="live" group-title="🇨🇱 Chile | Educação",GVision [SD]
 https://videostream.chileservidores.com:8081/tome/index.m3u8
 #EXTINF:-1 tvg-id="TVUsach.cl@SD" tvg-logo="https://i.imgur.com/KDC7IVl.png" tvg-type="live" group-title="🇨🇱 Chile | Educação",TV Usach [HD]
 https://stv4.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-id="UMAGTV.cl@SD" tvg-logo="https://i.imgur.com/biXepTU.png" tvg-type="live" group-title="🇨🇱 Chile | Educação",UMAGTV
+#EXTINF:-1 tvg-id="UMAGTV.cl@SD" tvg-logo="https://i.imgur.com/biXepTU.png" tvg-type="live" group-title="🇨🇱 Chile | Educação",UMAGTV [HD]
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="UTalcaTV.cl@SD" tvg-logo="https://i.imgur.com/2AK61FQ.png" tvg-type="live" group-title="🇨🇱 Chile | Educação",UTalca TV [FHD]
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
@@ -226,7 +222,7 @@ https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo@HD" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" tvg-type="live" group-title="🇧🇴 Bolívia | Educação",Unifranz [HD] (fonte 2)
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="TVMaya.gt@SD" tvg-logo="https://i.imgur.com/BGFa4OO.png" tvg-type="live" group-title="🇬🇹 Guatemala | Educação",TV Maya [SD]
+#EXTINF:-1 tvg-id="TVMaya.gt@SD" tvg-logo="https://i.imgur.com/BGFa4OO.png" tvg-type="live" group-title="🇬🇹 Guatemala | Educação",TV Maya [HD]
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn@SD" tvg-logo="https://i.imgur.com/E1TmADM.png" tvg-type="live" group-title="🇭🇳 Honduras | Educação",Campus TV [SD]
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
@@ -234,14 +230,12 @@ https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal15.ni@SD" tvg-logo="https://i.imgur.com/DGBMuEs.png" tvg-type="live" group-title="🇳🇮 Nicarágua | Educação",Canal 15 Nicaragüense [FHD]
 https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" tvg-type="live" group-title="🇪🇸 Espanha | Educação",Platzi TV [FHD]
+#EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" tvg-type="live" group-title="🇪🇸 Espanha | Educação",Platzi TV [HD]
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [HD]
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [HD] (fonte 2)
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [FHD]
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",Da Vinci Asia Vietnam [FHD]
-https://vmttv.dpdns.org/tv360/?id=davinci-hd
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",ARD-alpha [HD] (fonte 2)
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="iSTUFF.de@SD" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",iSTUFF [HD]
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="NRWision.de@SD" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-type="live" group-title="🇩🇪 Alemanha | Educação",NRWision [FHD]
@@ -250,6 +244,9 @@ https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1 tvg-id="PersianaMedical.fr@SD" tvg-logo="" tvg-type="live" group-title="🇫🇷 França | Educação",Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Educação",Rai Scuola [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Educação",EBS 1 [SD]
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Educação",EBS 1 [SD] (fonte 2)
@@ -268,22 +265,21 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCEntertains.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-type="live" group-title="🇦🇺 Austrália | Educação",ABC Entertains [HD]
 https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="DaVinci.pl@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇵🇱 Polônia | Educação",Da Vinci [FHD]
+http://57.128.231.171:8080/284/index.m3u8
 #EXTINF:-1 tvg-id="M5.hu@SD" tvg-logo="https://i.imgur.com/y21wFd0.png" tvg-type="live" group-title="🇭🇺 Hungria | Educação",M5 [FHD]
-http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="DeParintiro.ro@SD" tvg-logo="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" tvg-type="live" group-title="🇷🇴 Romênia | Educação",DeParinti.ro [SD]
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
-#EXTINF:-1 tvg-id="BVG.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",BVG [SD]
+#EXTINF:-1 tvg-id="BVG.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",BVG [HD]
 https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [FHD]
-https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [HD] (fonte 2)
+#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [SD]
+https://cdn.pishow.tv/ott/live/223/master.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [SD] (fonte 2)
 https://cdn.pishow.tv/ott/live/9/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [SD] (fonte 3)
-https://cdn.pishow.tv/ott/live/223/master.m3u8
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [SD] (fonte 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/148/148_0.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",DD Kisan [SD] (fonte 5)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
 #EXTINF:-1 tvg-id="EVidya10.in@SD" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",E-Vidya 10 [SD]
 http://103.72.101.252:8080/live/411.m3u8
@@ -303,17 +299,19 @@ http://103.72.101.252:8080/live/404.m3u8
 http://103.72.101.252:8080/live/409.m3u8
 #EXTINF:-1 tvg-id="EVidya9.in@SD" tvg-logo="https://i.imgur.com/0sz6t9F.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",E-Vidya 9 [SD]
 http://103.72.101.252:8080/live/410.m3u8
-#EXTINF:-1 tvg-id="Gyandarshan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143100_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",Gyandarshan [HD]
+#EXTINF:-1 tvg-id="Gyandarshan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143100_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",Gyandarshan [SD]
 https://cdn.pishow.tv/ott/live/14/master.m3u8
-#EXTINF:-1 tvg-id="Gyandarshan.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143100_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",Gyandarshan HD [SD]
+#EXTINF:-1 tvg-id="Gyandarshan.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143100_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Educação",Gyandarshan HD [HD]
 https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
-#EXTINF:-1 tvg-id="KiteVicters.in@SD" tvg-logo="https://i.imgur.com/kj4OEsb.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",KITE Victers (Kerala) [HD]
+#EXTINF:-1 tvg-id="KiteVicters.in@SD" tvg-logo="https://i.imgur.com/kj4OEsb.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",Kite Victers [SD]
+http://51.75.127.199:3141/kitevicters/index.m3u8
+#EXTINF:-1 tvg-id="KiteVicters.in@SD" tvg-logo="https://i.imgur.com/kj4OEsb.png" tvg-type="live" group-title="🇮🇳 Índia | Educação",KITE Victers (Kerala) [FHD]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VyasChannel.in@SD" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" tvg-type="live" group-title="🇮🇳 Índia | Educação",Vyas NIC [SD]
+#EXTINF:-1 tvg-id="VyasChannel.in@SD" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" tvg-type="live" group-title="🇮🇳 Índia | Educação",Vyas NIC [FHD]
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-type="live" group-title="🇨🇳 China | Educação",CCTV-10 [HD]
 http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-type="live" group-title="🇨🇳 China | Educação",CCTV-10 (576i)
+#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-type="live" group-title="🇨🇳 China | Educação",CCTV-10 (576i) [HD]
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-logo="https://i.imgur.com/CKcPMQC.png" tvg-type="live" group-title="🇨🇳 China | Educação",CCTV-7 [HD]
@@ -330,18 +328,24 @@ http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Da Vinci [SD]
 http://stream.mcquack.net/238/index.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Da Vinci [SD] (fonte 2)
-https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Da Vinci (fonte 3)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Da Vinci (fonte 2)
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Doctor [SD]
-http://178.134.1.158:8081/doktor/index.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Doctor [SD] (fonte 2)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Da Vinci [SD] (fonte 3)
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Da Vinci [SD] (fonte 4)
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Doctor [FHD]
 http://stream.mcquack.net/80/index.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Doctor [SD] (fonte 2)
+http://178.134.1.158:8081/doktor/index.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Doctor [SD] (fonte 3)
+http://str2.iptvhd.ru:8080/24Dok/index.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Doctor (576i)
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EnglishClass.ru@SD" tvg-logo="https://i.imgur.com/gst7wW7.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",English Class HD [FHD]
 http://31.148.48.15/English_club_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="Ktoestkto.ru@SD" tvg-logo="https://i.imgur.com/PmD17UQ.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Kto est kto [SD]
+http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Доктор [FHD]
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-id="Ktoestkto.ru@SD" tvg-logo="https://i.imgur.com/PmD17UQ.png" tvg-type="live" group-title="🇷🇺 Rússia | Educação",Кто есть Кто [SD]
@@ -398,7 +402,7 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 http://180.180.243.239/streams/3/hls
 #EXTINF:-1 tvg-id="HTV4.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-type="live" group-title="🇻🇳 Vietnã | Educação",HTV4 [FHD]
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 tvg-id="HTV4.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-type="live" group-title="🇻🇳 Vietnã | Educação",HTV4 [HD] (fonte 2)
+#EXTINF:-1 tvg-id="HTV4.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-type="live" group-title="🇻🇳 Vietnã | Educação",HTV4 [FHD] (fonte 2)
 https://dethich.pw/htv4/index.m3u8
 #EXTINF:-1 tvg-id="ChemodanTV.ua@SD" tvg-logo="https://i.imgur.com/1WjGN8u.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Educação",Chemodan TV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -410,12 +414,12 @@ http://stream.mcquack.net/401/index.m3u8
 https://tfnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Educação",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-type="live" group-title="🇲🇳 Mongólia | Educação",Education [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
-#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-type="live" group-title="🇲🇳 Mongólia | Educação",Education [FHD] (fonte 2)
+#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-type="live" group-title="🇲🇳 Mongólia | Educação",Education [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
+#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-type="live" group-title="🇲🇳 Mongólia | Educação",Education [FHD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
 #EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" tvg-type="live" group-title="🇰🇿 Cazaquistão | Educação",Manas TV [FHD]
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="EDUTV.rs@SD" tvg-logo="https://i.imgur.com/NE48DJb.png" tvg-type="live" group-title="🇷🇸 Sérvia | Educação",EDU TV [SD]
@@ -430,19 +434,17 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PalestineEdu.ps@SD" tvg-logo="https://i.imgur.com/AwVHXyC.png" tvg-type="live" group-title="🇵🇸 Palestine | Educação",Palestine Edu [FHD]
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
-#EXTINF:-1 tvg-id="CharanaTV.lk@SD" tvg-logo="" tvg-type="live" group-title="🇱🇰 Sri Lanka | Educação",Charana TV [SD]
-https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 #EXTINF:-1 tvg-id="Yaslyk.tm@SD" tvg-logo="https://i.imgur.com/QVWBNGM.png" tvg-type="live" group-title="🇹🇲 Turcomenistão | Educação",Ýaşlyk [SD]
 https://alpha.tv.online.tm/hls/ch002.m3u8
 #EXTINF:-1 tvg-id="Yaslyk.tm@SD" tvg-logo="https://i.imgur.com/QVWBNGM.png" tvg-type="live" group-title="🇹🇲 Turcomenistão | Educação",Ýaşlyk [SD] (fonte 2)
 https://alpha.tv.online.tm/legacyhls/ch002.m3u8
-#EXTINF:-1 tvg-id="ShamsTV.af@SD" tvg-logo="https://i.imgur.com/Lsy31iZ.jpeg" tvg-type="live" group-title="🇦🇫 Afeganistão | Educação",Shams TV
+#EXTINF:-1 tvg-id="CharanaTV.lk@SD" tvg-logo="" tvg-type="live" group-title="🇱🇰 Sri Lanka | Educação",Charana TV [SD]
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+#EXTINF:-1 tvg-id="ShamsTV.af@SD" tvg-logo="https://i.imgur.com/Lsy31iZ.jpeg" tvg-type="live" group-title="🇦🇫 Afeganistão | Educação",Shams TV [FHD]
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="ManasTV.kg@SD" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" tvg-type="live" group-title="🇰🇬 Quirguistão | Educação",Manas TV
-http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="A2iNaija.sn@SD" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" tvg-type="live" group-title="🇸🇳 Senegal | Educação",A2i Naija [HD]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" tvg-logo="https://i.imgur.com/1BHJjY4.png" tvg-type="live" group-title="🇰🇵 Coreia do Norte | Educação",Ryongnamsan Television SD [HD]
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" tvg-logo="https://i.imgur.com/1BHJjY4.png" tvg-type="live" group-title="🇰🇵 Coreia do Norte | Educação",Ryongnamsan Television SD [FHD]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd@SD" tvg-logo="https://i.imgur.com/5FrE3Nv.png" tvg-type="live" group-title="🇸🇩 Sudão | Educação",Al Alamiya 2
 http://82.212.74.98:8000/live/7815.m3u8

@@ -13,7 +13,7 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 #EXTINF:-1 tvg-id="RTSMuzika.rs@SD" tvg-logo="https://i.imgur.com/n8p11NI.png" tvg-type="live" group-title="🇷🇸 Sérvia | Música",RTS Muzika [SD]
 https://de1.dstv.cx/RTSMuzika/index.m3u8
-#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" tvg-logo="https://i.imgur.com/POdTmaD.png" tvg-type="live" group-title="🇷🇸 Sérvia | Música",TDI Radio TV
+#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" tvg-logo="https://i.imgur.com/POdTmaD.png" tvg-type="live" group-title="🇷🇸 Sérvia | Música",TDI Radio TV [HD]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 #EXTINF:-1 tvg-id="TopTV.rs@SD" tvg-logo="https://i.imgur.com/UJqbKEC.png" tvg-type="live" group-title="🇷🇸 Sérvia | Música",Top TV [FHD]
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
@@ -28,11 +28,9 @@ http://213.91.179.28:8000/play/a03n
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="EDUTV.rs@SD" tvg-logo="https://i.imgur.com/NE48DJb.png" tvg-type="live" group-title="🇷🇸 Sérvia | Educação",EDU TV [SD]
 https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" tvg-type="live" group-title="🇷🇸 Sérvia | Esportes",Arena Sport 1 Premium [SD]
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
 #EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD" tvg-logo="https://i.imgur.com/9SD40uH.png" tvg-type="live" group-title="🇷🇸 Sérvia | Esportes",SOS Kanal Plus [HD]
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="IDJTV.rs@SD" tvg-logo="https://i.imgur.com/btvyrzr.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",IDJTV
+#EXTINF:-1 tvg-id="IDJTV.rs@SD" tvg-logo="https://i.imgur.com/btvyrzr.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",IDJTV [FHD]
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 #EXTINF:-1 tvg-id="TVMarsh.rs@SD" tvg-logo="https://i.imgur.com/Dt1mPyX.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",Marsh TV [HD]
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
@@ -60,10 +58,10 @@ https://de1.dstv.cx/PrvaWorld/index.m3u8
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs@SD" tvg-logo="https://i.imgur.com/S1pKHSR.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTS 1 (fonte 2)
 https://de1.dstv.cx/RTS1HD/index.m3u8
-#EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTS 2 [FHD]
-https://de1.dstv.cx/RTS2HD/index.m3u8
-#EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTS 2 [HD] (fonte 2)
+#EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTS 2 [HD]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTS 2 [FHD] (fonte 2)
+https://de1.dstv.cx/RTS2HD/index.m3u8
 #EXTINF:-1 tvg-id="RTS3.rs@SD" tvg-logo="https://i.imgur.com/gxuGB4J.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTS 3 [HD]
 http://185.81.240.65:15000/udp/233.233.233.36:12000
 #EXTINF:-1 tvg-id="RTSKolo.rs@SD" tvg-logo="https://i.imgur.com/gXlEDDW.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTS Kolo [SD]
@@ -76,13 +74,13 @@ https://de1.dstv.cx/RTSSvet/index.m3u8
 https://de1.dstv.cx/RTSTrezor/index.m3u8
 #EXTINF:-1 tvg-id="RTSZivot.rs@SD" tvg-logo="https://i.imgur.com/NpFG9uy.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTS Zivot [SD]
 https://de1.dstv.cx/RTSZivot/index.m3u8
-#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-logo="https://i.imgur.com/TBAtPH6.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTV Bap [SD]
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" tvg-logo="https://i.imgur.com/TBAtPH6.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTV Bap [HD]
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVNoviPazar.rs@SD" tvg-logo="https://i.imgur.com/NpyRVyC.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
 #EXTINF:-1 tvg-id="SandzakTV.rs@SD" tvg-logo="https://i.imgur.com/lm9Fgsp.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",Sandzak TV [SD]
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
-#EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-logo="https://i.imgur.com/FPumwfg.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",Sci Fi
+#EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-logo="https://i.imgur.com/FPumwfg.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",Sci Fi [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 #EXTINF:-1 tvg-id="BelleAmie.rs@SD" tvg-logo="https://i.imgur.com/tOlN5Rz.png" tvg-type="live" group-title="🇷🇸 Sérvia | Geral",TV Belle Amie [SD]

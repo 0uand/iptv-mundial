@@ -3,17 +3,17 @@
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MedeniyyetTV.az@SD" tvg-logo="https://i.imgur.com/PlvaDIa.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Cultura",Medeniyyet TV [FHD]
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1 tvg-id="AlvinChannelTV.az@SD" tvg-logo="https://i.imgur.com/m6CM7VU.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Alvin Channel TV [SD]
+#EXTINF:-1 tvg-id="AlvinChannelTV.az@SD" tvg-logo="https://i.imgur.com/m6CM7VU.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Alvin Channel TV [FHD]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="AyazTV.az@SD" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Ayaz TV [HD]
+#EXTINF:-1 tvg-id="AyazTV.az@SD" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Ayaz TV [FHD]
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Az TV [FHD]
-https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Az TV (fonte 2)
+#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Az TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
-#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Az TV (fonte 3)
+#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Az TV (fonte 2)
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Az TV [FHD] (fonte 3)
+https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az@SD" tvg-logo="https://i.imgur.com/rDYSoRL.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Azad TV [FHD]
 #EXTVLCOPT:http-referrer=No response
 #EXTVLCOPT:http-user-agent=No response
@@ -21,9 +21,9 @@ https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Azstar TV HD [FHD]
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="ELTV.az@SD" tvg-logo="https://i.imgur.com/tTlokZ2.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",EL TV [SD]
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ELTV.az@SD" tvg-logo="https://i.imgur.com/tTlokZ2.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",EL TV (fonte 2)
 https://live.eltv.az/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-id="ELTV.az@SD" tvg-logo="https://i.imgur.com/tTlokZ2.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",EL TV [SD] (fonte 2)
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://i.imgur.com/HzY4VMo.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Ictimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="Kanal35.az@SD" tvg-logo="https://live.ntv.az/kanal35.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Geral",Kanal 35 [HD]

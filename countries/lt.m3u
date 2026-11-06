@@ -1,11 +1,9 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="2TV.lt@SD" tvg-logo="https://i.imgur.com/sZUIhGc.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música",2TV [FHD]
-https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
 #EXTINF:-1 tvg-id="LRTKlasika.lt@SD" tvg-logo="https://i.imgur.com/Fa8Vhu0.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música" catchup="default" catchup-source="https://stream-live.lrt.lt/klasika/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Klasika [FHD]
 https://stream-live.lrt.lt/klasika/master.m3u8
 #EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-logo="https://i.imgur.com/oLuZTMH.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música" catchup="default" catchup-source="https://stream-live.lrt.lt/opus/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Opus [FHD]
 https://stream-live.lrt.lt/opus/master.m3u8
-#EXTINF:-1 tvg-id="M1.lt@SD" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música",M-1 [SD]
+#EXTINF:-1 tvg-id="M1.lt@SD" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música",M-1 [FHD]
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerHitRadio.lt@SD" tvg-logo="https://i.imgur.com/GOlQbfC.png" tvg-type="live" group-title="🇱🇹 Lituânia | Música",Power Hit Radio [SD]
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
@@ -19,7 +17,7 @@ http://stream.mcquack.net/376/index.m3u8
 #EXTINF:-1 tvg-id="BTV.lt@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/BTV_HD_%28Lithuania%29_%282019%29.svg" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",BTV [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/35/index.m3u8
-#EXTINF:-1 tvg-id="DelfiTV.lt@SD" tvg-logo="https://i.imgur.com/IFoHP5M.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",Delfi TV
+#EXTINF:-1 tvg-id="DelfiTV.lt@SD" tvg-logo="https://i.imgur.com/IFoHP5M.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",Delfi TV [FHD]
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
 #EXTINF:-1 tvg-id="LNK.lt@SD" tvg-logo="https://i.imgur.com/arCZ56g.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",LNK [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -27,9 +25,6 @@ http://stream.mcquack.net/30/index.m3u8
 #EXTINF:-1 tvg-id="LRTTV.lt@SD" tvg-logo="https://i.imgur.com/FL2ZuGC.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",LRT TV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/31/index.m3u8
-#EXTINF:-1 tvg-id="TV1.lt@SD" tvg-logo="https://i.imgur.com/KLWDcFy.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",TV1 [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd
 #EXTINF:-1 tvg-id="TV3.lt@SD" tvg-logo="https://i.imgur.com/7nipq0y.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",TV3 [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/29/index.m3u8
@@ -39,7 +34,5 @@ http://stream.mcquack.net/375/index.m3u8
 #EXTINF:-1 tvg-id="TV8.lt@SD" tvg-logo="https://i.imgur.com/9g3wknl.png" tvg-type="live" group-title="🇱🇹 Lituânia | Geral",TV8 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/374/index.m3u8
-#EXTINF:-1 tvg-id="InfoTV.lt@SD" tvg-logo="https://i.imgur.com/EjQtIpM.png" tvg-type="live" group-title="🇱🇹 Lituânia | Notícias",Info TV [FHD]
-https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
 #EXTINF:-1 tvg-id="LRTRadijas.lt@SD" tvg-logo="https://i.imgur.com/gYoaqju.png" tvg-type="live" group-title="🇱🇹 Lituânia | Notícias" catchup="default" catchup-source="https://stream-live.lrt.lt/radijas/master.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",LRT Radijas [FHD]
 https://stream-live.lrt.lt/radijas/master.m3u8

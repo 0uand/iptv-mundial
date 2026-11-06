@@ -24,7 +24,7 @@ http://stream.mcquack.net/330/index.m3u8
 #EXTINF:-1 tvg-id="MegogoMusic.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MEGOGO_Music_%28%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Música",Megogo Music
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
-#EXTINF:-1 tvg-id="Muzvar.ua@SD" tvg-logo="https://i.imgur.com/Klu5k9U.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Música",Muzvar [FHD]
+#EXTINF:-1 tvg-id="Muzvar.ua@SD" tvg-logo="https://i.imgur.com/Klu5k9U.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Música",Muzvar [HD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="NASHEMusic.ua@SD" tvg-logo="https://i.imgur.com/ienkbOc.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Música",NASHE Music [HD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
@@ -37,6 +37,8 @@ http://stream.mcquack.net/259/index.m3u8
 #EXTINF:-1 tvg-id="ICTV.ua@SD" tvg-logo="https://i.imgur.com/97W1NOW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Entretenimento",ICTV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/158/index.m3u8
+#EXTINF:-1 tvg-id="ICTV.ua@SD" tvg-logo="https://i.imgur.com/97W1NOW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Entretenimento",ICTV [FHD] (fonte 2)
+http://str2.iptvhd.ru:8080/ICTV/index.m3u8
 #EXTINF:-1 tvg-id="ICTV2.ua@SD" tvg-logo="https://i.imgur.com/J4zlRGv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Entretenimento",ICTV2 [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/368/index.m3u8
@@ -73,7 +75,7 @@ https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&master=1103
-#EXTINF:-1 tvg-id="Svarozhychy.ua@SD" tvg-logo="https://i.imgur.com/VnAgQA4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Entretenimento",Svarozhychy
+#EXTINF:-1 tvg-id="Svarozhychy.ua@SD" tvg-logo="https://i.imgur.com/VnAgQA4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Entretenimento",Svarozhychy [FHD]
 http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.ua@SD" tvg-logo="https://i.imgur.com/EzIiXIT.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Entretenimento",Zoom [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -110,6 +112,8 @@ http://46.32.176.50/natgeowild/index.m3u8
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
+#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-logo="https://i.imgur.com/39qZ68J.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",Viasat History [FHD] (fonte 2)
+http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
 #EXTINF:-1 tvg-id="ChemodanTV.ua@SD" tvg-logo="https://i.imgur.com/1WjGN8u.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Educação",Chemodan TV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/399/index.m3u8
@@ -128,14 +132,16 @@ http://stream.mcquack.net/485/index.m3u8
 http://stream.mcquack.net/487/index.m3u8
 #EXTINF:-1 tvg-id="MaincastSport.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",Maincast Sport [FHD]
 http://stream.mcquack.net/490/index.m3u8
-#EXTINF:-1 tvg-id="MEGOGOSport.ua@SD" tvg-logo="https://i.imgur.com/5JmT4mW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",MEGOGO Sport [FHD]
-http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",Setanta Sports+ Ukraine [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua@SD" tvg-logo="https://i.imgur.com/gHAP4p0.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",Setanta Sports+ Ukraine [FHD] (fonte 2)
+http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8
 #EXTINF:-1 tvg-id="Sport1.ua@SD" tvg-logo="https://i.imgur.com/Zjb8awW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",Sport 1 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1 tvg-id="Sport1.ua@SD" tvg-logo="https://i.imgur.com/Zjb8awW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",Sport 1 [SD] (fonte 2)
+http://str2.iptvhd.ru:8080/sport1/index.m3u8
 #EXTINF:-1 tvg-id="Sport1Baltic.ua@SD" tvg-logo="https://i.imgur.com/aBY7QK4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Esportes",Sport 1 Baltic [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
@@ -180,13 +186,15 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 #EXTINF:-1 tvg-id="EnterFilm.ua@SD" tvg-logo="https://i.imgur.com/wQbiGs6.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Enter-Film [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-id="EnterFilm.ua@SD" tvg-logo="https://i.imgur.com/wQbiGs6.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Enter-Film [FHD] (fonte 2)
+http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8
 #EXTINF:-1 tvg-id="FilmUALive.ua@SD" tvg-logo="https://i.imgur.com/kizTBgS.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",FilmUADrama [FHD]
+#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",FilmUADrama [FHD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.99.215.227/FilmUADrama/index.m3u8
-#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",FilmUADrama (fonte 2)
-https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="HollywoodUkraine.ua@SD" tvg-logo="https://i.imgur.com/eVqPfRk.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Hollywood Ukraine [SD]
 http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ua@SD" tvg-logo="https://i.imgur.com/FWVxBWI.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Kino 1 [FHD]
@@ -206,18 +214,20 @@ http://stream.mcquack.net/446/index.m3u8
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-id="Prokino.ua@SD" tvg-logo="https://i.imgur.com/Vm9nbi8.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Prokino [SD]
 http://dtv.vol.net.ua/ProKino/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino [SD]
-http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino (fonte 2)
+#EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
-#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Action [SD]
-http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Action (fonte 2)
+#EXTINF:-1 tvg-id="ViasatKino.ua@SD" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino [SD] (fonte 2)
+http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Action
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Action [SD] (fonte 2)
+http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Bulgaria [FHD]
+http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Filmes",Viasat Kino Comedy
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -244,12 +254,18 @@ https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-id="1Plus1Ukraina.ua@SD" tvg-logo="https://i.imgur.com/FlG7npq.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",1+1 Ukraina [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://stream.mcquack.net/219/index.m3u8
+#EXTINF:-1 tvg-id="1Plus1Ukraina.ua@SD" tvg-logo="https://i.imgur.com/FlG7npq.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",1+1 Ukraina [SD] (fonte 2)
+http://str2.iptvhd.ru:8080/1plus1/index.m3u8
 #EXTINF:-1 tvg-id="Channel11.ua@SD" tvg-logo="https://i.imgur.com/y78saaG.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",11 Kanal [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="2Plus2.ua@SD" tvg-logo="https://i.imgur.com/v6KBgqk.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",2+2 [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/173/index.m3u8
+#EXTINF:-1 tvg-id="2Plus2.ua@SD" tvg-logo="https://i.imgur.com/v6KBgqk.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",2+2 [SD] (fonte 2)
+http://str2.iptvhd.ru:8080/2plus2/index.m3u8
+#EXTINF:-1 tvg-id="2Plus2Marathon.ua@SD" tvg-logo="https://i.imgur.com/v6KBgqk.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",2+2 Marathon [FHD]
+https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
 #EXTINF:-1 tvg-id="6sotok.ua@SD" tvg-logo="https://i.imgur.com/icSN0GI.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",6 sotok [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/405/index.m3u8
@@ -262,9 +278,9 @@ http://stream.mcquack.net/340/index.m3u8
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
 #EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD" tvg-logo="https://i.imgur.com/9Ll0BIo.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Channel 7 Ukraine [HD]
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD" tvg-logo="https://i.imgur.com/9Ll0BIo.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Channel 7 Ukraine [HD] (fonte 2)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD" tvg-logo="https://i.imgur.com/9Ll0BIo.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Channel 7 Ukraine [HD] (fonte 2)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.ua@SD" tvg-logo="https://i.imgur.com/6Sr5vJD.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Channel 8
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
@@ -273,7 +289,7 @@ https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
 http://stream.mcquack.net/449/index.m3u8
 #EXTINF:-1 tvg-id="Dacha.ua@SD" tvg-logo="https://i.imgur.com/xq6p9BZ.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Dacha [FHD]
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="DIM.ua@SD" tvg-logo="https://i.imgur.com/3cjaXIF.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",DIM [SD]
+#EXTINF:-1 tvg-id="DIM.ua@SD" tvg-logo="https://i.imgur.com/3cjaXIF.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",DIM [FHD]
 http://stream.mcquack.net/383/index.m3u8
 #EXTINF:-1 tvg-id="DIM.ua@SD" tvg-logo="https://i.imgur.com/3cjaXIF.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",DIM (fonte 2)
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
@@ -287,9 +303,11 @@ http://stream.mcquack.net/288/index.m3u8
 #EXTINF:-1 tvg-id="Inter.ua@SD" tvg-logo="https://i.imgur.com/FHRagMx.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Inter [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/174/index.m3u8
+#EXTINF:-1 tvg-id="Inter.ua@SD" tvg-logo="https://i.imgur.com/FHRagMx.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Inter [FHD] (fonte 2)
+http://str2.iptvhd.ru:8080/Inter/index.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/INTER%2B_HD_%282021%29.webp" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Inter+ [HD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="IRT.ua@SD" tvg-logo="https://i.imgur.com/tDTUIRm.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",IRT [HD]
+#EXTINF:-1 tvg-id="IRT.ua@SD" tvg-logo="https://i.imgur.com/tDTUIRm.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",IRT [SD]
 https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 #EXTINF:-1 tvg-id="Islandia.ua@SD" tvg-logo="https://i.imgur.com/9ql4jXv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Islandia [HD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
@@ -305,16 +323,16 @@ https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 http://775065.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==&master=311
 #EXTINF:-1 tvg-id="KusKus.ua@SD" tvg-logo="https://i.imgur.com/4a4qX0P.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="LuxTV.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Lux_TV_2.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Lux TV [FHD]
+#EXTINF:-1 tvg-id="LuxTV.ua@SD" tvg-logo="https://scontent.flwo7-2.fna.fbcdn.net/v/t39.30808-6/299781096_437110311778402_8892509274877595133_n.jpg?stp=dst-jpg_tt6&cstp=mx180x180&ctp=s180x180&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=EzuiZun2Z7MQ7kNvwGwamqs&_nc_oc=AdqD7PmQFEBj-meclATFIEyi6MtiFVk9c93NRL42MuImlgxWXE69pUu8Bu6GTe58F94&_nc_zt=23&_nc_ht=scontent.flwo7-2.fna&_nc_gid=SF_zuZPK3NFlr2priMZhNg&_nc_ss=7b289&oh=00_Af_6K02GxmV5xAnJuNY3TYXdQX6dhtAUCPy2dd4G1wb1hA&oe=6A3CB9A7" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Lux TV [FHD]
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84&channel=431
 #EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Mega [FHD]
 http://stream.mcquack.net/325/index.m3u8
-#EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Mega [FHD] (fonte 2)
-http://dtv.vol.net.ua/MEGA_HD/index.m3u8
-#EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Mega [HD] (fonte 3)
+#EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Mega [HD] (fonte 2)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Mega [FHD] (fonte 3)
+http://dtv.vol.net.ua/MEGA_HD/index.m3u8
 #EXTINF:-1 tvg-id="MistoPlus.ua@SD" tvg-logo="https://i.imgur.com/NHjg1Jm.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Micto [SD]
 http://93.78.206.172:8080/stream3/stream.m3u8
 #EXTINF:-1 tvg-id="MyUkrainaPlus.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg/250px-%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",My Ukraina+
@@ -322,14 +340,16 @@ http://93.78.206.172:8080/stream3/stream.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 tvg-id="NTN.ua@SD" tvg-logo="https://i.imgur.com/AmyCNJv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",NTN [FHD]
 http://stream.mcquack.net/326/index.m3u8
-#EXTINF:-1 tvg-id="NTN.ua@SD" tvg-logo="https://i.imgur.com/AmyCNJv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",NTN (1080i)
+#EXTINF:-1 tvg-id="NTN.ua@SD" tvg-logo="https://i.imgur.com/AmyCNJv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",NTN [FHD] (fonte 2)
+http://str2.iptvhd.ru:8080/NTN/index.m3u8
+#EXTINF:-1 tvg-id="NTN.ua@SD" tvg-logo="https://i.imgur.com/AmyCNJv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",NTN (1080i) [HD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="OnePlanet.ua@SD" tvg-logo="https://i.imgur.com/N7FBNjV.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",One Planet [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 tvg-id="OnePlanet.ua@SD" tvg-logo="https://i.imgur.com/N7FBNjV.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",One Planet [FHD] (fonte 2)
 http://dtv.vol.net.ua/OnePlanet/index.m3u8
-#EXTINF:-1 tvg-id="OTV.ua@SD" tvg-logo="https://i.imgur.com/TkGGGAj.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",OTV
+#EXTINF:-1 tvg-id="OTV.ua@SD" tvg-logo="https://i.imgur.com/TkGGGAj.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",OTV [SD]
 https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
 #EXTINF:-1 tvg-id="Pershyi.ua@SD" tvg-logo="https://i.imgur.com/osTQLED.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Pershyi [FHD]
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
@@ -337,6 +357,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
+#EXTINF:-1 tvg-id="RAZ3.ua@SD" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",RAZ 3 [SD] (fonte 2)
+http://str2.iptvhd.ru:8080/UA_kvartal/index.m3u8
 #EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RenomeTV.ua@SD" tvg-logo="https://i.imgur.com/qL1uNlW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Renome [SD]
@@ -347,8 +369,12 @@ http://stream.mcquack.net/398/index.m3u8
 #EXTINF:-1 tvg-id="STB.ua@SD" tvg-logo="https://i.imgur.com/DCbfsyW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",STB [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/156/index.m3u8
+#EXTINF:-1 tvg-id="STB.ua@SD" tvg-logo="https://i.imgur.com/DCbfsyW.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",STB [FHD] (fonte 2)
+http://str2.iptvhd.ru:8080/STB/index.m3u8
 #EXTINF:-1 tvg-id="SuperPlus.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Super%2B_UA_%282024%29.svg/960px-Super%2B_UA_%282024%29.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Super+ [SD]
 http://dtv.vol.net.ua/super_plus/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneDonbas.ua@SD" tvg-logo="https://i.imgur.com/GPXrpJC.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Suspilne. Donbas [SD]
+http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
 #EXTINF:-1 tvg-id="SuspilneKrym.ua@SD" tvg-logo="https://i.imgur.com/m7znCes.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Suspilne. Krym [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/436/index.m3u8
@@ -369,6 +395,10 @@ http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 tvg-id="TET.ua@SD" tvg-logo="https://i.imgur.com/Wu6wtbe.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TET [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 tvg-id="TET.ua@SD" tvg-logo="https://i.imgur.com/Wu6wtbe.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TET [FHD] (fonte 2)
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8
+#EXTINF:-1 tvg-id="TET.ua@SD" tvg-logo="https://i.imgur.com/Wu6wtbe.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TET [FHD] (fonte 3)
+http://str2.iptvhd.ru:8080/TET/index.m3u8
 #EXTINF:-1 tvg-id="TISTV.ua@SD" tvg-logo="https://i.imgur.com/jDaoUt5.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TIS TV [HD]
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-id="TRKIldana.ua@SD" tvg-logo="https://i.imgur.com/cN7VRYv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TRK Ildana [HD]
@@ -378,19 +408,19 @@ https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV7Plus.ua@SD" tvg-logo="https://i.imgur.com/PcTDZ8e.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TVA [SD]
-http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
-#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TVA [SD] (fonte 2)
+#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TVA [HD]
 https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",TVA [SD] (fonte 2)
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
 #EXTINF:-1 tvg-id="UNIANSerial.ua@SD" tvg-logo="https://i.imgur.com/Alu78zn.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",UNIAN Serial [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/341/index.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-logo="https://i.imgur.com/RBqKj6R.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Viasat Explore [SD]
-http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-logo="https://i.imgur.com/RBqKj6R.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Viasat Explore (fonte 2)
+#EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-logo="https://i.imgur.com/RBqKj6R.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Viasat Explore
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79
+#EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-logo="https://i.imgur.com/RBqKj6R.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Viasat Explore [SD] (fonte 2)
+http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.ua@SD" tvg-logo="https://i.imgur.com/YY0LfBA.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Viasat Nature
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -415,20 +445,20 @@ http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SferaTV.ua@SD" tvg-logo="https://i.imgur.com/S1h1t0G.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Сфера-ТВ [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",ТВА (Чернiвцi) [SD]
+#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",ТВА (Чернiвцi) [HD]
 http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",ТВА (Чернiвцi) [SD] (fonte 2)
+#EXTINF:-1 tvg-id="TVA.ua@SD" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",ТВА (Чернiвцi) [HD] (fonte 2)
 http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRKAleks.ua@SD" tvg-logo="https://i.imgur.com/1uW5ex8.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",ТРК Алекс [SD]
 http://46.46.112.223/live/livestream1.m3u8
 #EXTINF:-1 tvg-id="HersonPlyus.ua@SD" tvg-logo="https://i.imgur.com/DKDVoyD.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Geral",Херсон Плюс [SD]
 http://46.175.163.130/ks_plus/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusKids.ua@SD" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Infantil",Cine+ Kids [SD]
-http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusKids.ua@SD" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Infantil",Cine+ Kids (fonte 2)
+#EXTINF:-1 tvg-id="CinePlusKids.ua@SD" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Infantil",Cine+ Kids
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540
+#EXTINF:-1 tvg-id="CinePlusKids.ua@SD" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Infantil",Cine+ Kids [SD] (fonte 2)
+http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="Lale.ua@SD" tvg-logo="https://i.imgur.com/CNhqVHd.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Infantil",Lale
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
@@ -462,7 +492,7 @@ https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua@SD" tvg-logo="https://i.imgur.com/pGByjbh.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",Army TV [FHD]
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 tvg-id="ArmyTV.ua@SD" tvg-logo="https://i.imgur.com/pGByjbh.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",Army TV [SD] (fonte 2)
+#EXTINF:-1 tvg-id="ArmyTV.ua@SD" tvg-logo="https://i.imgur.com/pGByjbh.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",Army TV [FHD] (fonte 2)
 http://195.54.52.40/test/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.ua@SD" tvg-logo="https://i.imgur.com/a9JJXPk.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",Channel 5 [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -475,6 +505,8 @@ https://langate.tv/promin/live_720/index.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-logo="https://i.imgur.com/xNatV8K.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",Espreso TV [FHD] (fonte 2)
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-logo="https://i.imgur.com/xNatV8K.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",Espreso TV [FHD] (fonte 3)
+http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",FREEDOM [FHD]
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",Freedom (FREEДOM) (UATV) [HD]
@@ -493,7 +525,7 @@ http://stream.mcquack.net/442/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
 #EXTINF:-1 tvg-id="PershiyXTVMedia.ua@SD" tvg-logo="https://i.imgur.com/M7oDym3.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",Pershiy XTV Media [SD]
 https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
-#EXTINF:-1 tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",PTV [HD]
+#EXTINF:-1 tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",PTV [SD]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SK1.ua@SD" tvg-logo="https://i.imgur.com/XiXwr5h.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Notícias",SK 1 [HD]
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
@@ -521,3 +553,5 @@ http://stream.mcquack.net/260/index.m3u8
 http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1 tvg-id="BamBarBiaTV.ua@SD" tvg-logo="https://i.imgur.com/zdRvy87.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Viagem",BamBarBia TV [HD]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="UTravel.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_Travel.svg/1920px-U_Travel.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Viagem",U Travel [FHD]
+http://str2.iptvhd.ru:8080/travel/index.m3u8

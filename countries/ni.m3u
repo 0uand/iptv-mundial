@@ -11,10 +11,6 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="Canal15.ni@SD" tvg-logo="https://i.imgur.com/DGBMuEs.png" tvg-type="live" group-title="🇳🇮 Nicarágua | Educação",Canal 15 Nicaragüense [FHD]
 https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10.ni@SD" tvg-logo="https://i.imgur.com/ztp781b.png" tvg-type="live" group-title="🇳🇮 Nicarágua | Geral",Canal 10
-https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
-#EXTINF:-1 tvg-id="Canal12.ni@SD" tvg-logo="https://i.imgur.com/UhEW8cj.png" tvg-type="live" group-title="🇳🇮 Nicarágua | Geral",Canal 12 [SD]
-http://45.228.234.9:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.ni@SD" tvg-logo="https://i.imgur.com/6BWAZdq.png" tvg-type="live" group-title="🇳🇮 Nicarágua | Geral",Canal 6 Nicaragüense [SD]
 http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Boaco.ni@SD" tvg-logo="https://i.imgur.com/chXNX9k.jpeg" tvg-type="live" group-title="🇳🇮 Nicarágua | Geral",Canal 7 Boaco [FHD]
@@ -23,7 +19,7 @@ https://cdn.amixtv.com/c7boaco/index.m3u8
 https://stream.cvision.live/cvision_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇳🇮 Nicarágua | Geral",CooTel Nicaragua [FHD]
 http://138.117.4.70:8075/channel9/playlist.m3u8
-#EXTINF:-1 tvg-id="TN8.ni@SD" tvg-logo="https://i.imgur.com/m0Zdxiz.png" tvg-type="live" group-title="🇳🇮 Nicarágua | Geral",TN8 [FHD]
+#EXTINF:-1 tvg-id="TN8.ni@SD" tvg-logo="https://i.imgur.com/m0Zdxiz.png" tvg-type="live" group-title="🇳🇮 Nicarágua | Geral",TN8 [HD]
 https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-id="TN8.ni@SD" tvg-logo="https://i.imgur.com/m0Zdxiz.png" tvg-type="live" group-title="🇳🇮 Nicarágua | Geral",TN8 [SD] (fonte 2)
 http://190.61.101.11:7050/play/a07j/index.m3u8

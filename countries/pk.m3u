@@ -38,8 +38,6 @@ http://103.250.28.74:8000/play/a00t/index.m3u8
 http://103.250.28.74:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="SABTV.pk@SD" tvg-logo="https://i.imgur.com/hC7Sidr.png" tvg-type="live" group-title="🇵🇰 Paquistão | Entretenimento",SAB TV [FHD]
 https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇵🇰 Paquistão | Animação",Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Culinária",Masala TV [SD]
 http://103.250.28.74:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="MasalaTV.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Culinária",Masala TV (fonte 2)
@@ -80,13 +78,13 @@ https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="BSTV.pk@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg" tvg-type="live" group-title="🇵🇰 Paquistão | Geral",BSTV [SD]
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
-#EXTINF:-1 tvg-id="JeremiahTV.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Geral",Jeremiah TV
+#EXTINF:-1 tvg-id="JeremiahTV.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Geral",Jeremiah TV [HD]
 https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
 #EXTINF:-1 tvg-id="JeremiahTV.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" tvg-type="live" group-title="🇵🇰 Paquistão | Geral",Jeremiah TV (fonte 2)
 https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8
 #EXTINF:-1 tvg-id="Kay2HD.pk@SD" tvg-logo="https://i.imgur.com/CRKk0iP.png" tvg-type="live" group-title="🇵🇰 Paquistão | Geral",Kay2 HD [FHD]
 http://103.250.28.74:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="PMITV.pk@SD" tvg-logo="https://i.imgur.com/SfyCwXj.png" tvg-type="live" group-title="🇵🇰 Paquistão | Geral",PMI TV [HD]
+#EXTINF:-1 tvg-id="PMITV.pk@SD" tvg-logo="https://i.imgur.com/SfyCwXj.png" tvg-type="live" group-title="🇵🇰 Paquistão | Geral",PMI TV [SD]
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PraiseTV.pk@SD" tvg-logo="https://i.imgur.com/T9fIdLs.png" tvg-type="live" group-title="🇵🇰 Paquistão | Geral",Praise TV [HD]
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
@@ -202,7 +200,7 @@ http://103.250.28.74:8000/play/a01k/index.m3u8
 http://103.250.28.74:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" tvg-type="live" group-title="🇵🇰 Paquistão | Notícias",Sky News Urdu [HD]
 https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
-#EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-logo="https://i.imgur.com/yYMh3JJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Notícias",Such TV
+#EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-logo="https://i.imgur.com/yYMh3JJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Notícias",Such TV [FHD]
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SunoNewsHD.pk@SD" tvg-logo="https://i.imgur.com/FeSntVO.jpg" tvg-type="live" group-title="🇵🇰 Paquistão | Notícias",Suno News HD [FHD]
 http://103.250.28.74:8000/play/a02a/index.m3u8

@@ -23,7 +23,7 @@ https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 #EXTINF:-1 tvg-id="StarChannel.gr@SD" tvg-logo="https://i.imgur.com/6NUpxhr.png" tvg-type="live" group-title="🇬🇷 Grécia | Entretenimento",STAR HD [FHD]
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
-#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-logo="https://i.imgur.com/6NUpxhr.png" tvg-type="live" group-title="🇬🇷 Grécia | Entretenimento",STAR International [HD]
+#EXTINF:-1 tvg-id="StarChannelInternational.gr@HD" tvg-logo="https://i.imgur.com/6NUpxhr.png" tvg-type="live" group-title="🇬🇷 Grécia | Entretenimento",STAR International [FHD]
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="HighTV.gr@SD" tvg-logo="https://i.imgur.com/8gHuwt7.png" tvg-type="live" group-title="🇬🇷 Grécia | Compras",High TV [HD]
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
@@ -47,7 +47,7 @@ https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTTV.gr@SD" tvg-logo="https://i.imgur.com/8uS0sib.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",ART TV
 https://rtmp.win:3696/live/arttvgrlive.m3u8
-#EXTINF:-1 tvg-id="BestTV.gr@SD" tvg-logo="https://i.imgur.com/AeeeDUc.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Best TV [HD]
+#EXTINF:-1 tvg-id="BestTV.gr@SD" tvg-logo="https://i.imgur.com/AeeeDUc.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Best TV [FHD]
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BlueSkyTV.gr@SD" tvg-logo="https://i.imgur.com/C9CormG.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Blue Sky TV [HD]
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
@@ -74,9 +74,9 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:-1 tvg-id="GnomiTV.gr@SD" tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Gnomi TV [FHD]
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr@SD" tvg-logo="https://i.imgur.com/JILN3kS.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Ionian Channel [FHD]
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IonianTV.gr@SD" tvg-logo="https://i.imgur.com/JILN3kS.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Ionian Channel [HD] (fonte 2)
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="IonianTV.gr@SD" tvg-logo="https://i.imgur.com/JILN3kS.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Ionian Channel [FHD] (fonte 2)
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KontraChannel.gr@SD" tvg-logo="https://kontrachannel.gr/images/kontrachannel24.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Kontra Channel [FHD]
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 tvg-id="KosTV.gr@SD" tvg-logo="https://i.imgur.com/bdJnQ1W.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Kos TV [HD]

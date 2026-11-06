@@ -93,13 +93,34 @@ def ckey(code):
     return (PRI.get(code, 1000), 0, name) if code in PRI else (1000, -len(bycode.get(code, [])), name)
 CAT_PRI = {"music": 0, "entertainment": 1}
 PINNED = [  # (grupo, regex de nome, países permitidos)
-    ("⭐ TV Aberta Brasil", r"^(Red Bull TV BR|Rede Globo|TV Globo Sao Paulo|GloboNews|SBT Nacional|SBT News|Record|RecordTV|Record News|Band|BandNews|Band Sports|Rede TV!|Rede TV! SP|TV Cultura|TV Brasil|TV Gazeta|Arte 1|Canal Rural|Jovem Pan News|CNN Brasil|TVE RS|Cultura Fast)$", {"br"}),
-    ("🏄 Surf & Ação", r"^(Red Bull TV BR|Surf Cinema|SURFER TV|Fuel TV|FUEL TV|Red Bull TV|Red Bull TV BR|Inside Outside|Extreme Sports Channel|Nautical Channel|Outside TV|Outside TV\+|Waves|Adventure Sports Network)$", None),
+    ("⭐ TV Aberta Brasil", r"^(Red Bull TV|Red Bull TV BR|Rede Globo|TV Globo Sao Paulo|GloboNews|SBT Nacional|SBT News|Record|RecordTV|Record News|Band|BandNews|Band Sports|Rede TV!|Rede TV! SP|TV Cultura|TV Brasil|TV Gazeta|Arte 1|Canal Rural|Jovem Pan News|CNN Brasil|TVE RS|Cultura Fast)$", {"br"}),
+    ("🏄 Surf & Ação", r"^(Red Bull TV|Red Bull TV BR|Surf Cinema|SURFER TV|Fuel TV|FUEL TV|Red Bull TV|Red Bull TV BR|Inside Outside|Extreme Sports Channel|Nautical Channel|Outside TV|Outside TV\+|Waves|Adventure Sports Network)$", None),
 ]
 def catkey(cat): return (CAT_PRI.get(cat, 5), CATPT.get(cat, "Geral"))
+QUALITY = {}
+_qp = f"{ROOT}/data/quality.json"
+if os.path.exists(_qp):
+    QUALITY = json.load(open(_qp, encoding="utf-8"))
+for r in rows:
+    q = QUALITY.get(r["url"])
+    if q and q.get("h"):
+        r["res"] = q["h"]          # resolução real medida no manifesto
+        r["measured"] = True
+    r["alive"] = bool(q) if QUALITY else True
+# fontes conhecidas de melhor qualidade (manifesto oficial)
+BETTER = {
+    "RedBullTV.at": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+}
+_seen_better = set()
+for r in rows:
+    base = r["tid"].split("@")[0]
+    if base in BETTER and base not in _seen_better:
+        _seen_better.add(base)
+        rows.append(dict(r, name="Red Bull TV" if base == "RedBullTV.at" else r["name"], url=BETTER[base], res=1080, measured=True, alive=True, hdrs=[], tid=base + "@OFICIAL", code="br" if base == "RedBullTV.at" else r["code"], cat="sports"))
+
 bycode = {}
 for r in rows: bycode.setdefault(r["code"], []).append(r)
-rows.sort(key=lambda r: (ckey(r["code"]), catkey(r["cat"]), r["name"].lower(), -r["res"]))
+rows.sort(key=lambda r: (ckey(r["code"]), catkey(r["cat"]), r["name"].lower(), 0 if r.get("alive", True) else 1, -r["res"]))
 def qlabel(res):
     if res >= 2160: return " [4K]"
     if res >= 1080: return " [FHD]"
@@ -146,7 +167,7 @@ def append_lines(path, lines):
 pinned_sets = []
 for grp, rx, codes in PINNED:
     sel, names = [], set()
-    for r in sorted(rows, key=lambda r: (0 if r["name"] == "Red Bull TV BR" else 1, r["name"].lower(), 0 if r["code"] == "br" else 1, -r["res"])):
+    for r in sorted(rows, key=lambda r: (0 if r["name"] in ("Red Bull TV", "Red Bull TV BR") else 1, r["name"].lower(), 0 if r["code"] == "br" else 1, -r["res"])):
         if re.match(rx, r["name"]) and (codes is None or r["code"] in codes) and r["name"].lower() not in names:
             sel.append(r); names.add(r["name"].lower())
     pinned_sets.append((grp, sel))

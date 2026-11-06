@@ -12,9 +12,9 @@ https://live.acwugtv.com/hls/stream.m3u8
 https://bbstv.ug/hls/ch01/index.m3u8
 #EXTINF:-1 tvg-id="BTMTV.ug@SD" tvg-logo="https://i.imgur.com/NUvA2jf.png" tvg-type="live" group-title="🇺🇬 Uganda | Geral",BTM TV [SD]
 https://btmug.zerocdn.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BukeddeTV1.ug@SD" tvg-logo="https://i.imgur.com/HFq5QlJ.png" tvg-type="live" group-title="🇺🇬 Uganda | Geral",Bukedde TV 1 [SD]
+#EXTINF:-1 tvg-id="BukeddeTV1.ug@SD" tvg-logo="https://i.imgur.com/HFq5QlJ.png" tvg-type="live" group-title="🇺🇬 Uganda | Geral",Bukedde TV 1 [FHD]
 https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
-#EXTINF:-1 tvg-id="BukeddeTV2.ug@SD" tvg-logo="https://i.imgur.com/ukwPZeY.png" tvg-type="live" group-title="🇺🇬 Uganda | Geral",Bukedde TV 2 [SD]
+#EXTINF:-1 tvg-id="BukeddeTV2.ug@SD" tvg-logo="https://i.imgur.com/ukwPZeY.png" tvg-type="live" group-title="🇺🇬 Uganda | Geral",Bukedde TV 2 [FHD]
 https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
 #EXTINF:-1 tvg-id="FarajaTelevision.ug@SD" tvg-logo="https://i.imgur.com/NmnOGHI.jpg" tvg-type="live" group-title="🇺🇬 Uganda | Geral",Faraja Television [FHD]
 https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
@@ -26,5 +26,5 @@ https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8
 https://stream.hydeinnovations.com/tarari-west/index.m3u8
 #EXTINF:-1 tvg-id="TVWest.ug@SD" tvg-logo="https://i.imgur.com/EiJzkIz.png" tvg-type="live" group-title="🇺🇬 Uganda | Geral",TV West [HD]
 https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
-#EXTINF:-1 tvg-id="WanLuoTV.ug@SD" tvg-logo="https://i.imgur.com/4PUUp3E.png" tvg-type="live" group-title="🇺🇬 Uganda | Geral",Wan Luo TV [SD]
+#EXTINF:-1 tvg-id="WanLuoTV.ug@SD" tvg-logo="https://i.imgur.com/4PUUp3E.png" tvg-type="live" group-title="🇺🇬 Uganda | Geral",Wan Luo TV [HD]
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8

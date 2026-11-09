@@ -97,6 +97,8 @@ https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
 http://45.167.2.101:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-logo="https://i.imgur.com/oPSfsvy.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Teleceiba [HD]
 https://teleceiba.com/stream/tlcb720.m3u8
+#EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-logo="https://i.imgur.com/oPSfsvy.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Teleceiba [FHD] (fonte 2)
+http://45.238.141.222:8000/play/a0pf/index.m3u8
 #EXTINF:-1 tvg-id="TeleDanli.hn@SD" tvg-logo="https://i.imgur.com/BACuUSc.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",TeleDanli
 https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
 #EXTINF:-1 tvg-id="TeleDanli.hn@SD" tvg-logo="https://i.imgur.com/BACuUSc.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",TeleDanlí Canal 9 [HD]
@@ -129,6 +131,8 @@ https://servilive.com:3508/stream/play.m3u8
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",HCH [HD]
 https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",HCH [HD] (fonte 2)
+http://45.228.234.9:8000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="ICNDigital.hn@SD" tvg-logo="https://i.imgur.com/UCZVQgj.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn@SD" tvg-logo="https://i.imgur.com/fc5IHSy.png" tvg-type="live" group-title="🇭🇳 Honduras | Notícias",Lenca Television Canal 40 [HD]

@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="AllegroHD.ar@SD" tvg-logo="https://i.imgur.com/bRH34Rn.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",Allegro HD [FHD]
+http://158.172.155.130:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",Alterna TV [HD]
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar@SD" tvg-logo="https://i.imgur.com/g1BFoSs.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",Azahares Radio Multimedia [HD]
@@ -14,11 +16,13 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 tvg-id="La100.ar@SD" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",La 100 [HD]
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar@SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",MusicTop [FHD]
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar@SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",MusicTop [FHD] (fonte 2)
 http://190.128.214.97:64333/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="MusicTop.ar@SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",MusicTop [FHD] (fonte 2)
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar@SD" tvg-logo="https://i.imgur.com/TJ4gWQM.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",Más FM 95.9 [HD]
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-logo="https://i.imgur.com/RO9Dz3X.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",Quiero Musica en mi Idioma [FHD]
+http://158.172.155.130:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="RadioConexionWebTV.ar@SD" tvg-logo="https://i.imgur.com/pXS38zo.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",Radio Conexion Web TV [HD]
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 #EXTINF:-1 tvg-id="RadioRealpolitik.ar@SD" tvg-logo="https://i.imgur.com/L9KCdTX.png" tvg-type="live" group-title="🇦🇷 Argentina | Música",Radio Realpolitik [HD]
@@ -50,13 +54,13 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-id="RadioYguazuTV.ar@SD" tvg-logo="https://i.imgur.com/kVi0ICm.png" tvg-type="live" group-title="🇦🇷 Argentina | Entretenimento",Radio Yguazú TV [SD]
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America [FHD]
-http://15.204.246.24:8080/DisneyHD/index.m3u8
+https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America [FHD] (fonte 2)
-http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America [FHD] (fonte 3)
-http://45.185.163.75:8000/play/a02j/index.m3u8
+http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America [FHD] (fonte 4)
-http://45.70.201.81:8000/play/a00i/index.m3u8
+http://45.185.163.75:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America Center [FHD]
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America Mexico [HD]
@@ -66,7 +70,12 @@ http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America Panregional HD [FHD]
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America Panregional HD [FHD] (fonte 2)
+http://138.59.227.20:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America Panregional HD [FHD] (fonte 3)
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Channel Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Jr. Latin America [SD]
 http://190.93.224.42/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@NorthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Jr. Latin America North HD [FHD]
@@ -77,16 +86,12 @@ http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Jr. Latin America South [FHD] (fonte 2)
 http://45.185.163.75:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Jr. Latin America South [SD] (fonte 3)
-http://45.70.201.81:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Jr. Latin America South HD [FHD]
-http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Disney Jr. Latin America South HD [FHD] (fonte 2)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Plim Plim [FHD]
-http://200.115.120.1:8000/play/ca091/index.m3u8
-#EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Plim Plim [FHD] (fonte 2)
 http://45.70.168.162:1503/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-logo="https://i.imgur.com/MYc8srh.png" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Plim Plim [FHD] (fonte 2)
+http://200.115.120.1:8000/play/ca091/index.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" tvg-type="live" group-title="🇦🇷 Argentina | Animação",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
@@ -98,9 +103,9 @@ https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-type="live" group-title="🇦🇷 Argentina | Culinária",El Gourmet [FHD]
 http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-type="live" group-title="🇦🇷 Argentina | Culinária",El Gourmet [FHD] (fonte 2)
-http://190.61.101.11:7050/play/a09s/index.m3u8?hls
-#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-type="live" group-title="🇦🇷 Argentina | Culinária",El Gourmet [FHD] (fonte 3)
 http://138.121.15.230:9002/EL-GOURMET/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-type="live" group-title="🇦🇷 Argentina | Culinária",El Gourmet [FHD] (fonte 3)
+http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-type="live" group-title="🇦🇷 Argentina | Culinária",El Gourmet South [FHD]
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 #EXTINF:-1 tvg-id="Aunar.ar@SD" tvg-logo="https://i.imgur.com/BfaCaZF.png" tvg-type="live" group-title="🇦🇷 Argentina | Cultura",Aunar [FHD]
@@ -119,16 +124,27 @@ https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmd
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar@SD" tvg-logo="https://i.imgur.com/0L9tW3Z.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",Canal Showsport [HD]
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",DeporTV [FHD]
+http://158.172.155.130:8000/play/a09y/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",ESPN Premium HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",ESPN Premium HD [FHD] (fonte 2)
+http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",Fox Sports [FHD]
 http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",Fox Sports [FHD] (fonte 2)
+http://158.172.155.130:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",Fox Sports HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",TNT Sports
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",TNT Sports SD [SD]
+http://181.78.79.131:8000/play/a0mo
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",TyC Sports [FHD]
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",TyC Sports [FHD] (fonte 2)
-http://45.181.87.106/TYCSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",TyC Sports [FHD] (fonte 3)
-http://168.228.44.241:9999/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",TyC Sports [HD] (fonte 4)
-http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Esportes",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp" tvg-type="live" group-title="🇦🇷 Argentina | Filmes",Cosmos Tv
@@ -139,6 +155,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" tvg-type="live" group-title="🇦🇷 Argentina | Filmes",Film & Arts [FHD] (fonte 2)
 http://200.115.120.1:8000/play/ca131/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" tvg-type="live" group-title="🇦🇷 Argentina | Filmes",Film & Arts [SD] (fonte 3)
+http://45.228.234.9:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-type="live" group-title="🇦🇷 Argentina | Filmes",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -264,7 +282,7 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 tvg-id="Canal79VillaMaza.ar@SD" tvg-logo="https://i.imgur.com/HYuSqJy.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Canal 79 Villa Maza
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 #EXTINF:-1 tvg-id="Canal8MardelPlata.ar@SD" tvg-logo="https://i.imgur.com/G7TaQ1L.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Canal 8 Mar del Plata [HD]
-https://canal8mdq.unpocodeawita.workers.dev/
+https://canal8mdq.unpocodeawita.workers.dev
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar@SD" tvg-logo="https://files.catbox.moe/f7jbdo.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Canal 8 San Juan [HD]
 https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Canal 9 Litoral [HD]
@@ -277,7 +295,7 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CeltaTV.ar@SD" tvg-logo="https://i.imgur.com/rwoIF4w.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Celta TV [SD]
 https://vivo.solumedia.com:19360/celta/celta.m3u8
-#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://i.imgur.com/b6RerDw.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Chaco TV [HD]
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Chaco TV [HD]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadTVResistencia.ar@SD" tvg-logo="https://i.imgur.com/oL8SMTL.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Ciudad TV Resistencia [HD]
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
@@ -294,12 +312,10 @@ https://edgectc.com/CANAL7_MZA/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",El Trece [FHD]
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",El Trece [FHD] (fonte 2)
-http://15.204.246.24:8080/eltreceHD/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",El Trece [SD] (fonte 3)
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",El Trece [SD] (fonte 2)
 http://190.108.83.69:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar@SD" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",El Trece Internacional Latin America [FHD]
-http://200.7.99.59:8000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar@SD" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",El Trece Internacional Latin America
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD" tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Folcloreando TV
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="ItelTVCanal2.ar@SD" tvg-logo="https://i.imgur.com/OxmpRDx.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Itel TV Canal 2
@@ -316,7 +332,9 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",NET TV [FHD] (fonte 2)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",NET TV [HD] (fonte 3)
+#EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",NET TV [FHD] (fonte 3)
+http://45.226.205.96:48000/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",NET TV [HD] (fonte 4)
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",NG Federal [HD]
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
@@ -337,7 +355,7 @@ https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="SanPedroTV.ar@SD" tvg-logo="https://i.imgur.com/UkpXogr.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",San Pedro TV [FHD]
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaFeCanal.ar@SD" tvg-logo="https://i.imgur.com/C1mY5X4.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Santa Fe Canal [FHD]
-https://canalsantaferts.argtelemax.workers.dev/
+https://canalsantaferts.argtelemax.workers.dev
 #EXTINF:-1 tvg-id="SenillosaTV.ar@SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Senillosa TV [SD]
 https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar@SD" tvg-logo="https://i.imgur.com/W2EUIL2.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Sicardi TV [HD]
@@ -350,26 +368,25 @@ https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 tvg-id="Space.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Space [FHD]
 http://45.171.64.30:6060/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="Space.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Space South [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="T5Satelital.ar@SD" tvg-logo="https://i.imgur.com/ZcD0rUP.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
-#EXTINF:-1 tvg-id="TelePosadas.ar@HD" tvg-logo="https://i.imgur.com/88MVgwX.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Tele Posadas HD [HD]
-https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar@SD" tvg-logo="https://i.imgur.com/ZDenyAE.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",TeleCinco Trelew [SD]
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe [FHD]
 http://45.173.231.22:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe [HD] (fonte 2)
+http://181.224.255.210:8001/play/a0q5
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe Buenos Aires [FHD]
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInterior.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe Interior [HD]
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe Internacional [FHD]
 http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe Internacional [FHD] (fonte 2)
-http://190.60.55.141:9083/play/a0pb/index.m3u8
-#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe Internacional [SD] (fonte 3)
+#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe Internacional [SD] (fonte 2)
 http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="TelefeSalta.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe Salta
-https://canal11saltatv.unpocodeawita.workers.dev/
+https://canal11saltatv.unpocodeawita.workers.dev
 #EXTINF:-1 tvg-id="TelefeTucuman.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/960px-Telefe_Tucum%C3%A1n_%282018%29.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telefe Tucuman [FHD]
 https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Telemax [FHD]
@@ -390,6 +407,8 @@ https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-logo="https://i.imgur.com/4dUvFqa.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",TV Publica Fueguina [FHD]
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
+#EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD" tvg-logo="https://i.imgur.com/CRmY4Oi.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",TV Publica Marcos Paz [HD]
+https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
 #EXTINF:-1 tvg-id="TVSolidaria.ar@SD" tvg-logo="https://i.imgur.com/M0fMypR.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",TV Solidaria [SD]
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="Uniteve.ar@SD" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Uniteve [HD]
@@ -405,18 +424,18 @@ http://138.121.113.175:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="XamaTV.ar@SD" tvg-logo="https://i.imgur.com/dcNzVNN.png" tvg-type="live" group-title="🇦🇷 Argentina | Geral",Xama TV
 https://srs.unsj.edu.ar/live/xama/xama.flv
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" tvg-type="live" group-title="🇦🇷 Argentina | Infantil",Pakapaka [FHD]
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" tvg-type="live" group-title="🇦🇷 Argentina | Infantil",Pakapaka [SD] (fonte 2)
 http://190.128.214.97:64333/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-type="live" group-title="🇦🇷 Argentina | Negócios",Canal E [HD]
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",24/7 Canal de Noticias
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",24/7 Canal de Noticias [SD]
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",A24 [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",A24 [HD] (fonte 2)
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",A24 [HD] (fonte 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",A24 [FHD] (fonte 3)
 http://138.59.227.20:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",Canal 26 [FHD]
@@ -425,18 +444,16 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD" tvg-logo="https://i.imgur.com/nPG38B2.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",Cronica TV [FHD]
-http://190.128.214.97:64333/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="IPNoticias.ar@SD" tvg-logo="https://i.imgur.com/dbu9nx4.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",IP Noticias [HD]
-https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
 #EXTINF:-1 tvg-id="MercurioNoticias.ar@SD" tvg-logo="https://i.imgur.com/sfd87LX.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",Mercurio Noticias
 https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
+#EXTINF:-1 tvg-id="MultivisionFederal.ar@SD" tvg-logo="https://i.imgur.com/jX0lqy3.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",Multivision Federal
+https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="QuanticaTV.ar@SD" tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",TN [FHD]
-http://15.204.246.24:8080/TNHD/index.m3u8
-#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",TN [FHD] (fonte 2)
-http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
+http://158.172.155.130:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="VIVETV.ar@HD" tvg-logo="https://raw.githubusercontent.com/vivetvargentina/vive-tv/main/Logo%20512x512-04.png" tvg-type="live" group-title="🇦🇷 Argentina | Notícias",VIVE TV [FHD]
+https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar@SD" tvg-logo="https://i.imgur.com/gy7AEfO.png" tvg-type="live" group-title="🇦🇷 Argentina | Outdoor",Chacra TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadMagica.ar@SD" tvg-logo="https://i.imgur.com/HJkSz2U.png" tvg-type="live" group-title="🇦🇷 Argentina | Outdoor",Ciudad Magica [FHD]
@@ -444,6 +461,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" tvg-type="live" group-title="🇦🇷 Argentina | Séries",Europa Europa [FHD]
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" tvg-type="live" group-title="🇦🇷 Argentina | Séries",Europa Europa [FHD] (fonte 2)
-http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
-#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" tvg-type="live" group-title="🇦🇷 Argentina | Séries",Europa Europa [FHD] (fonte 3)
 http://38.252.238.18:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" tvg-type="live" group-title="🇦🇷 Argentina | Séries",Europa Europa [FHD] (fonte 3)
+http://45.228.234.9:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" tvg-type="live" group-title="🇦🇷 Argentina | Séries",Europa Europa [FHD] (fonte 4)
+http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8

@@ -20,11 +20,11 @@ https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",American Heroes Channel [HD]
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Animal Planet [HD]
-http://23.239.31.26:8989/animalplanet/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Animal Planet [HD] (fonte 2)
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Animal Planet East HD [HD]
-http://193.254.245.162/ANIMAL-PLANET/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Animal Planet [HD] (fonte 2)
+http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Animal Planet Latin America [FHD]
+http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="Atlas.us@SD" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Atlas [SD]
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="Backstage.us@SD" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Backstage [FHD]
@@ -98,13 +98,11 @@ http://190.93.224.42/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History 2 Latin America [FHD] (fonte 2)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History 2 Latin America [FHD] (fonte 3)
-http://181.119.66.28:8081/HISTORY-2/index.m3u8
+http://181.225.190.242:8000/play/a023
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History 2 Latin America Brazil [HD]
 http://45.177.114.114/HISTORY_2/index.m3u8
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History Asia [FHD]
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History Asia [HD] (fonte 2)
-http://58.8.186.128:10005/bysid/2517
 #EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-logo="https://i.imgur.com/ulHoqlP.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History Hit [FHD]
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History Latin America [FHD]
@@ -113,11 +111,13 @@ http://190.93.224.42/HISTORY/index.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History Latin America [FHD] (fonte 3)
 http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History Latin America [FHD] (fonte 4)
-http://181.119.66.28:8081/History-HD/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",History Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 #EXTINF:-1 tvg-id="InkMaster.us@SD" tvg-logo="https://i.imgur.com/DiBojYh.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Ink Master
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Investigation Discovery Latin America South [FHD]
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Investigation Discovery Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Investigation Discovery Latin America South [FHD] (fonte 2)
 http://38.65.175.84:8000/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",INWILD [FHD]
 https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
@@ -142,11 +142,13 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",National Geographic Latin America [FHD]
 http://190.93.224.42/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",National Geographic Latin America [FHD] (fonte 2)
-http://15.204.246.24:8080/NatGeoHD/index.m3u8
+https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",National Geographic Latin America [FHD] (fonte 3)
-http://181.119.66.28:8081/NATGEO-HD/index.m3u8
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",National Geographic Latin America [FHD] (fonte 4)
 http://45.173.231.22:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",National Geographic Latin America (fonte 5)
+http://181.78.79.131:8000/play/a0pt
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",National Geographic Wild HD East [HD]
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistory.us@US" tvg-logo="https://i.imgur.com/XkQD5kM.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Documentários",Pluto TV History
@@ -165,21 +167,15 @@ https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playl
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",Adventure Earth [HD]
 https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",Animal Planet
+http://37.49.224.5/stream/10/index.m3u8
 #EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",Autentic History [HD]
 https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth [FHD]
-http://57.128.231.171:8080/307/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth Czechia
-http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Hungary" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth Hungary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/bbce_hun/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Romania" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth Romania
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth Romania HD [SD]
-http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+http://88.212.7.14/live/bbce_hun/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",BBC Earth Turkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://nord.ayakkabiparti.lol/bbc/index.m3u8
@@ -193,6 +189,8 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_ch
 https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
 #EXTINF:-1 tvg-id="DeadlyWomen.us@UK" tvg-logo="https://i.imgur.com/dDVZ5Vd.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",Deadly Women (fonte 2)
 https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",Discovery History
+http://37.49.224.5/stream/12/index.m3u8
 #EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-logo="https://i.imgur.com/vzYDSLo.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",FBI Files
 https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
 #EXTINF:-1 tvg-id="Getfactual.us@UK" tvg-logo="https://i.imgur.com/4oVcjLd.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Documentários",Get.Factual [HD]
@@ -243,14 +241,10 @@ https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" tvg-type="live" group-title="🇲🇽 México | Documentários",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
-#EXTINF:-1 tvg-id="ClickTVChile.cl@SD" tvg-logo="https://i.imgur.com/H0XNbMS.png" tvg-type="live" group-title="🇨🇱 Chile | Documentários",Click TV (Coronel) [HD]
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecovision.do@SD" tvg-logo="https://imgur.com/a/pUlIJZX.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Documentários",Ecovisión [HD]
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="ArchivosForenses.us@Spain" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" tvg-type="live" group-title="🇪🇸 Espanha | Documentários",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:-1 tvg-id="CapTerre.es@FR" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/capterre_white.png" tvg-type="live" group-title="🇪🇸 Espanha | Documentários",Cap Terre [FHD]
-http://145.239.5.177/359a/index.m3u8
 #EXTINF:-1 tvg-id="CazadordeHomicidas.us@Spain" tvg-logo="https://i.imgur.com/hy6FJLe.png" tvg-type="live" group-title="🇪🇸 Espanha | Documentários",Cazador de Homicidas
 https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
 #EXTINF:-1 tvg-id="CrimenHistoria.es@SD" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" tvg-type="live" group-title="🇪🇸 Espanha | Documentários",Crimen & Historia [HD]
@@ -283,7 +277,9 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",Dokusat [FHD]
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",kabel eins Doku
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",kabel eins Doku [SD]
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",kabel eins Doku (fonte 2)
 http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
 #EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" tvg-type="live" group-title="🇩🇪 Alemanha | Documentários",N24 Doku
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
@@ -309,6 +305,9 @@ https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-a
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr@SD" tvg-logo="https://i.imgur.com/uM1v1sd.png" tvg-type="live" group-title="🇫🇷 França | Documentários",Francophonie24 [FHD]
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-type="live" group-title="🇫🇷 França | Documentários",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/81/index.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@France" tvg-logo="https://i.imgur.com/72JmyjM.png" tvg-type="live" group-title="🇫🇷 França | Documentários",Nature Time [HD]
 https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@France" tvg-logo="https://i.imgur.com/72JmyjM.png" tvg-type="live" group-title="🇫🇷 França | Documentários",Nature Time France [FHD]
@@ -327,6 +326,9 @@ https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ForensicFiles.us@SD" tvg-logo="https://i.imgur.com/V5vvuLK.png" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Forensic Files
 https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+#EXTINF:-1 tvg-id="Italiana.it@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Italiana [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDocumentari.de@IT" tvg-logo="https://i.imgur.com/o7KVAIH.png" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Pluto TV Documentari
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNatura.de@IT" tvg-logo="https://i.imgur.com/bGZkH6b.png" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Pluto TV Natura
@@ -345,10 +347,13 @@ https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playl
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-type="live" group-title="🇳🇱 Holanda | Documentários",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="DocuBox.nl@Russia" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-type="live" group-title="🇳🇱 Holanda | Documentários",DocuBox Russia [FHD]
-http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8
-#EXTINF:-1 tvg-id="DocuBox.nl@Russia" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-type="live" group-title="🇳🇱 Holanda | Documentários",DocuBox Russia (fonte 2)
+#EXTINF:-1 tvg-id="DocuBox.nl@Russia" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-type="live" group-title="🇳🇱 Holanda | Documentários",DocuBox Russia
 http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
+#EXTINF:-1 tvg-id="History.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇳🇱 Holanda | Documentários",History [SD]
+https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇳🇱 Holanda | Documentários",National Geographic [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇳🇱 Holanda | Documentários",National Geographic HD [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://46.32.176.50/NationalGeographicHD/index.m3u8
@@ -372,12 +377,6 @@ https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
 https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.se@SE" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Documentários",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.se@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-type="live" group-title="🇸🇪 Suécia | Documentários",Viasat Explore
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.se@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-type="live" group-title="🇸🇪 Suécia | Documentários",Viasat History
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.se@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-type="live" group-title="🇸🇪 Suécia | Documentários",Viasat Nature
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
 #EXTINF:-1 tvg-id="Crime360.us@SD" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-type="live" group-title="🇳🇴 Noruega | Documentários",Crime 360 [HD]
 https://jmp2.uk/plu-6578848a6e4f6a0008741910.m3u8
 #EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-logo="https://i.imgur.com/vzYDSLo.png" tvg-type="live" group-title="🇳🇴 Noruega | Documentários",FBI Files
@@ -412,12 +411,20 @@ https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us@Poland" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",Bloomberg Originals [FHD]
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",BTB Info [HD]
+#EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",BTB Info [FHD]
+https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8
+#EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",BTB Info [HD] (fonte 2)
 https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
-#EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",BTB Info [FHD] (fonte 2)
+#EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",BTB Info [FHD] (fonte 3)
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-id="History.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",History (576i)
+http://92.114.85.87:8015/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="Jail.uk@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",National Geographic (576i)
+http://92.114.85.87:8006/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",National Geographic Wild (576i)
+http://92.114.85.87:8010/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatExplore.pl@SD" tvg-logo="https://i.imgur.com/gDlqO9h.png" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",Polsat Viasat Explore
 http://92.114.85.87:8014/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD" tvg-logo="https://i.imgur.com/X16UGUf.png" tvg-type="live" group-title="🇵🇱 Polônia | Documentários",Polsat Viasat History [FHD]
@@ -428,90 +435,70 @@ http://92.114.85.87:8015/play/a005/index.m3u8
 http://92.114.85.87:8016/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="History.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Documentários",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.19/live/test_history/playlist.m3u8
+http://88.212.15.50/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Documentários",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_ngc/playlist.m3u8
+http://88.212.15.50/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Documentários",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.29/live/test_ngw/playlist.m3u8
+http://88.212.15.50/live/test_ngw/playlist.m3u8
 #EXTINF:-1 tvg-id="Spektrum.cz@SD" tvg-logo="https://i.imgur.com/F5Uosum.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Documentários",Spektrum
-http://88.212.15.19/live/test_spektrum/playlist.m3u8
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Documentários",Viasat Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.cz@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Documentários",Viasat History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
+http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.cz@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Documentários",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" tvg-type="live" group-title="🇨🇿 República Tcheca | Documentários",ČT 2
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="History.hu@SD" tvg-logo="https://i.imgur.com/OWIK7FJ.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/history_hun/index.m3u8
+http://88.212.7.14/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",Investigation Discovery
+http://88.212.7.14/live/id_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/ngc_hun/index.m3u8
+http://88.212.7.14/live/ngc_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/ngw_hun/index.m3u8
+http://88.212.7.14/live/ngw_hun/index.m3u8
 #EXTINF:-1 tvg-id="Spektrum.hu@SD" tvg-logo="https://i.imgur.com/GmFRQ82.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",Spektrum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.19/live/spektrum_hun/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇷🇴 Romênia | Documentários",National Geographic
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+http://88.212.7.14/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.hu@SD" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://205.237.104.26:8080/stream/345/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.hu@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",Viasat History
+http://193.33.39.108:9007/play/a00p
+#EXTINF:-1 tvg-id="ViasatNature.hu@SD" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-type="live" group-title="🇭🇺 Hungria | Documentários",Viasat Nature
+http://193.33.39.108:9000/play/a05r
 #EXTINF:-1 tvg-id="NationalGeographicWild.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇷🇴 Romênia | Documentários",National Geographic Wild
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-type="live" group-title="🇷🇴 Romênia | Documentários",Viasat Explore
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-type="live" group-title="🇷🇴 Romênia | Documentários",Viasat History
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-type="live" group-title="🇷🇴 Romênia | Documentários",Viasat Nature
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" tvg-type="live" group-title="🇮🇳 Índia | Documentários",Animal Planet [HD]
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" tvg-type="live" group-title="🇮🇳 Índia | Documentários",Animal Planet HD [HD]
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="DocuBayTV.in@SD" tvg-logo="https://i.imgur.com/OGyeLLR.png" tvg-type="live" group-title="🇮🇳 Índia | Documentários",DocuBay TV [FHD]
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicCrimes.in@SD" tvg-logo="https://i.imgur.com/a5kaqDc.png" tvg-type="live" group-title="🇮🇳 Índia | Documentários",Epic Crimes [FHD]
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Documentários",History TV18 [SD]
-http://51.75.127.199:3141/historytv18/index.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Documentários",History TV18 [SD] (fonte 2)
-http://103.151.60.162:2122/play/a00y/index.m3u8?hls
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Documentários",History TV18 HD
-#EXTVLCOPT:http-referrer=https://bhoomtv.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://techtraveleat.in/stream.m3u8?id=historytv18eng
-#EXTINF:-1 tvg-id="NationalGeographic.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Documentários",National Geographic [SD]
-http://51.75.127.199:3141/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157811_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Documentários",Investigation Discovery [HD]
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Documentários",National Geographic HD [FHD]
-http://51.75.127.199:3141/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Documentários",National Geographic HD [FHD] (fonte 2)
-http://103.185.24.134:3001/NATGEO-HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@SD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5075/1785250005075-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Documentários",National Geographic Wild [SD]
-http://51.75.127.199:3141/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5075/1785250005075-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Documentários",National Geographic Wild HD [FHD]
-http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5075/1785250005075-h.jpg" tvg-type="live" group-title="🇮🇳 Índia | Documentários",National Geographic Wild HD [FHD] (fonte 2)
-http://103.151.60.162:2122/play/a01f/index.m3u8?hls
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143739_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Documentários",Safari TV [HD]
 https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143739_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Documentários",Safari TV [SD] (fonte 2)
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/410/master.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143739_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Documentários",Safari TV [SD] (fonte 3)
-http://51.75.127.199:3141/safaritv/index.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Documentários",Sony BBC Earth HD [FHD]
-http://103.185.24.134:3001/SONY-BBC/index.m3u8
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-type="live" group-title="🇨🇳 China | Documentários",CCTV-9 (576i) [FHD]
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" tvg-logo="https://i.imgur.com/QlF96eS.png" tvg-type="live" group-title="🇨🇳 China | Documentários",CCTV-Weapon & Technology [FHD]
@@ -536,20 +523,16 @@ http://stream.mcquack.net/70/index.m3u8
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",365 days TV [SD] (fonte 3)
 https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",365 days TV [SD] (fonte 4)
-http://str2.iptvhd.ru:8080/365_dney/index.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",365 Дней [SD]
 http://31.148.48.15/365_dney/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Animal Planet [FHD]
+http://stream.mcquack.net/114/index.m3u8
 #EXTINF:-1 tvg-id="Arsenal.ru@SD" tvg-logo="https://i.imgur.com/DBpVeb0.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Arsenal [SD]
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="History2.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",History 2 [FHD]
-http://str2.iptvhd.ru:8080/H2_HD/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Investigation Discovery [FHD]
+http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://i.imgur.com/eEjPail.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Istoriya [SD]
-http://hls127.freeott.top:8080/Istoriya/video.m3u8
-#EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://i.imgur.com/eEjPail.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Istoriya [SD] (fonte 2)
 https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://i.imgur.com/eEjPail.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Istoriya [SD] (fonte 3)
-http://str2.iptvhd.ru:8080/Istoriya/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru@SD" tvg-logo="https://i.imgur.com/dYj3XDa.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Nano [SD]
 http://stream.mcquack.net/419/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://i.imgur.com/dYj3XDa.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Nano HD [FHD]
@@ -558,70 +541,46 @@ http://185.23.80.23:8080/NANO_HD/index.m3u8
 http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic [FHD] (fonte 2)
 http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic [FHD] (fonte 3)
-http://str2.iptvhd.ru:8080/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic [SD] (fonte 4)
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic [SD] (fonte 3)
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="NationalGeographic.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic HD [FHD]
-http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic Wild [FHD]
-http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic Wild [FHD] (fonte 2)
-http://str2.iptvhd.ru:8080/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic Wild [SD] (fonte 3)
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic Wild [SD]
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic Wild HD [FHD]
-http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",National Geographic Wild HD
+http://178.76.68.60:7442/50/mpegts
 #EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Nauka [FHD]
 http://stream.mcquack.net/125/index.m3u8
-#EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Nauka [SD] (fonte 2)
-http://45.145.32.13:20440/nauka/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Nauka [SD] (fonte 3)
-http://str2.iptvhd.ru:8080/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",RT Documentary Russian [FHD]
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",RT Documentary Russian [HD] (fonte 2)
 https://streaming.thestream.cyou/live/554.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",RTД
-https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Smotrim 100% Fakty [HD]
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",TERRA [FHD]
-http://str2.iptvhd.ru:8080/TERRA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Terra [SD] (fonte 2)
+#EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Terra [SD]
 http://31.148.48.15/Terra/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru@SD" tvg-logo="https://i.imgur.com/ZxUjCpF.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Terra HD [HD]
 http://31.148.48.15/Terra_HD/index.m3u8
-#EXTINF:-1 tvg-id="Tochkarf.ru@HD" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Tochka.rf [SD]
-http://str2.iptvhd.ru:8080/HD_Life/index.m3u8
-#EXTINF:-1 tvg-id="TopSecret.ru@SD" tvg-logo="https://i.imgur.com/HM4xy4G.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Top Secret [SD]
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
-#EXTINF:-1 tvg-id="TopSecret.ru@SD" tvg-logo="https://i.imgur.com/HM4xy4G.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",Top Secret [SD] (fonte 2)
-http://str2.iptvhd.ru:8080/Sovershenno_sekretno/index.m3u8
+#EXTINF:-1 tvg-id="TheExplorers.ru@SD" tvg-logo="https://www.oreol.tv/img/news/Logo_The_Explorers_Bleu.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",The Explorers [FHD]
+https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Explore [FHD]
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Explore [SD] (fonte 2)
-https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Explore [SD] (fonte 3)
-http://str2.iptvhd.ru:8080/Viasat_Explorer/index.m3u8
-#EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Explore [SD] (fonte 4)
 http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Explore [SD] (fonte 3)
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju History [FHD]
 http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju History [SD] (fonte 2)
-http://178.124.179.122:8080/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju History [SD] (fonte 3)
-https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju History [SD] (fonte 4)
 http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju History [SD] (fonte 3)
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju History [SD] (fonte 4)
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Nature [SD] (fonte 2)
-https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Nature [SD] (fonte 3)
 http://46.53.200.153:7777/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="vijuNature.ru@HD" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Nature HD [FHD]
-http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju Nature [SD] (fonte 3)
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuPlusPlanet.ru@HD" tvg-logo="https://i.imgur.com/9Weqdsk.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",viju+ Planet HD [FHD]
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://i.imgur.com/eEjPail.png" tvg-type="live" group-title="🇷🇺 Rússia | Documentários",История [SD]
@@ -646,9 +605,7 @@ https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",TRT Belgesel [FHD]
-http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",TRT Belgesel [HD] (fonte 2)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",TRT Belgesel [HD]
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.tr@SD" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-type="live" group-title="🇹🇷 Turkiye | Documentários",Viasat History [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -674,16 +631,14 @@ http://dtv.vol.net.ua/History_HD/index.m3u8
 #EXTINF:-1 tvg-id="History2Ukraine.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",History2 Ukraine [SD]
 http://dtv.vol.net.ua/H2-HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",National Geographic Wild [FHD]
-http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
+http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",National Geographic Wild [HD] (fonte 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://46.32.176.50/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-logo="https://i.imgur.com/39qZ68J.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",Viasat History
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
-#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-logo="https://i.imgur.com/39qZ68J.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Documentários",Viasat History [FHD] (fonte 2)
-http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
+http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==
 #EXTINF:-1 tvg-id="EPlanetTV.ir@SD" tvg-logo="" tvg-type="live" group-title="🇮🇷 Irã | Documentários",EPlanet TV
 https://eplhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTravel.fr@SD" tvg-logo="" tvg-type="live" group-title="🇮🇷 Irã | Documentários",Persiana Travel
@@ -692,7 +647,7 @@ https://mardomhls.wns.live/hls/stream.m3u8
 https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:-1 tvg-id="Dvojka.sk@SD" tvg-logo="https://i.imgur.com/ft10wQn.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Documentários",Dvojka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="H2.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",H2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03r
@@ -701,14 +656,12 @@ http://213.91.179.28:8000/play/a03r
 http://213.91.179.28:8000/play/a0c1
 #EXTINF:-1 tvg-id="ID.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",ID
 http://213.91.179.28:8000/play/a0cf
-#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic [FHD]
-http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic (fonte 2)
+#EXTINF:-1 tvg-id="ID.bg@SD" tvg-logo="" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",ID (fonte 2)
+http://213.91.179.28:8000/play/a0c0
+#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic Wild [FHD]
-http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic Wild (fonte 2)
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cu
 #EXTINF:-1 tvg-id="ViasatExplore.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-type="live" group-title="🇧🇬 Bulgária | Documentários",Viasat Explore [FHD]
@@ -722,8 +675,6 @@ https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz@SD" tvg-logo="https://i.imgur.com/iTTd3Ir.png" tvg-type="live" group-title="🇺🇿 Uzbequistão | Documentários",O'zbekiston Tarixi [FHD]
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇭🇷 Croácia | Documentários",National Geographic [FHD]
-http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="H2HD.si@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Documentários",H2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
@@ -741,6 +692,8 @@ https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.si@SD" tvg-logo="https://i.imgur.com/gxlZZ91.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Documentários",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-type="live" group-title="🇭🇷 Croácia | Documentários",National Geographic [FHD]
+http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Documentários",MRTV Farmer
 https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="RLPROTV.cd@SD" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-type="live" group-title="🇨🇩 RD Congo | Documentários",RL PRO TV

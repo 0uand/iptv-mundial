@@ -29,10 +29,6 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-id="ART.gr@SD" tvg-logo="https://i.imgur.com/mNeLu04.png" tvg-type="live" group-title="🇬🇷 Grécia | Cultura",ART [FHD]
 https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTSports1.gr@HD" tvg-logo="https://i.imgur.com/EsczO2H.png" tvg-type="live" group-title="🇬🇷 Grécia | Esportes",ERT Sports 1 [FHD]
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:-1 tvg-id="ERTSports2.gr@HD" tvg-logo="https://i.imgur.com/b2SNQPi.png" tvg-type="live" group-title="🇬🇷 Grécia | Esportes",ERT Sports 2 [FHD]
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:-1 tvg-id="Action24.gr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" tvg-type="live" group-title="🇬🇷 Grécia | Filmes",Action 24 [FHD]
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="GroovyTV.gr@SD" tvg-logo="https://i.imgur.com/ZYNQuf1.png" tvg-type="live" group-title="🇬🇷 Grécia | Filmes",Groovy TV [SD]
@@ -65,7 +61,7 @@ https://rtmp.win:3650/live/diontvlive.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 tvg-id="ENAChannel.gr@SD" tvg-logo="https://i.imgur.com/3g3yjAq.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",ENA Channel [FHD]
 https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
-#EXTINF:-1 tvg-id="EpilogesTV.gr@SD" tvg-logo="https://i.imgur.com/3S4P7ob.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Epiloges TV
+#EXTINF:-1 tvg-id="EpilogesTV.gr@SD" tvg-logo="https://i.imgur.com/3S4P7ob.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Epiloges TV [SD]
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 tvg-id="EpirusTV1.gr@SD" tvg-logo="https://i.imgur.com/nYVqhu8.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Epirus TV1 [HD]
 https://rtmp.win:3929/live/epiruslive.m3u8
@@ -83,7 +79,7 @@ https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 tvg-id="KritiTV.gr@SD" tvg-logo="https://i.imgur.com/X7jKwYl.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Kriti TV [FHD]
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="LepantoTV.gr@SD" tvg-logo="https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Lepanto TV
+#EXTINF:-1 tvg-id="LepantoTV.gr@SD" tvg-logo="https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Lepanto TV [FHD]
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MesogeiosTV.gr@SD" tvg-logo="https://i.imgur.com/KX5olay.png" tvg-type="live" group-title="🇬🇷 Grécia | Geral",Mesogeios TV [HD]
 https://rtmp.win:3793/live/mesogeiostvlive.m3u8

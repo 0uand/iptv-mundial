@@ -17,10 +17,6 @@ https://live.salira.tv:3870/stream/play.m3u8
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" tvg-type="live" group-title="🇮🇩 Indonésia | Educação",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
-#EXTINF:-1 tvg-id="SPOTV.id@SD" tvg-logo="https://i.imgur.com/HaoVsm5.png" tvg-type="live" group-title="🇮🇩 Indonésia | Esportes",SPOTV [HD]
-http://58.8.186.128:10006/bysid/2614
-#EXTINF:-1 tvg-id="SPOTV2.id@SD" tvg-logo="https://i.imgur.com/YD8fbTH.png" tvg-type="live" group-title="🇮🇩 Indonésia | Esportes",SPOTV 2 [HD]
-http://58.8.186.128:10006/bysid/2630
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Esportes",TVRI Sport [FHD]
 http://202.150.172.59/TVRISport/index.m3u8
 #EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" tvg-type="live" group-title="🇮🇩 Indonésia | Estilo de vida",Biznet Lifestyle [FHD]
@@ -37,7 +33,8 @@ https://akativi.siar.us/live/akativi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AsthaTV.id@HD" tvg-logo="https://astha.garuda.tv/assets/logo-DLGyXEGO.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Astha TV [FHD]
-https://hgmtv.com:19360/asthatv/asthatv.m3u8
+#EXTVLCOPT:http-referrer=https://asthatv.com/
+https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
 #EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://i.imgur.com/rORKbGw.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Astro Blitar TV [SD]
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
@@ -75,21 +72,11 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id@SD" tvg-logo="https://i.imgur.com/B4JW54M.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Duta TV [SD]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@Asia" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",E International Asia [SD]
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@Asia" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",E International Asia [SD] (fonte 2)
-https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@Europe" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",E International Europe [SD]
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@Europe" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",E International Europe [SD] (fonte 2)
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
 #EXTINF:-1 tvg-id="EfarinaTV.id@SD" tvg-logo="https://i.imgur.com/iYTimXh.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Efarina TV [HD]
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Garuda TV [FHD]
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-id="GrooviaKanal.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Groovia Kanal [SD]
-https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
 #EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://i.imgur.com/jjuKnYs.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",GTV HD [FHD]
 http://202.150.172.59/GTVHD/index.m3u8
 #EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://i.imgur.com/jjuKnYs.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",GTV HD (fonte 2)
@@ -113,11 +100,11 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Kediri" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",JTV Kediri [FHD]
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@Madiun" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",JTV Madiun
+#EXTINF:-1 tvg-id="JTV.id@Madiun" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",JTV Madiun [HD]
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Madura" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",JTV Madura [SD]
 http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",JTV Malang
+#EXTINF:-1 tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",JTV Malang [SD]
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://i.imgur.com/xFaoLIX.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Kawanua TV [HD]
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
@@ -130,9 +117,9 @@ https://flv.intechmedia.net/live/ch118.m3u8
 #EXTVLCOPT:http-referrer=https://madu.tv/live-streaming/
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Magna Channel [FHD]
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Magna Channel [FHD] (fonte 2)
 http://202.150.172.59/MagnaChannel/index.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Magna Channel [FHD] (fonte 2)
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MatrixTVYogyakarta.id@HD" tvg-logo="https://stream.matrixtv.id/logo" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Matrix TV Yogyakarta [HD]
 #EXTVLCOPT:http-referrer=https://stream.matrixtv.id/
 https://stream.matrixtv.id/hls/0/stream.m3u8
@@ -143,8 +130,6 @@ http://ikitv.sqn.at:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id@SD" tvg-logo="https://i.imgur.com/MYU7dsZ.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",MGSTV [SD]
 #EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
 https://mgstv.siar.us/live/mgstv.m3u8
-#EXTINF:-1 tvg-id="MNCTV.id@HD" tvg-logo="https://i.imgur.com/SK8pjQy.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",MNCTV HD
-http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Nusantara TV [FHD]
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="OnlineTVNusantara.id@SD" tvg-logo="https://i.imgur.com/E9CCIpP.jpg" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Online TV Nusantara [HD]
@@ -164,15 +149,18 @@ https://pujatv.siar.us/live/pujatv.m3u8
 https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Radar Tasikmalaya TV [HD]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Rajawali TV [FHD]
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Rajawali TV [FHD]
 http://202.150.172.59/RajawaliTV/index.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Rajawali TV (fonte 2)
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Rajawali TV (fonte 3)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Rajawali TV (fonte 2)
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Rajawali TV (576i)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Rajawali TV (fonte 3)
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Rajawali TV (576i)
 #EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
 http://175.158.57.130:8888/stream/channelid/412436804
+#EXTINF:-1 tvg-id="RBTVJogja.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",RBTV Jogja [FHD]
+#EXTVLCOPT:http-referrer=https://official.rbtvjogja.tv/live.php
+https://official.rbtvjogja.tv/live/mychannel.m3u8
 #EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",RCTI HD [FHD]
 http://202.150.172.59/RCTIHD/index.m3u8
 #EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",RCTI HD [HD] (fonte 2)
@@ -236,9 +224,12 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Sultra TV [HD]
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Surau TV
+#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Surau TV [HD]
+#EXTVLCOPT:http-referrer=https://surau.tv/
+https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8
+#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Surau TV (fonte 2)
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
-#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Surau TV [HD] (fonte 2)
+#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",Surau TV [HD] (fonte 3)
 http://ikitv.sqn.at:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="TATV.id@SD" tvg-logo="https://i.imgur.com/1f0EC7t.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",TATV [HD]
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
@@ -325,12 +316,13 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 https://srs.u-channel.tv/live/uchannel-tv.m3u8
 #EXTINF:-1 tvg-id="UGTV.id@SD" tvg-logo="https://i.imgur.com/iEKDH26.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",UGTV [HD]
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="USMTV.id@SD" tvg-logo="https://usmtv.id/wp-content/uploads/2024/01/logo-large-1.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",USM TV [FHD]
+#EXTVLCOPT:http-referrer=https://usmtv.id/live-tv/
+https://play.fsa-stream.my.id/hls/siaran.m3u8
 #EXTINF:-1 tvg-id="YOYInternational.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/3ed50b4273b16759c16450206bec0196.png" tvg-type="live" group-title="🇮🇩 Indonésia | Geral",YOY International [SD]
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Biznet Kids [FHD]
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 tvg-id="GrooviaKids.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Groovia Kids [SD]
-https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
 #EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="MyKidz.id@SD" tvg-logo="https://i.imgur.com/qzZFU6d.png" tvg-type="live" group-title="🇮🇩 Indonésia | Infantil",My Kidz [HD]
@@ -348,6 +340,9 @@ https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" tvg-type="live" group-title="🇮🇩 Indonésia | Legislativo",TVR Parlemen [HD] (fonte 2)
 https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg" tvg-type="live" group-title="🇮🇩 Indonésia | Negócios",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD" tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",BeritaSatu [FHD]
 #EXTVLCOPT:http-referrer=https://www.beritasatu.com/beritasatu-live-streaming
 https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
@@ -358,12 +353,13 @@ https://flv.intechmedia.net/live/ch112.m3u8
 http://ikitv.sqn.at:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="BNChannel.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",BN Channel (576i)
 http://175.158.57.130:8888/stream/channelid/1402218159
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",BTV [FHD]
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://i.imgur.com/l0JyOrm.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="HumaBetangTV.id@SD" tvg-logo="https://i.imgur.com/xBTqOEu.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",Huma Betang TV [HD]
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="iNews.id@HD" tvg-logo="https://i.imgur.com/M2R3lfg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",iNews HD [FHD]
-http://202.150.172.59/iNews/index.m3u8
-#EXTINF:-1 tvg-id="iNews.id@HD" tvg-logo="https://i.imgur.com/M2R3lfg.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",iNews HD [HD] (fonte 2)
-https://mncmedia.malingtv.workers.dev/inews.m3u8
 #EXTINF:-1 tvg-id="LingkarTV.id@SD" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" tvg-type="live" group-title="🇮🇩 Indonésia | Notícias",Metro TV [HD]

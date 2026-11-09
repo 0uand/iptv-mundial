@@ -89,8 +89,14 @@ https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OO
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="CGEntertainment.it@SD" tvg-logo="https://i.imgur.com/XeWzy7e.png" tvg-type="live" group-title="🇮🇹 Itália | Entretenimento",CG Entertainment [HD]
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Entretenimento",Discovery Channel [FHD]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Entretenimento",Discovery Channel HD [HD]
+http://102.129.186.182:81/discovery/index.m3u8
 #EXTINF:-1 tvg-id="GeordieShore.de@IT" tvg-logo="https://i.imgur.com/WOkqDRi.png" tvg-type="live" group-title="🇮🇹 Itália | Entretenimento",Geordie Shore
 https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
+#EXTINF:-1 tvg-id="Giallo.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Entretenimento",Giallo [FHD]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="GoldTV.it@SD" tvg-logo="https://i.imgur.com/Yzc47k9.png" tvg-type="live" group-title="🇮🇹 Itália | Entretenimento",Gold TV [SD]
 https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldTV.it@SD" tvg-logo="https://i.imgur.com/Yzc47k9.png" tvg-type="live" group-title="🇮🇹 Itália | Entretenimento",Gold TV [SD] (fonte 2)
@@ -113,6 +119,11 @@ https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
 https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk@SD" tvg-logo="https://i.imgur.com/S6Su6QH.png" tvg-type="live" group-title="🇮🇹 Itália | Entretenimento",Top Gear
 https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Animação",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/122/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it@HD" tvg-logo="https://i.imgur.com/6vYWCD0.png" tvg-type="live" group-title="🇮🇹 Itália | Animação",Cartoonito HD [HD]
+https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-type="live" group-title="🇮🇹 Itália | Animação",Mr. Bean Anime Italy [FHD]
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@US" tvg-logo="https://i.imgur.com/XsvbAWR.png" tvg-type="live" group-title="🇮🇹 Itália | Animação",One Piece
@@ -123,12 +134,16 @@ https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us@SD" tvg-logo="https://i.imgur.com/Tl6aW2u.png" tvg-type="live" group-title="🇮🇹 Itália | Animação",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Automotivo",Discovery Turbo [FHD]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="CasaItalia53.it@SD" tvg-logo="https://i.imgur.com/X8BI1Md.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",Casa Italia 53 [SD]
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Juwelo.it@SD" tvg-logo="https://i.imgur.com/T3r1khc.png" tvg-type="live" group-title="🇮🇹 Itália | Compras" catchup="default" catchup-source="https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",Juwelo Italia [HD]
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-id="QVC.it@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-type="live" group-title="🇮🇹 Itália | Compras",QVC Italia [HD]
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",Comedy Central [HD]
+http://team-tv.co:81/comedy/index.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",FailArmy [HD]
 https://jmp2.uk/plu-608014d19a26320007c92ab6.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@Italy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",Failarmy [HD] (fonte 2)
@@ -137,6 +152,8 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-6093f48c95132a00075fd859.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScherzierisate.de@IT" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Comédia",Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" tvg-type="live" group-title="🇮🇹 Itália | Culinária",Food Network [FHD]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="GamberoRossoChannel.it@SD" tvg-logo="https://i.imgur.com/x5cwb1q.png" tvg-type="live" group-title="🇮🇹 Itália | Culinária",Gambero Rosso [HD]
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCucina.de@IT" tvg-logo="https://i.imgur.com/cwkrxcS.png" tvg-type="live" group-title="🇮🇹 Itália | Culinária",Pluto TV Cucina
@@ -153,6 +170,9 @@ https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ForensicFiles.us@SD" tvg-logo="https://i.imgur.com/V5vvuLK.png" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Forensic Files
 https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+#EXTINF:-1 tvg-id="Italiana.it@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Italiana [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDocumentari.de@IT" tvg-logo="https://i.imgur.com/o7KVAIH.png" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Pluto TV Documentari
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNatura.de@IT" tvg-logo="https://i.imgur.com/bGZkH6b.png" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Pluto TV Natura
@@ -161,13 +181,8 @@ https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1 tvg-id="StorieCriminali.es@IT" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Documentários",Storie Criminali
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Educação",Rai Scuola [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",ACI Sport TV [HD]
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",ACI Sport TV [HD] (fonte 2)
-http://145.239.5.177/564a/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" tvg-type="live" group-title="🇮🇹 Itália | Esportes",FIFA+ [HD]
 https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
 #EXTINF:-1 tvg-id="InterTV.it@SD" tvg-logo="https://i.imgur.com/FUTqh2L.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Inter TV [FHD]
@@ -176,13 +191,12 @@ https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it@SD" tvg-logo="https://i.imgur.com/47X44DD.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",MadeinBO TV [FHD]
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.de@IT" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Pluto TV Snooker 900 [HD]
-https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
+#EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://i.imgur.com/gAMQfUw.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Milan TV [HD]
+http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.de@IT" tvg-logo="https://i.imgur.com/y22ElOr.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Pluto TV Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
-#EXTINF:-1 tvg-id="RaiSport.it@SD" tvg-logo="https://i.imgur.com/6PEevOM.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Rai Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
+#EXTINF:-1 tvg-id="RadioTVSerieA.it@SD" tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Radio TV Serie A
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Rally TV
 https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it@SD" tvg-logo="https://i.imgur.com/0CJGGgd.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Sport Italia [FHD]
@@ -203,11 +217,16 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@US" tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",World Poker Tour
 https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
-#EXTINF:-1 tvg-id="ZonaDAZN.it@SD" tvg-logo="https://i.imgur.com/Jop3Vip.png" tvg-type="live" group-title="🇮🇹 Itália | Esportes",Zona DAZN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
 #EXTINF:-1 tvg-id="AlmaTV.it@SD" tvg-logo="https://i.imgur.com/MfFOnJp.png" tvg-type="live" group-title="🇮🇹 Itália | Estilo de vida",Alma TV [SD]
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassTVModa.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/960px-Class-tv-moda.png" tvg-type="live" group-title="🇮🇹 Itália | Estilo de vida",Class TV Moda [FHD]
+https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-
+#EXTINF:-1 tvg-id="DMAX.it@SD" tvg-logo="https://i.imgur.com/uGd9fnn.png" tvg-type="live" group-title="🇮🇹 Itália | Estilo de vida",DMAX [FHD]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="DMAX.it@HD" tvg-logo="https://i.imgur.com/uGd9fnn.png" tvg-type="live" group-title="🇮🇹 Itália | Estilo de vida",DMAX HD [HD]
+http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.it@SD" tvg-logo="https://i.imgur.com/ejPii8T.png" tvg-type="live" group-title="🇮🇹 Itália | Estilo de vida",HGTV [FHD]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRealLife.de@IT" tvg-logo="https://i.imgur.com/uvk27Fe.png" tvg-type="live" group-title="🇮🇹 Itália | Estilo de vida",Pluto TV Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVViaggi.de@IT" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png" tvg-type="live" group-title="🇮🇹 Itália | Estilo de vida",Pluto TV Viaggi
@@ -220,8 +239,6 @@ https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine34.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Cine34 HD [FHD]
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="HorrorChannel.it@SD" tvg-logo="https://i.imgur.com/VvNflYm.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Horror Channel [FHD]
-http://str2.iptvhd.ru:8080/Horror/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAlbertoSordi.de@IT" tvg-logo="https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Pluto TV Alberto Sordi
 https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
 #EXTINF:-1 tvg-id="PlutoTVChristmastuttolanno.de@IT" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Pluto TV Christmas tutto l'anno
@@ -252,14 +269,14 @@ https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
 https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNottidiTerrore.de@IT" tvg-logo="https://images.pluto.tv/channels/6911c8dd8caba6f046c5c5d5/colorLogoPNG_1766041208757.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Pluto TV Notti di Terrore
 https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de@IT" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Pluto TV Paranormal
-https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerieSciFi.de@IT" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Pluto TV Serie Sci-Fi
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToto.de@IT" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Pluto TV Totò
 https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWestern.de@IT" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Pluto TV Western
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it@HD" tvg-logo="https://i.imgur.com/0FjxXU9.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Rai Movie HD [FHD]
+http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Rakuten TV Action Movies Italy [FHD]
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Italy" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-type="live" group-title="🇮🇹 Itália | Filmes",Rakuten TV Comedy Movies Italy [FHD]
@@ -330,7 +347,7 @@ http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
 http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Carabinieri
 https://jmp2.uk/plu-66a0eea88561260008b1c5d0.m3u8
-#EXTINF:-1 tvg-id="MTVCatfishTVShow.de@IT" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Catfish
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Catfish
 https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",CG Grandi Film [HD]
 https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/playlist.m3u8
@@ -358,7 +375,7 @@ https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Duri a Morire [HD]
 https://jmp2.uk/plu-65f865a62873090008d06382.m3u8
-#EXTINF:-1 tvg-id="Dynasty.de@IT" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Dynasty
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Dynasty
 https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
 #EXTINF:-1 tvg-id="EliveTVBrescia.it@SD" tvg-logo="https://i.imgur.com/gZxjLph.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Elive TV Brescia [HD]
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
@@ -367,9 +384,9 @@ https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="EspansioneTV.it@SD" tvg-logo="https://i.imgur.com/NZJi7mm.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Espansione TV [FHD]
 https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
 #EXTINF:-1 tvg-id="EsperiaTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Esperia TV [HD]
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-id="EsperiaTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Esperia TV [HD] (fonte 2)
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="EsperiaTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Esperia TV [HD] (fonte 2)
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroTV.it@SD" tvg-logo="https://i.imgur.com/HFWWzKT.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Euro TV [HD]
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Extreme Makeover Home Edition
@@ -414,6 +431,10 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/p
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it@SD" tvg-logo="https://i.imgur.com/R4sqZQu.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",La TR3 Marsala [HD]
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 tvg-id="La7Cinema.it@HD" tvg-logo="https://i.imgur.com/khPweok.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",La7 Cinema [HD]
+http://102.129.186.182:81/la7d/index.m3u8
+#EXTINF:-1 tvg-id="LA7.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",LA7 HD [FHD]
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
 #EXTINF:-1 tvg-id="LA7d.it@SD" tvg-logo="https://i.imgur.com/sM0A3GD.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",LA7d [HD]
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="LazioTV.it@SD" tvg-logo="https://i.imgur.com/TNLD9yD.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Lazio TV [SD]
@@ -447,7 +468,7 @@ https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 #EXTINF:-1 tvg-id="MediterraniaTV.it@SD" tvg-logo="https://i.imgur.com/PJbXCoe.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",MediterraniaTV [FHD]
 https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.de@IT" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Mission Impossible
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Mission Impossible
 https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",MODUS Super Series Darts
 https://jmp2.uk/plu-671655b2daad7f00085d202d.m3u8
@@ -457,6 +478,8 @@ https://jmp2.uk/plu-610a9ebe8c2ac2000734776e.m3u8
 https://jmp2.uk/plu-6500457d3efb510008315e59.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Nina
 https://jmp2.uk/plu-691c5b2e74baa89ef7230baf.m3u8
+#EXTINF:-1 tvg-id="Nove.it@SD" tvg-logo="https://i.imgur.com/rTjIkGO.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Nove [FHD]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="NTN.it@SD" tvg-logo="https://i.imgur.com/AW5fJwa.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",NTN [HD]
 https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Odeon24.it@SD" tvg-logo="https://i.imgur.com/Ho7SdXY.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Odeon 24 [SD]
@@ -470,10 +493,18 @@ https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
 #EXTINF:-1 tvg-id="OttoChannel.it@SD" tvg-logo="https://i.imgur.com/zxdwM4f.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Otto Channel [SD]
 https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.de@IT" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Pluto TV Anime
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Pluto TV Anime
 https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.de@IT" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Pluto TV Horror
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Pluto TV Horror
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Pluto TV Paranormal
+https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Pluto TV Snooker 900 [HD]
+https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Pluto TV True Crime
+https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.it@SD" tvg-logo="https://i.imgur.com/HE9c8Sk.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Prima TV Sicilia [HD]
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaFree.it@SD" tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" tvg-type="live" group-title="🇮🇹 Itália | Geral",PrimaFree [HD]
@@ -491,15 +522,31 @@ https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-id="Rai2.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 2 [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 2 HD [HD]
+http://team-tv.co:81/rai2/index.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 3 [FHD]
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@BISFJK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 3 BIS FJK [SD]
+https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@FriuliVeneziaGiulia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 3 Friuli Venezia Giulia [SD]
+https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@TrentinoAltoAdigeBolzano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 3 Trentino-Alto Adige Bolzano [SD]
+https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@TrentinoAltoAdigeTrento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 3 Trentino-Alto Adige Trento [SD]
+https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4.it@SD" tvg-logo="https://i.imgur.com/sEY21rg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 4 [SD]
 https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
-#EXTINF:-1 tvg-id="RaiGulp.it@SD" tvg-logo="https://i.imgur.com/irAhPJM.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Gulp [SD]
+#EXTINF:-1 tvg-id="Rai4.it@HD" tvg-logo="https://i.imgur.com/sEY21rg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 4 HD [HD]
+http://team-tv.co:81/rai4/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai 5 [SD]
+http://team-tv.co:81/rai5/index.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it@SD" tvg-logo="https://i.imgur.com/irAhPJM.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Gulp [FHD]
+http://5.180.164.197:8080/RAIGULP/index.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it@SD" tvg-logo="https://i.imgur.com/irAhPJM.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Gulp [SD] (fonte 2)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiItalia.it@EuropeAfrica" tvg-logo="https://i.imgur.com/1nN4rEP.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Italia [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
-#EXTINF:-1 tvg-id="RaiItalia.it@EuropeAfrica" tvg-logo="https://i.imgur.com/1nN4rEP.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Italia (fonte 2)
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it@Australia" tvg-logo="https://i.imgur.com/1nN4rEP.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Italia Australia [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
@@ -511,6 +558,8 @@ http://138.59.177.78:9999/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it@SouthAmericas" tvg-logo="https://i.imgur.com/1nN4rEP.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Italia South Americas [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 tvg-id="RaiPremium.it@SD" tvg-logo="https://i.imgur.com/40g5Urz.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Premium
+http://team-tv.co:81/raipremium/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Sport 2
 http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Rai Storia [FHD]
@@ -532,6 +581,10 @@ https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/
 https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
 #EXTINF:-1 tvg-id="RDSSocialTV.it@SD" tvg-logo="https://i.imgur.com/bxGvE8C.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",RDS Social TV [FHD]
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="RealTime.it@SD" tvg-logo="https://i.imgur.com/SPlk2Gx.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Real Time [FHD]
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="RealTime.it@HD" tvg-logo="https://i.imgur.com/SPlk2Gx.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",Real Time HD [HD]
+http://102.129.186.182:81/realtime/index.m3u8
 #EXTINF:-1 tvg-id="ReggioTV.it@SD" tvg-logo="https://i.imgur.com/cEwJkRV.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",ReggioTV [HD]
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇮🇹 Itália | Geral",Relic Hunter
@@ -720,6 +773,8 @@ http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 https://www.gruppotv7.com:8090/hls/meteo.m3u8
 #EXTINF:-1 tvg-id="TV7Triveneta.it@SD" tvg-logo="https://i.imgur.com/ndFoo4V.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",TV7 Triveneta [SD]
 https://www.gruppotv7.com:8090/hls/ireporter.m3u8
+#EXTINF:-1 tvg-id="TV8.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TV8_logo.svg/500px-TV8_logo.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",TV8 [HD]
+http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 tvg-id="TVAVicenza.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",TVA (Vicenza) [HD]
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVL.it@SD" tvg-logo="https://i.imgur.com/2wkSHNI.png" tvg-type="live" group-title="🇮🇹 Itália | Geral",TVL [HD]
@@ -748,14 +803,21 @@ https://jmp2.uk/plu-67c832cc9b53325ee16fb899.m3u8
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-id="BeJoykids.it@HD" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",BeJoy.kids [FHD]
 https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 tvg-id="Boing.it@HD" tvg-logo="https://i.imgur.com/rabKj9i.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Boing HD [HD]
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="DeAKids.it@SD" tvg-logo="https://i.imgur.com/ixnJAuq.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",DeA Kids
+http://185.227.34.104/stream/113/index.m3u8
 #EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Iunior TV [FHD]
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 tvg-id="IuniorTV.it@SD" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Iunior TV [HD] (fonte 2)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Nick Jr. [HD]
 http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.it@SD" tvg-logo="https://i.imgur.com/6p3eFgf.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Nick Jr. (fonte 2)
+https://streamer-jv9.pages.dev/italy/nickjr.m3u
 #EXTINF:-1 tvg-id="Nickelodeon.it@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Nickelodeon
-https://zg9mhld.s.gy/HD-NICK-IT.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTeen.de@IT" tvg-logo="https://i.imgur.com/lNJ5p5e.png" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Pluto TV Teen [HD]
 https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
 #EXTINF:-1 tvg-id="Super.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Super%21_logo_2015.svg" tvg-type="live" group-title="🇮🇹 Itália | Infantil",Super! [HD]
@@ -812,6 +874,8 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="eTvRete7.it@SD" tvg-logo="https://i.imgur.com/xYVI5OC.png" tvg-type="live" group-title="🇮🇹 Itália | Notícias",èTv Rete 7 [HD]
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CacciaePesca.it@SD" tvg-logo="https://i.imgur.com/uZr0cXB.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Caccia e Pesca [HD]
+http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Italian Fishing TV [FHD]
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Peer TV Alto Adige [FHD]
@@ -820,6 +884,8 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-id="PeerTVSudtirol.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Peer TV Südtirol [FHD]
 https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="PescaeCaccia.it@SD" tvg-logo="https://i.imgur.com/nW5dJBl.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Pesca e Caccia [HD]
+http://102.129.186.182:81/pescacaccia/index.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk@SD" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-type="live" group-title="🇮🇹 Itália | Relax",Space Live [HD]
 https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8
 #EXTINF:-1 tvg-id="Andromeda.us@Italy" tvg-logo="https://i.imgur.com/6ot2lmd.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Andromeda Italy [HD]
@@ -834,14 +900,10 @@ https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
 https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
 #EXTINF:-1 tvg-id="LesorelleMcLeod.us@Italy" tvg-logo="https://i.imgur.com/OkGiH9a.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Le sorelle McLeod
 https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de@IT" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerie.de@IT" tvg-logo="https://i.imgur.com/u3c80e8.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Pluto TV Serie
 https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerieCrime.de@IT" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Pluto TV Serie Crime
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.de@IT" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Pluto TV True Crime
-https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSanctuary.us@SD" tvg-logo="https://i.imgur.com/Fu2jn2t.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 #EXTINF:-1 tvg-id="TheAsylum.us@US" tvg-logo="https://i.imgur.com/dx9tt1B.png" tvg-type="live" group-title="🇮🇹 Itália | Séries",The Asylum

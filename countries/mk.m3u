@@ -19,6 +19,12 @@ https://skyfolk.mk/live.m3u8
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1 tvg-id="TopEstradaTV.mk@SD" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Música",TopEstrada TV [HD]
 http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Esportes",Arena Sport Premium M1
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
+#EXTINF:-1 tvg-id="ArenaSportPremiumM2.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Esportes",Arena Sport Premium M2
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4
+#EXTINF:-1 tvg-id="ArenaSportPremiumM3.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Esportes",Arena Sport Premium M3
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
 #EXTINF:-1 tvg-id="MNetSport.mk@SD" tvg-logo="https://i.imgur.com/7k8ar1Z.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Esportes",M-Net Sport [HD]
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="MNetSport.mk@SD" tvg-logo="https://i.imgur.com/7k8ar1Z.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Esportes",M-Net Sport (fonte 2)
@@ -27,6 +33,8 @@ https://live.mnet.mk/hls/mnet-sport.m3u8
 https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
 #EXTINF:-1 tvg-id="Kanal5.mk@SD" tvg-logo="https://i.imgur.com/Qw7N3S2.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Geral",Kanal 5 [SD]
 https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal8.mk@HD" tvg-logo="https://i.imgur.com/jHbTDhH.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Geral",Kanal 8 [FHD]
+https://tv.kanal8.mk/live/kanal8.m3u8
 #EXTINF:-1 tvg-id="MNetHD.mk@SD" tvg-logo="https://i.imgur.com/HDYqWuR.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Geral",M-Net HD [HD]
 http://ares.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-id="MNetHD.mk@SD" tvg-logo="https://i.imgur.com/HDYqWuR.png" tvg-type="live" group-title="🇲🇰 Macedônia do Norte | Geral",M-Net HD (fonte 2)

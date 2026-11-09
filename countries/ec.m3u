@@ -106,6 +106,8 @@ https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec@SD" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" tvg-type="live" group-title="🇪🇨 Equador | Geral",Marca TV [FHD]
 http://200.7.219.221:8088/live/livetv/index.m3u8
+#EXTINF:-1 tvg-id="MaxivisionCanal8.ec@SD" tvg-logo="https://i.imgur.com/rlFAtnO.jpeg" tvg-type="live" group-title="🇪🇨 Equador | Geral",Maxivision Canal 8 [FHD]
+http://181.119.97.124:8080/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="MulticanalCatamayo.ec@SD" tvg-logo="https://i.imgur.com/IHKBGmu.png" tvg-type="live" group-title="🇪🇨 Equador | Geral",Multicanal Catamayo [HD]
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD" tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" tvg-type="live" group-title="🇪🇨 Equador | Geral",Ondas Quevedeñas TV [HD]
@@ -192,6 +194,6 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="MarioPintoTV.ec@SD" tvg-logo="https://i.imgur.com/9rU6yWo.jpg" tvg-type="live" group-title="🇪🇨 Equador | Notícias",Mario Pinto TV [HD]
 https://eu1.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="RTU.ec@SD" tvg-logo="https://i.imgur.com/1OWvMP4.png" tvg-type="live" group-title="🇪🇨 Equador | Notícias",RTU [FHD]
-https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
-#EXTINF:-1 tvg-id="RTU.ec@SD" tvg-logo="https://i.imgur.com/1OWvMP4.png" tvg-type="live" group-title="🇪🇨 Equador | Notícias",RTU [FHD] (fonte 2)
 http://45.224.97.181:9999/RTU/index.m3u8
+#EXTINF:-1 tvg-id="RTU.ec@SD" tvg-logo="https://i.imgur.com/1OWvMP4.png" tvg-type="live" group-title="🇪🇨 Equador | Notícias",RTU [FHD] (fonte 2)
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=

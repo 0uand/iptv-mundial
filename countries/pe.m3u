@@ -45,6 +45,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTV.pe@SD" tvg-logo="https://i.imgur.com/tiNvihZ.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Top FM TV [SD]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe@SD" tvg-logo="https://i.imgur.com/VRl8nPZ.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe@SD" tvg-logo="https://i.imgur.com/AsdBQa3.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Turbo Mix Radio TV [HD]
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe@SD" tvg-logo="https://i.imgur.com/AsdBQa3.png" tvg-type="live" group-title="🇵🇪 Peru | Música",Turbo Mix Radio TV [SD] (fonte 2)
@@ -101,11 +103,9 @@ https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Movistar Deportes [FHD]
-http://45.4.1.201:8000/play/a13e/index.m3u8
+http://170.244.209.30:8000/play/a1i8/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Movistar Deportes [FHD] (fonte 2)
 http://195.178.110.110/movistar/index.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Movistar Deportes [FHD] (fonte 3)
-http://170.244.209.30:8000/play/a1i8/index.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://i.imgur.com/7Xndgxk.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Ovacion TV [HD]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SqalaTV.pe@SD" tvg-logo="https://i.imgur.com/DJ05m8s.png" tvg-type="live" group-title="🇵🇪 Peru | Esportes",Sqala TV [FHD]
@@ -136,17 +136,13 @@ https://servilive.com:3199/live/amazoniatvlive.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonicaTV.pe@SD" tvg-logo="https://i.imgur.com/22ebHAX.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",Amazonica TV (fonte 2)
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD]
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Am%C3%A9rica_HD.svg/960px-Am%C3%A9rica_HD.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD]
 http://190.93.224.42/AMERICA-TV/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [HD] (fonte 2)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Am%C3%A9rica_HD.svg/960px-Am%C3%A9rica_HD.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [HD] (fonte 2)
 http://187.102.210.46/AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD] (fonte 3)
-http://45.171.108.253:8888/AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD] (fonte 4)
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Am%C3%A9rica_HD.svg/960px-Am%C3%A9rica_HD.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD] (fonte 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",America Television [FHD] (fonte 5)
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 #EXTINF:-1 tvg-id="Antena1.pe@SD" tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",Antena 1 [HD]
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena1.pe@SD" tvg-logo="https://i.imgur.com/Bt0yGtw.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",Antena 1 [FHD] (fonte 2)
@@ -176,9 +172,9 @@ http://190.93.224.42/ATV-SUR/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",ATV Sur [FHD] (fonte 2)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",ATV Sur [HD] (fonte 3)
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",ATV Sur [HD] (fonte 4)
 https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",ATV Sur [HD] (fonte 4)
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD" tvg-logo="https://i.imgur.com/bEJK3RN.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Auténtica Televisión [HD]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="BellaAbanquinaTV.pe@SD" tvg-logo="https://i.imgur.com/bORM4rt.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Bella Abanquina TV [FHD]
@@ -227,7 +223,7 @@ https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8
 #EXTINF:-1 tvg-id="EvolucionTV.pe@SD" tvg-logo="https://i.imgur.com/OUsT530.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",Evolucion TV [SD]
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
-#EXTINF:-1 tvg-id="ForoTV.pe@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s" tvg-type="live" group-title="🇵🇪 Peru | Geral",Foro TV
+#EXTINF:-1 tvg-id="ForoTV.pe@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s" tvg-type="live" group-title="🇵🇪 Peru | Geral",Foro TV [SD]
 https://mc.servidor.stream:19360/8274/8274.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaAmazonica.pe@SD" tvg-logo="https://i.imgur.com/jVkzHw0.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Frecuencia Amazonica
 https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
@@ -309,10 +305,10 @@ http://190.93.224.42/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Panamericana TV [FHD] (fonte 2)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Panamericana TV [FHD] (fonte 3)
+http://181.224.200.5:2277/play/kkio/index.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Panamericana TV [FHD] (fonte 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Panamericana TV [FHD] (fonte 4)
-http://181.224.200.5:2277/play/kkio/index.m3u8
 #EXTINF:-1 tvg-id="PiuraTV.pe@SD" tvg-logo="https://i.imgur.com/KnJAqbd.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",PiuraTV [HD]
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PlaneaTV.pe@SD" tvg-logo="https://i.imgur.com/EoLhvBN.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Planea TV [FHD]
@@ -333,8 +329,12 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-id="RTP.pe@SD" tvg-logo="https://i.imgur.com/nHMqAHn.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",RTP [HD]
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
-#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Rumbo Minero TV [FHD]
+#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Rumbo Minero TV [HD]
+https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
+#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Rumbo Minero TV [FHD] (fonte 2)
 http://45.70.201.81:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Rumbo Minero TV [FHD] (fonte 3)
+http://38.87.224.19:2220/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe@SD" tvg-logo="https://i.imgur.com/1q0R6R9.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Señal Perú TV [SD]
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SiscomTV.pe@SD" tvg-logo="https://i.imgur.com/0JUlFZ4.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Siscom TV
@@ -344,7 +344,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="SolarTelevision.pe@SD" tvg-logo="https://i.imgur.com/ufnWpUf.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Solar Television (fonte 2)
 https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 #EXTINF:-1 tvg-id="SolTV.pe@SD" tvg-logo="https://i.imgur.com/GtNkuAc.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",SolTV [HD]
-https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
+https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioPascoTV.pe@SD" tvg-logo="https://i.imgur.com/zgyNuVE.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",Studio Pasco TV [FHD]
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.pe@SD" tvg-logo="https://i.imgur.com/eotfCMd.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Super Canal [HD]
@@ -366,6 +366,8 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://i.imgur.com/Dzen7sh.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Television Tarapoto [FHD]
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://i.imgur.com/Dzen7sh.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Television Tarapoto [FHD] (fonte 2)
+http://45.5.57.58:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://i.imgur.com/Dzen7sh.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Televisión Tarapoto [HD]
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-id="TeveEmpresa.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Teve Empresa [FHD]
@@ -375,9 +377,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Trivu [FHD]
 http://190.93.224.42/TRIVU-TV/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Trivu [FHD] (fonte 2)
-https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Trivu [FHD] (fonte 3)
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Trivu [FHD] (fonte 3)
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBellaAsuncion.pe@SD" tvg-logo="https://i.imgur.com/H69eLFW.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVCosmos.pe@SD" tvg-logo="https://i.imgur.com/nr4ctt4.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Cosmos [HD]
@@ -395,16 +397,14 @@ http://190.93.224.42/VIVA-TV/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [HD] (fonte 3)
 http://187.102.210.46/TVPERU/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [FHD] (fonte 4)
+http://181.224.200.5:2277/play/a0dx/index.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [FHD] (fonte 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [FHD] (fonte 5)
+#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [FHD] (fonte 6)
 #EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [FHD] (fonte 6)
-http://181.224.200.5:2277/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru [FHD] (fonte 7)
-http://187.102.208.209:8000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru (fonte 8)
+#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV Peru (fonte 7)
 https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusChincha.pe@SD" tvg-logo="https://i.imgur.com/bjQpQsu.jpeg" tvg-type="live" group-title="🇵🇪 Peru | Geral",TV+ Chincha [HD]
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
@@ -443,7 +443,9 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Willax TV [FHD]
 http://190.93.224.42/WILLAX/index.m3u8
-#EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Willax TV [HD] (fonte 2)
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Willax TV [FHD] (fonte 2)
+http://170.244.209.30:8000/play/a1id/index.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Willax TV [HD] (fonte 3)
 http://187.102.210.46/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="Wtv.pe@SD" tvg-logo="https://i.imgur.com/V10iVeh.png" tvg-type="live" group-title="🇵🇪 Peru | Geral",Wtv [FHD]
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
@@ -476,17 +478,21 @@ https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
 #EXTVLCOPT:http-referrer=https://www.atv.pe/
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Canal N [FHD]
+http://170.244.209.30:8000/play/a1ib/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Canal N [FHD] (fonte 2)
 http://187.102.208.209:8000/play/a0az/index.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Canal N [SD] (fonte 2)
+#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Canal N [SD] (fonte 3)
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe@SD" tvg-logo="https://i.imgur.com/cfHaLt2.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Conecta2TV [HD]
 https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [FHD]
 http://190.93.224.42/EXITOSA/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [HD] (fonte 2)
-https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [HD] (fonte 3)
 http://187.102.210.46/EXITOSA/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [HD] (fonte 3)
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",Exitosa TV [FHD] (fonte 4)
+http://170.244.209.30:8000/play/a1ic/index.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe@SD" tvg-logo="https://i.imgur.com/1LuNEX4.png" tvg-type="live" group-title="🇵🇪 Peru | Notícias",FuegoTV [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8

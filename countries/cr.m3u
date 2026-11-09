@@ -19,6 +19,8 @@ https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="VMLatino.cr@SD" tvg-logo="https://i.imgur.com/Dvo1b82.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",VM Latino [HD]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-id="VMLatino.cr@SD" tvg-logo="https://i.imgur.com/Dvo1b82.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",VM Latino [FHD] (fonte 2)
+http://45.163.139.42:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="VoiceOverRadioTV.cr@SD" tvg-logo="https://i.imgur.com/HzGs1Eh.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",VoiceOver Radio TV [HD]
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="ZonaMusicTV.cr@SD" tvg-logo="https://i.imgur.com/TJ5l9iI.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Música",Zona Music TV [FHD]
@@ -33,9 +35,11 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="https://i.imgur.com/5Rc8mA5.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",TeleMas [HD]
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="XperTV.cr@SD" tvg-logo="https://i.imgur.com/0Aftiln.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",XperTV [FHD]
+http://45.163.139.42:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="https://i.imgur.com/300c1ZH.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Entretenimento",¡OPA! [HD]
 https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇨🇷 Costa Rica | Animação",Extrema Kids TV
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇨🇷 Costa Rica | Animação",Extrema Kids TV [FHD]
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD" tvg-logo="https://i.imgur.com/viJBL6f.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Clássicos",Retrox TV [HD]
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
@@ -45,7 +49,9 @@ https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-logo="https://i.imgur.com/N4pFVVF.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Cultura",Costa Rica Channel [SD]
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",FUTV
+#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",FUTV [FHD]
+http://45.228.234.9:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",FUTV (fonte 2)
 http://190.61.90.17:40000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-logo="https://i.imgur.com/2ZcUXbE.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",Radio Turrialba TV Sports [HD]
 #EXTVLCOPT:http-referrer=https://iblups.com/
@@ -66,9 +72,9 @@ https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-logo="https://i.imgur.com/TO6WQbW.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 10 [HD]
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 11 [HD]
-https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-id="Canal11.cr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 11 [HD] (fonte 2)
 http://45.5.117.188:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 11 [HD] (fonte 2)
+https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="TVN14.cr@SD" tvg-logo="https://i.imgur.com/1aNEo6U.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 14 San Carlos [HD]
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 17 TV Nosara [HD]
@@ -78,13 +84,13 @@ https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr@SD" tvg-logo="https://i.imgur.com/Nn8BtH5.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 2 [HD]
 https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr@SD" tvg-logo="https://i.imgur.com/5arZEgO.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 4 [HD]
-https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-id="Canal4.cr@SD" tvg-logo="https://i.imgur.com/5arZEgO.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 4 [HD] (fonte 2)
 http://45.186.106.207:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr@SD" tvg-logo="https://i.imgur.com/5arZEgO.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 4 [HD] (fonte 2)
+https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr@SD" tvg-logo="https://i.imgur.com/nfKJftW.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 6 [HD]
-https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-id="Canal6.cr@SD" tvg-logo="https://i.imgur.com/nfKJftW.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 6 [HD] (fonte 2)
 http://45.5.118.188:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr@SD" tvg-logo="https://i.imgur.com/nfKJftW.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 6 [HD] (fonte 2)
+https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal8.cr@SD" tvg-logo="https://i.imgur.com/nefPi2Y.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Canal 8 [HD]
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="CartagoMediosTV.cr@SD" tvg-logo="https://i.imgur.com/Vcd40AL.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Cartago Medios TV [HD]

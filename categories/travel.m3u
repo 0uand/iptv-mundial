@@ -35,6 +35,8 @@ https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Viagem",Living Asia Channel [FHD]
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="MyDestinationTV.us@SD" tvg-logo="https://i.imgur.com/VJndl0m.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Viagem",MyDestination.TV [HD]
+https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="KNOVCD411.us@HD" tvg-logo="https://i.imgur.com/D7Lzqyl.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Viagem",NOTV New Orleans TV [HD]
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KNOVCD411.us@HD" tvg-logo="https://i.imgur.com/D7Lzqyl.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Viagem",NOTV New Orleans TV [HD] (fonte 2)
@@ -62,23 +64,31 @@ https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Viagem",Teletur [HD]
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TurismoRDTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" tvg-type="live" group-title="🇩🇴 República Dominicana | Viagem",Turismo RDTV [HD]
-https://streamunoapp.com:3086/live/telemileniolive.m3u8
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-type="live" group-title="🇫🇷 França | Viagem",Voyages & Saveurs [HD]
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png" tvg-type="live" group-title="🇫🇮 Finlândia | Viagem",InTravel [FHD]
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SchladmingDachsteinTV.at@SD" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" tvg-type="live" group-title="🇦🇹 Áustria | Viagem",Schladming-Dachstein TV [HD]
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-type="live" group-title="🇮🇳 Índia | Viagem",Travelxp HD [FHD]
-http://103.151.60.162:2122/play/a01s/index.m3u8?hls
+#EXTINF:-1 tvg-id="TravelChannel.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" tvg-type="live" group-title="🇵🇱 Polônia | Viagem",Travel Channel (576i)
+http://92.114.85.87:8011/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="TravelMix.ro@SD" tvg-logo="https://i.imgur.com/4dMeEQO.png" tvg-type="live" group-title="🇷🇴 Romênia | Viagem",Travel Mix
+https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@4KCzechia" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-type="live" group-title="🇮🇳 Índia | Viagem",Travelxp 4K Czechia
+http://88.212.7.14/live/travel_xp_4k/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@Czechia" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-type="live" group-title="🇮🇳 Índia | Viagem",Travelxp Czechia
+http://88.212.7.14/live/travel_xp/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@Russia" tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-type="live" group-title="🇮🇳 Índia | Viagem",Travelxp Russia [FHD]
 http://stream.mcquack.net/451/index.m3u8
-#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" tvg-logo="https://i.imgur.com/GXJKWdy.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Glazami Turista [FHD]
-http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8
+#EXTINF:-1 tvg-id="YichangSanxiaTravelLifeChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/ycsxlysh.jpg" tvg-type="live" group-title="🇨🇳 China | Viagem",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" tvg-logo="https://i.imgur.com/GXJKWdy.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Glazami Turista (576i)
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Moyastikhiya.ru@HD" tvg-logo="https://i.imgur.com/Sl8c9eB.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Moya stikhiya HD [FHD]
 http://stream.mcquack.net/141/index.m3u8
+#EXTINF:-1 tvg-id="NashaTema.ru@SD" tvg-logo="https://i.imgur.com/67ZVDKW.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Nasha Tema [FHD]
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",RTG int.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0bw
@@ -89,31 +99,19 @@ http://31.148.48.15/RTG/index.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru@HD" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",RTG TV HD [FHD]
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru@HD" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",RTG TV HD [FHD] (fonte 2)
-http://str2.iptvhd.ru:8080/RTG_TV/index.m3u8
-#EXTINF:-1 tvg-id="RTGTV.ru@HD" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",RTG TV HD [FHD] (fonte 3)
 http://46.53.200.153:7777/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD" tvg-logo="https://i.imgur.com/eXJm1n3.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Teleputeshestviya [SD]
-http://str2.iptvhd.ru:8080/Teleputeshestviya/index.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure [FHD]
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
-#EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure [SD] (fonte 2)
-http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure HD [FHD]
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure HD [FHD] (fonte 2)
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Travel+Adventure HD [FHD] (fonte 3)
-http://str2.iptvhd.ru:8080/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 tvg-id="Vkus.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Vkus [SD]
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD" tvg-logo="https://i.imgur.com/eXJm1n3.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Телепутешествия [SD]
 http://31.148.48.15/Teleputeshestviya/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" tvg-logo="https://i.imgur.com/5nlmJIw.png" tvg-type="live" group-title="🇸🇬 Singapura | Viagem",Global Trekker [HD]
-http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 #EXTINF:-1 tvg-id="BamBarBiaTV.ua@SD" tvg-logo="https://i.imgur.com/zdRvy87.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Viagem",BamBarBia TV [HD]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="UTravel.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_Travel.svg/1920px-U_Travel.svg.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Viagem",U Travel [FHD]
-http://str2.iptvhd.ru:8080/travel/index.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan [FHD]
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 2)

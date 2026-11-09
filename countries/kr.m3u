@@ -11,8 +11,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GugakTV.kr@SD" tvg-logo="https://i.imgur.com/Ey7Htm8.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Música",GugakTV 국악방송 [FHD]
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSJoy.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Entretenimento",KBS Joy
-https://xykt-fix.github.io/flv/KJ_W.m3u8
 #EXTINF:-1 tvg-id="NHTV.kr@SD" tvg-logo="https://i.imgur.com/DfECkgB.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Entretenimento",NHTV [HD]
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 tvg-id="CJOnStyle.kr@SD" tvg-logo="https://i.imgur.com/JiSfEBv.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Compras",CJ OnStyle [SD]
@@ -70,8 +68,6 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Geral",KBS World [SD] (fonte 2)
 http://31.148.48.15/KBS_World/index.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Geral",KBS World (fonte 3)
-https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-id="KCTV.kr@SD" tvg-logo="https://i.imgur.com/IHkZpaI.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Geral",KCTV 광주 CH05 [HD]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAWDTV.kr@SD" tvg-logo="https://i.imgur.com/nqRWpUu.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Geral",MBC Andong (안동 MBC) [SD]
@@ -156,9 +152,9 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/kk2MdNC.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Notícias",Arirang TV (fonte 8)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/kk2MdNC.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Notícias",Arirang TV (fonte 9)
-https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/kk2MdNC.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Notícias",Arirang TV HD [SD]
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/kk2MdNC.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Notícias",Arirang TV HD [FHD]
+https://freem3u.xyz/api/live/play.m3u8?vid=111
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/kk2MdNC.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Notícias",Arirang TV HD [SD] (fonte 2)
 http://45.162.64.114/ARIRANG/index.m3u8
 #EXTINF:-1 tvg-id="ArirangUN.kr@SD" tvg-logo="https://i.imgur.com/Jdy3WNm.png" tvg-type="live" group-title="🇰🇷 Coreia do Sul | Notícias",Arirang TV UN [FHD]
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8

@@ -70,7 +70,9 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 http://15.204.246.24:8080/CTVHD/index.m3u8
 #EXTINF:-1 tvg-id="CTV.bo@SD" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",CTV [HD] (fonte 2)
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
-#EXTINF:-1 tvg-id="CTV.bo@SD" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",CTV (fonte 3)
+#EXTINF:-1 tvg-id="CTV.bo@SD" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",CTV [HD] (fonte 3)
+https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
+#EXTINF:-1 tvg-id="CTV.bo@SD" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",CTV (fonte 4)
 https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.bo@SD" tvg-logo="https://i.imgur.com/FcciYMD.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Delta TV
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
@@ -90,7 +92,7 @@ http://158.172.155.130:8000/play/a0e7/index.m3u8
 https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="Gigavision.bo@SD" tvg-logo="https://i.imgur.com/fE3BkcT.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Gigavision (fonte 3)
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
-#EXTINF:-1 tvg-id="ImperialTV.bo@SD" tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Imperial TV [HD]
+#EXTINF:-1 tvg-id="ImperialTV.bo@SD" tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" tvg-type="live" group-title="🇧🇴 Bolívia | Geral" catchup="default" catchup-source="https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8?utc={utc}&lutc={lutc}" catchup-days="1",Imperial TV [HD]
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:-1 tvg-id="InteractivoTelevision.bo@SD" tvg-logo="https://i.imgur.com/sGOSDo2.jpeg" tvg-type="live" group-title="🇧🇴 Bolívia | Geral",Interactivo Television [HD]
 https://mist01.homestream.fun/hls/interactivotv2/index.m3u8

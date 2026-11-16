@@ -51,8 +51,6 @@ https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",FUTV [FHD]
 http://45.228.234.9:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-logo="https://i.imgur.com/f8BkLql.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",FUTV (fonte 2)
-http://190.61.90.17:40000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-logo="https://i.imgur.com/2ZcUXbE.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Esportes",Radio Turrialba TV Sports [HD]
 #EXTVLCOPT:http-referrer=https://iblups.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -136,9 +134,7 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSURCostaRica.cr@SD" tvg-logo="https://i.imgur.com/KUpgeOf.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",TeleSUR Costa Rica [HD]
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr@SD" tvg-logo="https://i.imgur.com/ctnvE3c.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Teletica 7 [FHD]
-http://190.61.101.11:7050/play/a07t/index.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr@SD" tvg-logo="https://i.imgur.com/ctnvE3c.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Teletica 7 [HD] (fonte 2)
+#EXTINF:-1 tvg-id="Teletica7.cr@SD" tvg-logo="https://i.imgur.com/ctnvE3c.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",Teletica 7 [HD]
 http://181.119.177.253:8000/play/a0da
 #EXTINF:-1 tvg-id="TicaVision.cr@SD" tvg-logo="https://i.imgur.com/mev90pC.jpg" tvg-type="live" group-title="🇨🇷 Costa Rica | Geral",TicaVision [FHD]
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8

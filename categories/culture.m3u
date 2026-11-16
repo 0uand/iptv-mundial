@@ -1,12 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
 #EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" tvg-type="live" group-title="🇧🇷 Brasil | Cultura",Arte 1 [HD]
-http://45.162.64.114/ARTE1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" tvg-type="live" group-title="🇧🇷 Brasil | Cultura",Arte 1 [HD] (fonte 2)
 http://170.83.16.50/ARTE_1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" tvg-type="live" group-title="🇧🇷 Brasil | Cultura",Arte 1 [HD] (fonte 3)
+#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" tvg-type="live" group-title="🇧🇷 Brasil | Cultura",Arte 1 [HD] (fonte 2)
 http://45.177.114.115/ARTE1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-logo="https://i.imgur.com/Ivnk7A6.png" tvg-type="live" group-title="🇧🇷 Brasil | Cultura",Arte 1 [HD] (fonte 4)
-http://168.197.104.22/ARTE1/index.m3u8
 #EXTINF:-1 tvg-id="BemMaisTV.br@HD" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" tvg-type="live" group-title="🇧🇷 Brasil | Cultura",Bem Mais TV [FHD]
 #EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
@@ -150,8 +146,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Cultura",Canal 17 RTVD [FHD]
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-logo="https://i.imgur.com/PBgQi9a.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Cultura",Guaymate TV [SD]
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-logo="https://i.imgur.com/N4pFVVF.png" tvg-type="live" group-title="🇨🇷 Costa Rica | Cultura",Costa Rica Channel [SD]
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="Condavision.es@SD" tvg-logo="https://i.imgur.com/dlrazec.png" tvg-type="live" group-title="🇪🇸 Espanha | Cultura",Condavisión [FHD]
@@ -284,6 +278,8 @@ https://streaming.televizor-24-tochka.ru/live/9.m3u8
 http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru@SD" tvg-logo="https://i.imgur.com/nc2ijCH.png" tvg-type="live" group-title="🇷🇺 Rússia | Cultura",Театр [SD] (fonte 2)
 http://31.148.48.15/Sochi_HD/video.m3u8
+#EXTINF:-1 tvg-id="KRT.tr@SD" tvg-logo="https://i.imgur.com/9ZKqdQJ.png" tvg-type="live" group-title="🇹🇷 Turkiye | Cultura",KRT [FHD]
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr@SD" tvg-logo="https://i.imgur.com/9EruWIQ.png" tvg-type="live" group-title="🇹🇷 Turkiye | Cultura",Luys TV [FHD]
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr@SD" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-type="live" group-title="🇹🇷 Turkiye | Cultura",Natural TV [FHD]
@@ -357,11 +353,11 @@ https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus3.by@HD" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-type="live" group-title="🇧🇾 Belarus | Cultura",Belarus-3 HD [FHD]
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MedeniyyetTV.az@SD" tvg-logo="https://i.imgur.com/PlvaDIa.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Cultura",Medeniyyet TV [FHD]
-https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr@SD" tvg-logo="https://i.imgur.com/4OrOJRx.png" tvg-type="live" group-title="🇭🇷 Croácia | Cultura",HRT 3 [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az@SD" tvg-logo="https://i.imgur.com/PlvaDIa.png" tvg-type="live" group-title="🇦🇿 Azerbaijão | Cultura",Medeniyyet TV [FHD]
+https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="LRTPlius.lt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" tvg-type="live" group-title="🇱🇹 Lituânia | Cultura",LRT Plius [FHD]
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-logo="https://i.imgur.com/5aLFslk.jpg" tvg-type="live" group-title="🇲🇲 Myanmar | Cultura",MRTV NRC

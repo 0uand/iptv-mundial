@@ -3,8 +3,6 @@
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",AccuWeather NOW [FHD] (fonte 2)
 https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",AccuWeather NOW [HD] (fonte 3)
-http://23.239.31.26:8989/accuweather/index.m3u8
 #EXTINF:-1 tvg-id="AlabamaWeatherNetwork.us@SD" tvg-logo="" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",Alabama Weather Network [HD]
 https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-logo="https://lh3.googleusercontent.com/_MLPVWviF17NG-_Wrd0M-nCTeBMBmimUp21LMqSfayg0UGbxQw8NQtk2R8pI3FAVHwdAcs67_5_hXQ" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",Fox Weather [HD]
@@ -13,6 +11,8 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-logo="https://lh3.googleusercontent.com/_MLPVWviF17NG-_Wrd0M-nCTeBMBmimUp21LMqSfayg0UGbxQw8NQtk2R8pI3FAVHwdAcs67_5_hXQ" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",Fox Weather [HD] (fonte 3)
 https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-logo="https://lh3.googleusercontent.com/_MLPVWviF17NG-_Wrd0M-nCTeBMBmimUp21LMqSfayg0UGbxQw8NQtk2R8pI3FAVHwdAcs67_5_hXQ" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",Fox Weather [FHD] (fonte 4)
+https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="NorCastWeather.us@HD" tvg-logo="https://i.imgur.com/AfjoZgo.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",NorCast Weather [FHD]
 https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us@SD" tvg-logo="https://i.imgur.com/PIaNjfa.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",The Weather Channel [FHD]
@@ -22,6 +22,8 @@ https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://i.imgur.com/XP817GN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",WeatherNation [HD]
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://i.imgur.com/XP817GN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",WeatherNation [FHD] (fonte 2)
+https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://i.imgur.com/XP817GN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",WeatherNation [FHD] (fonte 3)
 https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us@SD" tvg-logo="https://i.imgur.com/XP817GN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clima",WeatherNation TV [HD]
 https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8

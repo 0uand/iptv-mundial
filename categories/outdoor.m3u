@@ -10,24 +10,16 @@ http://186.219.52.187/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Canal Rural [HD] (fonte 2)
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Fish TV [HD]
-http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Fish TV [HD] (fonte 2)
 http://170.83.16.50/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Fish TV [FHD] (fonte 3)
+#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Fish TV [FHD] (fonte 2)
 http://190.128.214.97:64333/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Fish TV [HD] (fonte 4)
-http://168.197.104.22/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD]
-http://45.162.64.114/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD] (fonte 2)
 http://170.83.16.50/TERRA_VIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD] (fonte 3)
+#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD] (fonte 2)
 https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD] (fonte 4)
+#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD] (fonte 3)
 http://45.177.114.115/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD] (fonte 5)
-http://168.197.104.22/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD] (fonte 6)
+#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-type="live" group-title="🇧🇷 Brasil | Outdoor",Terra Viva [HD] (fonte 4)
 http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us@SD" tvg-logo="https://i.imgur.com/Q4l2uao.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",30A Darcizzle Offshore [HD]
 https://30a-tv.com/darcizzle.m3u8
@@ -95,6 +87,8 @@ http://181.78.21.38:8000/play/a040/index.m3u8
 http://190.61.47.54:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co@SD" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",TVAgro [HD] (fonte 2)
 http://168.228.44.241:9999/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="TVAgro.co@SD" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",TVAgro [HD] (fonte 3)
+http://181.78.211.244:8005/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="UMCTV.co@SD" tvg-logo="https://i.imgur.com/YQUK4wO.png" tvg-type="live" group-title="🇨🇴 Colômbia | Outdoor",UMC TV [HD]
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-id="AgriculturaTV.cl@SD" tvg-logo="https://i.imgur.com/sxrYc3Q.png" tvg-type="live" group-title="🇨🇱 Chile | Outdoor",Agricultura TV [FHD]
@@ -171,6 +165,8 @@ http://stream.mcquack.net/194/index.m3u8
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka (fonte 2)
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rybalkaiokhota.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Rybalka i okhota [SD]
+https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="Rybolov.ru@SD" tvg-logo="https://i.imgur.com/wJMTcFS.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Rybolov [SD]
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Моя Планета [HD]

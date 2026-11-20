@@ -2727,6 +2727,7 @@
   <channel site="i.mjh.nz" lang="en" xmltv_id="RedBullTV.at@US" site_id="Roku/all#c5e8a74546771de365652cd053f73351">Red Bull TV</channel>
   <channel site="epg.iptvx.one" lang="ru" xmltv_id="RussianExtreme.ru@SD" site_id="russky-ekstrim">Русский экстрим</channel>
   <channel site="epg.iptvx.one" lang="ru" xmltv_id="RussianExtremeUltra.ru@SD" site_id="russian-extreme-uhd">Russian Extreme Ultra HD</channel>
+  <channel site="mtel.ba" lang="bs" xmltv_id="SOSKanalPlus.rs@SD" site_id="msat#ch-315-sos-kanal-plus">SOS Kanal Plus</channel>
   <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SSport2.tr@SD" site_id="3901">S Sport2</channel>
   <channel site="magticom.ge" lang="ka" xmltv_id="SetantaSportsPlusGeorgia.ge@SD" site_id="68352">Setanta Sports 2</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="SkyRacing1.au@SD" site_id="Foxtel/epg#SRA">Sky Racing 1</channel>
@@ -3768,7 +3769,7 @@
   <channel site="pickx.be" lang="fr" xmltv_id="Notele.be@SD" site_id="UID50136">No Télé</channel>
   <channel site="tv-programme.telecablesat.fr" lang="fr" xmltv_id="NouvelleCaledonie1ere.nc@SD" site_id="240">Nouvelle-Calédonie la 1ère</channel>
   <channel site="tv.dir.bg" lang="bg" xmltv_id="Nova.bg@SD" site_id="60">NOVA TV</channel>
-  <channel site="tvprofil.com" lang="hr" xmltv_id="Nova.rs@SD" site_id="ba/tvprogram#nova-s">Nova S</channel>
+  <channel site="epg.telemach.ba" lang="hr" xmltv_id="Nova.rs@SD" site_id="1698">Nova S HD (BIH)</channel>
   <channel site="m.tv.sms.cz" lang="cs" xmltv_id="NovaTV.hr@SD" site_id="Nova+TV">Nova TV</channel>
   <channel site="galamtv.kz" lang="kk" xmltv_id="Novoetelevidenie.kz@SD" site_id="559d224e78d7270195008a15">Новое Телевидение</channel>
   <channel site="freetv.tv" lang="he" xmltv_id="Now14.il@SD" site_id="3457869">ערוץ 14</channel>
@@ -3959,6 +3960,7 @@
   <channel site="tvgids.nl" lang="nl" xmltv_id="RTVDrenthe.nl@SD" site_id="drenthe">RTV Drenthe</channel>
   <channel site="webtv.delta.nl" lang="nl" xmltv_id="RTVHorizon.nl@SD" site_id="10012">RTV Horizon</channel>
   <channel site="ziggogo.tv" lang="nl" xmltv_id="RTVNoord.nl@SD" site_id="NL_000136_019583">RTV Noord</channel>
+  <channel site="epg.telemach.ba" lang="hr" xmltv_id="RTVNoviPazar.rs@SD" site_id="1524">RTV Novi Pazar (BIH)</channel>
   <channel site="tvgids.nl" lang="nl" xmltv_id="RTVOost.nl@SD" site_id="rtvoost">RTV Oost</channel>
   <channel site="webtv.delta.nl" lang="nl" xmltv_id="RTVPurmerend.nl@SD" site_id="10018">RTV Purmerend</channel>
   <channel site="tvgids.nl" lang="nl" xmltv_id="RTVRijnmond.nl@SD" site_id="rtvrijnmond">RTV Rijnmond</channel>
@@ -3999,6 +4001,4 @@
   <channel site="tv.mail.ru" lang="ru" xmltv_id="Russia1.ru@Plus8" site_id="1666">Россия 1 HD</channel>
   <channel site="tv.mail.ru" lang="ru" xmltv_id="Russia1.ru@Plus9" site_id="1666">Россия 1 HD</channel>
   <channel site="tv.mail.ru" lang="ru" xmltv_id="Russia1.ru@SD" site_id="1271">Россия 1</channel>
-  <channel site="magticom.ge" lang="ru" xmltv_id="RussiaK.ru@HD" site_id="69">Культура</channel>
-  <channel site="magticom.ge" lang="ru" xmltv_id="RussiaK.ru@Plus2" site_id="69">Культура</channel>
 </channels>

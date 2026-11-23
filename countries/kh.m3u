@@ -9,6 +9,8 @@ https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
 https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EBCGeneralEducation.kh@SD" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" tvg-type="live" group-title="🇰🇭 Camboja | Educação",EBC General Education [HD]
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="EBCLifelongLearning.kh@SD" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" tvg-type="live" group-title="🇰🇭 Camboja | Educação",EBC Lifelong Learning [HD]
+https://iptv.ebc.edu.kh/iptv/channel/2.m3u8
 #EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh@SD" tvg-logo="https://i.imgur.com/wLzVdeT.png" tvg-type="live" group-title="🇰🇭 Camboja | Educação",One TV E-School Cambodia [FHD]
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh@SD" tvg-logo="https://i.imgur.com/L36ptO2.png" tvg-type="live" group-title="🇰🇭 Camboja | Educação",TVK 2 [HD]
@@ -19,10 +21,10 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 #EXTINF:-1 tvg-id="ApsaraTV11.kh@SD" tvg-logo="https://i.imgur.com/9wJe71I.png" tvg-type="live" group-title="🇰🇭 Camboja | Geral",Apsara TV11 [HD]
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" tvg-type="live" group-title="🇰🇭 Camboja | Geral",Bayon TV
-https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" tvg-type="live" group-title="🇰🇭 Camboja | Geral",Bayon TV (fonte 2)
+#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" tvg-type="live" group-title="🇰🇭 Camboja | Geral",Bayon TV [HD]
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" tvg-type="live" group-title="🇰🇭 Camboja | Geral",Bayon TV (fonte 2)
+https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8
 #EXTINF:-1 tvg-id="CTN.kh@SD" tvg-logo="https://i.imgur.com/r523kOq.png" tvg-type="live" group-title="🇰🇭 Camboja | Geral",CTN
 https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-logo="https://i.imgur.com/jgVJt2G.png" tvg-type="live" group-title="🇰🇭 Camboja | Geral",CTV 9

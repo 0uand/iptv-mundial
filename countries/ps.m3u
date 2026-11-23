@@ -26,13 +26,15 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps@SD" tvg-logo="https://i.imgur.com/4B5FvmX.png" tvg-type="live" group-title="🇵🇸 Palestine | Geral",Palestine Satellite Channel [SD] (fonte 2)
 https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
+#EXTINF:-1 tvg-id="QudsunaTV.ps@HD" tvg-logo="https://i.imgur.com/rzRs0ed.png" tvg-type="live" group-title="🇵🇸 Palestine | Geral",Qudsuna TV (1080i)
+https://qudsunatv-live.cdnnew.com/qudsunatv/qudsuna.m3u8
 #EXTINF:-1 tvg-id="RajeenTV.ps@SD" tvg-logo="https://i.imgur.com/6Cx22ya.png" tvg-type="live" group-title="🇵🇸 Palestine | Geral",Rajeen TV [FHD]
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="WatarTV.ps@SD" tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" tvg-type="live" group-title="🇵🇸 Palestine | Geral",Watar TV [HD]
 https://htvint.mada.ps/orient/index.m3u8
 #EXTINF:-1 tvg-id="WatarTV.ps@SD" tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" tvg-type="live" group-title="🇵🇸 Palestine | Geral",Watar TV [HD] (fonte 2)
 http://htvint.mada.ps:8889/orient/index.m3u8
-#EXTINF:-1 tvg-id="WattanTV.ps@SD" tvg-logo="https://i.imgur.com/sf2A9vT.png" tvg-type="live" group-title="🇵🇸 Palestine | Geral",Wattan TV
+#EXTINF:-1 tvg-id="WattanTV.ps@SD" tvg-logo="https://i.imgur.com/sf2A9vT.png" tvg-type="live" group-title="🇵🇸 Palestine | Geral",Wattan TV [HD]
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 #EXTINF:-1 tvg-id="AlNajahNews.ps@SD" tvg-logo="https://i.imgur.com/c2bwn4G.png" tvg-type="live" group-title="🇵🇸 Palestine | Notícias",Al Najah News [HD]
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8

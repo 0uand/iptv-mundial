@@ -81,8 +81,12 @@ https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
 #EXTINF:-1 tvg-id="HTV1.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",HTV1 [FHD]
 https://dethich.pw/htv1/index.m3u8
+#EXTINF:-1 tvg-id="HTV1.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",HTV1 [FHD] (fonte 2)
+https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="HTV7.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",HTV7 [FHD]
 https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 tvg-id="HTV7.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",HTV7 [FHD] (fonte 2)
+https://freem3u.xyz/api/live/play.m3u8?vid=193
 #EXTINF:-1 tvg-id="HungYenTV.vn@SD" tvg-logo="https://i.imgur.com/TH1DWdm.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Hung Yen TV [SD]
 https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoCaiTV.vn@HD" tvg-logo="https://i.imgur.com/TLvrDHa.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",Lào Cai TV [FHD]
@@ -155,6 +159,8 @@ http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 https://dethich.pw/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV4 HD [FHD]
 https://dethich.pw/vtv4/index.m3u8
+#EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV4 HD [HD] (fonte 2)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV5 HD [FHD]
 https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" tvg-type="live" group-title="🇻🇳 Vietnã | Geral",VTV5 Tay Nam Bo HD [FHD]
@@ -189,6 +195,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Notícias",HTV9 [FHD]
 https://dethich.pw/htv9/index.m3u8
+#EXTINF:-1 tvg-id="HTV9.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" tvg-type="live" group-title="🇻🇳 Vietnã | Notícias",HTV9 [FHD] (fonte 2)
+https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF:-1 tvg-id="VinhLongTV1.vn@SD" tvg-logo="https://i.imgur.com/5YFsqPx.png" tvg-type="live" group-title="🇻🇳 Vietnã | Notícias",Vinh Long TV 1 [FHD]
 https://dethich.pw/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV1.vn@HD" tvg-logo="https://i.imgur.com/5YFsqPx.png" tvg-type="live" group-title="🇻🇳 Vietnã | Notícias",Vinh Long TV 1 [SD] (fonte 2)
@@ -197,6 +205,8 @@ http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTV3 [FHD]
 https://dethich.pw/htv3/index.m3u8
+#EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTV3 [FHD] (fonte 2)
+https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTVC Movies [FHD]
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",ON Cine [FHD]

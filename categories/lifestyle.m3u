@@ -53,7 +53,9 @@ https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us@SD" tvg-logo="https://i.imgur.com/XuTUaq4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",Revry (fonte 3)
 https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8
-#EXTINF:-1 tvg-id="Revry.us@SD" tvg-logo="https://i.imgur.com/XuTUaq4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",Revry [HD] (fonte 4)
+#EXTINF:-1 tvg-id="Revry.us@SD" tvg-logo="https://i.imgur.com/XuTUaq4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",Revry [FHD] (fonte 4)
+https://f5549b59.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fUmV2cnlfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us@SD" tvg-logo="https://i.imgur.com/XuTUaq4.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",Revry [HD] (fonte 5)
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryNews.us@SD" tvg-logo="https://i.imgur.com/lKMYCkb.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Estilo de vida",Revry News [HD]
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
@@ -94,15 +96,17 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="PlutoTVEstilodeVida.us@LatAm" tvg-logo="https://i.imgur.com/SNfys9r.png" tvg-type="live" group-title="🇲🇽 México | Estilo de vida",Pluto TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 tvg-id="HogarTV.co@SD" tvg-logo="https://i.imgur.com/zqovMhf.png" tvg-type="live" group-title="🇨🇴 Colômbia | Estilo de vida",Hogar TV [FHD]
-http://190.61.47.54:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="HogarTV.co@SD" tvg-logo="https://i.imgur.com/zqovMhf.png" tvg-type="live" group-title="🇨🇴 Colômbia | Estilo de vida",Hogar TV [FHD] (fonte 2)
 http://181.78.211.244:8005/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="HogarTV.co@SD" tvg-logo="https://i.imgur.com/zqovMhf.png" tvg-type="live" group-title="🇨🇴 Colômbia | Estilo de vida",Hogar TV [FHD] (fonte 2)
+http://190.61.47.54:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="13P.cl@SD" tvg-logo="https://i.imgur.com/R6D228s.png" tvg-type="live" group-title="🇨🇱 Chile | Estilo de vida",13 Prime [FHD]
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-id="Wapp.cl@SD" tvg-logo="https://i.imgur.com/Bv1yJ1d.png" tvg-type="live" group-title="🇨🇱 Chile | Estilo de vida",Wapp [FHD]
 https://stream.wapptv.cl/video/index.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-logo="https://i.imgur.com/OSet4en.png" tvg-type="live" group-title="🇻🇪 Venezuela | Estilo de vida",Plous TV [FHD]
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalGuapa.py@SD" tvg-logo="https://canalguapa.tv/guapa-isologo.png" tvg-type="live" group-title="🇵🇾 Paraguai | Estilo de vida",Canal Guapa [FHD]
+https://guapa-live.argosworkspace.com/guapa/index.m3u8
 #EXTINF:-1 tvg-id="SenalesTV.do@SD" tvg-logo="https://i.imgur.com/7Zr79F2.png" tvg-type="live" group-title="🇩🇴 República Dominicana | Estilo de vida",Senales TV
 https://live.dionelysterrero.com/senalestv/stream.m3u8
 #EXTINF:-1 tvg-id="StarCrime.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇵🇹 Portugal | Estilo de vida",Star Crime
@@ -116,8 +120,6 @@ http://znty.dyndns.org:5010/hls/foxlife.m3u8
 http://90.163.85.113:8093/stream/51/index.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png" tvg-type="live" group-title="🇪🇸 Espanha | Estilo de vida",El Mueble [HD]
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
-#EXTINF:-1 tvg-id="LogosTVSalud.es@SD" tvg-logo="https://i.imgur.com/qkHrttj.png" tvg-type="live" group-title="🇪🇸 Espanha | Estilo de vida",Logos TV Salud [HD]
-https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" tvg-type="live" group-title="🇪🇸 Espanha | Estilo de vida",Nova [FHD]
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd
 #EXTINF:-1 tvg-id="Nova.es@HD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" tvg-type="live" group-title="🇪🇸 Espanha | Estilo de vida",Nova HD [FHD]
@@ -204,6 +206,8 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+#EXTINF:-1 tvg-id="AyushNextCommunicationNetwork.in@SD" tvg-logo="https://i.imgur.com/g68oamL.jpeg" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",Ayush Next Communication Network [SD]
+https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",Ayush TV [HD]
 https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",Ayush TV [SD] (fonte 2)
@@ -219,17 +223,21 @@ https://mumt04.tangotv.in/m18aqlK4CVRHEALTH/index.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-logo="https://i.imgur.com/bCyW32I.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",CVR Health [SD] (fonte 3)
 https://cdn.pishow.tv/ott/live/395/master.m3u8
 #EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143029_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",ETV Life [FHD]
+https://d2dgecfolnmfcv.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264-5_cloud_in/index.m3u8
+#EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143029_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",ETV Life [FHD] (fonte 2)
+https://d15mjojxgag4el.cloudfront.net/b149e4ea70324b9d9c1fbc11e09e6459/index.m3u8
+#EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143029_ld_h15_aa.png?lock=720x540" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",ETV Life [FHD] (fonte 3)
 https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD]
+http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
+#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 2)
+http://163.61.226.31:9981/stream/channelid/943090988?profile=pass
+#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/144/144_0.m3u8
-#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 2)
+#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/332/master.m3u8
-#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 3)
-http://163.61.226.31:9981/stream/channelid/943090988?profile=pass
-#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 4)
-http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
 #EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 5)
 https://mumt01.tangotv.in/O5aw8Zn3FASHIONTV/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FTV_HD.png" tvg-type="live" group-title="🇮🇳 Índia | Estilo de vida",FashionTV [SD] (fonte 6)
@@ -291,7 +299,7 @@ http://stream.mcquack.net/168/index.m3u8
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru@SD" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2019/12/jivi(1).png" tvg-type="live" group-title="🇷🇺 Rússia | Estilo de vida",Zhivi! [SD]
 https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-type="live" group-title="🇷🇺 Rússia | Estilo de vida",Домашний
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg" tvg-type="live" group-title="🇷🇺 Rússia | Estilo de vida",Домашний [SD]
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
@@ -314,8 +322,6 @@ https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GoodLife.il@SD" tvg-logo="https://cdn.epg.one/img2/2686.png" tvg-type="live" group-title="🇮🇱 Israel | Estilo de vida",Good Life [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/47/index.m3u8
-#EXTINF:-1 tvg-id="HealthChannel.il@SD" tvg-logo="https://cdn.epg.one/img2/2709.png" tvg-type="live" group-title="🇮🇱 Israel | Estilo de vida",Health Channel [FHD]
-http://89.33.29.115:8080/Health/index.m3u8
 #EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" tvg-type="live" group-title="🇮🇩 Indonésia | Estilo de vida",Biznet Lifestyle [FHD]
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 #EXTINF:-1 tvg-id="HTVCWomen.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" tvg-type="live" group-title="🇻🇳 Vietnã | Estilo de vida",HTVC Women [HD]
@@ -346,8 +352,6 @@ https://cdn2.invivo.bg/codehealth_test/index.m3u8
 #EXTINF:-1 tvg-id="TV3Life.lv@SD" tvg-logo="https://i.imgur.com/Tm8hj45.png" tvg-type="live" group-title="🇱🇻 Letônia | Estilo de vida",TV3 Life [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/373/index.m3u8
-#EXTINF:-1 tvg-id="GuideLoveTV.ci@SD" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" tvg-type="live" group-title="🇨🇮 Costa do Marfim | Estilo de vida",Guide Love TV [HD]
-https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-id="apartTV.lu@SD" tvg-logo="https://i.imgur.com/IBcMIcZ.png" tvg-type="live" group-title="🇱🇺 Luxemburgo | Estilo de vida",apart TV [FHD]
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-id="LuxeTV.lu@SD" tvg-logo="https://i.imgur.com/24ehonx.png" tvg-type="live" group-title="🇱🇺 Luxemburgo | Estilo de vida",Luxe TV [FHD]
@@ -356,9 +360,11 @@ http://103.154.3.101:5001/live/1736.m3u8
 http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
 #EXTINF:-1 tvg-id="LuxembourgGlobalRadioTV.lu@HD" tvg-logo="https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10" tvg-type="live" group-title="🇱🇺 Luxemburgo | Estilo de vida",Luxembourg Global Radio TV [HD]
 https://stream.globalradio.lu/lgr/index.m3u8
+#EXTINF:-1 tvg-id="GuideLoveTV.ci@SD" tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" tvg-type="live" group-title="🇨🇮 Costa do Marfim | Estilo de vida",Guide Love TV [HD]
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-id="SOSDocteurTV.tg@SD" tvg-logo="https://i.imgur.com/wQpooHw.png" tvg-type="live" group-title="🇹🇬 Togo | Estilo de vida",SOS Docteur TV [SD]
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" tvg-logo="https://i.imgur.com/cgjgjE1.png" tvg-type="live" group-title="🇲🇨 Mônaco | Estilo de vida",Superyacht TV [FHD]
-https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BizzTV.tt@SD" tvg-logo="https://i.imgur.com/UxHaJNR.png" tvg-type="live" group-title="🇹🇹 Trinidad e Tobago | Estilo de vida",Bizz TV [FHD]
 https://stream.bizzmedia.biz/bizz_tv/index.m3u8
+#EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" tvg-logo="https://i.imgur.com/cgjgjE1.png" tvg-type="live" group-title="🇲🇨 Mônaco | Estilo de vida",Superyacht TV [FHD]
+https://sy.wns.live/hls/stream.m3u8

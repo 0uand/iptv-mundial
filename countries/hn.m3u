@@ -31,12 +31,6 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD" tvg-logo="https://i.imgur.com/nUsq67m.png" tvg-type="live" group-title="🇭🇳 Honduras | Educação",STVE Telebasica [FHD]
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC [HD]
-https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC [FHD] (fonte 2)
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Deportes TVC [HD] (fonte 3)
-http://190.61.101.11:7050/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-type="live" group-title="🇭🇳 Honduras | Esportes",Tigo Sports [FHD]
 http://168.196.127.137:6001/play/a0ay/index.m3u8
 #EXTINF:-1 tvg-id="TalangaTVCanal39.hn@SD" tvg-logo="https://i.imgur.com/5GiUzHC.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Família",Talanga TV Canal 39 [SD]
@@ -89,6 +83,9 @@ https://amixtv.live:3753/live/sitvlive.m3u8
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SulaTV.hn@SD" tvg-logo="https://i.imgur.com/v90r5jS.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Sula TV [FHD]
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SulaTV.hn@SD" tvg-logo="https://i.imgur.com/v90r5jS.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Sula TV [FHD] (fonte 2)
+#EXTVLCOPT:http-referrer=https://multicablemas.com/
+https://restreamer.multicable.hn/memfs/8a0f3d8a-0475-4169-89f2-f8facf11b723.m3u8
 #EXTINF:-1 tvg-id="Telavision.hn@SD" tvg-logo="https://i.imgur.com/vzjqAZh.jpg" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Telavisión [HD]
 https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn@SD" tvg-logo="https://i.imgur.com/3gzFNog.png" tvg-type="live" group-title="🇭🇳 Honduras | Geral",Telecadena 7 y 4 [SD]

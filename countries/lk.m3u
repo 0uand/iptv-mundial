@@ -7,8 +7,10 @@ https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVLANKA.lk@SD" tvg-logo="https://i.imgur.com/5cyTVRJ.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Entretenimento",NDTV LANKA [FHD]
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Cultura",Imai TV [SD]
+#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Cultura",Imai TV (576i) [SD]
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImaiTV.lk@SD" tvg-logo="https://i.imgur.com/9tODclu.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Cultura",Imai TV (576i) (fonte 2)
+https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="CharanaTV.lk@SD" tvg-logo="" tvg-type="live" group-title="🇱🇰 Sri Lanka | Educação",Charana TV [SD]
 https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-type="live" group-title="🇱🇰 Sri Lanka | Esportes",Talent TV [SD]

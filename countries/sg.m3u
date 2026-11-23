@@ -3,6 +3,14 @@
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" tvg-logo="https://i.imgur.com/ppxUDxB.png" tvg-type="live" group-title="🇸🇬 Singapura | Entretenimento",meWATCH LIVE 1 [FHD]
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-logo="https://i.imgur.com/l6lmlqG.png" tvg-type="live" group-title="🇸🇬 Singapura | Entretenimento",ROCK Action [HD]
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-type="live" group-title="🇸🇬 Singapura | Entretenimento",ROCK Entertainment [HD]
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-type="live" group-title="🇸🇬 Singapura | Animação",Animax Asia Taiwan
 http://125.227.210.55:3056/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-type="live" group-title="🇸🇬 Singapura | Animação",Cartoon Network Asia [HD]
@@ -67,3 +75,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9855
 https://freem3u.xyz/api/live/play.m3u8?vid=112
 #EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-type="live" group-title="🇸🇬 Singapura | Notícias",CNA International [HD] (fonte 2)
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
+#EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" tvg-logo="https://i.imgur.com/5nlmJIw.png" tvg-type="live" group-title="🇸🇬 Singapura | Viagem",Global Trekker [HD]
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8

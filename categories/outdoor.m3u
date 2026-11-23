@@ -67,6 +67,8 @@ https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",Waypoint TV [FHD] (fonte 3)
 https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",Waypoint TV [FHD] (fonte 4)
+https://amg00381-waypointcommuni-waypointtv-vizious-v9qqa.amagi.tv/playlist/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",WaypointTV [FHD]
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/Vhv5gjN.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Outdoor",WildEarth [FHD]
@@ -113,6 +115,8 @@ http://88.212.15.50/live/test_lovenature/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD" tvg-logo="" tvg-type="live" group-title="🇩🇪 Alemanha | Outdoor",ANIMAL KINGDOM [HD]
 https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="ChassePeche.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" tvg-type="live" group-title="🇫🇷 França | Outdoor",Chasse & Peche [SD]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CacciaePesca.it@SD" tvg-logo="https://i.imgur.com/uZr0cXB.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Caccia e Pesca [HD]
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-type="live" group-title="🇮🇹 Itália | Outdoor",Italian Fishing TV [FHD]
@@ -161,10 +165,10 @@ https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Ohotnik i rybolov HD [FHD]
 http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka [SD]
-http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka (fonte 2)
+#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka [FHD]
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Okhota i rybalka [SD] (fonte 2)
+http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 tvg-id="Rybalkaiokhota.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Rybalka i okhota [SD]
 https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="Rybolov.ru@SD" tvg-logo="https://i.imgur.com/wJMTcFS.png" tvg-type="live" group-title="🇷🇺 Rússia | Outdoor",Rybolov [SD]

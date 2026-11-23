@@ -39,6 +39,8 @@ https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/p
 https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 #EXTINF:-1 tvg-id="RecipeTV.us@SD" tvg-logo="https://i.imgur.com/HcL4a8z.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Culinária",Recipe.TV [HD]
 https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@US" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Culinária",Tastemade [FHD]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us@SD" tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Culinária",Tastemade Travel [FHD]
 https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 #EXTINF:-1 tvg-id="Foodxp.uk@SD" tvg-logo="https://i.imgur.com/zOWog5j.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Culinária",Foodxp [FHD]
@@ -120,6 +122,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/in
 https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-type="live" group-title="🇮🇳 Índia | Culinária",Food Food [SD] (fonte 5)
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://i.imgur.com/J930pA1.png" tvg-type="live" group-title="🇮🇳 Índia | Culinária",Food Food [SD] (fonte 6)
+https://samitaorigin.tangotv.in/FOODFOOD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Food Network [FHD]
 http://stream.mcquack.net/298/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru@SD" tvg-logo="https://i.imgur.com/gxCYAwH.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",FoodTime [FHD]
@@ -132,12 +136,12 @@ http://stream.mcquack.net/179/index.m3u8
 https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KulinarTV.ru@SD" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Kulinar TV [SD]
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [SD]
-http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [SD] (fonte 2)
-http://stream.mcquack.net/314/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe (fonte 3)
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [FHD]
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [SD] (fonte 2)
+http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [SD] (fonte 3)
+http://stream.mcquack.net/314/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [FHD] (fonte 4)
 http://s1.merlive.am/telekafe/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇷🇺 Rússia | Culinária",Telecafe [SD] (fonte 5)
@@ -161,7 +165,7 @@ https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-type="live" group-title="🇲🇳 Mongólia | Culinária",Телекафе [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
-#EXTINF:-1 tvg-id="KitchenTV.rs@SD" tvg-logo="https://i.imgur.com/WcGKc4C.png" tvg-type="live" group-title="🇷🇸 Sérvia | Culinária",Kitchen TV
+#EXTINF:-1 tvg-id="KitchenTV.rs@SD" tvg-logo="https://i.imgur.com/WcGKc4C.png" tvg-type="live" group-title="🇷🇸 Sérvia | Culinária",Kitchen TV [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03n
 #EXTINF:-1 tvg-id="JordanKitchen.jo@SD" tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-type="live" group-title="🇯🇴 Jordânia | Culinária",Jordan Kitchen [FHD]

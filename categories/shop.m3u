@@ -15,6 +15,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HSN.us@East" tvg-logo="https://companieshouse.sgp1.cdn.digitaloceanspaces.com/companieshouse.ph/brand-logos/hsn-home-shopping-network-inc--42004006053_7ba45e2874914ab628d53bbc665bb066_c02c9fb9e6.jpg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Compras",HSN [HD] (fonte 3)
 https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
+#EXTINF:-1 tvg-id="HSN.us@East" tvg-logo="https://companieshouse.sgp1.cdn.digitaloceanspaces.com/companieshouse.ph/brand-logos/hsn-home-shopping-network-inc--42004006053_7ba45e2874914ab628d53bbc665bb066_c02c9fb9e6.jpg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Compras",HSN [FHD] (fonte 4)
+https://986a99ca.wurl.com/v1/hsn_samsung/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HSN.us@West" tvg-logo="https://companieshouse.sgp1.cdn.digitaloceanspaces.com/companieshouse.ph/brand-logos/hsn-home-shopping-network-inc--42004006053_7ba45e2874914ab628d53bbc665bb066_c02c9fb9e6.jpg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Compras",HSN West [HD]
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us@SD" tvg-logo="https://i.imgur.com/qCJ9Poe.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Compras",HSN2 [HD]
@@ -35,6 +37,8 @@ https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-id="QVC.us@SD" tvg-logo="https://i.pinimg.com/1200x/61/92/cb/6192cba239c6e3cb475c4ea8b53f0c54.jpg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Compras",QVC (fonte 2)
 https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8
+#EXTINF:-1 tvg-id="QVC.us@SD" tvg-logo="https://i.pinimg.com/1200x/61/92/cb/6192cba239c6e3cb475c4ea8b53f0c54.jpg" tvg-type="live" group-title="🇺🇸 Estados Unidos | Compras",QVC [FHD] (fonte 3)
+https://653db23c.wurl.com/v1/qvc_samsung/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC2.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIPNA49_pDj7O2xfFVC8wTrncxzUXpHyVhcQ&s" tvg-type="live" group-title="🇺🇸 Estados Unidos | Compras",QVC 2 [HD]
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us@SD" tvg-logo="https://i.imgur.com/edswdOO.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Compras",QVC 3 [HD]

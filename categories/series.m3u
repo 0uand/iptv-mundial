@@ -65,6 +65,8 @@ https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD" tvg-logo="https://i.imgur.com/vfdN5Xl.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Always Funny Videos [HD] (fonte 2)
 https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8
+#EXTINF:-1 tvg-id="AlwaysFunnyVideos.us@SD" tvg-logo="https://i.imgur.com/vfdN5Xl.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Always Funny Videos [HD] (fonte 3)
+https://linear-12.frequency.stream/mt/vizio/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",AMC Series Latin America [FHD]
 https://streaming.onnethn.com/AMC/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",AMC Series Latin America [FHD] (fonte 2)
@@ -72,6 +74,10 @@ http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",AMC Series Latin America (fonte 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://45.5.118.231:5001/stream/41/index.m3u8
+#EXTINF:-1 tvg-id="AllRealitybyWEtv.us@SD" tvg-logo="https://i.imgur.com/hbJAs8h.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",AMC: All Reality We TV [FHD]
+https://amc-absolutereality-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",AMC: The Walking Dead Universe [FHD]
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Antiques Roadshow PBS [FHD]
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" tvg-logo="https://i.imgur.com/rKWLv48.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Antiques Roadshow UK [FHD]
@@ -88,12 +94,20 @@ https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playl
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us@SD" tvg-logo="https://i.imgur.com/WfKlGbX.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",At Home with Family Handyman [HD] (fonte 2)
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AtHomewithFamilyHandyman.us@SD" tvg-logo="https://i.imgur.com/WfKlGbX.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",At Home with Family Handyman [HD] (fonte 3)
+https://4279a62a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQXRIb21ld2l0aEZhbWlseUhhbmR5bWFuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BarRescue.us@SD" tvg-logo="https://i.imgur.com/WFgWGPb.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us@US" tvg-logo="https://i.imgur.com/c2esKHg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Baywatch [FHD]
 https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" tvg-logo="https://i.imgur.com/rKWLv48.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",BBC Antiques Roadshow UK [FHD]
+https://bbc-antiquesroadshowuk-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-logo="https://i.imgur.com/JIqJQQM.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",BBC Doctor Who Classic [FHD]
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-logo="https://i.imgur.com/JIqJQQM.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",BBC Doctor Who Classic [FHD] (fonte 2)
+https://bbc-classicdrwho-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCDrama.uk@US" tvg-logo="https://i.imgur.com/HctHhLL.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",BBC Drama Classics [FHD]
+https://linear-938.frequency.stream/mt/vizio/938/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="BeverlyHills90210.us@SD" tvg-logo="https://i.imgur.com/td3d1F8.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Beverly Hills 90210
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
 #EXTINF:-1 tvg-id="BlackInkCrew.us@SD" tvg-logo="https://i.imgur.com/QnuIVB6.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Black Ink Crew
@@ -116,10 +130,14 @@ https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
 #EXTINF:-1 tvg-id="DarkMatterTV.us@SD" tvg-logo="https://i.imgur.com/9K8T3ND.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Dark Matter TV [FHD]
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DarkMatterTV.us@SD" tvg-logo="https://i.imgur.com/9K8T3ND.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Dark Matter TV [FHD] (fonte 2)
+https://wurltricoast.global.transmit.live/hls/67f032bce3ed1615e41629bf/playlist.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Deal or No Deal [FHD]
 https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8
 #EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Deal or No Deal (fonte 2)
 https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Deal or No Deal [FHD] (fonte 3)
+https://amg00627-amg00627c21-amgplt0022-zs.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us@US" tvg-logo="https://i.imgur.com/vhSzfDC.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Degrassi
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us@US" tvg-logo="https://i.imgur.com/vhSzfDC.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Degrassi [HD] (fonte 2)
@@ -160,6 +178,8 @@ https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playl
 https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
 #EXTINF:-1 tvg-id="HomeMadeNation.us@SD" tvg-logo="https://i.imgur.com/IdGNIoB.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Home.Made.Nation [HD] (fonte 2)
 https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HomeMadeNation.us@SD" tvg-logo="https://i.imgur.com/IdGNIoB.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Home.Made.Nation [FHD] (fonte 3)
+https://3cfa9d89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGl2ZWx5UGxhY2VfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="iCarly.us@SD" tvg-logo="https://i.imgur.com/R6jWcqz.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",iCarly TV
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 #EXTINF:-1 tvg-id="ImpossibleQuizShow.us@SD" tvg-logo="https://i.imgur.com/9EWffqx.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Impossible Quiz Show [FHD]
@@ -168,8 +188,8 @@ https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 #EXTINF:-1 tvg-id="JerseyShore.us@SD" tvg-logo="https://i.imgur.com/SssCaj1.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Jersey Shore
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
-#EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD" tvg-logo="https://i.imgur.com/KBTqpJ7.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Johnny Carson TV [FHD]
-https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD" tvg-logo="https://i.imgur.com/KBTqpJ7.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Johnny Carson TV [HD]
+https://vizioaaaa-johnnycarson-vizio-8fyqr.amagi.tv/playlist/vizioAAAA-johnnycarson-vizio/playlist.m3u8
 #EXTINF:-1 tvg-id="JudgeNosey.us@US" tvg-logo="https://i.imgur.com/S4r98AB.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Judge Nosey [FHD]
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="JudgeNosey.us@US" tvg-logo="https://i.imgur.com/S4r98AB.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Judge Nosey (fonte 2)
@@ -190,6 +210,8 @@ https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playl
 https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us@SD" tvg-logo="https://i.imgur.com/VFqfyfY.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Midsomer Murders (fonte 4)
 https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD" tvg-logo="https://i.imgur.com/VFqfyfY.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Midsomer Murders [FHD] (fonte 5)
+https://all3media-midsomer-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.us@SD" tvg-logo="https://i.imgur.com/QS5lg0t.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Mission Impossible
 https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
 #EXTINF:-1 tvg-id="Misteriossinresolver.us@SD" tvg-logo="https://i.imgur.com/8mnvubb.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Misterios sin resolver
@@ -218,7 +240,9 @@ https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/s
 http://138.59.177.78:9999/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="Novelisima.us@SD" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Novelisima (fonte 2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-id="OnPatrolLive.us" tvg-logo="https://i.imgur.com/OAThfQx.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",On Patrol: Live [HD]
+#EXTINF:-1 tvg-id="OnPatrolLive.us@HD" tvg-logo="https://i.imgur.com/OAThfQx.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",On Patrol Live [FHD]
+https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="OnPatrolLive.us@HD" tvg-logo="https://i.imgur.com/OAThfQx.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",On Patrol: Live [HD]
 https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Paramount Network [FHD]
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
@@ -264,7 +288,9 @@ https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
 https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
 #EXTINF:-1 tvg-id="TheBobRossChannel.us@SD" tvg-logo="https://i.imgur.com/gFHKCbZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",The Bob Ross Channel
 https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannel.us@SD" tvg-logo="https://i.imgur.com/gFHKCbZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",The Bob Ross Channel [HD] (fonte 2)
+#EXTINF:-1 tvg-id="TheBobRossChannel.us@SD" tvg-logo="https://i.imgur.com/gFHKCbZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",The Bob Ross Channel [FHD] (fonte 2)
+https://wurlcineverse.global.transmit.live/hls/678863ef58870f59fceabf94/v1/cinedigm_entertainment_corp_thebobrosschannel_1/vizio_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBobRossChannel.us@SD" tvg-logo="https://i.imgur.com/gFHKCbZ.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",The Bob Ross Channel [HD] (fonte 3)
 https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 #EXTINF:-1 tvg-id="TheChallenge.us@SD" tvg-logo="https://i.imgur.com/MIXPSvC.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",The Challenge
 https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
@@ -288,6 +314,8 @@ https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Tiny House Nation [HD]
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
+#EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",Tiny House Nation [FHD] (fonte 2)
+https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas [FHD]
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Séries",TNT Novelas [FHD] (fonte 2)
@@ -414,8 +442,6 @@ https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 #EXTINF:-1 tvg-id="Survivor.us@SD" tvg-logo="https://i.imgur.com/Zz9SgY8.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Survivor [FHD]
 https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.de@GB" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",The New Detectives
-https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Tiny House Nation [HD]
 https://adf47c43.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" tvg-type="live" group-title="🇬🇧 Reino Unido | Séries",Tiny House Nation [HD] (fonte 2)
@@ -727,6 +753,8 @@ http://83.228.75.166:8000/play/a0aq
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk@Spain" tvg-logo="https://i.imgur.com/HctHhLL.png" tvg-type="live" group-title="🇫🇷 França | Séries",BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr@SD" tvg-logo="https://i.imgur.com/WQJ6Lbk.png" tvg-type="live" group-title="🇫🇷 França | Séries",Crime District [SD]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Degrassi.us@US" tvg-logo="https://i.imgur.com/vhSzfDC.png" tvg-type="live" group-title="🇫🇷 França | Séries",Degrassi
 https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
 #EXTINF:-1 tvg-id="Heleneetlesgarcons.us@France" tvg-logo="https://i.imgur.com/EjjzjF9.png" tvg-type="live" group-title="🇫🇷 França | Séries",Hélène et les garçons
@@ -833,24 +861,16 @@ https://jmp2.uk/plu-62da7380478a5b0007e610d9.m3u8
 https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
 #EXTINF:-1 tvg-id="BET.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",BET
 https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se@SE" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Bondi Rescue [HD]
-https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
 #EXTINF:-1 tvg-id="BritainsNextTopModel.se@SE" tvg-logo="https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Britain's Next Top Model
 https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8
 #EXTINF:-1 tvg-id="Bull.se@SE" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Bull
 https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
-#EXTINF:-1 tvg-id="CarChase.se@SE" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Car Chase [HD]
-https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
 #EXTINF:-1 tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",COPS
 https://jmp2.uk/plu-6400be67219c4c00081755d3.m3u8
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.se@SE" tvg-logo="https://i.imgur.com/73HlRCg.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Dallas Cowboys Cheerleaders
 https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
 #EXTINF:-1 tvg-id="DatingNakedUK.se@SE" tvg-logo="https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Dating Naked UK
 https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se@SE" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Diagnosis Murder
-https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
-#EXTINF:-1 tvg-id="DocMartin.se@SE" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Doc Martin
-https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" tvg-logo="https://i.imgur.com/lMICupK.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Dog The Bounty Hunter [HD]
 https://jmp2.uk/plu-657886bfb9adc40008025554.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-logo="https://i.imgur.com/vMcSlwm.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Duck Dynasty [HD]
@@ -859,8 +879,6 @@ https://jmp2.uk/plu-65788611a620e30008fe36ff.m3u8
 https://jmp2.uk/plu-699c1c633d27d6da460bbcae.m3u8
 #EXTINF:-1 tvg-id="GhostDimension.us@UK" tvg-logo="https://i.imgur.com/a0jOxez.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Ghost Dimension
 https://jmp2.uk/plu-619e4726b9997a00072a4059.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Happy Days
-https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
 #EXTINF:-1 tvg-id="HellsKitchen.us@UK" tvg-logo="https://i.imgur.com/P9eT0O9.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Hell's Kitchen
 https://jmp2.uk/plu-61c1871dac860c0007684974.m3u8
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us@UK" tvg-logo="https://i.imgur.com/e6pvibn.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Highway to Heaven
@@ -875,36 +893,16 @@ https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
 https://jmp2.uk/plu-62cdaef300a4b3000739b1bf.m3u8
 #EXTINF:-1 tvg-id="IronChef.us@US" tvg-logo="https://i.imgur.com/rk7fMNe.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Iron Chef
 https://jmp2.uk/plu-682b39defaaa60cd7dbfa5c3.m3u8
-#EXTINF:-1 tvg-id="JAG.se@SE" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",JAG
-https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.se@SE" tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Judge Judy
 https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se@SE" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",MacGyver
-https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
-#EXTINF:-1 tvg-id="Matlock.se@SE" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Matlock
-https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 #EXTINF:-1 tvg-id="Medium.se@SE" tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Medium
 https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se@SE" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Mission Impossible
-https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsv_KrZtWIiODx5w-aXTru0YMO446I8ukXc5P0rPKrQg&s" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Nosey
 https://jmp2.uk/plu-619e4833244e500007564d5a.m3u8
-#EXTINF:-1 tvg-id="Numb3rs.se@SE" tvg-logo="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Numb3rs
-https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se@SE" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@SE" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Pluto TV True Crime
-https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Rawhide
-https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 #EXTINF:-1 tvg-id="Scorpion.se@SE" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Scorpion
 https://jmp2.uk/plu-63a1c9c2847a090007f248da.m3u8
 #EXTINF:-1 tvg-id="TheLWord.se@SE" tvg-logo="https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",The L Word
 https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se@SE" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",The New Detectives
-https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@SE" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",The Wild Wild West
-https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
 #EXTINF:-1 tvg-id="TruecrimefranViaplay.se@SE" tvg-logo="https://images.pluto.tv/channels/645cb7857cb4b1000859c57c/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",True crime från Viaplay
 https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 #EXTINF:-1 tvg-id="UngaMammor.se@SE" tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png" tvg-type="live" group-title="🇸🇪 Suécia | Séries",Unga Mammor
@@ -927,22 +925,16 @@ https://jmp2.uk/plu-62da7159ca8f220008032730.m3u8
 https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
 #EXTINF:-1 tvg-id="BET.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",BET
 https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se@NO" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Bondi Rescue [HD]
-https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8
 #EXTINF:-1 tvg-id="BritainsNextTopModel.se@NO" tvg-logo="https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Britain's Next Top Model
 https://jmp2.uk/plu-67a09e25c070cf00083c40fa.m3u8
 #EXTINF:-1 tvg-id="Bull.se@NO" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Bull
 https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8
-#EXTINF:-1 tvg-id="CarChase.se@NO" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Car Chase [HD]
-https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
 #EXTINF:-1 tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",COPS
 https://jmp2.uk/plu-6400bdb1219c4c00081751aa.m3u8
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.se@NO" tvg-logo="https://i.imgur.com/73HlRCg.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Dallas Cowboys Cheerleaders
 https://jmp2.uk/plu-64e77016324d190008291c13.m3u8
 #EXTINF:-1 tvg-id="DatingNakedUK.se@NO" tvg-logo="https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Dating Naked UK
 https://jmp2.uk/plu-692edcff77f0147d69f19498.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se@NO" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Diagnosis Murder
-https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" tvg-logo="https://i.imgur.com/lMICupK.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Dog The Bounty Hunter [SD]
 https://jmp2.uk/plu-65788362cbd0d60008f8729a.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-logo="https://i.imgur.com/vMcSlwm.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Duck Dynasty [HD]
@@ -951,8 +943,6 @@ https://jmp2.uk/plu-657739fcb9adc40008fe02f4.m3u8
 https://jmp2.uk/plu-699c1bd39a3f3bb4887e045e.m3u8
 #EXTINF:-1 tvg-id="GhostDimension.us@UK" tvg-logo="https://i.imgur.com/a0jOxez.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Ghost Dimension
 https://jmp2.uk/plu-619e259fd8b672000729b1d7.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Happy Days
-https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
 #EXTINF:-1 tvg-id="HellsKitchen.us@UK" tvg-logo="https://i.imgur.com/P9eT0O9.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Hell's Kitchen [HD]
 https://jmp2.uk/plu-62022f7b9fcc3800076f8c26.m3u8
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us@UK" tvg-logo="https://i.imgur.com/e6pvibn.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Highway to Heaven
@@ -967,44 +957,24 @@ https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
 https://jmp2.uk/plu-62cd9fee6187a70007784cdd.m3u8
 #EXTINF:-1 tvg-id="IronChef.us@US" tvg-logo="https://i.imgur.com/rk7fMNe.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Iron Chef
 https://jmp2.uk/plu-682b3932faaa60cd7dbf87b4.m3u8
-#EXTINF:-1 tvg-id="JAG.se@NO" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",JAG
-https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.se@NO" tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Judge Judy
 https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8
 #EXTINF:-1 tvg-id="LuksusfellenSverige.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1e0f1d6d97900076ea16f/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Luksusfellen Sverige
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se@NO" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",MacGyver
-https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
-#EXTINF:-1 tvg-id="Matlock.se@NO" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Matlock
-https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
 #EXTINF:-1 tvg-id="Medium.se@NO" tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Medium
 https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se@NO" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Mission Impossible
-https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
 #EXTINF:-1 tvg-id="NordiskkrimfraViaplay.se@NO" tvg-logo="https://images.pluto.tv/channels/64eca23c9c1e390008524ae6/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Nordisk krim fra Viaplay
 https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsv_KrZtWIiODx5w-aXTru0YMO446I8ukXc5P0rPKrQg&s" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Nosey
 https://jmp2.uk/plu-619e279d45b45d0007a8d839.m3u8
-#EXTINF:-1 tvg-id="Numb3rs.se@NO" tvg-logo="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Numb3rs
-https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
 #EXTINF:-1 tvg-id="PlutoTVOvernaturlig.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1e74354d923000731bf7c/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Pluto TV Overnaturlig
 https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se@NO" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@NO" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Pluto TV True Crime
-https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@NO" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Rawhide
-https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
 #EXTINF:-1 tvg-id="Scorpion.se@NO" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Scorpion
 https://jmp2.uk/plu-63a1c959d9dd51000825d659.m3u8
 #EXTINF:-1 tvg-id="SkjonnhetsfellenDanmark.se@NO" tvg-logo="https://images.pluto.tv/channels/643810f2e8a4aa0008ccf575/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Skjønnhetsfellen Danmark
 https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
 #EXTINF:-1 tvg-id="TheLWord.se@NO" tvg-logo="https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",The L Word
 https://jmp2.uk/plu-693ae4b616c2bba998852c21.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se@NO" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",The New Detectives
-https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@NO" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",The Wild Wild West
-https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 #EXTINF:-1 tvg-id="UngaMammor.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Unga Mammor
 https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us@US" tvg-logo="https://i.imgur.com/De3khrX.png" tvg-type="live" group-title="🇳🇴 Noruega | Séries",Unsolved Mysteries
@@ -1027,24 +997,16 @@ https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8
 https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
 #EXTINF:-1 tvg-id="BET.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",BET
 https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
-#EXTINF:-1 tvg-id="BondiRescue.se@DK" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Bondi Rescue [HD]
-https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
 #EXTINF:-1 tvg-id="BritainsNextTopModel.se@DK" tvg-logo="https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Britain's Next Top Model
 https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
 #EXTINF:-1 tvg-id="Bull.se@DK" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Bull
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
-#EXTINF:-1 tvg-id="CarChase.se@DK" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Car Chase [HD]
-https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
 #EXTINF:-1 tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",COPS
 https://jmp2.uk/plu-6400bc50953da40008b94668.m3u8
-#EXTINF:-1 tvg-id="CSI.se@DK" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",CSI
-https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.se@DK" tvg-logo="https://i.imgur.com/73HlRCg.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Dallas Cowboys Cheerleaders
 https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
 #EXTINF:-1 tvg-id="DatingNakedUK.se@DK" tvg-logo="https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Dating Naked UK
 https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
-#EXTINF:-1 tvg-id="DiagnosisMurder.se@DK" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Diagnosis Murder
-https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@US" tvg-logo="https://i.imgur.com/lMICupK.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Dog The Bounty Hunter [HD]
 https://jmp2.uk/plu-65787fb36e4f6a0008740127.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us@UK" tvg-logo="https://i.imgur.com/vMcSlwm.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Duck Dynasty
@@ -1055,8 +1017,6 @@ https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-id="GhostDimension.us@UK" tvg-logo="https://i.imgur.com/a0jOxez.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Ghost Dimension
 https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
-#EXTINF:-1 tvg-id="HappyDays.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Happy Days
-https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
 #EXTINF:-1 tvg-id="HellsKitchen.us@UK" tvg-logo="https://i.imgur.com/P9eT0O9.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Hell's Kitchen [HD]
 https://jmp2.uk/plu-61c194ff6f23a7000780073a.m3u8
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us@UK" tvg-logo="https://i.imgur.com/e6pvibn.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Highway to Heaven
@@ -1071,44 +1031,20 @@ https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 https://jmp2.uk/plu-62cd97fb9f8154000727516c.m3u8
 #EXTINF:-1 tvg-id="IronChef.us@US" tvg-logo="https://i.imgur.com/rk7fMNe.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Iron Chef
 https://jmp2.uk/plu-682b385876963fba9abf0f26.m3u8
-#EXTINF:-1 tvg-id="JAG.se@DK" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",JAG
-https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.se@DK" tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Judge Judy
 https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se@DK" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",MacGyver
-https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
-#EXTINF:-1 tvg-id="Matlock.se@DK" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Matlock
-https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
 #EXTINF:-1 tvg-id="Medium.se@DK" tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Medium
 https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.se@DK" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Mission Impossible
-https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
-#EXTINF:-1 tvg-id="NCIS.se@DK" tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",NCIS
-https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedGibbs.se@DK" tvg-logo="https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",NCIS: Det bedste med Gibbs
 https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedTonyZiva.se@DK" tvg-logo="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",NCIS: Det bedste med Tony & Ziva
 https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
-#EXTINF:-1 tvg-id="NCISLosAngeles.se@DK" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",NCIS: Los Angeles
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsv_KrZtWIiODx5w-aXTru0YMO446I8ukXc5P0rPKrQg&s" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Nosey
 https://jmp2.uk/plu-619e1ef4f42ad90007e00a21.m3u8
-#EXTINF:-1 tvg-id="Numbers.se@DK" tvg-logo="https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Numbers
-https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se@DK" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@DK" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Pluto TV True Crime
-https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
-#EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Rawhide
-https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 tvg-id="Scorpion.se@DK" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Scorpion
 https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
 #EXTINF:-1 tvg-id="TheLWord.se@DK" tvg-logo="https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",The L Word
 https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.se@DK" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",The New Detectives
-https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se@DK" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",The Wild Wild West
-https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us@US" tvg-logo="https://i.imgur.com/De3khrX.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Unsolved Mysteries
 https://jmp2.uk/plu-61813fbfa19d830007b456c2.m3u8
 #EXTINF:-1 tvg-id="WalkerTexasRanger.us@France" tvg-logo="https://i.imgur.com/0N7EhuD.png" tvg-type="live" group-title="🇩🇰 Dinamarca | Séries",Walker Texas Ranger
@@ -1127,8 +1063,8 @@ http://92.114.85.87:8014/play/a00h/index.m3u8
 http://92.114.85.87:8014/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Cops.us@Poland" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",COPS
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Paramount Network
-http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
+#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Paramount Network [FHD]
+https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Polsat Seriale [FHD]
 http://57.128.210.196:8080/196/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-type="live" group-title="🇵🇱 Polônia | Séries",Polsat Seriale HD (1080i)
@@ -1169,8 +1105,12 @@ https://cdn-dvr.ntv.ru/Shef/index.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD" tvg-logo="https://i.imgur.com/4EFh0nu.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Smotrim 100% Lyubov [HD]
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD" tvg-logo="https://i.imgur.com/4EFh0nu.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Smotrim 100% Lyubov [FHD] (fonte 2)
+https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD" tvg-logo="https://i.imgur.com/UY3fjYU.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Smotrim 100% Muzhskoe [HD]
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD" tvg-logo="https://i.imgur.com/UY3fjYU.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Smotrim 100% Muzhskoe [FHD] (fonte 2)
+https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Velvet. Mentovskiye Serialy [FHD]
 https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
 #EXTINF:-1 tvg-id="VelvetSeriesHits.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" tvg-type="live" group-title="🇷🇺 Rússia | Séries",Velvet. Series Hits [FHD]
@@ -1214,12 +1154,16 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 #EXTINF:-1 tvg-id="HOTDrama.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Séries",HOT Drama [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/381/index.m3u8
+#EXTINF:-1 tvg-id="VivaTelenovelas.il@SD" tvg-logo="https://static.g-cdn.app/streams/viva-il.png" tvg-type="live" group-title="🇮🇱 Israel | Séries",Viva Telenovelas [FHD]
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="YamTichoni.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png" tvg-type="live" group-title="🇮🇱 Israel | Séries",Yam Tichoni [FHD]
 http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 tvg-id="DramaChannel.th@SD" tvg-logo="https://i.imgur.com/ill1Ux6.png" tvg-type="live" group-title="🇹🇭 Tailândia | Séries",MV Mall DD [FHD]
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 #EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTV3 [FHD]
 https://dethich.pw/htv3/index.m3u8
+#EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTV3 [FHD] (fonte 2)
+https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",HTVC Movies [FHD]
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" tvg-type="live" group-title="🇻🇳 Vietnã | Séries",ON Cine [FHD]
@@ -1265,8 +1209,9 @@ http://213.91.179.28:8000/play/a0cs
 #EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-type="live" group-title="🇧🇬 Bulgária | Séries",Star Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cr
-#EXTINF:-1 tvg-id="RTSDrama.rs@SD" tvg-logo="https://i.imgur.com/bsTUhYK.png" tvg-type="live" group-title="🇷🇸 Sérvia | Séries",RTS Drama [SD]
-https://de1.dstv.cx/RTSDrama/index.m3u8
+#EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-logo="https://i.imgur.com/FPumwfg.png" tvg-type="live" group-title="🇷🇸 Sérvia | Séries",Sci Fi [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 #EXTINF:-1 tvg-id="StarCrime.si@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-type="live" group-title="🇸🇮 Eslovênia | Séries",Star Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://92.36.202.5:10001/play/a02o

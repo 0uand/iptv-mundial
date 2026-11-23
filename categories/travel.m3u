@@ -108,13 +108,21 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD" tvg-logo="https://i.imgur.com/eXJm1n3.png" tvg-type="live" group-title="🇷🇺 Rússia | Viagem",Телепутешествия [SD]
 http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-id="GlobalTrekker.sg@SD" tvg-logo="https://i.imgur.com/5nlmJIw.png" tvg-type="live" group-title="🇸🇬 Singapura | Viagem",Global Trekker [HD]
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
 #EXTINF:-1 tvg-id="BamBarBiaTV.ua@SD" tvg-logo="https://i.imgur.com/zdRvy87.png" tvg-type="live" group-title="🇺🇦 Ucrânia | Viagem",BamBarBia TV [HD]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan [FHD]
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 2)
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan [FHD] (fonte 2)
+http://116.90.120.149:8000/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan [FHD] (fonte 3)
+http://116.90.120.149:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 4)
 http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 3)
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 5)
 http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED
 #EXTINF:-1 tvg-id="TravelTV.bg@SD" tvg-logo="https://i.imgur.com/5xllfed.png" tvg-type="live" group-title="🇧🇬 Bulgária | Viagem",Travel TV [SD]
 https://streamer103.neterra.tv/travel/live.m3u8

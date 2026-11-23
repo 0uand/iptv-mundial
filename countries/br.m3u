@@ -97,6 +97,8 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 #EXTINF:-1 tvg-id="NarutoShippuden.us@LatAm" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" tvg-type="live" group-title="🇧🇷 Brasil | Animação",Naruto Shippuden
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png" tvg-type="live" group-title="🇧🇷 Brasil | Animação",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@BR" tvg-logo="https://i.imgur.com/XsvbAWR.png" tvg-type="live" group-title="🇧🇷 Brasil | Animação",One Piece
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" tvg-type="live" group-title="🇧🇷 Brasil | Animação",Pluto TV Anime
@@ -233,8 +235,6 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoInter.br@SD" tvg-logo="https://i.imgur.com/TQFWEIS.png" tvg-type="live" group-title="🇧🇷 Brasil | Esportes",Canal do Inter [HD]
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" tvg-type="live" group-title="🇧🇷 Brasil | Esportes",CazeTV [FHD]
-http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate.br@SD" tvg-logo="https://i.imgur.com/ZPYK5jr.png" tvg-type="live" group-title="🇧🇷 Brasil | Esportes",Combate [HD]
 http://143.14.134.107/167/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-type="live" group-title="🇧🇷 Brasil | Esportes",ESPN [FHD]
@@ -401,7 +401,7 @@ https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="CanalRicos.br@SD" tvg-logo="https://i.imgur.com/hs2YVJ3.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Canal Ricos [SD]
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-logo="https://i.imgur.com/0cq0BPp.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Canal Sete
+#EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-logo="https://i.imgur.com/0cq0BPp.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Canal Sete [FHD]
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSTART.br@SD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logomarca_CANAL_START_100X100_PNG_CrAzZzP.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Canal START [HD]
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
@@ -570,7 +570,7 @@ http://170.83.49.66:8083/REDETVHD/index.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rede TV! SP [HD]
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br@SD" tvg-logo="https://i.imgur.com/D8R0Af4.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",RedeTV! Parana
+#EXTINF:-1 tvg-id="RedeTVParana.br@SD" tvg-logo="https://i.imgur.com/D8R0Af4.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",RedeTV! Parana [FHD]
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Rookie Blue
 https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
@@ -584,7 +584,9 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/sbt_black_1_b78d9ef3d9.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",SBT Nacional [FHD] (fonte 2)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/sbt_black_1_b78d9ef3d9.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",SBT Nacional [SD] (fonte 3)
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/sbt_black_1_b78d9ef3d9.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",SBT Nacional [FHD] (fonte 3)
+https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/sbt_black_1_b78d9ef3d9.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",SBT Nacional [SD] (fonte 4)
 https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/sbt_black_1_b78d9ef3d9.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",SBT Nova Mutum [FHD]
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
@@ -610,7 +612,7 @@ http://170.83.16.50/SONY_CHANNEL/index.m3u8
 https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Sony One Shark Tank Brasil [HD]
 https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",SOU TV
+#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" tvg-type="live" group-title="🇧🇷 Brasil | Geral",SOU TV [HD]
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-type="live" group-title="🇧🇷 Brasil | Geral",Super Onze
 https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
@@ -917,8 +919,6 @@ http://186.219.52.187/jp_news/index.m3u8
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" tvg-type="live" group-title="🇧🇷 Brasil | Notícias",Jovem Pan News [HD] (fonte 3)
 http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" tvg-type="live" group-title="🇧🇷 Brasil | Notícias",Jovem Pan News (JP News) [FHD]
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" tvg-type="live" group-title="🇧🇷 Brasil | Notícias",Plena TV [HD]
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRecordNews.us@BR" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" tvg-type="live" group-title="🇧🇷 Brasil | Notícias",Pluto TV Record News [HD]

@@ -94,6 +94,8 @@ http://lb.streaming.sk/senzi/stream/playlist.m3u8
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="sixx.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="TA3.sk@SD" tvg-logo="https://i.imgur.com/DFeWp93.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",TA3
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-ta3/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD" tvg-logo="https://i.imgur.com/psb8GxZ.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Televízia Močenok [HD]
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Geral",Televízia OSEM [SD]
@@ -218,6 +220,8 @@ https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",FREEDOM
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MarkizaTNLive.sk@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/TNLive2026.svg/revision/latest?cb=20261015062138" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",Markiza TN Live
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-adhoc12/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="NewsmaxTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",Newsmax TV
 https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-type="live" group-title="🇸🇰 Eslováquia | Notícias",TRT World HD

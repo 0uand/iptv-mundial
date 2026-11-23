@@ -7,10 +7,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MayaChannel.th@SD" tvg-logo="https://i.imgur.com/UropueN.png" tvg-type="live" group-title="🇹🇭 Tailândia | Entretenimento",Maya Channel
 http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8
-#EXTINF:-1 tvg-id="MONO29.th@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" tvg-type="live" group-title="🇹🇭 Tailândia | Entretenimento",MONO 29
-https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
-#EXTINF:-1 tvg-id="MONO29.th@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" tvg-type="live" group-title="🇹🇭 Tailândia | Entretenimento",MONO 29 (fonte 2)
+#EXTINF:-1 tvg-id="MONO29.th@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" tvg-type="live" group-title="🇹🇭 Tailândia | Entretenimento",MONO 29 [SD]
 https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+#EXTINF:-1 tvg-id="MONO29.th@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" tvg-type="live" group-title="🇹🇭 Tailândia | Entretenimento",MONO 29 (fonte 2)
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 #EXTINF:-1 tvg-id="MONO29.th@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" tvg-type="live" group-title="🇹🇭 Tailândia | Entretenimento",MONO 29 (fonte 3)
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-id="WorldEntertainmentTV42.th@SD" tvg-logo="https://i.imgur.com/03bcq49.png" tvg-type="live" group-title="🇹🇭 Tailândia | Entretenimento",World Entertainment TV 42
@@ -63,6 +63,8 @@ https://vdo.plathong.net/live8794/live8794/playlist.m3u8
 https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.th@SD" tvg-logo="https://i.imgur.com/wOIaqg7.png" tvg-type="live" group-title="🇹🇭 Tailândia | Geral",Channel 5 [FHD] (fonte 2)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel5.th@SD" tvg-logo="https://i.imgur.com/wOIaqg7.png" tvg-type="live" group-title="🇹🇭 Tailândia | Geral",Channel 5 [FHD] (fonte 3)
+https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/master.m3u8
 #EXTINF:-1 tvg-id="Channel7.th@SD" tvg-logo="https://i.imgur.com/SBCIwek.png" tvg-type="live" group-title="🇹🇭 Tailândia | Geral",Channel 7 [SD]
 https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7.th@SD" tvg-logo="https://i.imgur.com/SBCIwek.png" tvg-type="live" group-title="🇹🇭 Tailândia | Geral",Channel 7 [FHD] (fonte 2)
@@ -73,7 +75,7 @@ https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.th@SD" tvg-logo="https://i.imgur.com/P3c5jAu.png" tvg-type="live" group-title="🇹🇭 Tailândia | Geral",Channel 8 (fonte 3)
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
-#EXTINF:-1 tvg-id="CharoenCable37TV.th@SD" tvg-logo="https://www.cabletv.co.th/wp-content/uploads/2023/01/Artboard-3.png" tvg-type="live" group-title="🇹🇭 Tailândia | Geral",Charoen Cable 37 TV
+#EXTINF:-1 tvg-id="CharoenCable37TV.th@SD" tvg-logo="https://www.cabletv.co.th/wp-content/uploads/2023/01/Artboard-3.png" tvg-type="live" group-title="🇹🇭 Tailândia | Geral",Charoen Cable 37 TV [FHD]
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="CoolChannel.th@SD" tvg-logo="https://i.imgur.com/MU4E0A7.png" tvg-type="live" group-title="🇹🇭 Tailândia | Geral",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8

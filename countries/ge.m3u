@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
-#EXTINF:-1 tvg-id="ComedyTV.ge@SD" tvg-logo="https://i.imgur.com/i1TANKv.png" tvg-type="live" group-title="🇬🇪 Geórgia | Comédia",Comedy TV
-http://31.146.5.178:8087/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="Adjarasport1.ge@SD" tvg-logo="https://i.imgur.com/SVV5xHC.png" tvg-type="live" group-title="🇬🇪 Geórgia | Esportes",Adjarasport 1
-https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports3.ge@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" tvg-type="live" group-title="🇬🇪 Geórgia | Esportes",Setanta Sports 3 [FHD]
 http://85.117.61.84/setanta3/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-logo="https://i.imgur.com/ZtoZQUV.png" tvg-type="live" group-title="🇬🇪 Geórgia | Esportes",Setanta Sports+ Georgia [FHD]
@@ -15,24 +11,16 @@ http://nue01-edge01.itdc.ge/gpb/mpegts
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-logo="https://i.imgur.com/TJowroY.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",Apsua TV [FHD]
 https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
-#EXTINF:-1 tvg-id="GDSTV.ge@SD" tvg-logo="https://i.imgur.com/gv61tFf.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",GDS TV
-http://31.146.5.178:8087/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ImediTV.ge@SD" tvg-logo="https://i.imgur.com/94hNyxZ.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",Imedi TV [HD]
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-id="ImediTV.ge@SD" tvg-logo="https://i.imgur.com/94hNyxZ.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",Imedi TV (fonte 2)
 http://nue01-edge01.itdc.ge/imedihd/mpegts
-#EXTINF:-1 tvg-id="MtavariArkhi.ge@SD" tvg-logo="https://i.imgur.com/tLtGnJW.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",Mtavari Arkhi
-https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8
 #EXTINF:-1 tvg-id="RioniTV.ge@SD" tvg-logo="https://i.imgur.com/ogMqmth.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",Rioni TV [HD]
-http://video.rionitv.com:9090/hls/live/rioni.m3u8
+https://video.rionitv.com/hls/live/rioni.m3u8
 #EXTINF:-1 tvg-id="Rustavi2.ge@SD" tvg-logo="https://i.imgur.com/rPqd1Cx.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",Rustavi 2
-http://31.146.5.178:8087/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Rustavi2.ge@SD" tvg-logo="https://i.imgur.com/rPqd1Cx.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",Rustavi 2 (fonte 2)
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:-1 tvg-id="TVPirveli.ge@SD" tvg-logo="https://i.imgur.com/cGHsM1x.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",TV Pirveli
 http://nue01-edge01.itdc.ge/pirvelitv/mpegts
-#EXTINF:-1 tvg-id="TVC.ge@SD" tvg-logo="https://sul.ge/images/televizia/tvc.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",TVC [FHD]
-http://31.146.5.178:8087/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="AbazaTV.ru@SD" tvg-logo="https://i.imgur.com/7Jo7UAf.png" tvg-type="live" group-title="🇬🇪 Geórgia | Geral",АБАЗА-ТВ [FHD]
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:-1 tvg-id="BMGTV.ge@SD" tvg-logo="https://i.imgur.com/vGLkTPA.png" tvg-type="live" group-title="🇬🇪 Geórgia | Negócios",BMG TV [FHD]
@@ -43,8 +31,6 @@ http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="Formula.ge@SD" tvg-logo="https://i.imgur.com/fsqBn8G.png" tvg-type="live" group-title="🇬🇪 Geórgia | Notícias",Formula [HD] (fonte 2)
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
-#EXTINF:-1 tvg-id="ObieqtiviTV.ge@SD" tvg-logo="https://i.imgur.com/Kqc8H8X.png" tvg-type="live" group-title="🇬🇪 Geórgia | Notícias",Obieqtivi TV
-https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
 #EXTINF:-1 tvg-id="PalitraNews.ge@SD" tvg-logo="https://i.imgur.com/BW95PMF.png" tvg-type="live" group-title="🇬🇪 Geórgia | Notícias",Palitra News [SD]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-id="PalitraNews.ge@SD" tvg-logo="https://i.imgur.com/BW95PMF.png" tvg-type="live" group-title="🇬🇪 Geórgia | Notícias",Palitra News [SD] (fonte 2)

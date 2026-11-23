@@ -1,12 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/0uand/iptv-mundial/main/epg/guide.xml.gz"
+#EXTINF:-1 tvg-id="8XM.pk@HD" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" tvg-type="live" group-title="🇵🇰 Paquistão | Música",8XM [SD]
+http://116.90.120.149:8000/play/a0tw/index.m3u8
 #EXTINF:-1 tvg-id="8XM.pk@HD" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" tvg-type="live" group-title="🇵🇰 Paquistão | Música",8XM HD
 https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 #EXTINF:-1 tvg-id="ARYMusik.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" tvg-type="live" group-title="🇵🇰 Paquistão | Música",ARY Musik [FHD]
 #EXTVLCOPT:http-referrer=https://live.arydigital.tv/
 https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
-#EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-logo="https://i.imgur.com/HWb5Iat.png" tvg-type="live" group-title="🇵🇰 Paquistão | Música",Jalwa TV
-http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
+#EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-logo="https://i.imgur.com/HWb5Iat.png" tvg-type="live" group-title="🇵🇰 Paquistão | Música",Jalwa TV [SD]
+http://116.90.120.149:8000/play/a0tv/index.m3u8
 #EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-logo="https://i.imgur.com/HWb5Iat.png" tvg-type="live" group-title="🇵🇰 Paquistão | Música",Jalwa TV (fonte 2)
+http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
+#EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-logo="https://i.imgur.com/HWb5Iat.png" tvg-type="live" group-title="🇵🇰 Paquistão | Música",Jalwa TV (fonte 3)
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
 #EXTINF:-1 tvg-id="JooMusic.pk@SD" tvg-logo="https://i.imgur.com/KHuKQQL.png" tvg-type="live" group-title="🇵🇰 Paquistão | Música",JooMusic [HD]
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
@@ -212,7 +216,11 @@ http://103.250.28.74:8000/play/a02a/index.m3u8
 http://103.250.28.74:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan [FHD]
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 2)
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan [FHD] (fonte 2)
+http://116.90.120.149:8000/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan [FHD] (fonte 3)
+http://116.90.120.149:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 4)
 http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 3)
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-type="live" group-title="🇵🇰 Paquistão | Viagem",Discover Pakistan (fonte 5)
 http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED

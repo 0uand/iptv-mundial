@@ -21,12 +21,14 @@ https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clássicos",RetroCrush [FHD] (fonte 2)
 https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clássicos",RetroCrush [FHD] (fonte 3)
+https://linear-899.frequency.stream/mt/vizio/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TheAndyGriffithShow.us@SD" tvg-logo="https://i.imgur.com/1QpMJJT.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clássicos",The Andy Griffith Show
 https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us@SD" tvg-logo="" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clássicos",The Archive [FHD]
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us@SD" tvg-logo="https://i.imgur.com/1a03FlX.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clássicos",The Carol Burnett Show [FHD]
-https://carolburnett-vizio.amagi.tv/playlist.m3u8
+https://vizioaaaa-carol-burnett-vizio-xam92.amagi.tv/playlist/vizioAAAA-carol-burnett-vizio/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us@SD" tvg-logo="https://i.imgur.com/1a03FlX.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clássicos",The Carol Burnett Show [HD] (fonte 2)
 https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
 #EXTINF:-1 tvg-id="TheLoop.us@SD" tvg-logo="https://i.imgur.com/iyYLuJj.png" tvg-type="live" group-title="🇺🇸 Estados Unidos | Clássicos",The Loop [FHD]
@@ -126,12 +128,12 @@ https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Nostalgia [SD]
 http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Retro [SD]
-http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Retro [SD] (fonte 2)
-http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Retro (fonte 3)
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Retro [FHD]
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Retro [SD] (fonte 2)
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Retro [SD] (fonte 3)
+http://stream.mcquack.net/191/index.m3u8
 #EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Velvet. Sovetskoe Kino [FHD]
 https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-type="live" group-title="🇷🇺 Rússia | Clássicos",Ностальгия [SD]
